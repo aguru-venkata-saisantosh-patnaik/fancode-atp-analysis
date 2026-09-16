@@ -1,0 +1,19 @@
+event,round,date_local,time_local,timezone,start_ist,time_semantics,source_id
+Brisbane,Singles final,2026-01-11,18:30,Australia/Brisbane,2026-01-11 14:00:00+05:30,not_before,brisbane_oop_20260111
+Hong Kong,Singles final,2026-01-11,15:30,Asia/Hong_Kong,2026-01-11 13:00:00+05:30,scheduled,hongkong_2026_official_op
+Rotterdam,Singles final,2026-02-15,15:30,Europe/Amsterdam,2026-02-15 20:00:00+05:30,not_before,rotterdam_2026_official_op
+Doha,Singles final,2026-02-21,21:00,Asia/Qatar,2026-02-21 23:30:00+05:30,scheduled,doha_2026_official_op
+Dubai,Singles final,2026-02-28,19:00,Asia/Dubai,2026-02-28 20:30:00+05:30,not_before,dubai_2026_official_op
+Indian Wells,Singles final,2026-03-15,14:00,America/Los_Angeles,2026-03-16 02:30:00+05:30,not_before,indian_wells_2026_official_op
+Miami,Singles final,2026-03-29,12:30,America/New_York,2026-03-29 22:00:00+05:30,scheduled,miami_2026_official_op
+Marrakech,Singles final,2026-04-05,15:00,Africa/Casablanca,2026-04-05 19:30:00+05:30,scheduled,marrakech_2026_official_op
+Madrid,Singles final,2026-05-03,17:00,Europe/Madrid,2026-05-03 20:30:00+05:30,not_before,madrid_2026_official_op
+Rome,Singles final,2026-05-17,17:00,Europe/Rome,2026-05-17 20:30:00+05:30,not_before,rome_2026_official_op
+Halle,Singles final,2026-06-21,15:30,Europe/Berlin,2026-06-21 19:00:00+05:30,not_before,halle_2026_official_op
+Winston-Salem,Singles final,2026-08-29,16:00,America/New_York,2026-08-30 01:30:00+05:30,not_before,winston_oop_pdf
+Brisbane,Singles,2026-01-05,13:00,Australia/Brisbane,2026-01-05 08:30:00+05:30,not_before,brisbane_oop_20260105
+Brisbane,Singles,2026-01-05,18:30,Australia/Brisbane,2026-01-05 14:00:00+05:30,not_before,brisbane_oop_20260105
+Brisbane,Singles semifinal,2026-01-10,13:00,Australia/Brisbane,2026-01-10 08:30:00+05:30,not_before,brisbane_oop_20260110
+Brisbane,Singles semifinal,2026-01-10,18:30,Australia/Brisbane,2026-01-10 14:00:00+05:30,not_before,brisbane_oop_20260110
+Winston-Salem,Singles semifinal,2026-08-28,16:00,America/New_York,2026-08-29 01:30:00+05:30,not_before,winston_semifinal_oop
+Winston-Salem,Singles semifinal,2026-08-28,18:30,America/New_York,2026-08-29 04:00:00+05:30,not_before,winston_semifinal_oop

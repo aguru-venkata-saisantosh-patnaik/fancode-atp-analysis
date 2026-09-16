@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "checks": {
+    "deduplicated_review_keys": true,
+    "mobile_window_count": true,
+    "tv_window_count": true,
+    "ios_window_count": true,
+    "ratings_valid": true,
+    "train_before_holdout": true
+  }
+}

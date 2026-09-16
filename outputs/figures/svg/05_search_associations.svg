@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="571.64pt" height="298.061719pt" viewBox="0 0 571.64 298.061719" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-15T21:13:00.544001</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 298.061719 
+L 571.64 298.061719 
+L 571.64 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 51.36 251.917969 
+L 564.44 251.917969 
+L 564.44 23.077969 
+L 51.36 23.077969 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 74.681818 251.917969 
+L 117.776482 251.917969 
+L 117.776482 221.31945 
+L 74.681818 221.31945 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #1264ba"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 201.43083 251.917969 
+L 244.525494 251.917969 
+L 244.525494 33.975112 
+L 201.43083 33.975112 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #1264ba"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 328.179842 251.917969 
+L 371.274506 251.917969 
+L 371.274506 168.973526 
+L 328.179842 168.973526 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #1264ba"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 454.928854 251.917969 
+L 498.023518 251.917969 
+L 498.023518 166.687154 
+L 454.928854 166.687154 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #1264ba"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 117.776482 251.917969 
+L 160.871146 251.917969 
+L 160.871146 196.881966 
+L 117.776482 196.881966 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #00a398"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 244.525494 251.917969 
+L 287.620158 251.917969 
+L 287.620158 77.181869 
+L 244.525494 77.181869 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #00a398"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 371.274506 251.917969 
+L 414.36917 251.917969 
+L 414.36917 122.950352 
+L 371.274506 122.950352 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #00a398"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 498.023518 251.917969 
+L 541.118182 251.917969 
+L 541.118182 160.034008 
+L 498.023518 160.034008 
+z
+" clip-path="url(#pf5948f2532)" style="fill: #00a398"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mde231e1e90" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mde231e1e90" x="117.776482" y="251.917969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="117.776482" y="266.516406" transform="rotate(-0 117.776482 266.516406)">tennis</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mde231e1e90" x="244.525494" y="251.917969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="244.525494" y="266.516406" transform="rotate(-0 244.525494 266.516406)">Formula 1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mde231e1e90" x="371.274506" y="251.917969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="371.274506" y="266.516406" transform="rotate(-0 371.274506 266.516406)">MotoGP</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mde231e1e90" x="498.023518" y="251.917969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="498.023518" y="266.516406" transform="rotate(-0 498.023518 266.516406)">football</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m14ec2d68c2" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m14ec2d68c2" x="51.36" y="251.917969" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="44.36" y="255.717187" transform="rotate(-0 44.36 255.717187)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m14ec2d68c2" x="51.36" y="204.358675" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="44.36" y="208.157893" transform="rotate(-0 44.36 208.157893)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m14ec2d68c2" x="51.36" y="156.79938" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="44.36" y="160.598599" transform="rotate(-0 44.36 160.598599)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m14ec2d68c2" x="51.36" y="109.240086" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="44.36" y="113.039305" transform="rotate(-0 44.36 113.039305)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m14ec2d68c2" x="51.36" y="61.680792" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="44.36" y="65.480011" transform="rotate(-0 44.36 65.480011)">0.4</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="22.377188" y="137.497969" transform="rotate(-90 22.377188 137.497969)">Spearman correlation with FanCode</text>
+    </g>
+   </g>
+   <g id="line2d_10">
+    <path d="M 51.36 251.917969 
+L 564.44 251.917969 
+" clip-path="url(#pf5948f2532)" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 51.36 251.917969 
+L 51.36 23.077969 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 51.36 251.917969 
+L 564.44 251.917969 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="307.9" y="17.077969" transform="rotate(-0 307.9 17.077969)">Associations depend on the request and time-series treatment</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_13">
+     <path d="M 445.65875 60.434219 
+L 557.44 60.434219 
+Q 559.44 60.434219 559.44 58.434219 
+L 559.44 30.077969 
+Q 559.44 28.077969 557.44 28.077969 
+L 445.65875 28.077969 
+Q 443.65875 28.077969 443.65875 30.077969 
+L 443.65875 58.434219 
+Q 443.65875 60.434219 445.65875 60.434219 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_14">
+     <path d="M 447.65875 39.676406 
+L 467.65875 39.676406 
+L 467.65875 32.676406 
+L 447.65875 32.676406 
+z
+" style="fill: #1264ba"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="475.65875" y="39.676406" transform="rotate(-0 475.65875 39.676406)">Levels</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 447.65875 54.354531 
+L 467.65875 54.354531 
+L 467.65875 47.354531 
+L 447.65875 47.354531 
+z
+" style="fill: #00a398"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="475.65875" y="54.354531" transform="rotate(-0 475.65875 54.354531)">First differences</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526170" x="7.2" y="289.197969" transform="rotate(-0 7.2 289.197969)">Descriptive correlations. Broad terms and cricket/other events confound interpretation. No causal sport contribution.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf5948f2532">
+   <rect x="51.36" y="23.077969" width="513.08" height="228.84"/>
+  </clipPath>
+ </defs>
+</svg>

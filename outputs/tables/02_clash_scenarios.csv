@@ -1,0 +1,256 @@
+atp_event,rival,sport,atp_duration,rival_duration,overlap_minutes,atp_source,rival_source
+Brisbane,Vallecano vs Mallorca,La Liga,90,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Vallecano vs Mallorca,La Liga,90,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Vallecano vs Mallorca,La Liga,150,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Vallecano vs Mallorca,La Liga,150,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Vallecano vs Mallorca,La Liga,210,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Vallecano vs Mallorca,La Liga,210,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,90,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,90,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,150,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,150,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,210,105,0.0,brisbane_oop_20260111,v4_laliga_2526
+Brisbane,Levante vs Espanol,La Liga,210,120,0.0,brisbane_oop_20260111,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,90,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,90,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,150,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,150,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,210,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Vallecano vs Mallorca,La Liga,210,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,90,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,90,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,150,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,150,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,210,105,0.0,hongkong_2026_official_op,v4_laliga_2526
+Hong Kong,Levante vs Espanol,La Liga,210,120,0.0,hongkong_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,90,105,15.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,90,120,30.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,150,105,15.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,150,120,30.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,210,105,15.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Oviedo vs Ath Bilbao,La Liga,210,120,30.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,90,105,45.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,90,120,45.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,150,105,105.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,150,120,105.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,210,105,105.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Vallecano vs Ath Madrid,La Liga,210,120,120.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,90,105,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,90,120,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,150,105,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,150,120,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,210,105,30.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Levante vs Valencia,La Liga,210,120,30.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,90,105,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,90,120,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,150,105,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,150,120,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,210,105,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Rotterdam,Mallorca vs Betis,La Liga,210,120,0.0,rotterdam_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,90,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,90,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,150,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,150,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,210,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Sociedad vs Oviedo,La Liga,210,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,90,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,90,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,150,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,150,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,210,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Betis vs Vallecano,La Liga,210,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,90,105,75.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,90,120,90.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,150,105,75.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,150,120,90.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,210,105,75.0,doha_2026_official_op,v4_laliga_2526
+Doha,Osasuna vs Real Madrid,La Liga,210,120,90.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,90,105,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,90,120,0.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,150,105,30.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,150,120,30.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,210,105,90.0,doha_2026_official_op,v4_laliga_2526
+Doha,Ath Madrid vs Espanol,La Liga,210,120,90.0,doha_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,90,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,90,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,150,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,150,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,210,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Vallecano vs Ath Bilbao,La Liga,210,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,90,105,75.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,90,120,75.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,150,105,105.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,150,120,120.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,210,105,105.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Barcelona vs Villarreal,La Liga,210,120,120.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,90,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,90,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,150,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,150,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,210,105,60.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Mallorca vs Sociedad,La Liga,210,120,60.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,90,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,90,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,150,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,150,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,210,105,0.0,dubai_2026_official_op,v4_laliga_2526
+Dubai,Oviedo vs Ath Madrid,La Liga,210,120,0.0,dubai_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,90,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,90,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,150,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,150,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,210,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Mallorca vs Espanol,La Liga,210,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,90,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,90,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,150,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,150,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,210,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Barcelona vs Sevilla,La Liga,210,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,90,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,90,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,150,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,150,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,210,105,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Betis vs Celta,La Liga,210,120,0.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,90,105,45.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,90,120,60.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,150,105,45.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,150,120,60.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,210,105,45.0,indian_wells_2026_official_op,v4_laliga_2526
+Indian Wells,Sociedad vs Osasuna,La Liga,210,120,60.0,indian_wells_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,90,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,90,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,150,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,150,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,210,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Getafe vs Ath Bilbao,La Liga,210,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,90,105,75.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,90,120,75.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,150,105,105.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,150,120,120.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,210,105,105.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Valencia vs Celta,La Liga,210,120,120.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,90,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,90,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,150,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,150,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,210,105,60.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Oviedo vs Sevilla,La Liga,210,120,60.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,90,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,90,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,150,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,150,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,210,105,0.0,marrakech_2026_official_op,v4_laliga_2526
+Marrakech,Alaves vs Osasuna,La Liga,210,120,0.0,marrakech_2026_official_op,v4_laliga_2526
+Madrid,Miami Grand Prix,F1,90,90,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,90,120,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,90,150,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,150,90,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,150,120,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,150,150,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,210,90,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,210,120,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Miami Grand Prix,F1,210,150,0.0,madrid_2026_official_op,v3_jolpica_races_2026
+Madrid,Celta vs Elche,La Liga,90,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Celta vs Elche,La Liga,90,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Celta vs Elche,La Liga,150,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Celta vs Elche,La Liga,150,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Celta vs Elche,La Liga,210,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Celta vs Elche,La Liga,210,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,90,105,60.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,90,120,75.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,150,105,60.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,150,120,75.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,210,105,60.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Getafe vs Vallecano,La Liga,210,120,75.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,90,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,90,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,150,105,60.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,150,120,60.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,210,105,105.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Betis vs Oviedo,La Liga,210,120,120.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,90,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,90,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,150,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,150,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,210,105,0.0,madrid_2026_official_op,v4_laliga_2526
+Madrid,Espanol vs Real Madrid,La Liga,210,120,0.0,madrid_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Bilbao vs Celta,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Ath Madrid vs Girona,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Elche vs Getafe,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Levante vs Mallorca,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Osasuna vs Espanol,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Oviedo vs Alaves,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sevilla vs Real Madrid,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Sociedad vs Valencia,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,150,105,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,150,120,30.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,210,105,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Vallecano vs Villarreal,La Liga,210,120,90.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,90,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,90,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,150,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,150,120,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,210,105,0.0,rome_2026_official_op,v4_laliga_2526
+Rome,Barcelona vs Betis,La Liga,210,120,0.0,rome_2026_official_op,v4_laliga_2526
+Winston-Salem,Levante vs Betis,La Liga,90,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Levante vs Betis,La Liga,90,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Levante vs Betis,La Liga,150,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Levante vs Betis,La Liga,150,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Levante vs Betis,La Liga,210,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Levante vs Betis,La Liga,210,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,90,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,90,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,150,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,150,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,210,105,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sociedad vs Espanol,La Liga,210,120,0.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,90,105,75.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,90,120,90.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,150,105,75.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,150,120,90.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,210,105,75.0,winston_oop_pdf,v4_laliga_2627
+Winston-Salem,Sevilla vs Ath Madrid,La Liga,210,120,90.0,winston_oop_pdf,v4_laliga_2627

@@ -1,0 +1,251 @@
+event,HomeTeam,AwayTeam,start_utc,start_ist,sport,source_id
+Vallecano vs Getafe,Vallecano,Getafe,2026-01-02 20:00:00+00:00,2026-01-03 01:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Valencia,Celta,Valencia,2026-01-03 13:00:00+00:00,2026-01-03 18:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Ath Bilbao,Osasuna,Ath Bilbao,2026-01-03 15:15:00+00:00,2026-01-03 20:45:00+05:30,La Liga,v4_laliga_2526
+Elche vs Villarreal,Elche,Villarreal,2026-01-03 17:30:00+00:00,2026-01-03 23:00:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Barcelona,Espanol,Barcelona,2026-01-03 20:00:00+00:00,2026-01-04 01:30:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Levante,Sevilla,Levante,2026-01-04 13:00:00+00:00,2026-01-04 18:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Betis,Real Madrid,Betis,2026-01-04 15:15:00+00:00,2026-01-04 20:45:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Oviedo,Alaves,Oviedo,2026-01-04 17:30:00+00:00,2026-01-04 23:00:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Girona,Mallorca,Girona,2026-01-04 17:30:00+00:00,2026-01-04 23:00:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Ath Madrid,Sociedad,Ath Madrid,2026-01-04 20:00:00+00:00,2026-01-05 01:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Sociedad,Getafe,Sociedad,2026-01-09 20:00:00+00:00,2026-01-10 01:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Betis,Oviedo,Betis,2026-01-10 13:00:00+00:00,2026-01-10 18:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Alaves,Villarreal,Alaves,2026-01-10 15:15:00+00:00,2026-01-10 20:45:00+05:30,La Liga,v4_laliga_2526
+Girona vs Osasuna,Girona,Osasuna,2026-01-10 17:30:00+00:00,2026-01-10 23:00:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Elche,Valencia,Elche,2026-01-10 20:00:00+00:00,2026-01-11 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Mallorca,Vallecano,Mallorca,2026-01-11 13:00:00+00:00,2026-01-11 18:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Espanol,Levante,Espanol,2026-01-11 15:15:00+00:00,2026-01-11 20:45:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Celta,Sevilla,Celta,2026-01-12 20:00:00+00:00,2026-01-13 01:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Girona,Espanol,Girona,2026-01-16 20:00:00+00:00,2026-01-17 01:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Levante,Real Madrid,Levante,2026-01-17 13:00:00+00:00,2026-01-17 18:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Ath Bilbao,Mallorca,Ath Bilbao,2026-01-17 15:15:00+00:00,2026-01-17 20:45:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Oviedo,Osasuna,Oviedo,2026-01-17 17:30:00+00:00,2026-01-17 23:00:00+05:30,La Liga,v4_laliga_2526
+Betis vs Villarreal,Betis,Villarreal,2026-01-17 20:00:00+00:00,2026-01-18 01:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Valencia,Getafe,Valencia,2026-01-18 13:00:00+00:00,2026-01-18 18:30:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Alaves,Ath Madrid,Alaves,2026-01-18 15:15:00+00:00,2026-01-18 20:45:00+05:30,La Liga,v4_laliga_2526
+Celta vs Vallecano,Celta,Vallecano,2026-01-18 17:30:00+00:00,2026-01-18 23:00:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Barcelona,Sociedad,Barcelona,2026-01-18 20:00:00+00:00,2026-01-19 01:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Sevilla,Elche,Sevilla,2026-01-19 20:00:00+00:00,2026-01-20 01:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Elche,Levante,Elche,2026-01-23 20:00:00+00:00,2026-01-24 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Osasuna,Vallecano,Osasuna,2026-01-24 13:00:00+00:00,2026-01-24 18:30:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Espanol,Valencia,Espanol,2026-01-24 15:15:00+00:00,2026-01-24 20:45:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Ath Bilbao,Sevilla,Ath Bilbao,2026-01-24 17:30:00+00:00,2026-01-24 23:00:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Real Madrid,Villarreal,Real Madrid,2026-01-24 20:00:00+00:00,2026-01-25 01:30:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Mallorca,Ath Madrid,Mallorca,2026-01-25 13:00:00+00:00,2026-01-25 18:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Oviedo,Barcelona,Oviedo,2026-01-25 15:15:00+00:00,2026-01-25 20:45:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Celta,Sociedad,Celta,2026-01-25 17:30:00+00:00,2026-01-25 23:00:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Betis,Alaves,Betis,2026-01-25 20:00:00+00:00,2026-01-26 01:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Getafe,Girona,Getafe,2026-01-26 20:00:00+00:00,2026-01-27 01:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Alaves,Espanol,Alaves,2026-01-30 20:00:00+00:00,2026-01-31 01:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Girona,Oviedo,Girona,2026-01-31 13:00:00+00:00,2026-01-31 18:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Villarreal,Osasuna,Villarreal,2026-01-31 15:15:00+00:00,2026-01-31 20:45:00+05:30,La Liga,v4_laliga_2526
+Levante vs Ath Madrid,Levante,Ath Madrid,2026-01-31 17:30:00+00:00,2026-01-31 23:00:00+05:30,La Liga,v4_laliga_2526
+Elche vs Barcelona,Elche,Barcelona,2026-01-31 20:00:00+00:00,2026-02-01 01:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Vallecano,Real Madrid,Vallecano,2026-02-01 13:00:00+00:00,2026-02-01 18:30:00+05:30,La Liga,v4_laliga_2526
+Betis vs Valencia,Betis,Valencia,2026-02-01 15:15:00+00:00,2026-02-01 20:45:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Celta,Getafe,Celta,2026-02-01 17:30:00+00:00,2026-02-01 23:00:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Sociedad,Ath Bilbao,Sociedad,2026-02-01 20:00:00+00:00,2026-02-02 01:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Sevilla,Mallorca,Sevilla,2026-02-02 20:00:00+00:00,2026-02-03 01:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Osasuna,Celta,Osasuna,2026-02-06 20:00:00+00:00,2026-02-07 01:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Mallorca,Barcelona,Mallorca,2026-02-07 15:15:00+00:00,2026-02-07 20:45:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Elche,Sociedad,Elche,2026-02-07 20:00:00+00:00,2026-02-08 01:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Getafe,Alaves,Getafe,2026-02-08 13:00:00+00:00,2026-02-08 18:30:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Levante,Ath Bilbao,Levante,2026-02-08 15:15:00+00:00,2026-02-08 20:45:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Girona,Sevilla,Girona,2026-02-08 15:15:00+00:00,2026-02-08 20:45:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Betis,Ath Madrid,Betis,2026-02-08 17:30:00+00:00,2026-02-08 23:00:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Real Madrid,Valencia,Real Madrid,2026-02-08 20:00:00+00:00,2026-02-09 01:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Espanol,Villarreal,Espanol,2026-02-09 20:00:00+00:00,2026-02-10 01:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Osasuna,Elche,Osasuna,2026-02-13 20:00:00+00:00,2026-02-14 01:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Celta,Espanol,Celta,2026-02-14 13:00:00+00:00,2026-02-14 18:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Villarreal,Getafe,Villarreal,2026-02-14 15:15:00+00:00,2026-02-14 20:45:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Alaves,Sevilla,Alaves,2026-02-14 17:30:00+00:00,2026-02-14 23:00:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Sociedad,Real Madrid,Sociedad,2026-02-14 20:00:00+00:00,2026-02-15 01:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Ath Bilbao,Oviedo,Ath Bilbao,2026-02-15 13:00:00+00:00,2026-02-15 18:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Ath Madrid,Vallecano,Ath Madrid,2026-02-15 15:15:00+00:00,2026-02-15 20:45:00+05:30,La Liga,v4_laliga_2526
+Levante vs Valencia,Levante,Valencia,2026-02-15 17:30:00+00:00,2026-02-15 23:00:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Betis,Mallorca,Betis,2026-02-15 20:00:00+00:00,2026-02-16 01:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Barcelona,Girona,Barcelona,2026-02-16 20:00:00+00:00,2026-02-17 01:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Villarreal,Levante,Villarreal,2026-02-18 19:00:00+00:00,2026-02-19 00:30:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Elche,Ath Bilbao,Elche,2026-02-20 20:00:00+00:00,2026-02-21 01:30:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Oviedo,Sociedad,Oviedo,2026-02-21 13:00:00+00:00,2026-02-21 18:30:00+05:30,La Liga,v4_laliga_2526
+Betis vs Vallecano,Betis,Vallecano,2026-02-21 15:15:00+00:00,2026-02-21 20:45:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Real Madrid,Osasuna,Real Madrid,2026-02-21 17:30:00+00:00,2026-02-21 23:00:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Espanol,Ath Madrid,Espanol,2026-02-21 20:00:00+00:00,2026-02-22 01:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Sevilla,Getafe,Sevilla,2026-02-22 13:00:00+00:00,2026-02-22 18:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Levante,Barcelona,Levante,2026-02-22 15:15:00+00:00,2026-02-22 20:45:00+05:30,La Liga,v4_laliga_2526
+Celta vs Mallorca,Celta,Mallorca,2026-02-22 17:30:00+00:00,2026-02-22 23:00:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Valencia,Villarreal,Valencia,2026-02-22 20:00:00+00:00,2026-02-23 01:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Girona,Alaves,Girona,2026-02-23 20:00:00+00:00,2026-02-24 01:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Alaves,Levante,Alaves,2026-02-27 20:00:00+00:00,2026-02-28 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Ath Bilbao,Vallecano,Ath Bilbao,2026-02-28 13:00:00+00:00,2026-02-28 18:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Villarreal,Barcelona,Villarreal,2026-02-28 15:15:00+00:00,2026-02-28 20:45:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Sociedad,Mallorca,Sociedad,2026-02-28 17:30:00+00:00,2026-02-28 23:00:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Ath Madrid,Oviedo,Ath Madrid,2026-02-28 20:00:00+00:00,2026-03-01 01:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Espanol,Elche,Espanol,2026-03-01 13:00:00+00:00,2026-03-01 18:30:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Osasuna,Valencia,Osasuna,2026-03-01 15:15:00+00:00,2026-03-01 20:45:00+05:30,La Liga,v4_laliga_2526
+Betis vs Sevilla,Betis,Sevilla,2026-03-01 17:30:00+00:00,2026-03-01 23:00:00+05:30,La Liga,v4_laliga_2526
+Girona vs Celta,Girona,Celta,2026-03-01 20:00:00+00:00,2026-03-02 01:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Getafe,Real Madrid,Getafe,2026-03-02 20:00:00+00:00,2026-03-03 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Oviedo,Vallecano,Oviedo,2026-03-04 18:00:00+00:00,2026-03-04 23:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Real Madrid,Celta,Real Madrid,2026-03-06 20:00:00+00:00,2026-03-07 01:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Mallorca,Osasuna,Mallorca,2026-03-07 13:00:00+00:00,2026-03-07 18:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Girona,Levante,Girona,2026-03-07 15:15:00+00:00,2026-03-07 20:45:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Sociedad,Ath Madrid,Sociedad,2026-03-07 17:30:00+00:00,2026-03-07 23:00:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Barcelona,Ath Bilbao,Barcelona,2026-03-07 20:00:00+00:00,2026-03-08 01:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Elche,Villarreal,Elche,2026-03-08 13:00:00+00:00,2026-03-08 18:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Betis,Getafe,Betis,2026-03-08 15:15:00+00:00,2026-03-08 20:45:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Vallecano,Sevilla,Vallecano,2026-03-08 17:30:00+00:00,2026-03-08 23:00:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Alaves,Valencia,Alaves,2026-03-08 20:00:00+00:00,2026-03-09 01:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Oviedo,Espanol,Oviedo,2026-03-09 20:00:00+00:00,2026-03-10 01:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Villarreal,Alaves,Villarreal,2026-03-13 20:00:00+00:00,2026-03-14 01:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Ath Bilbao,Girona,Ath Bilbao,2026-03-14 13:00:00+00:00,2026-03-14 18:30:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Getafe,Ath Madrid,Getafe,2026-03-14 15:15:00+00:00,2026-03-14 20:45:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Valencia,Oviedo,Valencia,2026-03-14 17:30:00+00:00,2026-03-14 23:00:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Elche,Real Madrid,Elche,2026-03-14 20:00:00+00:00,2026-03-15 01:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Espanol,Mallorca,Espanol,2026-03-15 13:00:00+00:00,2026-03-15 18:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Sevilla,Barcelona,Sevilla,2026-03-15 15:15:00+00:00,2026-03-15 20:45:00+05:30,La Liga,v4_laliga_2526
+Betis vs Celta,Betis,Celta,2026-03-15 17:30:00+00:00,2026-03-15 23:00:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Osasuna,Sociedad,Osasuna,2026-03-15 20:00:00+00:00,2026-03-16 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Levante,Vallecano,Levante,2026-03-16 20:00:00+00:00,2026-03-17 01:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Sociedad,Villarreal,Sociedad,2026-03-20 20:00:00+00:00,2026-03-21 01:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Mallorca,Elche,Mallorca,2026-03-21 13:00:00+00:00,2026-03-21 18:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Getafe,Espanol,Getafe,2026-03-21 15:15:00+00:00,2026-03-21 20:45:00+05:30,La Liga,v4_laliga_2526
+Levante vs Oviedo,Levante,Oviedo,2026-03-21 17:30:00+00:00,2026-03-21 23:00:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Girona,Osasuna,Girona,2026-03-21 17:30:00+00:00,2026-03-21 23:00:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Valencia,Sevilla,Valencia,2026-03-21 20:00:00+00:00,2026-03-22 01:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Vallecano,Barcelona,Vallecano,2026-03-22 13:00:00+00:00,2026-03-22 18:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Alaves,Celta,Alaves,2026-03-22 15:15:00+00:00,2026-03-22 20:45:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Betis,Ath Bilbao,Betis,2026-03-22 17:30:00+00:00,2026-03-22 23:00:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Ath Madrid,Real Madrid,Ath Madrid,2026-03-22 20:00:00+00:00,2026-03-23 01:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Elche,Vallecano,Elche,2026-04-03 19:00:00+00:00,2026-04-04 00:30:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Levante,Sociedad,Levante,2026-04-04 12:00:00+00:00,2026-04-04 17:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Real Madrid,Mallorca,Real Madrid,2026-04-04 14:15:00+00:00,2026-04-04 19:45:00+05:30,La Liga,v4_laliga_2526
+Betis vs Espanol,Betis,Espanol,2026-04-04 16:30:00+00:00,2026-04-04 22:00:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Barcelona,Ath Madrid,Barcelona,2026-04-04 19:00:00+00:00,2026-04-05 00:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Ath Bilbao,Getafe,Ath Bilbao,2026-04-05 12:00:00+00:00,2026-04-05 17:30:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Celta,Valencia,Celta,2026-04-05 14:15:00+00:00,2026-04-05 19:45:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Sevilla,Oviedo,Sevilla,2026-04-05 16:30:00+00:00,2026-04-05 22:00:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Osasuna,Alaves,Osasuna,2026-04-05 19:00:00+00:00,2026-04-06 00:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Villarreal,Girona,Villarreal,2026-04-06 19:00:00+00:00,2026-04-07 00:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Girona,Real Madrid,Girona,2026-04-10 19:00:00+00:00,2026-04-11 00:30:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Alaves,Sociedad,Alaves,2026-04-11 12:00:00+00:00,2026-04-11 17:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Valencia,Elche,Valencia,2026-04-11 14:15:00+00:00,2026-04-11 19:45:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Espanol,Barcelona,Espanol,2026-04-11 16:30:00+00:00,2026-04-11 22:00:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Ath Madrid,Sevilla,Ath Madrid,2026-04-11 19:00:00+00:00,2026-04-12 00:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Betis,Osasuna,Betis,2026-04-12 12:00:00+00:00,2026-04-12 17:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Vallecano,Mallorca,Vallecano,2026-04-12 14:15:00+00:00,2026-04-12 19:45:00+05:30,La Liga,v4_laliga_2526
+Celta vs Oviedo,Celta,Oviedo,2026-04-12 16:30:00+00:00,2026-04-12 22:00:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Villarreal,Ath Bilbao,Villarreal,2026-04-12 19:00:00+00:00,2026-04-13 00:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Getafe,Levante,Getafe,2026-04-13 19:00:00+00:00,2026-04-14 00:30:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Osasuna,Ath Bilbao,Osasuna,2026-04-21 17:00:00+00:00,2026-04-21 22:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Valencia,Mallorca,Valencia,2026-04-21 17:00:00+00:00,2026-04-21 22:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Betis,Girona,Betis,2026-04-21 19:30:00+00:00,2026-04-22 01:00:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Alaves,Real Madrid,Alaves,2026-04-21 19:30:00+00:00,2026-04-22 01:00:00+05:30,La Liga,v4_laliga_2526
+Elche vs Ath Madrid,Elche,Ath Madrid,2026-04-22 17:00:00+00:00,2026-04-22 22:30:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Getafe,Sociedad,Getafe,2026-04-22 18:00:00+00:00,2026-04-22 23:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Celta,Barcelona,Celta,2026-04-22 19:30:00+00:00,2026-04-23 01:00:00+05:30,La Liga,v4_laliga_2526
+Levante vs Sevilla,Levante,Sevilla,2026-04-23 17:00:00+00:00,2026-04-23 22:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Espanol,Vallecano,Espanol,2026-04-23 18:00:00+00:00,2026-04-23 23:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Villarreal,Oviedo,Villarreal,2026-04-23 19:30:00+00:00,2026-04-24 01:00:00+05:30,La Liga,v4_laliga_2526
+Betis vs Real Madrid,Betis,Real Madrid,2026-04-24 19:00:00+00:00,2026-04-25 00:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Mallorca,Alaves,Mallorca,2026-04-25 12:00:00+00:00,2026-04-25 17:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Barcelona,Getafe,Barcelona,2026-04-25 14:15:00+00:00,2026-04-25 19:45:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Girona,Valencia,Girona,2026-04-25 16:30:00+00:00,2026-04-25 22:00:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Ath Bilbao,Ath Madrid,Ath Bilbao,2026-04-25 19:00:00+00:00,2026-04-26 00:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Sociedad,Vallecano,Sociedad,2026-04-26 12:00:00+00:00,2026-04-26 17:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Elche,Oviedo,Elche,2026-04-26 14:15:00+00:00,2026-04-26 19:45:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Sevilla,Osasuna,Sevilla,2026-04-26 16:30:00+00:00,2026-04-26 22:00:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Celta,Villarreal,Celta,2026-04-26 19:00:00+00:00,2026-04-27 00:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Levante,Espanol,Levante,2026-04-27 19:00:00+00:00,2026-04-28 00:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Mallorca,Girona,Mallorca,2026-05-01 19:00:00+00:00,2026-05-02 00:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Levante,Villarreal,Levante,2026-05-02 12:00:00+00:00,2026-05-02 17:30:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Ath Madrid,Valencia,Ath Madrid,2026-05-02 14:15:00+00:00,2026-05-02 19:45:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Ath Bilbao,Alaves,Ath Bilbao,2026-05-02 16:30:00+00:00,2026-05-02 22:00:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Barcelona,Osasuna,Barcelona,2026-05-02 19:00:00+00:00,2026-05-03 00:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Elche,Celta,Elche,2026-05-03 12:00:00+00:00,2026-05-03 17:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Vallecano,Getafe,Vallecano,2026-05-03 14:15:00+00:00,2026-05-03 19:45:00+05:30,La Liga,v4_laliga_2526
+Betis vs Oviedo,Betis,Oviedo,2026-05-03 16:30:00+00:00,2026-05-03 22:00:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Real Madrid,Espanol,Real Madrid,2026-05-03 19:00:00+00:00,2026-05-04 00:30:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Sociedad,Sevilla,Sociedad,2026-05-04 19:00:00+00:00,2026-05-05 00:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Osasuna,Levante,Osasuna,2026-05-08 19:00:00+00:00,2026-05-09 00:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Alaves,Elche,Alaves,2026-05-09 12:00:00+00:00,2026-05-09 17:30:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Espanol,Sevilla,Espanol,2026-05-09 14:15:00+00:00,2026-05-09 19:45:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Celta,Ath Madrid,Celta,2026-05-09 16:30:00+00:00,2026-05-09 22:00:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Betis,Sociedad,Betis,2026-05-09 19:00:00+00:00,2026-05-10 00:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Villarreal,Mallorca,Villarreal,2026-05-10 12:00:00+00:00,2026-05-10 17:30:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Valencia,Ath Bilbao,Valencia,2026-05-10 14:15:00+00:00,2026-05-10 19:45:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Getafe,Oviedo,Getafe,2026-05-10 16:30:00+00:00,2026-05-10 22:00:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Real Madrid,Barcelona,Real Madrid,2026-05-10 19:00:00+00:00,2026-05-11 00:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Girona,Vallecano,Girona,2026-05-11 19:00:00+00:00,2026-05-12 00:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Levante,Celta,Levante,2026-05-12 17:00:00+00:00,2026-05-12 22:30:00+05:30,La Liga,v4_laliga_2526
+Betis vs Elche,Betis,Elche,2026-05-12 18:00:00+00:00,2026-05-12 23:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Ath Madrid,Osasuna,Ath Madrid,2026-05-12 19:30:00+00:00,2026-05-13 01:00:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Ath Bilbao,Espanol,Ath Bilbao,2026-05-13 17:00:00+00:00,2026-05-13 22:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Sevilla,Villarreal,Sevilla,2026-05-13 17:00:00+00:00,2026-05-13 22:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Barcelona,Alaves,Barcelona,2026-05-13 19:30:00+00:00,2026-05-14 01:00:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Mallorca,Getafe,Mallorca,2026-05-13 19:30:00+00:00,2026-05-14 01:00:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Vallecano,Valencia,Vallecano,2026-05-14 17:00:00+00:00,2026-05-14 22:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Sociedad,Girona,Sociedad,2026-05-14 18:00:00+00:00,2026-05-14 23:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Oviedo,Real Madrid,Oviedo,2026-05-14 19:30:00+00:00,2026-05-15 01:00:00+05:30,La Liga,v4_laliga_2526
+Ath Bilbao vs Celta,Ath Bilbao,Celta,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Ath Madrid vs Girona,Ath Madrid,Girona,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Elche vs Getafe,Elche,Getafe,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Levante vs Mallorca,Levante,Mallorca,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Osasuna vs Espanol,Osasuna,Espanol,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Oviedo vs Alaves,Oviedo,Alaves,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Sevilla vs Real Madrid,Sevilla,Real Madrid,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Sociedad vs Valencia,Sociedad,Valencia,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Vallecano vs Villarreal,Vallecano,Villarreal,2026-05-17 17:00:00+00:00,2026-05-17 22:30:00+05:30,La Liga,v4_laliga_2526
+Barcelona vs Betis,Barcelona,Betis,2026-05-17 19:15:00+00:00,2026-05-18 00:45:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Vallecano,Alaves,Vallecano,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Betis vs Levante,Betis,Levante,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Celta vs Sevilla,Celta,Sevilla,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Espanol vs Sociedad,Espanol,Sociedad,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Getafe vs Osasuna,Getafe,Osasuna,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Girona vs Elche,Girona,Elche,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Mallorca vs Oviedo,Mallorca,Oviedo,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Real Madrid vs Ath Bilbao,Real Madrid,Ath Bilbao,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Valencia vs Barcelona,Valencia,Barcelona,2026-05-23 19:00:00+00:00,2026-05-24 00:30:00+05:30,La Liga,v4_laliga_2526
+Villarreal vs Ath Madrid,Villarreal,Ath Madrid,2026-05-24 19:00:00+00:00,2026-05-25 00:30:00+05:30,La Liga,v4_laliga_2526
+Alaves vs Getafe,Alaves,Getafe,2026-08-15 17:30:00+00:00,2026-08-15 23:00:00+05:30,La Liga,v4_laliga_2627
+Sevilla vs Vallecano,Sevilla,Vallecano,2026-08-15 19:30:00+00:00,2026-08-16 01:00:00+05:30,La Liga,v4_laliga_2627
+Santander vs Villarreal,Santander,Villarreal,2026-08-16 15:00:00+00:00,2026-08-16 20:30:00+05:30,La Liga,v4_laliga_2627
+Espanol vs Levante,Espanol,Levante,2026-08-16 17:00:00+00:00,2026-08-16 22:30:00+05:30,La Liga,v4_laliga_2627
+La Coruna vs Elche,La Coruna,Elche,2026-08-17 19:00:00+00:00,2026-08-18 00:30:00+05:30,La Liga,v4_laliga_2627
+Ath Madrid vs Malaga,Ath Madrid,Malaga,2026-08-19 19:00:00+00:00,2026-08-20 00:30:00+05:30,La Liga,v4_laliga_2627
+Vallecano vs Alaves,Vallecano,Alaves,2026-08-20 19:00:00+00:00,2026-08-21 00:30:00+05:30,La Liga,v4_laliga_2627
+Betis vs Sociedad,Betis,Sociedad,2026-08-21 19:00:00+00:00,2026-08-22 00:30:00+05:30,La Liga,v4_laliga_2627
+Ath Bilbao vs Sevilla,Ath Bilbao,Sevilla,2026-08-22 15:00:00+00:00,2026-08-22 20:30:00+05:30,La Liga,v4_laliga_2627
+Valencia vs Celta,Valencia,Celta,2026-08-22 17:30:00+00:00,2026-08-22 23:00:00+05:30,La Liga,v4_laliga_2627
+Espanol vs Real Madrid,Espanol,Real Madrid,2026-08-22 19:30:00+00:00,2026-08-23 01:00:00+05:30,La Liga,v4_laliga_2627
+Ath Madrid vs Villarreal,Ath Madrid,Villarreal,2026-08-23 15:00:00+00:00,2026-08-23 20:30:00+05:30,La Liga,v4_laliga_2627
+Getafe vs Santander,Getafe,Santander,2026-08-23 17:30:00+00:00,2026-08-23 23:00:00+05:30,La Liga,v4_laliga_2627
+Elche vs Barcelona,Elche,Barcelona,2026-08-23 19:30:00+00:00,2026-08-24 01:00:00+05:30,La Liga,v4_laliga_2627
+Osasuna vs Levante,Osasuna,Levante,2026-08-24 17:30:00+00:00,2026-08-24 23:00:00+05:30,La Liga,v4_laliga_2627
+Malaga vs La Coruna,Malaga,La Coruna,2026-08-24 19:30:00+00:00,2026-08-25 01:00:00+05:30,La Liga,v4_laliga_2627
+Valencia vs Betis,Valencia,Betis,2026-08-25 19:00:00+00:00,2026-08-26 00:30:00+05:30,La Liga,v4_laliga_2627
+Real Madrid vs Sociedad,Real Madrid,Sociedad,2026-08-26 19:00:00+00:00,2026-08-27 00:30:00+05:30,La Liga,v4_laliga_2627
+Celta vs Osasuna,Celta,Osasuna,2026-08-27 18:30:00+00:00,2026-08-28 00:00:00+05:30,La Liga,v4_laliga_2627
+Barcelona vs Ath Bilbao,Barcelona,Ath Bilbao,2026-08-27 19:00:00+00:00,2026-08-28 00:30:00+05:30,La Liga,v4_laliga_2627
+Santander vs Elche,Santander,Elche,2026-08-28 17:00:00+00:00,2026-08-28 22:30:00+05:30,La Liga,v4_laliga_2627
+Alaves vs Villarreal,Alaves,Villarreal,2026-08-28 19:30:00+00:00,2026-08-29 01:00:00+05:30,La Liga,v4_laliga_2627
+Levante vs Betis,Levante,Betis,2026-08-29 15:00:00+00:00,2026-08-29 20:30:00+05:30,La Liga,v4_laliga_2627
+Sociedad vs Espanol,Sociedad,Espanol,2026-08-29 17:00:00+00:00,2026-08-29 22:30:00+05:30,La Liga,v4_laliga_2627
+Sevilla vs Ath Madrid,Sevilla,Ath Madrid,2026-08-29 19:30:00+00:00,2026-08-30 01:00:00+05:30,La Liga,v4_laliga_2627
+Real Madrid vs Malaga,Real Madrid,Malaga,2026-08-30 15:00:00+00:00,2026-08-30 20:30:00+05:30,La Liga,v4_laliga_2627
+La Coruna vs Valencia,La Coruna,Valencia,2026-08-30 17:30:00+00:00,2026-08-30 23:00:00+05:30,La Liga,v4_laliga_2627
+Celta vs Ath Bilbao,Celta,Ath Bilbao,2026-08-30 19:30:00+00:00,2026-08-31 01:00:00+05:30,La Liga,v4_laliga_2627
+Osasuna vs Getafe,Osasuna,Getafe,2026-08-31 17:30:00+00:00,2026-08-31 23:00:00+05:30,La Liga,v4_laliga_2627
+Barcelona vs Vallecano,Barcelona,Vallecano,2026-08-31 19:30:00+00:00,2026-09-01 01:00:00+05:30,La Liga,v4_laliga_2627
+Sociedad vs Celta,Sociedad,Celta,2026-09-03 19:00:00+00:00,2026-09-04 00:30:00+05:30,La Liga,v4_laliga_2627
+Betis vs Real Madrid,Betis,Real Madrid,2026-09-04 19:00:00+00:00,2026-09-05 00:30:00+05:30,La Liga,v4_laliga_2627
+Ath Bilbao vs Ath Madrid,Ath Bilbao,Ath Madrid,2026-09-05 14:15:00+00:00,2026-09-05 19:45:00+05:30,La Liga,v4_laliga_2627
+Vallecano vs Santander,Vallecano,Santander,2026-09-05 16:30:00+00:00,2026-09-05 22:00:00+05:30,La Liga,v4_laliga_2627
+Villarreal vs La Coruna,Villarreal,La Coruna,2026-09-05 19:00:00+00:00,2026-09-06 00:30:00+05:30,La Liga,v4_laliga_2627
+Valencia vs Barcelona,Valencia,Barcelona,2026-09-06 14:15:00+00:00,2026-09-06 19:45:00+05:30,La Liga,v4_laliga_2627
+Alaves vs Osasuna,Alaves,Osasuna,2026-09-06 16:30:00+00:00,2026-09-06 22:00:00+05:30,La Liga,v4_laliga_2627
+Malaga vs Levante,Malaga,Levante,2026-09-06 16:30:00+00:00,2026-09-06 22:00:00+05:30,La Liga,v4_laliga_2627
+Espanol vs Sevilla,Espanol,Sevilla,2026-09-06 19:00:00+00:00,2026-09-07 00:30:00+05:30,La Liga,v4_laliga_2627
+Getafe vs Celta,Getafe,Celta,2026-09-07 17:00:00+00:00,2026-09-07 22:30:00+05:30,La Liga,v4_laliga_2627
+Elche vs Sociedad,Elche,Sociedad,2026-09-07 19:30:00+00:00,2026-09-08 01:00:00+05:30,La Liga,v4_laliga_2627

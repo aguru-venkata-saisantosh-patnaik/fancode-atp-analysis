@@ -1,0 +1,20 @@
+{
+  "result": "PASS",
+  "author": "Chanakya",
+  "raw_release": "raw-v5-2026-09-14",
+  "executed_notebooks": 11,
+  "executed_code_cells": 54,
+  "output_tables": 79,
+  "processed_tables": 18,
+  "png_figures": 21,
+  "svg_figures": 21,
+  "html_notebooks": 11,
+  "errors": [],
+  "notes": [
+    "Fresh kernels, regenerated processed/output folders, offline raw inputs.",
+    "Source and executed notebook checksums match.",
+    "Independent Decimal contribution and two-event coverage checks passed if result is PASS.",
+    "Native kernel shutdown reported a macOS process-enumeration permission warning. It did not interrupt completed cells or exports.",
+    "Results are public-data analyses and explicit scenarios, not measured internal cohorts or causal tests."
+  ]
+}

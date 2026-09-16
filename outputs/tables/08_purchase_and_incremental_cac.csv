@@ -1,0 +1,13 @@
+scenario,channel,cost,attributed_pass_purchases,purchase_cac,incremental_payers,incremental_cac,denominator_note
+Adverse,Paid occasions,40000.0,9.444444444444445,4235.294117647059,2.8333333333333335,14117.647058823528,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Adverse,Owned lifecycle,20000.0,,,18.53782875680686,1078.875,"Owned scenario specifies uplift only, total purchase conversion is not supplied"
+Adverse,Communities and contests,20000.0,34.666666666666664,576.923076923077,10.399999999999999,1923.0769230769233,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Adverse,Native creators,10000.0,1.0,10000.0,0.3,33333.333333333336,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Working test,Paid occasions,40000.0,51.0,784.3137254901961,30.599999999999998,1307.1895424836603,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Working test,Owned lifecycle,20000.0,,,92.6891437840343,215.77499999999998,"Owned scenario specifies uplift only, total purchase conversion is not supplied"
+Working test,Communities and contests,20000.0,62.4,320.5128205128205,37.44,534.1880341880342,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Working test,Native creators,10000.0,10.0,1000.0,6.0,1666.6666666666667,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Favourable,Paid occasions,40000.0,204.0,196.07843137254903,183.6,217.8649237472767,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Favourable,Owned lifecycle,20000.0,,,278.06743135210286,71.92500000000001,"Owned scenario specifies uplift only, total purchase conversion is not supplied"
+Favourable,Communities and contests,20000.0,124.79999999999998,160.25641025641028,112.32,178.06267806267806,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison
+Favourable,Native creators,10000.0,75.0,133.33333333333334,67.5,148.14814814814815,Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison

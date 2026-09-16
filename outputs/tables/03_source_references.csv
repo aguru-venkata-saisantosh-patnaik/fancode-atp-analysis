@@ -1,0 +1,8 @@
+source_id,url,raw_file,retrieved
+fancode_monthly,https://www.fancode.com/content/subscribe/monthly,data/raw/offers/fancode_monthly__e8a8c5ed831b.html,2026-09-13T15:31:28.613514+00:00
+fancode_monthly_final_v5,https://www.fancode.com/content/subscribe/monthly?hostUrl=%2F,data/raw/browser_captures/fancode_monthly_final_v5__d63c5a5f7673.txt,2026-09-14T17:08:20.654418+00:00
+fancode_yearly,https://www.fancode.com/content/subscribe/yearly,data/raw/offers/fancode_yearly__04958ae6ee48.html,2026-09-13T15:31:29.069119+00:00
+fancode_yearly_rendered,https://www.fancode.com/content/subscribe/yearly,data/raw/browser_captures/fancode_yearly_rendered__24a4ed1eed55.txt,2026-09-13T19:41:43.149053+00:00
+jiohotstar_2026_price_release,https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf,data/raw/offers/jiohotstar_2026_price_release__9bbb0774b59d.pdf,2026-09-13T15:31:31.485096+00:00
+sonyliv_subscription,https://www.sonyliv.com/subscription,data/raw/offers/sonyliv_subscription__58d2de2b0bc6.html,2026-09-13T15:31:30.716144+00:00
+v3_tennistv_india_iap,https://apps.apple.com/in/app/tennis-tv-live-streaming/id1114471030?platform=vision,data/raw/pricing/v3_tennistv_india_iap__5ff1a5e6cf87.html,2026-09-14T12:13:49.164518+00:00

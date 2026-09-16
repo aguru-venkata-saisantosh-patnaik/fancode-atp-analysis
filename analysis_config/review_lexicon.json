@@ -1,0 +1,20 @@
+{
+  "author": "Chanakya",
+  "status": "Heuristic mention screen, not validated complaint classifier",
+  "patterns": {
+    "stream_access": "buffer|lagg?|freez|crash|not (?:work|play|load)|unable to (?:watch|play)|black screen|server|error|stuck",
+    "payment_entitlement": "pay(?:ment|ing|ed)?|paid|subscri|refund|pass|renew|deduct|charg|cancel|money",
+    "advertising": "\\bads?\\b|advertis|commercial",
+    "devices": "\\btv\\b|cast|firestick|fire stick|chromecast|device|screen",
+    "support": "customer (?:care|support|service)|support|helpdesk|response",
+    "quality": "quality|resolution|\\bhd\\b|1080|720|pixel|bitrate",
+    "discovery_timing": "schedule|notification|remind|replay|highlight|search|spoiler"
+  },
+  "sport_patterns": {
+    "tennis": "\\btennis\\b|\\batp\\b|wimbledon|alcaraz|sinner|djokovic",
+    "F1": "\\bf1\\b|formula\\s*(?:1|one)",
+    "MotoGP": "moto\\s*gp",
+    "football": "football|soccer|la\\s*liga|\\bisl\\b",
+    "cricket": "cricket|\\bipl\\b|\\bt20\\b"
+  }
+}

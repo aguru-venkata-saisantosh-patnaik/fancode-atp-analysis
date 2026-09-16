@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "checks": {
+    "two_events_list_comparison": true,
+    "promotion_gap": true,
+    "yearly_cannot_win_pure_six_tennis_at_list": true,
+    "ownership_suppresses_sale": true,
+    "adding_atp_access_never_raises_cost": true
+  }
+}

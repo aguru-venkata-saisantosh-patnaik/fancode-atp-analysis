@@ -1,0 +1,324 @@
+{
+  "author": "Competition team",
+  "release": "raw-v5-2026-09-14",
+  "meaning": "Every failed HTTP source has an explicit analytical disposition. Replacement does not imply exact equivalence or recovery of a nonpublic fact.",
+  "failed_source_count": 32,
+  "items": [
+    {
+      "source_id": "atp_calendar_2026_article",
+      "failed_url": "https://www.atptour.com/en/news/what-is-the-2026-atp-tour-calendar/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_atp_media_guide_lta",
+        "atp_calendar_distribution_pdf"
+      ],
+      "disposition": "Recovered primary annual reference. Reconcile newer event dates before using guide calendar."
+    },
+    {
+      "source_id": "atp_current_calendar",
+      "failed_url": "https://www.atptour.com/en/tournaments/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_atp_media_guide_lta",
+        "atp_calendar_distribution_pdf"
+      ],
+      "disposition": "Recovered primary annual reference. Reconcile newer event dates before using guide calendar."
+    },
+    {
+      "source_id": "atp_calendar_announcement",
+      "failed_url": "https://www.atptour.com/-/media/sites/atp-tour/press/press-releases/2026-atp-tour-calendar-announced.pdf",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_atp_media_guide_lta",
+        "atp_calendar_distribution_pdf"
+      ],
+      "disposition": "Recovered primary annual reference. Reconcile newer event dates before using guide calendar."
+    },
+    {
+      "source_id": "atp_2026_media_guide",
+      "failed_url": "https://www.atptour.com/-/media/files/media-guide/2026/2026-atp-media-guide-full-updated.pdf",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_atp_media_guide_lta",
+        "atp_calendar_distribution_pdf"
+      ],
+      "disposition": "Recovered primary annual reference. Reconcile newer event dates before using guide calendar."
+    },
+    {
+      "source_id": "miami_2026_media_notes",
+      "failed_url": "https://www.atptour.com/-/media/5a583484b6e145f68ad0d6e618986f67.pdf",
+      "failure_status": "403",
+      "replacement_ids": [
+        "miami_2026_official_op",
+        "miami_2026_official_mds",
+        "miami_2026_schedule_lta"
+      ],
+      "disposition": "Recovered schedule and draws needed for calendar. Full daily media-note narrative not recovered or necessary."
+    },
+    {
+      "source_id": "sonyliv_faq",
+      "failed_url": "https://www.sonyliv.com/faqs",
+      "failure_status": "403",
+      "replacement_ids": [
+        "sonyliv_subscription"
+      ],
+      "disposition": "Official pricing page replaces price requirement. Do not infer unobserved FAQ policies."
+    },
+    {
+      "source_id": "tennistv_countries",
+      "failed_url": "https://support.tennistv.com/hc/en-us/articles/21873885536028-Is-Tennis-TV-available-in-my-country",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v3_tennistv_india_iap",
+        "tennistv_product"
+      ],
+      "disposition": "India App Store listing and product page are qualified alternatives. Exact web checkout and complete territory policy remain unverified. Do not equate IAP and web prices."
+    },
+    {
+      "source_id": "tennistv_features",
+      "failed_url": "https://support.tennistv.com/hc/en-us/articles/21873861968028-Get-the-most-out-of-your-Tennis-TV-Premium-subscription",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v3_tennistv_india_iap",
+        "tennistv_product"
+      ],
+      "disposition": "India App Store listing and product page are qualified alternatives. Exact web checkout and complete territory policy remain unverified. Do not equate IAP and web prices."
+    },
+    {
+      "source_id": "f1_fancode_rights",
+      "failed_url": "https://corp.formula1.com/fancode-to-exclusively-broadcast-formula-1-in-india-in-multi-year-agreement-extension/",
+      "failure_status": "475",
+      "replacement_ids": [
+        "f1_rights_rendered"
+      ],
+      "disposition": "Official rendered rights announcement replaces blocked HTTP body."
+    },
+    {
+      "source_id": "atp_aces_announcement",
+      "failed_url": "https://www.atptour.com/en/news/aces-atp-no-1-club-docuseries-release-2026",
+      "failure_status": "403",
+      "replacement_ids": [
+        "atp_collect_rendered_v2",
+        "v4_deltatre_fantasy"
+      ],
+      "disposition": "Related engagement prior art replaces need for general examples. ACES-specific details not verified and excluded."
+    },
+    {
+      "source_id": "ey_influencer_2024",
+      "failed_url": "https://www.ey.com/en_in/insights/media-entertainment/how-influencer-marketing-is-impacting-brands-in-india",
+      "failure_status": "000",
+      "replacement_ids": [
+        "kofluence_2025_preview",
+        "kofluence_2025_report"
+      ],
+      "disposition": "Alternative India influencer report. Different publisher/year, not confirmation of original EY statistic."
+    },
+    {
+      "source_id": "cbic_gst_services",
+      "failed_url": "https://cbic-gst.gov.in/hindi/gst-goods-services-rates.html",
+      "failure_status": "000",
+      "replacement_ids": [
+        "v5_gst_council_rates"
+      ],
+      "disposition": "Primary rate table replaces failed tax explainers. Tax-inclusive checkout still a scenario."
+    },
+    {
+      "source_id": "sackmann_repository",
+      "failed_url": "https://api.github.com/repos/JeffSackmann/tennis_atp/contents/",
+      "failure_status": "404",
+      "replacement_ids": [
+        "sackmann_archive_upstream_readme",
+        "sackmann_archive_license",
+        "sackmann_archive_2026",
+        "tennismylife_2026"
+      ],
+      "disposition": "Archive and alternative results retained with cutoff and identifier reconciliation. No actual-start timestamps inferred."
+    },
+    {
+      "source_id": "sackmann_readme",
+      "failed_url": "https://raw.githubusercontent.com/JeffSackmann/tennis_atp/master/README.md",
+      "failure_status": "404",
+      "replacement_ids": [
+        "sackmann_archive_upstream_readme",
+        "sackmann_archive_license",
+        "sackmann_archive_2026",
+        "tennismylife_2026"
+      ],
+      "disposition": "Archive and alternative results retained with cutoff and identifier reconciliation. No actual-start timestamps inferred."
+    },
+    {
+      "source_id": "brisbane_2026_orders_play",
+      "failed_url": "https://www.tennis.com.au/brisbane-international/tournament/orders-of-play",
+      "failure_status": "403",
+      "replacement_ids": [
+        "brisbane_oop_20260104",
+        "brisbane_oop_20260111"
+      ],
+      "disposition": "All eight daily primary order-of-play PDFs saved. Planned/not-before times, not actual starts."
+    },
+    {
+      "source_id": "halle_2026_final_schedule",
+      "failed_url": "https://www.atptour.com/en/news/halle-2026-schedule",
+      "failure_status": "403",
+      "replacement_ids": [
+        "halle_2026_official_op",
+        "halle_final_rendered"
+      ],
+      "disposition": "Official order of play and rendered final schedule replace failed route."
+    },
+    {
+      "source_id": "indian_wells_2026_final_schedule",
+      "failed_url": "https://www.atptour.com/en/news/indian-wells-2026-schedule/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "indian_wells_2026_official_op",
+        "indian_wells_20260306_oop",
+        "indian_wells_20260307_oop"
+      ],
+      "disposition": "Selected official daily schedules, including final. Not complete tournament census."
+    },
+    {
+      "source_id": "rome_2026_programme_flipbook",
+      "failed_url": "https://fliphtml5.com/axhp/IBI26_Official_Programme/IBI26_Official_Programme/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "rome_2026_official_op",
+        "rome_2026_official_mds",
+        "rome_final_broadcaster"
+      ],
+      "disposition": "Primary final order of play and draw plus broadcaster schedule replace required timing fields."
+    },
+    {
+      "source_id": "winston_2026_official_op",
+      "failed_url": "https://www.protennislive.com/posting/2026/6242/op.pdf",
+      "failure_status": "429",
+      "replacement_ids": [
+        "winston_oop_pdf",
+        "winston_semifinal_oop"
+      ],
+      "disposition": "Alternative official daily PDFs. Session sample, not all dates."
+    },
+    {
+      "source_id": "atp_collect_launch",
+      "failed_url": "https://www.atptour.com/en/news/collect-2025-news-release",
+      "failure_status": "403",
+      "replacement_ids": [
+        "atp_collect_rendered_v2"
+      ],
+      "disposition": "Rendered official page recovered prior-art evidence."
+    },
+    {
+      "source_id": "google_trends_five_terms_explore",
+      "failed_url": "https://trends.google.com/trends/api/explore?hl=en-US&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22tennis%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222025-01-01+2026-09-12%22%7D%2C%7B%22keyword%22%3A%22FanCode%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222025-01-01+2026-09-12%22%7D%2C%7B%22keyword%22%3A%22Formula+1%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222025-01-01+2026-09-12%22%7D%2C%7B%22keyword%22%3A%22MotoGP%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222025-01-01+2026-09-12%22%7D%2C%7B%22keyword%22%3A%22football%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222025-01-01+2026-09-12%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "failure_status": "429",
+      "replacement_ids": [
+        "google_trends_daily_table_v2",
+        "google_trends_football_table_v5"
+      ],
+      "disposition": "Four-term daily table plus separate football/FanCode daily table. Different scales cannot be concatenated as one five-term export."
+    },
+    {
+      "source_id": "cbic_gst_services_english",
+      "failed_url": "https://cbic-gst.gov.in/gst-goods-services-rates.html",
+      "failure_status": "000",
+      "replacement_ids": [
+        "v5_gst_council_rates"
+      ],
+      "disposition": "Primary rate table replaces failed tax explainers. Tax-inclusive checkout still a scenario."
+    },
+    {
+      "source_id": "v3_wimbledon_creator_campaign",
+      "failed_url": "https://www.financialexpress.com/business/brandwagon-jiohotstar-taps-influencers-to-turn-wimbledon-into-a-lifestyle-experience-for-indias-young-consumers-3921366/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_wearisma_wimbledon"
+      ],
+      "disposition": "Alternative vendor campaign documentation. Use execution precedent, not causal efficacy or estimated paid CAC."
+    },
+    {
+      "source_id": "v3_cleartax_telecom_gst",
+      "failed_url": "https://cleartax.in/s/telecommunication-services-gst-rates-sac-code-9984",
+      "failure_status": "410",
+      "replacement_ids": [
+        "v5_gst_council_rates"
+      ],
+      "disposition": "Primary rate table replaces failed tax explainers. Tax-inclusive checkout still a scenario."
+    },
+    {
+      "source_id": "v3_fancode_f1_july_interview",
+      "failed_url": "https://www.financialexpress.com/business/brandwagon/waiting-for-the-green-flag/4287869/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v3_mint_fancode_f1"
+      ],
+      "disposition": "Different dated cofounder interview. Do not attribute January figures to July or call engaged fans paying subscribers."
+    },
+    {
+      "source_id": "v4_itd_price_mirror",
+      "failed_url": "https://twstalker.com/AryaMohite53560",
+      "failure_status": "403",
+      "replacement_ids": [
+        "fancode_monthly_final_v5",
+        "fancode_japan_entitlement_v5"
+      ],
+      "disposition": "Price rechecked through public official routes. Current ATP price and monthly inclusion remain unknown. Use brief price for case model and two entitlement branches, not historical social price."
+    },
+    {
+      "source_id": "v4_atp_social_2026",
+      "failed_url": "https://www.atptour.com/en/news/atp-social-growth-press-release-august-2026",
+      "failure_status": "403",
+      "replacement_ids": [
+        "fancode_youtube_tennis_search",
+        "fancode_youtube_atp_search"
+      ],
+      "disposition": "Narrow FanCode public-video metadata supports engagement proxy only. Global ATP August claim not recovered. Omit that claim rather than substitute views for Indian payer demand."
+    },
+    {
+      "source_id": "v4_atp_fantasy",
+      "failed_url": "https://www.atptour.com/-/media/sites/atp-tour/press/press-releases/atp-fantasy-press-release-2026.pdf",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v4_deltatre_fantasy"
+      ],
+      "disposition": "Official implementation partner confirms ATP fantasy mechanics. No retention effect inferred."
+    },
+    {
+      "source_id": "v4_mototiming_schedule",
+      "failed_url": "https://mototiming.live/api/schedule?filter=all",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v4_motogp_report_ned_rac",
+        "v4_assen_timetable"
+      ],
+      "disposition": "Official MotoGP session API and 29 combined reports replace aggregator. Offset errors and restart deduplication documented in v4 report."
+    },
+    {
+      "source_id": "v4_atp_fantasy_site",
+      "failed_url": "https://www.atptour.com/en/news/atp-launches-official-fantasy-game-2026",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v4_deltatre_fantasy"
+      ],
+      "disposition": "Official implementation partner confirms ATP fantasy mechanics. No retention effect inferred."
+    },
+    {
+      "source_id": "v4_trends_football_pair",
+      "failed_url": "https://trends.google.com/trends/api/explore?hl=en-US&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22football%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222026-01-01+2026-09-12%22%7D%2C%7B%22keyword%22%3A%22FanCode%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%222026-01-01+2026-09-12%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "failure_status": "429",
+      "replacement_ids": [
+        "google_trends_football_table_v5"
+      ],
+      "disposition": "Complete 255-row browser table recovered and checksum matched. Rounded relative interest, not zero-search proof."
+    },
+    {
+      "source_id": "v5_atp_media_index",
+      "failed_url": "https://www.atptour.com/en/media/mediaguide/",
+      "failure_status": "403",
+      "replacement_ids": [
+        "v5_atp_media_guide_lta",
+        "atp_calendar_distribution_pdf"
+      ],
+      "disposition": "Recovered primary annual reference. Reconcile newer event dates before using guide calendar."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Competition team",
+  "checked_at_utc": "2026-09-14T17:10:58.372716+00:00",
+  "result": "PASS",
+  "registered_metrics": 35,
+  "http_additions_by_release": {
+    "v3": 40,
+    "v4": 92,
+    "v5": 7
+  },
+  "f1_rounds": 23,
+  "vendor_csv_rows": 17,
+  "checks": [
+    "Metric source IDs, URLs, paths and raw hashes",
+    "Selected App Store featured prices",
+    "IBM India source table and EY page45 values",
+    "Dated Meta India ratecard and referral matrix",
+    "F1 unique rounds and parseable UTC clocks",
+    "Vendor CSV schema"
+  ],
+  "limitations": [
+    "Integrity and transcription checks are not validation of publisher estimates",
+    "No FanCode causal, willingness-to-pay or internal cohort data",
+    "Tennis Explorer timezone ambiguity remains unresolved"
+  ]
+}

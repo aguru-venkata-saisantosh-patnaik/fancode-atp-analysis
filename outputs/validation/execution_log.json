@@ -1,0 +1,90 @@
+{
+  "00_evidence_and_case": {
+    "status": "PASS",
+    "seconds": 3.06,
+    "code_cells": 4,
+    "executed_cells": 4,
+    "source_sha256": "08798082fd880ff623ea791e3d928f78bf9cdc5acf2f2f83335ae75f5ca8cbbc",
+    "executed_sha256": "a9f71a1d811970776c11da0e4cfdb3e02e248c40671d22903b43005dbba0060c"
+  },
+  "01_viewing_calendar": {
+    "status": "PASS",
+    "seconds": 3.34,
+    "code_cells": 5,
+    "executed_cells": 5,
+    "source_sha256": "f5de2284fcd72550516d6a8fd44805b61d247fdeab904d22f9956c91b4264f59",
+    "executed_sha256": "6d876fba47af7a1831c6f54ddad13179bfa57c05f762a4e3120b0b3b2afeac20"
+  },
+  "02_portfolio_clashes": {
+    "status": "PASS",
+    "seconds": 1.71,
+    "code_cells": 5,
+    "executed_cells": 5,
+    "source_sha256": "8ba7aaaf21cd33aa44d09b72cc1a33abb881b9543ad1957b0d2f599e4658a000",
+    "executed_sha256": "abf0f5badf66ea5fd621cc01801edcd5ae2cf5cc60e53cdb94ac71d94b9fb9e2"
+  },
+  "03_offers_and_baskets": {
+    "status": "PASS",
+    "seconds": 2.14,
+    "code_cells": 5,
+    "executed_cells": 5,
+    "source_sha256": "16948bd04808cc5e3c4ecdb6caeecba9d18ed2fdd4d0a746d980b2de85714c63",
+    "executed_sha256": "917ac1f5948d8ca4c2f1e9dbcf5df7d0e3afe6f291e5e9c16e93384c443e4c45"
+  },
+  "04_review_friction": {
+    "status": "PASS",
+    "seconds": 5.16,
+    "code_cells": 5,
+    "executed_cells": 5,
+    "source_sha256": "ea6431b31471484a980e12ccaa7511b993cc39f61eeabf747faca94ae10b5667",
+    "executed_sha256": "d4d09c2518795afb1207e40ad933a5829daea6ddd35b79cff14e54bcb0fad5d3"
+  },
+  "05_search_attention": {
+    "status": "PASS",
+    "seconds": 2.39,
+    "code_cells": 4,
+    "executed_cells": 4,
+    "source_sha256": "ee96eb27222fd9d1ea845e3b2b2785c63c34e1bdb09fd8a9fb72aa1a2cedd30a",
+    "executed_sha256": "44e8e7a9cc47ada7f16e37ce4a370bf667995bee91315c711d27e922efab42dc"
+  },
+  "06_player_and_video_risk": {
+    "status": "PASS",
+    "seconds": 1.75,
+    "code_cells": 4,
+    "executed_cells": 4,
+    "source_sha256": "6a259c2fc7d74d2b2e2875609c5f96175ae033d33027e89426b38a681346988f",
+    "executed_sha256": "9e11e9b9259be0a8579a8eba33ec78e4a2a3589127415466019130dfd916d385"
+  },
+  "07_contribution_and_pricing": {
+    "status": "PASS",
+    "seconds": 2.92,
+    "code_cells": 7,
+    "executed_cells": 7,
+    "source_sha256": "5a9b3ccfe0531c99c1f17e6c1e70e4e797ae7375ae6e5a6b7822d79bf5d8b575",
+    "executed_sha256": "a42e13408d60a81a1023d9862d5912ea3f956a329f27213f783ecbaff2813614"
+  },
+  "08_channel_economics": {
+    "status": "PASS",
+    "seconds": 1.83,
+    "code_cells": 6,
+    "executed_cells": 6,
+    "source_sha256": "e12e0769ddda00725b289bc72ac055b93062e93c014adcca2031b597ea6d8759",
+    "executed_sha256": "b2c7fbda78cbe29d72afad9a5e8dc5b31113f50cafd2457c5d20323b988456a1"
+  },
+  "09_retention_and_experiments": {
+    "status": "PASS",
+    "seconds": 2.19,
+    "code_cells": 5,
+    "executed_cells": 5,
+    "source_sha256": "f37fc76ab642d9ca1efbde7059106ae256322f5ae77aafc766152eb9c9bf9cb4",
+    "executed_sha256": "fa33e9b46950b150a138e68aff870c54f599e6fa0600f38e75127010daf40154"
+  },
+  "10_strategy_and_claims": {
+    "status": "PASS",
+    "seconds": 1.43,
+    "code_cells": 4,
+    "executed_cells": 4,
+    "source_sha256": "ed2f3325c2482ac7422d1591d0afdca17fce8db3e610274b34ea9c1b65c1922b",
+    "executed_sha256": "0fad05c261c2f3da348a80767155c4bfdf9eddba76ed6c427c60bf16508107ee"
+  }
+}

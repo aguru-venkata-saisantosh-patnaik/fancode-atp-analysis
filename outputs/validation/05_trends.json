@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "checks": {
+    "daily_dates_255": true,
+    "football_dates_identical": true,
+    "weekly_bins_53": true,
+    "bounded_values": true
+  }
+}

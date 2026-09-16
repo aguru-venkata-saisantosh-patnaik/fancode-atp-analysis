@@ -1,0 +1,6 @@
+stage,test,design,stop_or_scale_rule
+0,Instrumentation and entitlement,"Verify access, define first-ever payer and payment ledger, assign user IDs",Do not start price tests with unresolved access or missing refunds
+1,One acquisition treatment,"User-level persistent holdout, separate paid/owned eligibility, fixed horizon",Scale only positive incremental portfolio contribution with acceptable uncertainty
+2,One offer treatment,"Randomize within event and ownership strata, keep media constant",Reject if discount/credit displaces higher-value purchases
+3,Retention nudge,"After successful play, relevant next occasion versus holdout","Engagement is leading evidence only, renewal needs term maturity"
+4,Expansion,Increase only where measured marginal contribution and reachable capacity support it,Pause at nonpositive marginal contribution or worsening playback/refund guardrails

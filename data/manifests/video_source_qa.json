@@ -1,0 +1,26 @@
+{
+  "snapshots": [
+    {
+      "source_id": "fancode_youtube_tennis_search",
+      "channel": "FanCode",
+      "channel_id": "UCF10AG_t1AYW3mlmX7g1VJA",
+      "video_renderers": 28,
+      "unique_video_ids": 28,
+      "with_displayed_views": 28,
+      "with_relative_publication_label": 28,
+      "note": "Initial ranked keyword results only. Not a census or India-specific viewership. Relative publication labels are not precise timestamps."
+    },
+    {
+      "source_id": "fancode_youtube_atp_search",
+      "channel": "FanCode",
+      "channel_id": "UCF10AG_t1AYW3mlmX7g1VJA",
+      "video_renderers": 30,
+      "unique_video_ids": 30,
+      "with_displayed_views": 30,
+      "with_relative_publication_label": 30,
+      "note": "Initial ranked keyword results only. Not a census or India-specific viewership. Relative publication labels are not precise timestamps."
+    }
+  ],
+  "unique_video_ids_across_queries": 53,
+  "scope": "Metadata only. No video or image files downloaded. No views-to-payers inference."
+}

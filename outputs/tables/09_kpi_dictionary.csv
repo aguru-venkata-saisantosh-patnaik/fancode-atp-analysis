@@ -1,0 +1,9 @@
+kpi,definition,horizon,guardrail
+Incremental new-payer CAC,Incremental campaign cost / treatment-induced first-ever payers,30/60/90 days,Undefined if estimated lift <=0
+Portfolio contribution per eligible user,All portfolio net receipts minus variable costs / all randomized users,90 days plus renewal followup,"Include non-buyers as zero, refunds and displacement"
+Second-event engagement,Cohort users watching a different event / all mature eligible cohort users,30 days and next available relevant opportunity,"Pre-register 5/15/30-minute sensitivity, not universal habit threshold"
+Repeat payment,Users making a separate subsequent payment / mature paid cohort,30/60/90 days,Exclude initial prepaid validity and separate ATP/other-sport payment
+Renewal,Passes renewed / passes reaching genuine expiry plus grace,Term-specific,Do not call day30 active season access a renewal
+Playback failure,Paid viewing attempts failing to start / paid viewing attempts,First session and ongoing,Repeated attempts need user and attempt views
+Opt-out,Users opting out / messaged users,7/30 days,Include all treatment contacts
+Opportunity-adjusted return,Users returning at next relevant available event / eligible users with that opportunity,Next event plus fixed grace,Report users with no opportunity separately

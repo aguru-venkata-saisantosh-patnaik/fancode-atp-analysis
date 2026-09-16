@@ -1,0 +1,23 @@
+[
+  {
+    "app_id": "com.dream11sportsguru",
+    "parsed_review_count": 14800,
+    "unique_review_ids": 14800,
+    "oldest": "2024-12-21T13:38:27",
+    "newest": "2026-09-12T20:33:17",
+    "stop_reason": "requested_window_boundary_reached",
+    "error": null,
+    "previous_stop_reason": "cap_reached",
+    "note": "Resumed from saved public pagination. Boundary batches and any post-cutoff records retained raw. Later notebook must deduplicate and filter to registered window. India storefront does not establish reviewer residence."
+  },
+  {
+    "app_id": "com.fancode.tv",
+    "parsed_review_count": 93,
+    "unique_review_ids": 93,
+    "oldest": "2022-11-28T20:15:47",
+    "newest": "2026-08-26T11:05:03",
+    "stop_reason": "source_exhausted",
+    "error": null,
+    "note": "Original network response bodies are preserved. Parser counts are collection QA, not cleaned analysis. Country parameter does not prove every reviewer lives in India."
+  }
+]

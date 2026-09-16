@@ -1,0 +1,24 @@
+event,round,start_utc,source_id,sport,start_ist
+Australian Grand Prix,1,2026-03-08 04:00:00+00:00,v3_jolpica_races_2026,F1,2026-03-08 09:30:00+05:30
+Chinese Grand Prix,2,2026-03-15 07:00:00+00:00,v3_jolpica_races_2026,F1,2026-03-15 12:30:00+05:30
+Japanese Grand Prix,3,2026-03-29 05:00:00+00:00,v3_jolpica_races_2026,F1,2026-03-29 10:30:00+05:30
+Miami Grand Prix,4,2026-05-03 20:00:00+00:00,v3_jolpica_races_2026,F1,2026-05-04 01:30:00+05:30
+Canadian Grand Prix,5,2026-05-24 20:00:00+00:00,v3_jolpica_races_2026,F1,2026-05-25 01:30:00+05:30
+Monaco Grand Prix,6,2026-06-07 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-06-07 18:30:00+05:30
+Barcelona Grand Prix,7,2026-06-14 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-06-14 18:30:00+05:30
+Austrian Grand Prix,8,2026-06-28 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-06-28 18:30:00+05:30
+British Grand Prix,9,2026-07-05 14:00:00+00:00,v3_jolpica_races_2026,F1,2026-07-05 19:30:00+05:30
+Belgian Grand Prix,10,2026-07-19 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-07-19 18:30:00+05:30
+Hungarian Grand Prix,11,2026-07-26 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-07-26 18:30:00+05:30
+Dutch Grand Prix,12,2026-08-23 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-08-23 18:30:00+05:30
+Italian Grand Prix,13,2026-09-06 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-09-06 18:30:00+05:30
+Spanish Grand Prix,14,2026-09-13 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-09-13 18:30:00+05:30
+Azerbaijan Grand Prix,15,2026-09-26 11:00:00+00:00,v3_jolpica_races_2026,F1,2026-09-26 16:30:00+05:30
+Bahrain Grand Prix in Malaysia,16,2026-10-04 07:00:00+00:00,v3_jolpica_races_2026,F1,2026-10-04 12:30:00+05:30
+Singapore Grand Prix,17,2026-10-11 12:00:00+00:00,v3_jolpica_races_2026,F1,2026-10-11 17:30:00+05:30
+United States Grand Prix,18,2026-10-25 20:00:00+00:00,v3_jolpica_races_2026,F1,2026-10-26 01:30:00+05:30
+Mexico City Grand Prix,19,2026-11-01 20:00:00+00:00,v3_jolpica_races_2026,F1,2026-11-02 01:30:00+05:30
+Brazilian Grand Prix,20,2026-11-08 17:00:00+00:00,v3_jolpica_races_2026,F1,2026-11-08 22:30:00+05:30
+Las Vegas Grand Prix,21,2026-11-22 04:00:00+00:00,v3_jolpica_races_2026,F1,2026-11-22 09:30:00+05:30
+Qatar Grand Prix,22,2026-11-29 16:00:00+00:00,v3_jolpica_races_2026,F1,2026-11-29 21:30:00+05:30
+Abu Dhabi Grand Prix,23,2026-12-06 13:00:00+00:00,v3_jolpica_races_2026,F1,2026-12-06 18:30:00+05:30

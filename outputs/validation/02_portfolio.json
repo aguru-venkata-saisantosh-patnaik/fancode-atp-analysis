@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "checks": {
+    "f1_23_rounds": true,
+    "football_250_rows": true,
+    "motogp_177_unique": true,
+    "assen_offset_difference_2h": true,
+    "no_negative_overlap": true
+  }
+}

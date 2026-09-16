@@ -1,0 +1,17 @@
+event,start_date,end_date,source_id,regular_atp
+Davis Cup Qualifiers 2nd Rd Multiple Locations,2026-09-17,2026-09-20,atp_future_calendar_rendered_v2,False
+"Chengdu, China Chengdu Open",2026-09-23,2026-09-29,atp_future_calendar_rendered_v2,True
+"Hangzhou, China Hangzhou Open",2026-09-23,2026-09-29,atp_future_calendar_rendered_v2,True
+"Laver Cup London, Great Britain",2026-09-25,2026-09-27,atp_future_calendar_rendered_v2,False
+"Beijing, China China Open",2026-09-30,2026-10-06,atp_future_calendar_rendered_v2,True
+"Tokyo, Japan Kinoshita Group Japan Open Tennis Championships",2026-09-30,2026-10-06,atp_future_calendar_rendered_v2,True
+"Shanghai, China Rolex Shanghai Masters",2026-10-07,2026-10-18,atp_future_calendar_rendered_v2,True
+"Almaty, Kazakhstan Almaty Open",2026-10-19,2026-10-25,atp_future_calendar_rendered_v2,True
+"Lyon, France Grand Prix Auvergne-Rhone-Alpes",2026-10-19,2026-10-25,atp_future_calendar_rendered_v2,True
+"Brussels, Belgium BNP Paribas Fortis European Open",2026-10-19,2026-10-25,atp_future_calendar_rendered_v2,True
+"Vienna, Austria Erste Bank Open",2026-10-26,2026-11-01,atp_future_calendar_rendered_v2,True
+"Basel, Switzerland Swiss Indoors Basel",2026-10-26,2026-11-01,atp_future_calendar_rendered_v2,True
+"Paris, France Rolex Paris Masters",2026-11-02,2026-11-08,atp_future_calendar_rendered_v2,True
+"Stockholm, Sweden Bybit Stockholm Open",2026-11-08,2026-11-14,atp_future_calendar_rendered_v2,True
+"Nitto ATP Finals Turin, Italy",2026-11-15,2026-11-22,atp_future_calendar_rendered_v2,True
+"Davis Cup Finals Bologna, Italy",2026-11-23,2026-11-29,atp_future_calendar_rendered_v2,False

@@ -1,0 +1,682 @@
+{
+  "author": "Competition team",
+  "checked_at_utc": "2026-09-14T17:10:38.453283+00:00",
+  "result": "PASS",
+  "new_http_sources": 92,
+  "retrieved": 86,
+  "failed": 6,
+  "football": [
+    {
+      "source_id": "v4_laliga_2526",
+      "rows": 380,
+      "first_date": "2025-08-15T18:00:00",
+      "last_date": "2026-05-24T20:00:00",
+      "in_2026_through_sep12": 209,
+      "after_sep12": 0,
+      "all_clocks_parse": true,
+      "timezone_status": "Europe/London inference supported by two primary fixture checks and independent integration documentation. Provider notes do not state timezone."
+    },
+    {
+      "source_id": "v4_laliga_2627",
+      "rows": 41,
+      "first_date": "2026-08-15T18:30:00",
+      "last_date": "2026-09-07T20:30:00",
+      "in_2026_through_sep12": 41,
+      "after_sep12": 0,
+      "all_clocks_parse": true,
+      "timezone_status": "Europe/London inference supported by two primary fixture checks and independent integration documentation. Provider notes do not state timezone."
+    }
+  ],
+  "motogp": {
+    "events": 22,
+    "session_records": 177,
+    "session_types": {
+      "FP": 44,
+      "PR": 22,
+      "Q": 44,
+      "SPR": 22,
+      "WUP": 22,
+      "RAC": 23
+    },
+    "status_counts": {
+      "FINISHED": 113,
+      "NOT-STARTED": 64
+    },
+    "raw_dates_after_sep12": 66,
+    "per_event": [
+      {
+        "source_id": "v4_motogp_sessions_tha",
+        "event": "THA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_bra",
+        "event": "BRA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_usa",
+        "event": "USA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_spa",
+        "event": "SPA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_fra",
+        "event": "FRA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_cat",
+        "event": "CAT",
+        "records": 9,
+        "race_records": 2,
+        "statuses": {
+          "FINISHED": 9
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_ita",
+        "event": "ITA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_hun",
+        "event": "HUN",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_cze",
+        "event": "CZE",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_ned",
+        "event": "NED",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_ger",
+        "event": "GER",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_gbr",
+        "event": "GBR",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_ara",
+        "event": "ARA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_rsm",
+        "event": "RSM",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "FINISHED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_aut",
+        "event": "AUT",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_jpn",
+        "event": "JPN",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_ina",
+        "event": "INA",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_aus",
+        "event": "AUS",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_mal",
+        "event": "MAL",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_qat",
+        "event": "QAT",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_por",
+        "event": "POR",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      },
+      {
+        "source_id": "v4_motogp_sessions_val",
+        "event": "VAL",
+        "records": 8,
+        "race_records": 1,
+        "statuses": {
+          "NOT-STARTED": 8
+        }
+      }
+    ],
+    "official_reports": [
+      {
+        "source_id": "v4_motogp_report_tha_spr",
+        "pages": 19,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'13"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_tha_rac",
+        "pages": 25,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:02'07"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_bra_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "16:22'08"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_bra_rac",
+        "pages": 24,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:01'58"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_usa_spr",
+        "pages": 18,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:12'41"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_usa_rac",
+        "pages": 22,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:02'36"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_spa_spr",
+        "pages": 22,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'07"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_spa_rac",
+        "pages": 27,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'05"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_fra_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'06"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_fra_rac",
+        "pages": 24,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "14:01'57"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_cat_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'23"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_cat_rac",
+        "pages": 15,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'17"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_cat_rac2",
+        "pages": 25,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'17",
+              "14:53'06"
+            ]
+          },
+          {
+            "page": 3,
+            "race_start_clocks": [
+              "15:16'58"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ita_spr",
+        "pages": 19,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:02'31"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ita_rac",
+        "pages": 25,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "14:02'19"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_hun_spr",
+        "pages": 19,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:02'07"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_hun_rac",
+        "pages": 26,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'07"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_cze_spr",
+        "pages": 18,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'21"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_cze_rac",
+        "pages": 23,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'23"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ned_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'13"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ned_rac",
+        "pages": 26,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:02'03"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ger_spr",
+        "pages": 18,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "15:01'45"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ger_rac",
+        "pages": 24,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "14:01'46"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_gbr_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "16:07'37"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_gbr_rac",
+        "pages": 24,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "13:02'33"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ara_spr",
+        "pages": 20,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:02'18"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_ara_rac",
+        "pages": 26,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 1,
+            "race_start_clocks": [
+              "14:02'20"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_rsm_spr",
+        "pages": 19,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "15:01'56"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      },
+      {
+        "source_id": "v4_motogp_report_rsm_rac",
+        "pages": 26,
+        "pages_scanned": 3,
+        "race_start_evidence": [
+          {
+            "page": 2,
+            "race_start_clocks": [
+              "14:01'59"
+            ]
+          }
+        ],
+        "semantics": "Race-control local clock. May repeat history across documents and include restarts. No blanket UTC conversion."
+      }
+    ],
+    "timezone_defect": "Assen API literal +00:00 and ICS Z conflict with official local UTC+2 schedule. Quarantine offsets until per-circuit normalization is justified. API records are not an actual-start log."
+  },
+  "trends": {
+    "rows": 53,
+    "series": [
+      "tennis",
+      "FanCode"
+    ],
+    "geo": "IN",
+    "requested_window": "2025-01-01 2025-12-31",
+    "frequency": "weekly",
+    "first_bin": "Dec 29, 2024 – Jan 4, 2025",
+    "last_bin": "Dec 28, 2025 – Jan 3, 2026",
+    "boundary_warning": "First and last weekly bins cross requested year boundaries. Do not prorate weekly values or compare levels against separately normalized 2026 data.",
+    "football_status": "HTTP 429, not recovered"
+  },
+  "visual_checks": [
+    "Assen race report page 2: race start 14:02:03",
+    "Catalunya RAC2 report page 2: race starts 14:02:17 and 14:53:06 with intervening red flags"
+  ],
+  "scope": "PASS is source integrity and explicit data-defect detection, not evidence that all source values are correct or complete."
+}

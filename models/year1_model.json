@@ -1,0 +1,275 @@
+{
+ "channels": {
+  "owned": {
+   "cac": 99.3,
+   "payers": 92345,
+   "cost_cr": 0.917,
+   "share": 0.302
+  },
+  "native": {
+   "cac": 150.0,
+   "payers": 28439,
+   "cost_cr": 0.427,
+   "share": 0.14
+  },
+  "performance": {
+   "cac": 333.3,
+   "payers": 30628,
+   "cost_cr": 1.021,
+   "share": 0.336
+  },
+  "contests": {
+   "cac": 159.0,
+   "payers": 15912,
+   "cost_cr": 0.253,
+   "share": 0.083
+  },
+  "publisher": {
+   "cac": 180.0,
+   "payers": 6600,
+   "cost_cr": 0.119,
+   "share": 0.039
+  },
+  "brand_measurement": {
+   "cost_cr": 0.304,
+   "share": 0.1
+  }
+ },
+ "budget": {
+  "acquisition_cr": 2.736,
+  "total_cr": 3.04,
+  "payers": 173924,
+  "blended_media_cac": 157.3,
+  "blended_loaded_cac": 174.8,
+  "icac_at_60pct": 291.3,
+  "icac_at_875pct": 199.7
+ },
+ "flows": [
+  {
+   "persona": "football",
+   "channel": "owned",
+   "payers": 47952
+  },
+  {
+   "persona": "football",
+   "channel": "native",
+   "payers": 11988
+  },
+  {
+   "persona": "football",
+   "channel": "performance",
+   "payers": 11988
+  },
+  {
+   "persona": "football",
+   "channel": "contests",
+   "payers": 7992
+  },
+  {
+   "persona": "f1",
+   "channel": "owned",
+   "payers": 38095
+  },
+  {
+   "persona": "f1",
+   "channel": "native",
+   "payers": 14652
+  },
+  {
+   "persona": "f1",
+   "channel": "performance",
+   "payers": 5861
+  },
+  {
+   "persona": "motogp",
+   "channel": "owned",
+   "payers": 6297
+  },
+  {
+   "persona": "motogp",
+   "channel": "native",
+   "payers": 1799
+  },
+  {
+   "persona": "motogp",
+   "channel": "performance",
+   "payers": 900
+  },
+  {
+   "persona": "slam",
+   "channel": "performance",
+   "payers": 11880
+  },
+  {
+   "persona": "slam",
+   "channel": "contests",
+   "payers": 7920
+  },
+  {
+   "persona": "slam",
+   "channel": "publisher",
+   "payers": 6600
+  }
+ ],
+ "pnl": {
+  "new_gross_cr": 3.034,
+  "new_contrib_cr": 1.477,
+  "upgrades": 86400,
+  "upg_gross_cr": 3.447,
+  "upg_contrib_cr": 1.521,
+  "acq_cr": 3.04,
+  "retention_cr": 0.214,
+  "y1_net_cr": -0.256,
+  "y2_retained_contrib_cr": 2.253,
+  "cum24_net_cr": 1.997,
+  "payback_months": 13.4,
+  "per_upgrade_contrib": 176.09
+ },
+ "passes": {
+  "0.6_3": 1.96,
+  "0.65_3": 2.07,
+  "0.65_5": 2.53,
+  "0.7_5": 2.77
+ },
+ "passes_contrib": {
+  "0.6_3": 84.9,
+  "0.65_3": 89.7,
+  "0.65_5": 109.6,
+  "0.7_5": 120.0
+ },
+ "remaining_price": {
+  "date": "2026-09-10",
+  "events": 12,
+  "price": 89
+ },
+ "per_event": {
+  "fancode_season_jan": 7.4,
+  "fancode_remaining_now": 7.4,
+  "tennistv_annual": 81.8,
+  "tournament_89": 89
+ },
+ "spillover": [
+  {
+   "slam": "Australian Open",
+   "final": "2026-02-01",
+   "next": [
+    "Montpellier (250)",
+    "Dallas (500)",
+    "Rotterdam (500)",
+    "Buenos Aires (250)"
+   ]
+  },
+  {
+   "slam": "Roland Garros",
+   "final": "2026-06-07",
+   "next": [
+    "\u2019S-Hertogenbosch (250)",
+    "Stuttgart (250)",
+    "Halle (500)",
+    "London (500)"
+   ]
+  },
+  {
+   "slam": "Wimbledon",
+   "final": "2026-07-12",
+   "next": [
+    "Bastad (250)",
+    "Gstaad (250)",
+    "Umag (250)",
+    "Kitzbuhel (250)",
+    "Estoril (250)"
+   ]
+  },
+  {
+   "slam": "US Open",
+   "final": "2026-09-13",
+   "next": [
+    "Chengdu 4, (250)",
+    "Hangzhou 4, (250)"
+   ]
+  }
+ ],
+ "unmapped": [
+  "ESTORIL"
+ ],
+ "tz_buckets": [
+  {
+   "bucket": "Americas",
+   "events": 14,
+   "masters": 4
+  },
+  {
+   "bucket": "Asia and Oceania",
+   "events": 10,
+   "masters": 1
+  },
+  {
+   "bucket": "Europe and Middle East",
+   "events": 30,
+   "masters": 4
+  }
+ ],
+ "ist_15_by_bucket": {
+  "Americas": [
+   "00:30",
+   "01:30",
+   "02:30",
+   "03:30",
+   "04:30",
+   "23:30"
+  ],
+  "Asia and Oceania": [
+   "07:30",
+   "10:00",
+   "10:30",
+   "11:30",
+   "12:30",
+   "15:30"
+  ],
+  "Europe and Middle East": [
+   "16:30",
+   "17:30",
+   "18:30",
+   "19:30"
+  ]
+ },
+ "f1_next": [
+  {
+   "event": "Azerbaijan Grand Prix",
+   "ist": "2026-09-26 16:30"
+  },
+  {
+   "event": "Bahrain Grand Prix in Malaysia",
+   "ist": "2026-10-04 12:30"
+  },
+  {
+   "event": "Singapore Grand Prix",
+   "ist": "2026-10-11 17:30"
+  },
+  {
+   "event": "United States Grand Prix",
+   "ist": "2026-10-26 01:30"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "ist": "2026-11-02 01:30"
+  },
+  {
+   "event": "Brazilian Grand Prix",
+   "ist": "2026-11-08 22:30"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "ist": "2026-11-22 09:30"
+  },
+  {
+   "event": "Qatar Grand Prix",
+   "ist": "2026-11-29 21:30"
+  },
+  {
+   "event": "Abu Dhabi Grand Prix",
+   "ist": "2026-12-06 18:30"
+  }
+ ],
+ "owned_test_cost": 73548
+}

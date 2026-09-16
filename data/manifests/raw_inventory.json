@@ -1,0 +1,4670 @@
+[
+  {
+    "file": "data/raw/_failed_requests/audience_reports/v4_atp_social_2026__b5e8e7739da1.html",
+    "bytes": 5644,
+    "sha256": "b5e8e7739da1ac3c035dbb3f66a34ea1b5003ced266ab5d4975116051e17a6a8",
+    "source_ids": [
+      "v4_atp_social_2026"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/company/atp_aces_announcement__b0063a1417e7.html",
+    "bytes": 5641,
+    "sha256": "b0063a1417e7810f130813535f31988d4d992e38815c5a9b3a0bc8dd2e68e7f1",
+    "source_ids": [
+      "atp_aces_announcement"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/company/f1_fancode_rights__b146166624e2.html",
+    "bytes": 13,
+    "sha256": "b146166624e249e43b7543bcf958e4f7cb778cd1c76728aee2c18809a4ef86ad",
+    "source_ids": [
+      "f1_fancode_rights"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/_failed_requests/company/v3_fancode_f1_july_interview__e3baaf7d31e4.html",
+    "bytes": 919,
+    "sha256": "e3baaf7d31e4b2700c8c38a7504059af0fb9b2f266e2cde8c7f808ea4b859368",
+    "source_ids": [
+      "v3_fancode_f1_july_interview"
+    ],
+    "format": "HTML",
+    "title": "ERROR: The request could not be satisfied",
+    "visible_text_characters": 553
+  },
+  {
+    "file": "data/raw/_failed_requests/company/v5_atp_media_index__c1b0ebfa4c32.html",
+    "bytes": 5487,
+    "sha256": "c1b0ebfa4c3285a68c0e4c7806cbe65d8bbbcf42ec968bc95fb1156112353e47",
+    "source_ids": [
+      "v5_atp_media_index"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/cost_benchmarks/v3_cleartax_telecom_gst__c83debb1a895.html",
+    "bytes": 334,
+    "sha256": "c83debb1a895388050ec3476cde6f01f43846c51957d5a96036755a951d1826e",
+    "source_ids": [
+      "v3_cleartax_telecom_gst"
+    ],
+    "format": "HTML",
+    "title": "410 Gone",
+    "visible_text_characters": 55
+  },
+  {
+    "file": "data/raw/_failed_requests/engagement/v3_wimbledon_creator_campaign__f95dfb2eac37.html",
+    "bytes": 919,
+    "sha256": "f95dfb2eac37a4c71b7fd96dca38b049d71a8427e5bcc57f162ba29429cfcf31",
+    "source_ids": [
+      "v3_wimbledon_creator_campaign"
+    ],
+    "format": "HTML",
+    "title": "ERROR: The request could not be satisfied",
+    "visible_text_characters": 553
+  },
+  {
+    "file": "data/raw/_failed_requests/engagement/v4_atp_fantasy__37a30a6b239f.pdf",
+    "bytes": 5768,
+    "sha256": "37a30a6b239f0d64189d523c7f87c15a9c46cf632a164dffca0d93b1ea629308",
+    "source_ids": [
+      "v4_atp_fantasy"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/engagement/v4_atp_fantasy_site__79943825f18c.html",
+    "bytes": 5611,
+    "sha256": "79943825f18cd93673f22de070f743facd463c0146575fff1ad2125167f2cc10",
+    "source_ids": [
+      "v4_atp_fantasy_site"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/offers/sonyliv_faq__9bce46541530.html",
+    "bytes": 919,
+    "sha256": "9bce4654153049fe416a4fee332d383a44c157aedda57593672be6fb914fe8d6",
+    "source_ids": [
+      "sonyliv_faq"
+    ],
+    "format": "HTML",
+    "title": "ERROR: The request could not be satisfied",
+    "visible_text_characters": 553
+  },
+  {
+    "file": "data/raw/_failed_requests/offers/tennistv_countries__abe72a315c7e.html",
+    "bytes": 5682,
+    "sha256": "abe72a315c7e68da46ee22816ccc2a7cc2d515299afcdab3e40736a1887723ab",
+    "source_ids": [
+      "tennistv_countries"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/offers/tennistv_features__8e63d6cf63a0.html",
+    "bytes": 5781,
+    "sha256": "8e63d6cf63a04bad033d179b6314f832401288d157afd0bfbaf3b24658ec31c4",
+    "source_ids": [
+      "tennistv_features"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/dubai_2026_official_mds__e2f34362ea51.html",
+    "bytes": 5548,
+    "sha256": "e2f34362ea5184055e5bb8f28c908d8d6575e35f2674faa29db44b19b509884f",
+    "source_ids": [
+      "dubai_2026_official_mds"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/indian_wells_2026_official_mds__086e6b67a27e.html",
+    "bytes": 5548,
+    "sha256": "086e6b67a27e55c83153307371097790f5573859fb1eb71ee809df104fe60ca7",
+    "source_ids": [
+      "indian_wells_2026_official_mds"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/madrid_2026_official_mds__9674b3950af4.html",
+    "bytes": 5551,
+    "sha256": "9674b3950af4d055560f6f94720ab5b3dfa306079a02e0cc04b0563d5d4cb7b0",
+    "source_ids": [
+      "madrid_2026_official_mds"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/marrakech_2026_official_mds__86203457174a.html",
+    "bytes": 5548,
+    "sha256": "86203457174ab075070d6c3dff11100c419e8b3fc5c2f228f9cb8d0a44f1876c",
+    "source_ids": [
+      "marrakech_2026_official_mds"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/sackmann_readme__d5558cd419c8.html",
+    "bytes": 14,
+    "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
+    "source_ids": [
+      "sackmann_readme"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/sackmann_repository__0f74c8b9c1f0.json",
+    "bytes": 141,
+    "sha256": "0f74c8b9c1f03a2b9d2da1ebe4f7c027ecb616202d539401c259562157c5a216",
+    "source_ids": [
+      "sackmann_repository"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/_failed_requests/player_results/winston_2026_official_mds__9fc2b6bbd899.html",
+    "bytes": 5551,
+    "sha256": "9fc2b6bbd8995d319636df317a0554f779d13ef04115349992e691b4074cff37",
+    "source_ids": [
+      "winston_2026_official_mds"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/pricing/v4_itd_price_mirror__19dc920ac536.html",
+    "bytes": 5342,
+    "sha256": "19dc920ac5360d23e93832dbf714da63631188a5b2674659878f2a813beec2d0",
+    "source_ids": [
+      "v4_itd_price_mirror"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/retention/atp_collect_launch__774527ccda69.html",
+    "bytes": 5569,
+    "sha256": "774527ccda69a08da4e1061d084f984179eb6f8355fb263ca3f24cb7ddd8ab13",
+    "source_ids": [
+      "atp_collect_launch"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/atp_2026_media_guide__0b9c0b1574ec.html",
+    "bytes": 5695,
+    "sha256": "0b9c0b1574ec123a7adc71aa507f394db2703c9923bd194ad5751b3c482a55d4",
+    "source_ids": [
+      "atp_2026_media_guide"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/atp_calendar_2026_article__31765d0c6021.html",
+    "bytes": 5599,
+    "sha256": "31765d0c602195c4054bbd43379e95a77569511e8fbcf7acabe3c6f382bf7d97",
+    "source_ids": [
+      "atp_calendar_2026_article"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/atp_calendar_announcement__e637e9d82ecf.html",
+    "bytes": 5774,
+    "sha256": "e637e9d82ecf3261c382cd17feef073108dcd7d1bc45775acc5a5f40739aafb2",
+    "source_ids": [
+      "atp_calendar_announcement"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/atp_current_calendar__63f531bb4cac.html",
+    "bytes": 5451,
+    "sha256": "63f531bb4cac0020c8e6b3b9d7f4347d22876a760de49852b5804b416df5bfdd",
+    "source_ids": [
+      "atp_current_calendar"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/brisbane_2026_orders_play__f61431214553.html",
+    "bytes": 5488,
+    "sha256": "f61431214553168697451866eea16aec28bf265dff85271b21d53ab1edd3bb33",
+    "source_ids": [
+      "brisbane_2026_orders_play"
+    ],
+    "format": "HTML",
+    "title": "Attention Required! | Cloudflare",
+    "visible_text_characters": 758
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/dubai_2026_official_op__b4808973180d.html",
+    "bytes": 5545,
+    "sha256": "b4808973180d4638643881522aa32e8eb69a570f06d7ec3298d99a6e87d92cf0",
+    "source_ids": [
+      "dubai_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/halle_2026_final_schedule__a3084c13948c.html",
+    "bytes": 5508,
+    "sha256": "a3084c13948c27f6e7074588e74de834f5707d22f2e4986581d6889da088aa5d",
+    "source_ids": [
+      "halle_2026_final_schedule"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/indian_wells_2026_final_schedule__99de9075e8a1.html",
+    "bytes": 5575,
+    "sha256": "99de9075e8a1463aa71c3c7ad88fc394575470b1f79dc7092e079f71e88da566",
+    "source_ids": [
+      "indian_wells_2026_final_schedule"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/indian_wells_2026_official_op__328892cd61aa.html",
+    "bytes": 5545,
+    "sha256": "328892cd61aaa80e0b8a8058a115b0cd85c8f8bb84ada27f449a2ff269ac6e73",
+    "source_ids": [
+      "indian_wells_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/madrid_2026_official_op__0d4ed7478e05.html",
+    "bytes": 5548,
+    "sha256": "0d4ed7478e05dceadbf41c06918d3bf81b51689b2413b106bb0ee3035618cecd",
+    "source_ids": [
+      "madrid_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/marrakech_2026_official_op__3dfcaab24c2f.html",
+    "bytes": 5545,
+    "sha256": "3dfcaab24c2fb7a6ea8c2c728dde2b151892ca0f50b769a4ede623686f4b36f0",
+    "source_ids": [
+      "marrakech_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/miami_2026_media_notes__de7342559b31.html",
+    "bytes": 5581,
+    "sha256": "de7342559b31277a80726f593376300fa20073f92d53ca69413b2c30bc7e804e",
+    "source_ids": [
+      "miami_2026_media_notes"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/miami_2026_official_op__a71d01ad8b7f.html",
+    "bytes": 5545,
+    "sha256": "a71d01ad8b7fbb495129e950f6edacf3790eba63de62b061f101df929914412f",
+    "source_ids": [
+      "miami_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/rome_2026_programme_flipbook__25ac4223a7d5.html",
+    "bytes": 5633,
+    "sha256": "25ac4223a7d55746743b8164f21a7c3e39cd49bc32cd1a8d1c9d7260f4b7731e",
+    "source_ids": [
+      "rome_2026_programme_flipbook"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/v4_mototiming_schedule__088f95b67285.json",
+    "bytes": 4576,
+    "sha256": "088f95b672850bfb096d6b19c8ac82fe975afe91eb55dc74de4881d4036fa653",
+    "source_ids": [
+      "v4_mototiming_schedule"
+    ],
+    "format": "HTML",
+    "title": "Attention Required! | Cloudflare",
+    "visible_text_characters": 784
+  },
+  {
+    "file": "data/raw/_failed_requests/schedules/winston_2026_official_op__e8584cb9c0db.html",
+    "bytes": 5548,
+    "sha256": "e8584cb9c0dbdc51a12e26d5347dbca8debdc364235edb8c370ceb184a4a746b",
+    "source_ids": [
+      "winston_2026_official_op"
+    ],
+    "format": "HTML",
+    "title": "Just a moment...",
+    "visible_text_characters": 58
+  },
+  {
+    "file": "data/raw/_failed_requests/search_interest/google_trends_five_terms_explore__53ef7165d419.txt",
+    "bytes": 1701,
+    "sha256": "53ef7165d419bb89c5a86cd9aef14a41629e4f1251af2f896e8c1ecebf6650b5",
+    "source_ids": [
+      "google_trends_five_terms_explore"
+    ],
+    "format": "HTML",
+    "title": "Error 429 (Too Many Requests)!!1",
+    "visible_text_characters": 163
+  },
+  {
+    "file": "data/raw/_failed_requests/search_interest/v4_trends_football_pair__a17819545ad0.txt",
+    "bytes": 1701,
+    "sha256": "a17819545ad058c67567e727267dc1880c501697df5ce6410b84d8ec84f2c756",
+    "source_ids": [
+      "v4_trends_football_pair"
+    ],
+    "format": "HTML",
+    "title": "Error 429 (Too Many Requests)!!1",
+    "visible_text_characters": 163
+  },
+  {
+    "file": "data/raw/audience_reports/v3_cott_2025__1d7b47d53006.pdf",
+    "bytes": 4800406,
+    "sha256": "1d7b47d5300636a9734cf25a0e6937761e1a9550bd5257e447858fc311fb9bc8",
+    "source_ids": [
+      "v3_cott_2025"
+    ],
+    "format": "PDF",
+    "page_count": 77,
+    "text_layer_characters": 94168
+  },
+  {
+    "file": "data/raw/audience_reports/v3_ficci_ey_2026__be39d7e62768.pdf",
+    "bytes": 41602996,
+    "sha256": "be39d7e627685b65f8d5ee385031c4757f099008ea42556955b61ebd1759c9eb",
+    "source_ids": [
+      "v3_ficci_ey_2026"
+    ],
+    "format": "PDF",
+    "page_count": 323,
+    "text_layer_characters": 624241
+  },
+  {
+    "file": "data/raw/audience_reports/v3_ibm_sports_survey_2025__cf51c5136f14.pdf",
+    "bytes": 1747765,
+    "sha256": "cf51c5136f1408a6d77418d5f50d4f14fc2c75888a30a1f8e20128d43ad7e9dd",
+    "source_ids": [
+      "v3_ibm_sports_survey_2025"
+    ],
+    "format": "PDF",
+    "page_count": 78,
+    "text_layer_characters": 108503
+  },
+  {
+    "file": "data/raw/audience_reports/v3_kpmg_sportlight_2025__a8aa11c8327b.pdf",
+    "bytes": 18724577,
+    "sha256": "a8aa11c8327b80652f3ad5283f16bfb59aedc131f8b2f31de4a4fc8bedf661bb",
+    "source_ids": [
+      "v3_kpmg_sportlight_2025"
+    ],
+    "format": "PDF",
+    "page_count": 127,
+    "text_layer_characters": 296438
+  },
+  {
+    "file": "data/raw/audience_reports/v3_ormax_ott_2026__a5cc10dc9092.html",
+    "bytes": 46093,
+    "sha256": "a5cc10dc9092311c2588868e91eeebbf12956e3ada01ede580071ac3d8a93d92",
+    "source_ids": [
+      "v3_ormax_ott_2026"
+    ],
+    "format": "HTML",
+    "title": "The Ormax OTT Audience Report: 2026",
+    "visible_text_characters": 5454
+  },
+  {
+    "file": "data/raw/audience_reports/v3_ormax_sports_2024__eb4999104f11.html",
+    "bytes": 46248,
+    "sha256": "eb4999104f1155226d96a0c9e5010980491fecc90355148af2f102b31b2becc0",
+    "source_ids": [
+      "v3_ormax_sports_2024"
+    ],
+    "format": "HTML",
+    "title": "678 million sports audiences in India... Game on!",
+    "visible_text_characters": 5034
+  },
+  {
+    "file": "data/raw/audience_reports/v3_revenuecat_2026__664d7d57978b.html",
+    "bytes": 1782371,
+    "sha256": "664d7d57978b95d498739e8517534883f3e4602b0ea645df9b16eabfb0ecbb7b",
+    "source_ids": [
+      "v3_revenuecat_2026"
+    ],
+    "format": "HTML",
+    "title": "State of Subscription Apps 2026 – RevenueCat",
+    "visible_text_characters": 178156
+  },
+  {
+    "file": "data/raw/audience_reports/v3_wimbledon_india__a5485cf2fe64.html",
+    "bytes": 330933,
+    "sha256": "a5485cf2fe64304e56d750bd111dc19aa5986f03a7bb5dce42c481a18f57db99",
+    "source_ids": [
+      "v3_wimbledon_india"
+    ],
+    "format": "HTML",
+    "title": "Wimbledon’s rising viewership and steady ad rates attract marketers, ETBrandEquity",
+    "visible_text_characters": 16407
+  },
+  {
+    "file": "data/raw/audience_reports/v3_yougov_cricket_2025__c867a98c2e9b.pdf",
+    "bytes": 2553961,
+    "sha256": "c867a98c2e9b23d88ab9441763bceeb6b4a695c27fa088c96757eee67d6965b8",
+    "source_ids": [
+      "v3_yougov_cricket_2025"
+    ],
+    "format": "PDF",
+    "page_count": 29,
+    "text_layer_characters": 11619
+  },
+  {
+    "file": "data/raw/audience_reports/v4_mint_isl_audience__e0c56ff99d53.html",
+    "bytes": 183992,
+    "sha256": "e0c56ff99d53f0d950d1966d4fb6badbb1428b357e24fba9dcb2b335ae0284f9",
+    "source_ids": [
+      "v4_mint_isl_audience"
+    ],
+    "format": "HTML",
+    "title": "Can a successful media rights bid save the Indian Super League from stagnating and its clubs from financial troubles? | Mint",
+    "visible_text_characters": 12375
+  },
+  {
+    "file": "data/raw/audience_reports/v5_atp_social_feed__f8cd21d3a01d.xml",
+    "bytes": 359958,
+    "sha256": "f8cd21d3a01defef00d69984e46941213743bfe97945a2729a81fa6dc009a1ce",
+    "source_ids": [
+      "v5_atp_social_feed"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/atp_collect_rendered_v2__8d86fbe616c1.txt",
+    "bytes": 1286,
+    "sha256": "8d86fbe616c13b7affcc45cd21983a442bf30bc56f9d258b284c4cb3365c29ce",
+    "source_ids": [
+      "atp_collect_rendered_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/atp_future_calendar_rendered_v2__1a53be9f8b07.txt",
+    "bytes": 1022,
+    "sha256": "1a53be9f8b073eb7d8d8a6dd496cce17bbca6b6acc085c4a897672ddf1ff6008",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/f1_rights_rendered__510e43196596.txt",
+    "bytes": 776,
+    "sha256": "510e4319659639d67d46e6f204574e3f8f42220a0e762e078bba36248fe3e701",
+    "source_ids": [
+      "f1_rights_rendered"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_chengdu_rendered__82ee2c221d8d.txt",
+    "bytes": 188,
+    "sha256": "82ee2c221d8dd051fe4eda0c1458129fa16e1e0ed7e4b8d84c42c13922c9ebd2",
+    "source_ids": [
+      "fancode_chengdu_rendered"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_hangzhou_listing_v2__21270e14cedf.txt",
+    "bytes": 218,
+    "sha256": "21270e14cedf3af3fce391f08e3a105c93d50538b2d5e7b3280c4560e97c4eb8",
+    "source_ids": [
+      "fancode_hangzhou_listing_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_japan_entitlement_v5__33e259e51889.txt",
+    "bytes": 226,
+    "sha256": "33e259e5188910a6bd6573a8f1b36a00e7b01b1916e63911c47c9e67e5263a41",
+    "source_ids": [
+      "fancode_japan_entitlement_v5"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_monthly_final_v5__d63c5a5f7673.txt",
+    "bytes": 419,
+    "sha256": "d63c5a5f76732d06b487d5fc895f78fa24bd41ddcc4fb4bb13a7f2e2eca01713",
+    "source_ids": [
+      "fancode_monthly_final_v5"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_monthly_rendered__c14b11cf09df.txt",
+    "bytes": 877,
+    "sha256": "c14b11cf09dfd75c163daee49cf32a9298d4c29af56c051c3b42657e5e486d4b",
+    "source_ids": [
+      "fancode_monthly_rendered"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_recurring_monthly_rendered_v2__7eafbf3299a4.txt",
+    "bytes": 901,
+    "sha256": "7eafbf3299a4fe0d3792076d30c25f2d3ef1c4fd6f3b42a8514cc506fa9622f4",
+    "source_ids": [
+      "fancode_recurring_monthly_rendered_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_tour_5832_v3__f80c4bf24f18.txt",
+    "bytes": 438,
+    "sha256": "f80c4bf24f18226bb0c8530c0b520d414df464f52c17c1b7a6fd46068e959566",
+    "source_ids": [
+      "fancode_tour_5832_v3"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/fancode_yearly_rendered__24a4ed1eed55.txt",
+    "bytes": 767,
+    "sha256": "24a4ed1eed55a90d54886eebe8d85e3fb4d8ab54bf22b8b1cd403f53447cdc76",
+    "source_ids": [
+      "fancode_yearly_rendered"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/halle_final_rendered__0d9ff06c8726.txt",
+    "bytes": 411,
+    "sha256": "0d9ff06c87263ea191c51884b3db58c1df80520c255e68a4283306fff4eef828",
+    "source_ids": [
+      "halle_final_rendered"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/browser_captures/tennistv_registration_gate_v2__310501355e6f.txt",
+    "bytes": 213,
+    "sha256": "310501355e6f789819bc38fe65529db79c2dfdc1dc68a2e85eaaa8d8509b0519",
+    "source_ids": [
+      "tennistv_registration_gate_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/case_inputs/case_brief/BGCC_FANCODE_R3.pdf",
+    "bytes": 3994426,
+    "sha256": "463add7e5a275baa9351936cbc774a83093ae7a07815d05fe3433b551edbaa1d",
+    "source_ids": [
+      "supplied_BGCC_FANCODE_R3"
+    ],
+    "format": "PDF",
+    "page_count": 16,
+    "text_layer_characters": 17002
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/Blinkit_Case_Study.pdf",
+    "bytes": 663448,
+    "sha256": "3d4d1a59d2852c0135bea1f799033f356b0ff822bc1fc5d07f55b785a4398c0e",
+    "source_ids": [
+      "supplied_Blinkit_Case_Study"
+    ],
+    "format": "PDF",
+    "page_count": 16,
+    "text_layer_characters": 68005
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/CaseConsilium_Chanakya.pdf",
+    "bytes": 2154543,
+    "sha256": "16451b390a3c7798f959dc7ffdabf6f4b5be7ee9ce0cae9242a952d2eb39c152",
+    "source_ids": [
+      "supplied_CaseConsilium_Chanakya"
+    ],
+    "format": "PDF",
+    "page_count": 8,
+    "text_layer_characters": 27918
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/DRL Destination 2024.pdf",
+    "bytes": 1631018,
+    "sha256": "608ee572e9cf0c6897fea0283189adca57c333ea58c51a09fce33c86f8b2f9a2",
+    "source_ids": [
+      "supplied_DRL Destination 2024"
+    ],
+    "format": "PDF",
+    "page_count": 6,
+    "text_layer_characters": 10639
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/Flipkart Wired 8.0.pdf",
+    "bytes": 2693937,
+    "sha256": "c9b99885bdb84bb204650ce2b82461c4ce8959074928812d7dcd4343cecceb9d",
+    "source_ids": [
+      "supplied_Flipkart Wired 8.0"
+    ],
+    "format": "PDF",
+    "page_count": 9,
+    "text_layer_characters": 11205
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/Reckitt.pdf",
+    "bytes": 1087253,
+    "sha256": "d59e3d032548f5654cc7cde9ff7d07eaf84edb316274ebaed1ff6a6042f0d75f",
+    "source_ids": [
+      "supplied_Reckitt"
+    ],
+    "format": "PDF",
+    "page_count": 12,
+    "text_layer_characters": 11374
+  },
+  {
+    "file": "data/raw/case_inputs/reference_cases/meesho_case_study_final.pdf",
+    "bytes": 1215523,
+    "sha256": "dedfd7dfbf1e3e3b554aae16f10a46352ddffba09878e0d6d6a24e6936310e4c",
+    "source_ids": [
+      "supplied_meesho_case_study_final"
+    ],
+    "format": "PDF",
+    "page_count": 11,
+    "text_layer_characters": 32719
+  },
+  {
+    "file": "data/raw/channel_costs/kofluence_2025_preview__674752b8f94c.html",
+    "bytes": 800934,
+    "sha256": "674752b8f94c506a821c4ebb9f947136cf42a4165e9f477df98e86457f5232cc",
+    "source_ids": [
+      "kofluence_2025_preview"
+    ],
+    "format": "HTML",
+    "title": "Sneak Peek At The Kofluence 2025 Influencer Marketing Report - Kofluence",
+    "visible_text_characters": 23243
+  },
+  {
+    "file": "data/raw/channel_costs/kofluence_2025_report__6419508dc4ae.html",
+    "bytes": 373963,
+    "sha256": "6419508dc4ae8ec1369f18b43b838076eefd350866cbe2ecf3d900ab424920cb",
+    "source_ids": [
+      "kofluence_2025_report"
+    ],
+    "format": "HTML",
+    "title": "Decoding Influence: 2025 Influencer Marketing Report | Kofluence",
+    "visible_text_characters": 5984
+  },
+  {
+    "file": "data/raw/channel_costs/mediaant_digital_directory__aa618db6fec7.html",
+    "bytes": 559097,
+    "sha256": "aa618db6fec7c46e5ff85d8a20691dd93340b82555fd34dac02a2c846119d827",
+    "source_ids": [
+      "mediaant_digital_directory"
+    ],
+    "format": "HTML",
+    "title": "Best Digital Marketing Agency | Digital Advertising Rates | Online Advertising Agency",
+    "visible_text_characters": 32018
+  },
+  {
+    "file": "data/raw/channel_costs/mediaant_facebook__2d29748b731b.html",
+    "bytes": 430179,
+    "sha256": "2d29748b731bee7f69b052934923d3cc39fd8ceee2bb6247cb7821b10c72beee",
+    "source_ids": [
+      "mediaant_facebook"
+    ],
+    "format": "HTML",
+    "title": "Facebook Advertising Cost | Facebook Ads | Advertise On Facebook",
+    "visible_text_characters": 39968
+  },
+  {
+    "file": "data/raw/channel_costs/mediaant_instagram__aca3b310248b.html",
+    "bytes": 310438,
+    "sha256": "aca3b310248b496e5f6446981d3c2a2c7a63d5733bdadc55ef3dd176f7a66604",
+    "source_ids": [
+      "mediaant_instagram"
+    ],
+    "format": "HTML",
+    "title": "Instagram Advertising Cost | Instagram Ads | Advertise On Instagram",
+    "visible_text_characters": 22645
+  },
+  {
+    "file": "data/raw/channel_costs/mediaant_youtube__091caa90f6f8.html",
+    "bytes": 349299,
+    "sha256": "091caa90f6f8eaaacafc1f34f06e0be006b95c7bb0866721efe4ce2a1bdb5793",
+    "source_ids": [
+      "mediaant_youtube"
+    ],
+    "format": "HTML",
+    "title": "YouTube Advertising Cost | YouTube Ads | Advertise On YouTube",
+    "visible_text_characters": 23130
+  },
+  {
+    "file": "data/raw/channel_costs/wordstream_meta_2024__df4eb2dedcb4.pdf",
+    "bytes": 34318258,
+    "sha256": "df4eb2dedcb4b81df39b028bce3fd68e90f46b1e6b70eda21b2749280a6d711c",
+    "source_ids": [
+      "wordstream_meta_2024"
+    ],
+    "format": "PDF",
+    "page_count": 24,
+    "text_layer_characters": 21311
+  },
+  {
+    "file": "data/raw/company/atp_fancode_rights__2936cdcaeae0.html",
+    "bytes": 37435,
+    "sha256": "2936cdcaeae05f9cc578806f488e89513c67c042db2182110a870fdd98dff203",
+    "source_ids": [
+      "atp_fancode_rights"
+    ],
+    "format": "HTML",
+    "title": "FANCODE SIGNS EXCLUSIVE ATP TOUR MULTI-YEAR BROADCAST DEAL - ATP Media",
+    "visible_text_characters": 2602
+  },
+  {
+    "file": "data/raw/company/v3_atp_rights_moneycontrol__3e5c8cfee5a4.html",
+    "bytes": 278780,
+    "sha256": "3e5c8cfee5a44ee572620cba3c3bd8aeb795848a1af0f13b188e875b93c7c470",
+    "source_ids": [
+      "v3_atp_rights_moneycontrol"
+    ],
+    "format": "HTML",
+    "title": "FanCode strikes exclusive multi-year deal to broadcast ATP Tour events in Indian subcontinent",
+    "visible_text_characters": 6891
+  },
+  {
+    "file": "data/raw/company/v3_aws_fancode__cdd88b149fdc.html",
+    "bytes": 375159,
+    "sha256": "cdd88b149fdc4f808d6b70bc376f3b37c0d22de1b0cbe5dbc2ab37e59490eb20",
+    "source_ids": [
+      "v3_aws_fancode"
+    ],
+    "format": "HTML",
+    "title": "FanCode Case Study - Amazon Web Services (AWS)",
+    "visible_text_characters": 13680
+  },
+  {
+    "file": "data/raw/company/v3_dreamsports_fy25__37ac78d24bb6.html",
+    "bytes": 602418,
+    "sha256": "37ac78d24bb6e478578091bdbe0047e4a1ad5d396a38f490f29ee1dc4de8659c",
+    "source_ids": [
+      "v3_dreamsports_fy25"
+    ],
+    "format": "HTML",
+    "title": "Dream11 Parent Slips Into Loss In FY25 On Reverse Flipping Cost",
+    "visible_text_characters": 19056
+  },
+  {
+    "file": "data/raw/company/v3_google_cloud_fancode__061dd33a2313.html",
+    "bytes": 233987,
+    "sha256": "061dd33a2313b2c15a478544916ee6a096944077677cf2fd7e2d45a663853263",
+    "source_ids": [
+      "v3_google_cloud_fancode"
+    ],
+    "format": "HTML",
+    "title": "FanCode migrates from AWS to Memorystore for Redis Cluster | Google Cloud Blog",
+    "visible_text_characters": 7637
+  },
+  {
+    "file": "data/raw/company/v3_mint_fancode_f1__f19258d17fb7.html",
+    "bytes": 189273,
+    "sha256": "f19258d17fb702652b61d79ee5a9f93acea23649a0945467456d29ddf5f5f144",
+    "source_ids": [
+      "v3_mint_fancode_f1"
+    ],
+    "format": "HTML",
+    "title": "A new breed of creators is cultivating fandoms for sports beyond cricket | Today News",
+    "visible_text_characters": 12969
+  },
+  {
+    "file": "data/raw/company/v3_motogp_rights_blackbook__9184b7ff1096.html",
+    "bytes": 215031,
+    "sha256": "9184b7ff10961f9648b45f8c1cfa865ba452de79da1275ba5a855e8aef9f0ab8",
+    "source_ids": [
+      "v3_motogp_rights_blackbook"
+    ],
+    "format": "HTML",
+    "title": "MotoGP and FanCode agree three-year digital streaming rights deal in India - BlackBook Motorsport",
+    "visible_text_characters": 4418
+  },
+  {
+    "file": "data/raw/company/v4_aiff_tenders__d964d266e904.html",
+    "bytes": 129679,
+    "sha256": "d964d266e9047f72d08a1170bd656808ce8a10b882efdf21e796b62763120920",
+    "source_ids": [
+      "v4_aiff_tenders"
+    ],
+    "format": "HTML",
+    "title": "Tenders And RFPs",
+    "visible_text_characters": 15138
+  },
+  {
+    "file": "data/raw/company/v5_atp_media_guide_lta__9e42011f5ec7.pdf",
+    "bytes": 7584830,
+    "sha256": "9e42011f5ec72098dcf4b3d6483b5949f5fae6ea8bdce4604eb114445e01f559",
+    "source_ids": [
+      "v5_atp_media_guide_lta"
+    ],
+    "format": "PDF",
+    "page_count": 160,
+    "text_layer_characters": 449964
+  },
+  {
+    "file": "data/raw/company/v5_lta_media_index__352eef5894ea.html",
+    "bytes": 177302,
+    "sha256": "352eef5894ea30fc7e08ec2462244b8a46817fe8e5d349ae9a8a2f249bf4c262",
+    "source_ids": [
+      "v5_lta_media_index"
+    ],
+    "format": "HTML",
+    "title": "Search results",
+    "visible_text_characters": 6280
+  },
+  {
+    "file": "data/raw/company/v5_lta_media_search__4d434e7d8475.html",
+    "bytes": 177232,
+    "sha256": "4d434e7d8475f63f4996b87dec9d412ac0f9314d865fe25ca0925ca1980ae06e",
+    "source_ids": [
+      "v5_lta_media_search"
+    ],
+    "format": "HTML",
+    "title": "Search results",
+    "visible_text_characters": 6262
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_busy_streaming_gst__9a40c1bc4723.html",
+    "bytes": 517294,
+    "sha256": "9a40c1bc4723be424b9a74ebce746d876a3058f35fa7394a07bc537831df909e",
+    "source_ids": [
+      "v3_busy_streaming_gst"
+    ],
+    "format": "HTML",
+    "title": "SAC Code 9984 GST Rate| Telecommunications & broadcasting supply services",
+    "visible_text_characters": 30918
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_cloudflare_stream_pricing__aed3418cdef6.html",
+    "bytes": 120024,
+    "sha256": "aed3418cdef687e50227af7b69459d8884aea17665211f8a4788706dd9d1a554",
+    "source_ids": [
+      "v3_cloudflare_stream_pricing"
+    ],
+    "format": "HTML",
+    "title": "Pricing · Cloudflare Stream docs",
+    "visible_text_characters": 8689
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_meta_inr_ratecard_jan2026__40f9aa9afe44.pdf",
+    "bytes": 172940,
+    "sha256": "40f9aa9afe446817451f8a650fc8a0875acd98ed3c681f16bff871d65341d4bd",
+    "source_ids": [
+      "v3_meta_inr_ratecard_jan2026"
+    ],
+    "format": "PDF",
+    "page_count": 5,
+    "text_layer_characters": 25701
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_meta_official_pricing__5a13483fe75f.html",
+    "bytes": 37307,
+    "sha256": "5a13483fe75f1aac1a4d1a3a014c071127f4d01dad2b6b62fe93bb2ef04a6185",
+    "source_ids": [
+      "v3_meta_official_pricing"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_msg91_comparison__594ade4a77d0.html",
+    "bytes": 376549,
+    "sha256": "594ade4a77d0cde8c131d720ffdeddedd60ec1c5964098743f90d0211565af43",
+    "source_ids": [
+      "v3_msg91_comparison"
+    ],
+    "format": "HTML",
+    "title": "MSG91 vs UDO SMS Pricing: Full Cost Comparison",
+    "visible_text_characters": 16033
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_msg91_sms__99d14be4a2ce.html",
+    "bytes": 72295,
+    "sha256": "99d14be4a2ce0966b424de6011ee5790d96eb09d26775f06ff1cb255807e4036",
+    "source_ids": [
+      "v3_msg91_sms"
+    ],
+    "format": "HTML",
+    "title": null,
+    "visible_text_characters": 1794
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_nurdd_india__4ea1b57ff8ee.html",
+    "bytes": 118846,
+    "sha256": "4ea1b57ff8eed58b858bbaa65ed5163d0ceab076a59088a626535c61a3734a67",
+    "source_ids": [
+      "v3_nurdd_india"
+    ],
+    "format": "HTML",
+    "title": "Indian D2C Ad Benchmarks 2026: CPM, CPC, CTR & ROAS | Nurdd",
+    "visible_text_characters": 6769
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_razorpay_pricing__e474532050c3.html",
+    "bytes": 436782,
+    "sha256": "e474532050c34a0fc07767ecc502c0fdcbc390201bbe8ace480f53faa45f2a20",
+    "source_ids": [
+      "v3_razorpay_pricing"
+    ],
+    "format": "HTML",
+    "title": "Payment Gateway Charges - Simple & Transparent Pricing",
+    "visible_text_characters": 23354
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_richautomate_dataset__ae0dde3481a4.csv",
+    "bytes": 2246,
+    "sha256": "ae0dde3481a4802034167bb636b055cb6975b89c032dae004b8b282cb785ff1c",
+    "source_ids": [
+      "v3_richautomate_dataset"
+    ],
+    "format": "CSV",
+    "data_rows": 17,
+    "columns": [
+      "provider",
+      "hq",
+      "pricing_model",
+      "platform_fee_entry_inr_mo",
+      "platform_fee_growth_inr_mo",
+      "marketing_msg_inr",
+      "utility_msg_inr",
+      "marketing_markup_vs_meta_pct",
+      "billing_currency",
+      "pricing_public",
+      "source",
+      "verified"
+    ]
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_richautomate_july2026__8f4e7b4fb692.html",
+    "bytes": 206600,
+    "sha256": "8f4e7b4fb6923a3c8e3e6657ec7422dd738dde6a96304f6b05b4331f8f9a17df",
+    "source_ids": [
+      "v3_richautomate_july2026"
+    ],
+    "format": "HTML",
+    "title": "WhatsApp API Pricing India 2026: BSP Data Study",
+    "visible_text_characters": 12308
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_superads_india__490d1f361e72.html",
+    "bytes": 114724,
+    "sha256": "490d1f361e72eda9fbda1673939c5ddd618f8e84afc7a0dcc95c019b0bfc5079",
+    "source_ids": [
+      "v3_superads_india"
+    ],
+    "format": "HTML",
+    "title": "Facebook Ads CPM Benchmarks in India  (2025)",
+    "visible_text_characters": 8242
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v3_whatsapp_business_pricing__527369fd2244.html",
+    "bytes": 286472,
+    "sha256": "527369fd2244b5c644bc5d4c83e52ed40476fec20234dbcdaf1a8b550db28f5d",
+    "source_ids": [
+      "v3_whatsapp_business_pricing"
+    ],
+    "format": "HTML",
+    "title": "WhatsApp Business Platform Pricing | WhatsApp API Pricing",
+    "visible_text_characters": 6863
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v4_fancode_shop_affiliate__ecbc74c24f0e.html",
+    "bytes": 97874,
+    "sha256": "ecbc74c24f0e7265304f48331add19f05f01aaae1a28b5d520737fc5f520645d",
+    "source_ids": [
+      "v4_fancode_shop_affiliate"
+    ],
+    "format": "HTML",
+    "title": "Fancode Shop Affiliate Program with Payout 27% Per Sale | September 2026",
+    "visible_text_characters": 3647
+  },
+  {
+    "file": "data/raw/cost_benchmarks/v4_sonyliv_affiliate__e5027d140b2b.html",
+    "bytes": 141933,
+    "sha256": "e5027d140b2b05458fcfc2fa2196ef878364f5644f3d751dd4a421b284354413",
+    "source_ids": [
+      "v4_sonyliv_affiliate"
+    ],
+    "format": "HTML",
+    "title": "Sony LIV Affiliate Program with Payout ₹ 234.00 / Sale | September 2026",
+    "visible_text_characters": 5150
+  },
+  {
+    "file": "data/raw/engagement/v3_desiracing_fancode_case__4dfb7a7d87de.html",
+    "bytes": 396351,
+    "sha256": "4dfb7a7d87de72bf0a3588b68272cc96736544d13cf825c43459ef96e21a995e",
+    "source_ids": [
+      "v3_desiracing_fancode_case"
+    ],
+    "format": "HTML",
+    "title": "Portfolio - Desi Racing Co",
+    "visible_text_characters": 4928
+  },
+  {
+    "file": "data/raw/engagement/v4_clevertap_sonyliv__8a8af96e68f3.html",
+    "bytes": 303668,
+    "sha256": "8a8af96e68f34972f561e9594774ece4e8f5803e039f16dd8f765df25075f184",
+    "source_ids": [
+      "v4_clevertap_sonyliv"
+    ],
+    "format": "HTML",
+    "title": "SonyLIV Masters Personalized Mobile Marketing",
+    "visible_text_characters": 19687
+  },
+  {
+    "file": "data/raw/engagement/v4_deltatre_fantasy__88be9ab6a632.html",
+    "bytes": 282791,
+    "sha256": "88be9ab6a632058cda34d4ee6dfb3d4d3929f83ff7924c1a41f4270be40bee8c",
+    "source_ids": [
+      "v4_deltatre_fantasy"
+    ],
+    "format": "HTML",
+    "title": "ATP launches official fantasy game in collaboration with Deltatre",
+    "visible_text_characters": 7563
+  },
+  {
+    "file": "data/raw/engagement/v4_gokwik_fancode__e6f4533cc259.html",
+    "bytes": 157837,
+    "sha256": "e6f4533cc259eacf8240a2d6d279d1042231022f9a91e44c90dff78cec2aceeb",
+    "source_ids": [
+      "v4_gokwik_fancode"
+    ],
+    "format": "HTML",
+    "title": "FanCode Reduces RTO% By 15.5% Using GoKwik | GoKwik",
+    "visible_text_characters": 8123
+  },
+  {
+    "file": "data/raw/engagement/v4_xpert_fancode__8ac04ecf526a.html",
+    "bytes": 19544,
+    "sha256": "8ac04ecf526a65fc305b86ec9d072c97de91b14801a787846439035dc6ffbe9d",
+    "source_ids": [
+      "v4_xpert_fancode"
+    ],
+    "format": "HTML",
+    "title": "Case Study — Xpert",
+    "visible_text_characters": 3057
+  },
+  {
+    "file": "data/raw/engagement/v5_wearisma_wimbledon__8d74838636b1.html",
+    "bytes": 292346,
+    "sha256": "8d74838636b18581791fc2964b6a92f7caff5d343aafc999d2597397de7c3b73",
+    "source_ids": [
+      "v5_wearisma_wimbledon"
+    ],
+    "format": "HTML",
+    "title": "The Top Influencers at Wimbledon 2026 | Wearisma",
+    "visible_text_characters": 13013
+  },
+  {
+    "file": "data/raw/measurement/v3_ormax_sports_track__ce3176d90f0f.html",
+    "bytes": 47842,
+    "sha256": "ce3176d90f0fe7ccfbcf6b750c5dd793f1be374821b43159c2a51ea686e8a544",
+    "source_ids": [
+      "v3_ormax_sports_track"
+    ],
+    "format": "HTML",
+    "title": "Product launch: Ormax Sports Track",
+    "visible_text_characters": 6290
+  },
+  {
+    "file": "data/raw/methodology/google_conversion_lift__f1d2a5b4469e.html",
+    "bytes": 1682533,
+    "sha256": "f1d2a5b4469eb46bc7407e1807fb671b9e035a3bd7444f94558938a19871d5f6",
+    "source_ids": [
+      "google_conversion_lift"
+    ],
+    "format": "HTML",
+    "title": "About Conversion Lift - Google Ads Help",
+    "visible_text_characters": 6233
+  },
+  {
+    "file": "data/raw/methodology/google_trends_methodology__af4e09f1e641.html",
+    "bytes": 1510787,
+    "sha256": "af4e09f1e641a106ce687f5ff25ae4ef29dbad35557f3c5fc5d12171b6dc5e25",
+    "source_ids": [
+      "google_trends_methodology"
+    ],
+    "format": "HTML",
+    "title": "FAQ about Google Trends data - Trends Help",
+    "visible_text_characters": 7809
+  },
+  {
+    "file": "data/raw/methodology/v4_football_tz_documentation__b66f4543ddf1.html",
+    "bytes": 118679,
+    "sha256": "b66f4543ddf188ada4858c88c938bae4eb9be1b6905e849f750e62d08dd70e0a",
+    "source_ids": [
+      "v4_football_tz_documentation"
+    ],
+    "format": "HTML",
+    "title": "Dataloader - sports-betting",
+    "visible_text_characters": 27686
+  },
+  {
+    "file": "data/raw/methodology/v4_motogp_ics_generator__cba6bf23e138.py",
+    "bytes": 17097,
+    "sha256": "cba6bf23e13850b96c56aa656e48b78a9d5a6fb5c22fa8266c9a594ade336ea2",
+    "source_ids": [
+      "v4_motogp_ics_generator"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/methodology/v4_motogp_sessions_code__21b85391dbaf.py",
+    "bytes": 8411,
+    "sha256": "21b85391dbafc78245be4d8109a07d2b1e1bebb86873686fd31b99930de55a65",
+    "source_ids": [
+      "v4_motogp_sessions_code"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/offers/fancode_chengdu_event__81144d7f9c30.html",
+    "bytes": 360803,
+    "sha256": "81144d7f9c30e1c904dd369b7292612c9867e7d571e42cc133c6d525ff84e937",
+    "source_ids": [
+      "fancode_chengdu_event"
+    ],
+    "format": "HTML",
+    "title": "Sep 23, 09:00 AM: ATP 250 - Chengdu Open 2026 Tennis, Watch Live , Videos, Highlights & info | FanCode",
+    "visible_text_characters": 2891
+  },
+  {
+    "file": "data/raw/offers/fancode_football__d96f89a8e738.html",
+    "bytes": 505787,
+    "sha256": "d96f89a8e738d6a11c94a2563ddbe4bf403a0b1a55dbcc2884dd3550ed72d998",
+    "source_ids": [
+      "fancode_football"
+    ],
+    "format": "HTML",
+    "title": "Live Football Streaming in India - Matches, Results & Highlights | FanCode",
+    "visible_text_characters": 4028
+  },
+  {
+    "file": "data/raw/offers/fancode_monthly__e8a8c5ed831b.html",
+    "bytes": 208727,
+    "sha256": "e8a8c5ed831b500a2f41ca1f6ef1a7b19dc669f64da0e3ff8762cb4bcf8a44d5",
+    "source_ids": [
+      "fancode_monthly"
+    ],
+    "format": "HTML",
+    "title": "FanCode Tour Passes: Buy pass of your favorite tournaments",
+    "visible_text_characters": 1466
+  },
+  {
+    "file": "data/raw/offers/fancode_recurring_monthly__5e0a3f869e3e.html",
+    "bytes": 209075,
+    "sha256": "5e0a3f869e3ea3b20e7fd262cafd30d6f57253f5218872208bdaca03d040ac8d",
+    "source_ids": [
+      "fancode_recurring_monthly"
+    ],
+    "format": "HTML",
+    "title": "FanCode Tour Passes: Buy pass of your favorite tournaments",
+    "visible_text_characters": 1466
+  },
+  {
+    "file": "data/raw/offers/fancode_shanghai_tour__244185c24a5b.html",
+    "bytes": 437673,
+    "sha256": "244185c24a5b8ceb7b5d9319d16902b05c290daff27c8c6856b20f19f4459bdc",
+    "source_ids": [
+      "fancode_shanghai_tour"
+    ],
+    "format": "HTML",
+    "title": "ATP Masters - Rolex Shanghai Masters Tennis, Watch Live, Videos, Highlights & info | FanCode",
+    "visible_text_characters": 4569
+  },
+  {
+    "file": "data/raw/offers/fancode_tennis__eed84f6e5ef0.html",
+    "bytes": 446902,
+    "sha256": "eed84f6e5ef0666d73f09a79bffcd274e08f6a5706263c1e5b3fde327e89f995",
+    "source_ids": [
+      "fancode_tennis"
+    ],
+    "format": "HTML",
+    "title": "Live Tennis Streaming in India - Matches, Results & Highlights | FanCode",
+    "visible_text_characters": 3553
+  },
+  {
+    "file": "data/raw/offers/fancode_terms__ec711b2c0c24.html",
+    "bytes": 474849,
+    "sha256": "ec711b2c0c248e2e528e204b4a82e1c18c4631903a13f3f629422c282a8f283f",
+    "source_ids": [
+      "fancode_terms"
+    ],
+    "format": "HTML",
+    "title": "FanCode Terms and Conditions of Use",
+    "visible_text_characters": 109189
+  },
+  {
+    "file": "data/raw/offers/fancode_tour_passes__d1f1d06d1e21.html",
+    "bytes": 208061,
+    "sha256": "d1f1d06d1e21fb225d13ef790035b5e8900d215fa2123280aaa6057f551c7cd9",
+    "source_ids": [
+      "fancode_tour_passes"
+    ],
+    "format": "HTML",
+    "title": "FanCode Tour Passes: Buy pass of your favorite tournaments",
+    "visible_text_characters": 1468
+  },
+  {
+    "file": "data/raw/offers/fancode_yearly__04958ae6ee48.html",
+    "bytes": 208435,
+    "sha256": "04958ae6ee4811a013f9f7548eaf20bb43cd2bf92ea4ce9d6e8b9e97409254a2",
+    "source_ids": [
+      "fancode_yearly"
+    ],
+    "format": "HTML",
+    "title": "FanCode Tour Passes: Buy pass of your favorite tournaments",
+    "visible_text_characters": 1464
+  },
+  {
+    "file": "data/raw/offers/jiohotstar_2026_price_release__9bbb0774b59d.pdf",
+    "bytes": 483870,
+    "sha256": "9bbb0774b59d5c4de604fe892367ac706f15cf2e660f70b156eb555f00b9d174",
+    "source_ids": [
+      "jiohotstar_2026_price_release"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 5713
+  },
+  {
+    "file": "data/raw/offers/sonyliv_subscription__58d2de2b0bc6.html",
+    "bytes": 1459492,
+    "sha256": "58d2de2b0bc6a9823cc6a0406bb98dfa7ee5fb27be19ad42e3f9104bdf4a80f0",
+    "source_ids": [
+      "sonyliv_subscription"
+    ],
+    "format": "HTML",
+    "title": "Subscribe to Sony LIV - Access Ad-free Latest Episodes, Premium Web Series and Movies",
+    "visible_text_characters": 486
+  },
+  {
+    "file": "data/raw/offers/tennistv_product__b5fd12bca3cb.html",
+    "bytes": 226390,
+    "sha256": "b5fd12bca3cbb385b4a7fe32191ff8460b7f47be8812414865e237f3d3e8fe79",
+    "source_ids": [
+      "tennistv_product"
+    ],
+    "format": "HTML",
+    "title": "Tennis TV | Watch ATP Tour Live Streams and More",
+    "visible_text_characters": 5425
+  },
+  {
+    "file": "data/raw/player_results/brisbane_singles_draw__95e27d3345f5.pdf",
+    "bytes": 161852,
+    "sha256": "95e27d3345f55bf6b4ec79d2a7e58c415b9243d1bd7f2e27b6f799e01c16aa94",
+    "source_ids": [
+      "brisbane_singles_draw"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2181
+  },
+  {
+    "file": "data/raw/player_results/doha_2026_official_mds__5a360ee93800.pdf",
+    "bytes": 164435,
+    "sha256": "5a360ee938009ba1eada5eb8d10440ecc09371f7dac3520ce617cdbcc641ac36",
+    "source_ids": [
+      "doha_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2070
+  },
+  {
+    "file": "data/raw/player_results/dubai_2026_official_mds__cbd6c09ec174.pdf",
+    "bytes": 168808,
+    "sha256": "cbd6c09ec174152a12dd40ee60eb2efe773ba57ba7c2d326dc439589a3c6a31e",
+    "source_ids": [
+      "dubai_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2229
+  },
+  {
+    "file": "data/raw/player_results/halle_2026_official_mds__96eafbe01873.pdf",
+    "bytes": 163836,
+    "sha256": "96eafbe018737f1e63f57cc64a8e3285b400800b63599fbe73dcb0801fdd9070",
+    "source_ids": [
+      "halle_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2060
+  },
+  {
+    "file": "data/raw/player_results/halle_singles_draw_page__5656a208bb63.html",
+    "bytes": 33413,
+    "sha256": "5656a208bb639f6b4aa32b50f92763e24874182b66bde024e13cd22e4fb5418d",
+    "source_ids": [
+      "halle_singles_draw_page"
+    ],
+    "format": "HTML",
+    "title": "Singles-Draw",
+    "visible_text_characters": 2558
+  },
+  {
+    "file": "data/raw/player_results/hongkong_2026_official_mds__b4bf6a61d94b.pdf",
+    "bytes": 159014,
+    "sha256": "b4bf6a61d94b262d71ea8ba29d4f9e007f6cb37ac64a021ff8d68de93c7b15e7",
+    "source_ids": [
+      "hongkong_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1898
+  },
+  {
+    "file": "data/raw/player_results/hongkong_singles_draw_page__a5c4c91a04e6.html",
+    "bytes": 97055,
+    "sha256": "a5c4c91a04e6681ea438aaa377b826c36bc93ff6efbc200d1a83a65c6ad5249e",
+    "source_ids": [
+      "hongkong_singles_draw_page"
+    ],
+    "format": "HTML",
+    "title": "Main Draw Singles - Bank of China Hong Kong Tennis Open 2026",
+    "visible_text_characters": 966
+  },
+  {
+    "file": "data/raw/player_results/indian_wells_2026_official_mds__aee63a693698.pdf",
+    "bytes": 425771,
+    "sha256": "aee63a693698c7bf51584e5c03e1e6b01666485d538050642bacf1dae1454c4d",
+    "source_ids": [
+      "indian_wells_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7032
+  },
+  {
+    "file": "data/raw/player_results/madrid_2026_official_mds__0ed669ac5fdc.pdf",
+    "bytes": 423583,
+    "sha256": "0ed669ac5fdcf09b0e0727b76dded9bdab7bad1e7d0d9a1bb68f8c40ebdcb848",
+    "source_ids": [
+      "madrid_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7109
+  },
+  {
+    "file": "data/raw/player_results/marrakech_2026_official_mds__6b49375c2e0b.pdf",
+    "bytes": 159284,
+    "sha256": "6b49375c2e0bed8d57a51d6c003065276f58b2402b494c503b9c07fb27b68a33",
+    "source_ids": [
+      "marrakech_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1978
+  },
+  {
+    "file": "data/raw/player_results/miami_2026_official_mds__951ba99b0857.pdf",
+    "bytes": 424278,
+    "sha256": "951ba99b0857bd629d330d4c492a6b408eafed9861f6856b8028917ceea97afc",
+    "source_ids": [
+      "miami_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7005
+  },
+  {
+    "file": "data/raw/player_results/miami_singles_draw__951ba99b0857.pdf",
+    "bytes": 424278,
+    "sha256": "951ba99b0857bd629d330d4c492a6b408eafed9861f6856b8028917ceea97afc",
+    "source_ids": [
+      "miami_singles_draw"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7005
+  },
+  {
+    "file": "data/raw/player_results/rome_2026_official_mds__3dfa3b90904c.pdf",
+    "bytes": 419397,
+    "sha256": "3dfa3b90904c3aa55058df5689382e939648e6660128f94dccdaf9bbd4c21865",
+    "source_ids": [
+      "rome_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7091
+  },
+  {
+    "file": "data/raw/player_results/rome_singles_draw__3dfa3b90904c.pdf",
+    "bytes": 419397,
+    "sha256": "3dfa3b90904c3aa55058df5689382e939648e6660128f94dccdaf9bbd4c21865",
+    "source_ids": [
+      "rome_singles_draw"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 7091
+  },
+  {
+    "file": "data/raw/player_results/rotterdam_2026_official_mds__053a30ab5ec2.pdf",
+    "bytes": 175235,
+    "sha256": "053a30ab5ec23324a39cb6d2966791ad65d2e89addfdcbb1145dc2b6c2a2b630",
+    "source_ids": [
+      "rotterdam_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2207
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_2025__78c356ef9328.csv",
+    "bytes": 617154,
+    "sha256": "78c356ef9328b89ae58a17564d61c02cdad2a3a007f6b8af5cfc17992b11bb2d",
+    "source_ids": [
+      "sackmann_archive_2025"
+    ],
+    "format": "CSV",
+    "data_rows": 2944,
+    "columns": [
+      "tourney_id",
+      "tourney_name",
+      "surface",
+      "draw_size",
+      "tourney_level",
+      "tourney_date",
+      "match_num",
+      "winner_id",
+      "winner_seed",
+      "winner_entry",
+      "winner_name",
+      "winner_hand",
+      "winner_ht",
+      "winner_ioc",
+      "winner_age",
+      "loser_id",
+      "loser_seed",
+      "loser_entry",
+      "loser_name",
+      "loser_hand",
+      "loser_ht",
+      "loser_ioc",
+      "loser_age",
+      "score",
+      "best_of",
+      "round",
+      "minutes",
+      "w_ace",
+      "w_df",
+      "w_svpt",
+      "w_1stIn",
+      "w_1stWon",
+      "w_2ndWon",
+      "w_SvGms",
+      "w_bpSaved",
+      "w_bpFaced",
+      "l_ace",
+      "l_df",
+      "l_svpt",
+      "l_1stIn",
+      "l_1stWon",
+      "l_2ndWon",
+      "l_SvGms",
+      "l_bpSaved",
+      "l_bpFaced",
+      "winner_rank",
+      "winner_rank_points",
+      "loser_rank",
+      "loser_rank_points"
+    ]
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_2026__ceb157ae698f.csv",
+    "bytes": 300795,
+    "sha256": "ceb157ae698f79f4148f7bb6253bbcf6a8c8eb9ff94670dd83aa0428802cfd59",
+    "source_ids": [
+      "sackmann_archive_2026"
+    ],
+    "format": "CSV",
+    "data_rows": 1449,
+    "columns": [
+      "tourney_id",
+      "tourney_name",
+      "surface",
+      "draw_size",
+      "tourney_level",
+      "tourney_date",
+      "match_num",
+      "winner_id",
+      "winner_seed",
+      "winner_entry",
+      "winner_name",
+      "winner_hand",
+      "winner_ht",
+      "winner_ioc",
+      "winner_age",
+      "loser_id",
+      "loser_seed",
+      "loser_entry",
+      "loser_name",
+      "loser_hand",
+      "loser_ht",
+      "loser_ioc",
+      "loser_age",
+      "score",
+      "best_of",
+      "round",
+      "minutes",
+      "w_ace",
+      "w_df",
+      "w_svpt",
+      "w_1stIn",
+      "w_1stWon",
+      "w_2ndWon",
+      "w_SvGms",
+      "w_bpSaved",
+      "w_bpFaced",
+      "l_ace",
+      "l_df",
+      "l_svpt",
+      "l_1stIn",
+      "l_1stWon",
+      "l_2ndWon",
+      "l_SvGms",
+      "l_bpSaved",
+      "l_bpFaced",
+      "winner_rank",
+      "winner_rank_points",
+      "loser_rank",
+      "loser_rank_points"
+    ]
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_atp_index__32cdc91deb46.json",
+    "bytes": 189941,
+    "sha256": "32cdc91deb460fc5ea57303cc5ff37d5a2b5c7aa4e7d8c6517a979ec419773f2",
+    "source_ids": [
+      "sackmann_archive_atp_index"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_dictionary__b4b525ad8163.txt",
+    "bytes": 3758,
+    "sha256": "b4b525ad8163f9ee2ffde3ab7108924ec1385ef7d2fddf828c1fc096fcaafee4",
+    "source_ids": [
+      "sackmann_archive_dictionary"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_license__d128251e9a37.txt",
+    "bytes": 913,
+    "sha256": "d128251e9a3725f694c97a6761df96610481f92a6a69ab936174acb0c4be0589",
+    "source_ids": [
+      "sackmann_archive_license"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_readme__9037ec2e60ba.html",
+    "bytes": 2344,
+    "sha256": "9037ec2e60bae5b7b57e1b465f11a9a4b0cedfd6715f3ae8c0962a32585bdfee",
+    "source_ids": [
+      "sackmann_archive_readme"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/player_results/sackmann_archive_upstream_readme__80fd5a50ba02.md",
+    "bytes": 4673,
+    "sha256": "80fd5a50ba020fd306890d31142187bb737627ba468d3e36faabe92d48ab5083",
+    "source_ids": [
+      "sackmann_archive_upstream_readme"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/player_results/tennismylife_2025__f10ff8ce35c7.csv",
+    "bytes": 620171,
+    "sha256": "f10ff8ce35c705bcfe3c39abad89fbd502fa23050e703dc8e1ccb65aecc4ea88",
+    "source_ids": [
+      "tennismylife_2025"
+    ],
+    "format": "CSV",
+    "data_rows": 2944,
+    "columns": [
+      "tourney_id",
+      "tourney_name",
+      "surface",
+      "draw_size",
+      "tourney_level",
+      "indoor",
+      "tourney_date",
+      "match_num",
+      "winner_id",
+      "winner_seed",
+      "winner_entry",
+      "winner_name",
+      "winner_hand",
+      "winner_ht",
+      "winner_ioc",
+      "winner_age",
+      "winner_rank",
+      "winner_rank_points",
+      "loser_id",
+      "loser_seed",
+      "loser_entry",
+      "loser_name",
+      "loser_hand",
+      "loser_ht",
+      "loser_ioc",
+      "loser_age",
+      "loser_rank",
+      "loser_rank_points",
+      "score",
+      "best_of",
+      "round",
+      "minutes",
+      "w_ace",
+      "w_df",
+      "w_svpt",
+      "w_1stIn",
+      "w_1stWon",
+      "w_2ndWon",
+      "w_SvGms",
+      "w_bpSaved",
+      "w_bpFaced",
+      "l_ace",
+      "l_df",
+      "l_svpt",
+      "l_1stIn",
+      "l_1stWon",
+      "l_2ndWon",
+      "l_SvGms",
+      "l_bpSaved",
+      "l_bpFaced"
+    ]
+  },
+  {
+    "file": "data/raw/player_results/tennismylife_2026__490e37cec9e2.csv",
+    "bytes": 453797,
+    "sha256": "490e37cec9e2660d54dd968722d737c36379743d664fc30c6e2fa12cd08ddade",
+    "source_ids": [
+      "tennismylife_2026"
+    ],
+    "format": "CSV",
+    "data_rows": 2132,
+    "columns": [
+      "tourney_id",
+      "tourney_name",
+      "surface",
+      "draw_size",
+      "tourney_level",
+      "indoor",
+      "tourney_date",
+      "match_num",
+      "winner_id",
+      "winner_seed",
+      "winner_entry",
+      "winner_name",
+      "winner_hand",
+      "winner_ht",
+      "winner_ioc",
+      "winner_age",
+      "winner_rank",
+      "winner_rank_points",
+      "loser_id",
+      "loser_seed",
+      "loser_entry",
+      "loser_name",
+      "loser_hand",
+      "loser_ht",
+      "loser_ioc",
+      "loser_age",
+      "loser_rank",
+      "loser_rank_points",
+      "score",
+      "best_of",
+      "round",
+      "minutes",
+      "w_ace",
+      "w_df",
+      "w_svpt",
+      "w_1stIn",
+      "w_1stWon",
+      "w_2ndWon",
+      "w_SvGms",
+      "w_bpSaved",
+      "w_bpFaced",
+      "l_ace",
+      "l_df",
+      "l_svpt",
+      "l_1stIn",
+      "l_1stWon",
+      "l_2ndWon",
+      "l_SvGms",
+      "l_bpSaved",
+      "l_bpFaced"
+    ]
+  },
+  {
+    "file": "data/raw/player_results/tennismylife_database__601e4c3295c6.html",
+    "bytes": 252874,
+    "sha256": "601e4c3295c65caac7d894caf9c7e5a5bec31b5fb7332181b58e62431cebd13d",
+    "source_ids": [
+      "tennismylife_database"
+    ],
+    "format": "HTML",
+    "title": "Tennis Match Database (1967–2026) - TennisMyLife",
+    "visible_text_characters": 8793
+  },
+  {
+    "file": "data/raw/player_results/tennismylife_file_index__c40b599f4a3f.json",
+    "bytes": 29133,
+    "sha256": "c40b599f4a3fc3126d268a9fc3375b421391a77b9ecbdd34ede1e70e36ef5990",
+    "source_ids": [
+      "tennismylife_file_index"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/player_results/tennismylife_ongoing__f5723e9f2117.csv",
+    "bytes": 27875,
+    "sha256": "f5723e9f2117c2a012919c968ff1779f30f3194fbeb1966cfa0d196ee5ab288b",
+    "source_ids": [
+      "tennismylife_ongoing"
+    ],
+    "format": "CSV",
+    "data_rows": 127,
+    "columns": [
+      "tourney_id",
+      "tourney_name",
+      "surface",
+      "draw_size",
+      "tourney_level",
+      "indoor",
+      "tourney_date",
+      "match_num",
+      "winner_id",
+      "winner_seed",
+      "winner_entry",
+      "winner_name",
+      "winner_hand",
+      "winner_ht",
+      "winner_ioc",
+      "winner_age",
+      "winner_rank",
+      "winner_rank_points",
+      "loser_id",
+      "loser_seed",
+      "loser_entry",
+      "loser_name",
+      "loser_hand",
+      "loser_ht",
+      "loser_ioc",
+      "loser_age",
+      "loser_rank",
+      "loser_rank_points",
+      "score",
+      "best_of",
+      "round",
+      "minutes",
+      "w_ace",
+      "w_df",
+      "w_svpt",
+      "w_1stIn",
+      "w_1stWon",
+      "w_2ndWon",
+      "w_SvGms",
+      "w_bpSaved",
+      "w_bpFaced",
+      "l_ace",
+      "l_df",
+      "l_svpt",
+      "l_1stIn",
+      "l_1stWon",
+      "l_2ndWon",
+      "l_SvGms",
+      "l_bpSaved",
+      "l_bpFaced"
+    ]
+  },
+  {
+    "file": "data/raw/player_results/winston_2026_official_mds__e1a3550ac385.pdf",
+    "bytes": 236915,
+    "sha256": "e1a3550ac385c23ceb63737496f553f79e9dfd099d3cbc76efb46eaecb7fc87a",
+    "source_ids": [
+      "winston_2026_official_mds"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 3578
+  },
+  {
+    "file": "data/raw/player_results/winston_2026_players__dec51c5006a4.html",
+    "bytes": 168234,
+    "sha256": "dec51c5006a482c4b5fb200b2eadb299d11148d0b4b44837d4fff696c7c962c2",
+    "source_ids": [
+      "winston_2026_players"
+    ],
+    "format": "HTML",
+    "title": "Players | Winston-Salem Open | Tennis",
+    "visible_text_characters": 2920
+  },
+  {
+    "file": "data/raw/pricing/v3_fancode_terms__f8543d68e219.html",
+    "bytes": 471351,
+    "sha256": "f8543d68e219bb9b35dc45969c58153562be1306b8301c3d46c9b7f8affced19",
+    "source_ids": [
+      "v3_fancode_terms"
+    ],
+    "format": "HTML",
+    "title": "FanCode Terms and Conditions of Use",
+    "visible_text_characters": 109170
+  },
+  {
+    "file": "data/raw/pricing/v3_fancode_tour_5832__4d71412bea6d.html",
+    "bytes": 203048,
+    "sha256": "4d71412bea6d32d2dbed47ca100140b3022bb6d6af7a0dbec7c93ed9005ef7cb",
+    "source_ids": [
+      "v3_fancode_tour_5832"
+    ],
+    "format": "HTML",
+    "title": "",
+    "visible_text_characters": 1370
+  },
+  {
+    "file": "data/raw/pricing/v3_tennistv_india_iap__5ff1a5e6cf87.html",
+    "bytes": 743316,
+    "sha256": "5ff1a5e6cf872e116ffa06b8dc3dc1acbc89900ee0de5373a98d9ccd6744a57e",
+    "source_ids": [
+      "v3_tennistv_india_iap"
+    ],
+    "format": "HTML",
+    "title": "‎Tennis TV - Live Streaming App - App Store",
+    "visible_text_characters": 13587
+  },
+  {
+    "file": "data/raw/pricing/v3_timesprime_fancode__3cc0fe2ff625.html",
+    "bytes": 278975,
+    "sha256": "3cc0fe2ff62525e60f69ae6f39409516897eba85832a1c37f3f2a6d205b7ace2",
+    "source_ids": [
+      "v3_timesprime_fancode"
+    ],
+    "format": "HTML",
+    "title": "FanCode Subscription | Choose from Flexible passes, made for every Sport Fan",
+    "visible_text_characters": 2524
+  },
+  {
+    "file": "data/raw/pricing/v4_fancode_faq__87fe74126ecd.html",
+    "bytes": 121087,
+    "sha256": "87fe74126ecd58aa486ac818602d1e99ee73024587026610b2ee0b6e30d336b2",
+    "source_ids": [
+      "v4_fancode_faq"
+    ],
+    "format": "HTML",
+    "title": "",
+    "visible_text_characters": 0
+  },
+  {
+    "file": "data/raw/pricing/v4_fancode_helpdesk__fb0e08bf5028.html",
+    "bytes": 294472,
+    "sha256": "fb0e08bf502859e2a1472077399cf334840cabed7a7596cbc504f563a49a00de",
+    "source_ids": [
+      "v4_fancode_helpdesk"
+    ],
+    "format": "HTML",
+    "title": "",
+    "visible_text_characters": 1842
+  },
+  {
+    "file": "data/raw/pricing/v4_fancode_helpdesk_canonical__ed49da6441ad.html",
+    "bytes": 294493,
+    "sha256": "ed49da6441ad3bebad788db5ef673394c4e6f63d3fb3126f61fadacc26a3a215",
+    "source_ids": [
+      "v4_fancode_helpdesk_canonical"
+    ],
+    "format": "HTML",
+    "title": "",
+    "visible_text_characters": 1842
+  },
+  {
+    "file": "data/raw/pricing/v4_itd_pass_deeplink__fd8929e2a093.html",
+    "bytes": 391510,
+    "sha256": "fd8929e2a0932c133a19c776a8701103b77eb7888bbe15753324228c479013ae",
+    "source_ids": [
+      "v4_itd_pass_deeplink"
+    ],
+    "format": "HTML",
+    "title": "ATP 500 - BMW Open by Bitpanda 2026 Tennis, Watch Live, Videos, Highlights & info | FanCode",
+    "visible_text_characters": 3533
+  },
+  {
+    "file": "data/raw/pricing/v4_jio_ott_delivery__20c35517110f.html",
+    "bytes": 134874,
+    "sha256": "20c35517110f3156b86acc46890e3ae7ba0eff92343b9715080a8f69a35940a3",
+    "source_ids": [
+      "v4_jio_ott_delivery"
+    ],
+    "format": "HTML",
+    "title": "How do I watch content from SonyLiv, ZEE5, and the other bundled OTTs using the Jio OTT Pass ₹200?",
+    "visible_text_characters": 2082
+  },
+  {
+    "file": "data/raw/pricing/v4_vi_ott_web__315af79ba9dd.html",
+    "bytes": 279000,
+    "sha256": "315af79ba9ddd8c1e81430dfcae6462309f86b3c73a27df5f28f7465cc75368c",
+    "source_ids": [
+      "v4_vi_ott_web"
+    ],
+    "format": "HTML",
+    "title": "All OTT in One App - OTT Subscription Plans | Vi Movies & TV",
+    "visible_text_characters": 33367
+  },
+  {
+    "file": "data/raw/pricing/v4_vi_postpaid_terms__ae1d28dd6465.pdf",
+    "bytes": 19604640,
+    "sha256": "ae1d28dd6465dd83d4015d6df6862191fc3415d1f1353c8ce31733a4e1c5d909",
+    "source_ids": [
+      "v4_vi_postpaid_terms"
+    ],
+    "format": "PDF",
+    "page_count": 134,
+    "text_layer_characters": 25889
+  },
+  {
+    "file": "data/raw/pricing/v5_gst_council_rates__f1d4414623a4.pdf",
+    "bytes": 287540,
+    "sha256": "f1d4414623a4f684d273fece81bdba09639d18de2afed6d1b9685c558b6f128a",
+    "source_ids": [
+      "v5_gst_council_rates"
+    ],
+    "format": "PDF",
+    "page_count": 194,
+    "text_layer_characters": 104388
+  },
+  {
+    "file": "data/raw/public_video/fancode_youtube_atp_search__5a97a1402572.html",
+    "bytes": 1149521,
+    "sha256": "5a97a14025720e76127d329ba87e253d7bbd3f1e57f2ec3816ec2c7897adfe69",
+    "source_ids": [
+      "fancode_youtube_atp_search"
+    ],
+    "format": "HTML",
+    "title": "FanCode - YouTube",
+    "visible_text_characters": 163
+  },
+  {
+    "file": "data/raw/public_video/fancode_youtube_tennis_search__802aa91b8408.html",
+    "bytes": 1128535,
+    "sha256": "802aa91b8408f7d492e91af88c2301efa3807378f5294e693bbf1ec436bebdc7",
+    "source_ids": [
+      "fancode_youtube_tennis_search"
+    ],
+    "format": "HTML",
+    "title": "FanCode - YouTube",
+    "visible_text_characters": 163
+  },
+  {
+    "file": "data/raw/reviews/fancode_android_listing__d2401239edf5.html",
+    "bytes": 1338005,
+    "sha256": "d2401239edf54ad2aedaebccb20854382246803eab7969982e9d8674e4735e4f",
+    "source_ids": [
+      "fancode_android_listing"
+    ],
+    "format": "HTML",
+    "title": "FanCode - Watch Live Sports - Apps on Google Play",
+    "visible_text_characters": 8839
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_listing__f2625ae02cce.html",
+    "bytes": 736361,
+    "sha256": "f2625ae02cce7b28ef14d4e08238ec9cc7ec8ca7eb4cfe47227cb31588c12fc4",
+    "source_ids": [
+      "fancode_ios_listing"
+    ],
+    "format": "HTML",
+    "title": "‎FanCode: LIVE Cricket & Scores App - App Store",
+    "visible_text_characters": 22013
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page10__fe6560261c8e.json",
+    "bytes": 37523,
+    "sha256": "fe6560261c8e47d6dd50e62307145c424a3f76b019b6dbc24b7654ecb799eaa1",
+    "source_ids": [
+      "fancode_ios_reviews_page10"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page1__914bf56cd470.html",
+    "bytes": 37767,
+    "sha256": "914bf56cd470a3261c82a02a7f1d1471dcfc966ca4c9b9d2fe469d3225a57850",
+    "source_ids": [
+      "fancode_ios_reviews_page1"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page2__511522ab0d4c.json",
+    "bytes": 883,
+    "sha256": "511522ab0d4c9544520d022da13d9bebf11826fad394e775401b1586c69836f7",
+    "source_ids": [
+      "fancode_ios_reviews_page2"
+    ],
+    "format": "JSON",
+    "review_count": 0
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page2__51f8dafa74b6.json",
+    "bytes": 39425,
+    "sha256": "51f8dafa74b6c061f3f187bfdcdad1ed80448f5b65294cb74500d7def3968225",
+    "source_ids": [
+      "fancode_ios_reviews_page2"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page3__dd86a176a1e5.json",
+    "bytes": 39485,
+    "sha256": "dd86a176a1e5ab5bc914b09e6fe7eaa6ab1bede83cb10efc067f19e0d9d09cb6",
+    "source_ids": [
+      "fancode_ios_reviews_page3"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page4__bb6a70b4c548.json",
+    "bytes": 38366,
+    "sha256": "bb6a70b4c5487c619388237261ba5ed2704ba46612c28482737f637289d8cbe4",
+    "source_ids": [
+      "fancode_ios_reviews_page4"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page5__7bb2b0495fc7.json",
+    "bytes": 37759,
+    "sha256": "7bb2b0495fc7ed49cc19ab0894a1cbfeda559bc8540e522707b3ec9131daceba",
+    "source_ids": [
+      "fancode_ios_reviews_page5"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page6__08bdc57a4441.json",
+    "bytes": 38518,
+    "sha256": "08bdc57a4441ec252b36f15a8b6261908f9fbbe16addb4c27e249e898383d7d3",
+    "source_ids": [
+      "fancode_ios_reviews_page6"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page7__b26654b5b37a.json",
+    "bytes": 38882,
+    "sha256": "b26654b5b37a14e6a7fd91ff4afc71e58335461c9ec4f54727134b17b9a599a4",
+    "source_ids": [
+      "fancode_ios_reviews_page7"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page8__0d1298e30174.json",
+    "bytes": 38240,
+    "sha256": "0d1298e301746e19926631677804616ba933cf1cb62daabb5fbb68f82c4e8292",
+    "source_ids": [
+      "fancode_ios_reviews_page8"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_ios_reviews_page9__46d9cafb4efe.json",
+    "bytes": 37652,
+    "sha256": "46d9cafb4efe36b5036ad3cf26c58f94c02700f786ab950eab5e6783a78ffa95",
+    "source_ids": [
+      "fancode_ios_reviews_page9"
+    ],
+    "format": "JSON",
+    "review_count": 50
+  },
+  {
+    "file": "data/raw/reviews/fancode_tv_listing__f315d377b241.html",
+    "bytes": 1296020,
+    "sha256": "f315d377b241c52f2fbd65ead70f8ed20cc73641f66ca5609b579edcf58309d8",
+    "source_ids": [
+      "fancode_tv_listing"
+    ],
+    "format": "HTML",
+    "title": "FanCode - Watch Live Sports - Apps on Google Play",
+    "visible_text_characters": 6071
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_001_57137e8e20fc.txt",
+    "bytes": 163994,
+    "sha256": "57137e8e20fc856584bc03254020a166c30fd4eefe17ef5e9fc370ad36f82a3e",
+    "source_ids": [
+      "com.dream11sportsguru_001"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_002_ea41084d47eb.txt",
+    "bytes": 165156,
+    "sha256": "ea41084d47ebdcdaeb1bf67bf44b95e46f055b55563a9f6e39519e4b4e9910af",
+    "source_ids": [
+      "com.dream11sportsguru_002"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_003_4b892e05323f.txt",
+    "bytes": 162730,
+    "sha256": "4b892e05323f729d8f4a57ad9c926c930adb395b884be6a852554821baee65f2",
+    "source_ids": [
+      "com.dream11sportsguru_003"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_004_39565d8079e9.txt",
+    "bytes": 159560,
+    "sha256": "39565d8079e9ee5d31152c3acd931a7891d2b6c7d6a49e75bbea0ef0504b7f67",
+    "source_ids": [
+      "com.dream11sportsguru_004"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_005_91e685c66e1a.txt",
+    "bytes": 156260,
+    "sha256": "91e685c66e1af6619d897a07da595d86027d40832df910f3d2a971e26204645d",
+    "source_ids": [
+      "com.dream11sportsguru_005"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_006_6347e6de779b.txt",
+    "bytes": 163161,
+    "sha256": "6347e6de779b704ca793984866a127cd7dd233064f37ebe1ddd18f6a1bb6ef35",
+    "source_ids": [
+      "com.dream11sportsguru_006"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_007_32c194161921.txt",
+    "bytes": 166272,
+    "sha256": "32c1941619216eb57129ef09b16302b9c60e5e2c316c15c3210831e147098712",
+    "source_ids": [
+      "com.dream11sportsguru_007"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_008_8aeccbefba1c.txt",
+    "bytes": 160502,
+    "sha256": "8aeccbefba1c8fa53c09cf10a233bd4d508477b135ef2d3a0326c90316c518ed",
+    "source_ids": [
+      "com.dream11sportsguru_008"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_009_c1c29ea4f01d.txt",
+    "bytes": 164486,
+    "sha256": "c1c29ea4f01d146f992cab172fedb852eddc2069daae899097f5cd1102bfa70c",
+    "source_ids": [
+      "com.dream11sportsguru_009"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_010_e684f6c0376a.txt",
+    "bytes": 183995,
+    "sha256": "e684f6c0376add268a147859d7678b9f8af364b1a6cf68bb249bdc379286a7cc",
+    "source_ids": [
+      "com.dream11sportsguru_010"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_011_896a5ce02d8c.txt",
+    "bytes": 179516,
+    "sha256": "896a5ce02d8c873982030775d312ec757fd8c06dc769a8344b93cd8295862f41",
+    "source_ids": [
+      "com.dream11sportsguru_011"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_012_0590acd8a42d.txt",
+    "bytes": 167495,
+    "sha256": "0590acd8a42d66ece521386ab0c5b6e4de2ebefb0596a736aab6f8790ea67a1b",
+    "source_ids": [
+      "com.dream11sportsguru_012"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_013_3d457af9ae99.txt",
+    "bytes": 164494,
+    "sha256": "3d457af9ae993ff94f1439c372dd92b2751776190f2809dc3ea8e46d86657aaf",
+    "source_ids": [
+      "com.dream11sportsguru_013"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_014_6784a9b24217.txt",
+    "bytes": 165859,
+    "sha256": "6784a9b24217a64521722252d91c7e12ef1417c3232d1b44e220a9d06e9bed25",
+    "source_ids": [
+      "com.dream11sportsguru_014"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_015_ba253cf685f9.txt",
+    "bytes": 168826,
+    "sha256": "ba253cf685f91be8906697abaa728f05dff8d6791ae494b9ad497ae7022ace55",
+    "source_ids": [
+      "com.dream11sportsguru_015"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_016_ef99fae5d72b.txt",
+    "bytes": 164820,
+    "sha256": "ef99fae5d72b805ab404e858feabdb52f18082002c06bd06613c97cfce116b4e",
+    "source_ids": [
+      "com.dream11sportsguru_016"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_017_c318cd1236af.txt",
+    "bytes": 166097,
+    "sha256": "c318cd1236afcadcf21f71adcb2c1e2f9d39e312637fd5cb3df7f678727f6b4d",
+    "source_ids": [
+      "com.dream11sportsguru_017"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_018_f66c1f3fffd2.txt",
+    "bytes": 172243,
+    "sha256": "f66c1f3fffd2048144f0ebceb6dfa056f13a849a700ff8e2ec101c98f565a8c2",
+    "source_ids": [
+      "com.dream11sportsguru_018"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_019_21307e443f2b.txt",
+    "bytes": 165284,
+    "sha256": "21307e443f2b76b70ad89c0f5c0f7c030c3d118844441be8dc1b8d56d00e73cd",
+    "source_ids": [
+      "com.dream11sportsguru_019"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_020_51fd3f978d95.txt",
+    "bytes": 164033,
+    "sha256": "51fd3f978d958052641e2202e4e38aabc0bc1f638be426857e792a4a5ec7d38f",
+    "source_ids": [
+      "com.dream11sportsguru_020"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_021_be45f0466c03.txt",
+    "bytes": 161707,
+    "sha256": "be45f0466c033554877d2520a2d2a44e9eaa6f6f80be928e5122314b9b4cda2c",
+    "source_ids": [
+      "com.dream11sportsguru_021"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_022_61fc51570d91.txt",
+    "bytes": 163152,
+    "sha256": "61fc51570d91fb2986520b5a4f0c9fb3ac1ac948f97362c7622dfbced05a1496",
+    "source_ids": [
+      "com.dream11sportsguru_022"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_023_d295bb9ca8b7.txt",
+    "bytes": 168960,
+    "sha256": "d295bb9ca8b7811036e05cece4fb54cea534481eb7fbbd9466951e5fe6bf8510",
+    "source_ids": [
+      "com.dream11sportsguru_023"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_024_fda6a04e260f.txt",
+    "bytes": 164843,
+    "sha256": "fda6a04e260f6cb477baa8d62868bbb6e3fa02b61406ec14a3f185714909bbd5",
+    "source_ids": [
+      "com.dream11sportsguru_024"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_025_f0fbb643fdfc.txt",
+    "bytes": 167416,
+    "sha256": "f0fbb643fdfc1619d4509dad3a2a2ae9c80d9e906e48272dde0436ec596302a7",
+    "source_ids": [
+      "com.dream11sportsguru_025"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_026_de4eb20b4759.txt",
+    "bytes": 163803,
+    "sha256": "de4eb20b47598a13f0866091c2c73c52c2376435ff7de9eb2c701cddd21dc0c4",
+    "source_ids": [
+      "com.dream11sportsguru_026"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_027_29cbad1b4116.txt",
+    "bytes": 168646,
+    "sha256": "29cbad1b4116c39d091ddb49ae6a30786fb7728a00d5100e03383a5161777448",
+    "source_ids": [
+      "com.dream11sportsguru_027"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_028_96a8f69ac373.txt",
+    "bytes": 163996,
+    "sha256": "96a8f69ac373081756b17f82338a68021ec76b677860e86b7972e605890e8500",
+    "source_ids": [
+      "com.dream11sportsguru_028"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_029_ca5552e5bd6b.txt",
+    "bytes": 156960,
+    "sha256": "ca5552e5bd6b61a340e8d857cb49c3b93e232db3c175933ad4e64315c0564251",
+    "source_ids": [
+      "com.dream11sportsguru_029"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_030_c06f937789be.txt",
+    "bytes": 160321,
+    "sha256": "c06f937789be7104d2b63f02e347bfef24f8db7317ea3d7dd16178b189f37e25",
+    "source_ids": [
+      "com.dream11sportsguru_030"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_031_6a744de47ba4.txt",
+    "bytes": 162123,
+    "sha256": "6a744de47ba4a81a391eddf5b7061cd277ae2b3f78652c1888530e37dfa02d7c",
+    "source_ids": [
+      "com.dream11sportsguru_031"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_032_0c041718e9b6.txt",
+    "bytes": 163417,
+    "sha256": "0c041718e9b670b1d8e4056cf95623a51de353cea2299d8839cabc87d745e0b9",
+    "source_ids": [
+      "com.dream11sportsguru_032"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_033_000c9d3f2449.txt",
+    "bytes": 167257,
+    "sha256": "000c9d3f2449224d0be33e832de8381609aaf0dce4e95f3f87c2b2e71d1bd285",
+    "source_ids": [
+      "com.dream11sportsguru_033"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_034_becf9ae9f97c.txt",
+    "bytes": 162594,
+    "sha256": "becf9ae9f97ca03d504af9ff32d84411114f0b46fd99e3746c469d65099d37d3",
+    "source_ids": [
+      "com.dream11sportsguru_034"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_035_750e7ed28b9e.txt",
+    "bytes": 167036,
+    "sha256": "750e7ed28b9e1dc5d0592e29b3bd851756e5cc8e41dbbfa6ff77f8a8ab1f6571",
+    "source_ids": [
+      "com.dream11sportsguru_035"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_036_dbf3e512c8aa.txt",
+    "bytes": 164142,
+    "sha256": "dbf3e512c8aa31fb2f3786728a8475af16b404c3e014c84505c9ebbf1e0d047b",
+    "source_ids": [
+      "com.dream11sportsguru_036"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_037_80889778c472.txt",
+    "bytes": 151671,
+    "sha256": "80889778c472df43b7a7acf8f829971d3158f3190ac00dceb71bdca2f1937f60",
+    "source_ids": [
+      "com.dream11sportsguru_037"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_038_4cccac8fe402.txt",
+    "bytes": 165063,
+    "sha256": "4cccac8fe40233fb65aade8c4aca1a0d9fda3fa4214765e55228a6f5bbb92575",
+    "source_ids": [
+      "com.dream11sportsguru_038"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_039_9e3b94bc847b.txt",
+    "bytes": 167686,
+    "sha256": "9e3b94bc847bec9e01f721f0848703a09c4a37eae3c9dc279fc44c709004e12b",
+    "source_ids": [
+      "com.dream11sportsguru_039"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_040_b4010585bc2f.txt",
+    "bytes": 168899,
+    "sha256": "b4010585bc2fe9a9c0eaa50559cfc8f0bf08a87d84f667271c0e3163c0fe1608",
+    "source_ids": [
+      "com.dream11sportsguru_040"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_041_d0f537ed7e08.txt",
+    "bytes": 168267,
+    "sha256": "d0f537ed7e089a2c496571b87775a06daefc18e4237e2d51495047d12cc5444c",
+    "source_ids": [
+      "com.dream11sportsguru_041"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_042_ad3d1df93fec.txt",
+    "bytes": 155815,
+    "sha256": "ad3d1df93feca7fab87a86f53b6ab25a7861892c8577acef494cbc0c33a047a6",
+    "source_ids": [
+      "com.dream11sportsguru_042"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_043_163bd1bb34b9.txt",
+    "bytes": 154872,
+    "sha256": "163bd1bb34b9da356b674d1c28333f2b6e190b560b55bb8ea59c7e0a9dd0ba3e",
+    "source_ids": [
+      "com.dream11sportsguru_043"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_044_777149bb84dc.txt",
+    "bytes": 159273,
+    "sha256": "777149bb84dc221abe431b7e7c475345e0735c66585abec8ab54cd4dc0ee7c79",
+    "source_ids": [
+      "com.dream11sportsguru_044"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_045_1d35a58df38a.txt",
+    "bytes": 148790,
+    "sha256": "1d35a58df38a7d2c395383945ffefcb0f79610578c29516b7b61a47e1fb536cf",
+    "source_ids": [
+      "com.dream11sportsguru_045"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_046_2058bc3055dc.txt",
+    "bytes": 163134,
+    "sha256": "2058bc3055dcdd4cb0f43945f87664762c121e23de74d5153708909bcc4f9508",
+    "source_ids": [
+      "com.dream11sportsguru_046"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_047_17ec8118f125.txt",
+    "bytes": 158729,
+    "sha256": "17ec8118f125c18146323b3e0d4ab82cf0aef72fdf073ddf1b3ad4eafb3f5dba",
+    "source_ids": [
+      "com.dream11sportsguru_047"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_048_4c9ecef69961.txt",
+    "bytes": 162793,
+    "sha256": "4c9ecef69961584418d2ce605a782df729fb4ecdeb5825ebb91349545041bf2e",
+    "source_ids": [
+      "com.dream11sportsguru_048"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_049_c4886be912e2.txt",
+    "bytes": 160186,
+    "sha256": "c4886be912e2cafd39c4412d74ab80ccc4da3664087b86da076519b6882a319c",
+    "source_ids": [
+      "com.dream11sportsguru_049"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_050_9cadbb7346bd.txt",
+    "bytes": 160621,
+    "sha256": "9cadbb7346bdfa49046a6dcb116d59f96f18b272188a36d6f33dc3cf037e94dc",
+    "source_ids": [
+      "com.dream11sportsguru_050"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_052_471a4ce6da1c.txt",
+    "bytes": 159427,
+    "sha256": "471a4ce6da1c7eaee4a5b810563b9638a313b92132b58a309b8719a2b267d506",
+    "source_ids": [
+      "com.dream11sportsguru_052"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_053_800071169272.txt",
+    "bytes": 156379,
+    "sha256": "8000711692722322ca84291558a016a7e117bcf9dd8ee57822b3daebf14113ca",
+    "source_ids": [
+      "com.dream11sportsguru_053"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_054_43093c176975.txt",
+    "bytes": 158988,
+    "sha256": "43093c176975e878a5ed0bda1be8bb8251ef37f6361231fe13cc6455ef761b17",
+    "source_ids": [
+      "com.dream11sportsguru_054"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_055_b4b74dbb83fe.txt",
+    "bytes": 159169,
+    "sha256": "b4b74dbb83fe5f31cd6f39cbd08911a53c0ad8985a5bd70ce236b0b4792a0075",
+    "source_ids": [
+      "com.dream11sportsguru_055"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_056_f021135965f1.txt",
+    "bytes": 158772,
+    "sha256": "f021135965f1093dccc9d7584e63ca2cee71178e0a5028d6b8b2824c809e0e2b",
+    "source_ids": [
+      "com.dream11sportsguru_056"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_057_c6905288f2b8.txt",
+    "bytes": 158614,
+    "sha256": "c6905288f2b8a5b85939f418e663f5bb8c2fb84b0645270b6f5f471812e020c2",
+    "source_ids": [
+      "com.dream11sportsguru_057"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_058_5ead486a092f.txt",
+    "bytes": 157150,
+    "sha256": "5ead486a092f02be9c7fcbc38517ec51d817f39aabda260f8e814c7ea74aa208",
+    "source_ids": [
+      "com.dream11sportsguru_058"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_059_27a0ea8b2f1c.txt",
+    "bytes": 156040,
+    "sha256": "27a0ea8b2f1c99711b2b42755524bb2416c1fbbe5b960e55b939e4c410d00077",
+    "source_ids": [
+      "com.dream11sportsguru_059"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_060_4e68f414ec05.txt",
+    "bytes": 156576,
+    "sha256": "4e68f414ec052b3504fdd2efd188af4e9477d9ebb356fde295ea0fa7c7ef91f6",
+    "source_ids": [
+      "com.dream11sportsguru_060"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_061_a8e79f2abf9a.txt",
+    "bytes": 163959,
+    "sha256": "a8e79f2abf9ab45b2d5b28eda426f49cfcc3c79ea12b101617de65e1caaa1991",
+    "source_ids": [
+      "com.dream11sportsguru_061"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_062_2cde62c129f2.txt",
+    "bytes": 163726,
+    "sha256": "2cde62c129f28129e1f9c9d4974f0d5d2ab7f7552a902c7d9e2510be2c8ce6ba",
+    "source_ids": [
+      "com.dream11sportsguru_062"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_063_3098a48e6da5.txt",
+    "bytes": 160756,
+    "sha256": "3098a48e6da55565ff62d5d8df150ef41a2501dd9f964707ace59cab15f165ce",
+    "source_ids": [
+      "com.dream11sportsguru_063"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_064_d7f92bd40e04.txt",
+    "bytes": 163483,
+    "sha256": "d7f92bd40e04483a83bea073d83c4f1fa54432a40f02447684f8caee0c7a79ff",
+    "source_ids": [
+      "com.dream11sportsguru_064"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_065_a20c7634a880.txt",
+    "bytes": 164881,
+    "sha256": "a20c7634a88081c0fdbc612cccf2e36972f83c3b3f971554b8d9d583a7911cb7",
+    "source_ids": [
+      "com.dream11sportsguru_065"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_066_55cfbdb72f86.txt",
+    "bytes": 167707,
+    "sha256": "55cfbdb72f863216630e14b8f81a3d6d2c4517c0c886c8ce034d69a12fcd2953",
+    "source_ids": [
+      "com.dream11sportsguru_066"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_067_c087efc615b3.txt",
+    "bytes": 163692,
+    "sha256": "c087efc615b3ecf34924129ab98d83cfb86abbd91084a4546c7ca1955d2afbbe",
+    "source_ids": [
+      "com.dream11sportsguru_067"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_068_81a6d4d107c8.txt",
+    "bytes": 171200,
+    "sha256": "81a6d4d107c8b7c85c7083d23a7b48f9bedd1cf984d4cdac21875233c02b8277",
+    "source_ids": [
+      "com.dream11sportsguru_068"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_069_43dbe616499c.txt",
+    "bytes": 163350,
+    "sha256": "43dbe616499ce26fd22ad21b96d6de9e4cb5118d58b7f0051cfd624a5395f42d",
+    "source_ids": [
+      "com.dream11sportsguru_069"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_070_fd18d5db201e.txt",
+    "bytes": 163114,
+    "sha256": "fd18d5db201ed97a485e704024a7487bc459d5e1dbfa8ed83887ffeab61066cc",
+    "source_ids": [
+      "com.dream11sportsguru_070"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_071_37e40545bbce.txt",
+    "bytes": 164756,
+    "sha256": "37e40545bbcef93fa7fddaabfcf9fab74b99c33d82a4482d6057aadf9d5665ef",
+    "source_ids": [
+      "com.dream11sportsguru_071"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_072_9d96e2d7c067.txt",
+    "bytes": 161430,
+    "sha256": "9d96e2d7c0678d012841c5e3190012519879b73e3ae71c563b6710d39a0de568",
+    "source_ids": [
+      "com.dream11sportsguru_072"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_073_c8a981269119.txt",
+    "bytes": 160494,
+    "sha256": "c8a98126911969c85afb07eb84d131b4ff12becdf6b93e2c0d9e1cfd0a5209ed",
+    "source_ids": [
+      "com.dream11sportsguru_073"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_074_816caa005e1f.txt",
+    "bytes": 161103,
+    "sha256": "816caa005e1f8ddc017874bb09e0c9c80ed54dbdc415cc081da0d0e2659c933b",
+    "source_ids": [
+      "com.dream11sportsguru_074"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.dream11sportsguru_response_075_9a8020f5cf53.txt",
+    "bytes": 152579,
+    "sha256": "9a8020f5cf532bdc479fd519164911ca2777767d94a3f34e292b89a7b2311468",
+    "source_ids": [
+      "com.dream11sportsguru_075"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 200
+  },
+  {
+    "file": "data/raw/reviews/google_play/com.fancode.tv_response_051_468e323dcb16.txt",
+    "bytes": 61935,
+    "sha256": "468e323dcb16237e2e514ced6df95fa321710e73bd67b84c9dc47ea507a127de",
+    "source_ids": [
+      "com.fancode.tv_051"
+    ],
+    "format": "Google Play public RPC",
+    "review_count": 93
+  },
+  {
+    "file": "data/raw/schedules/atp_calendar_distribution_pdf__5d942388328f.pdf",
+    "bytes": 163626,
+    "sha256": "5d942388328f0d697cb020de7f863e63e1e52acaf36fa41b9b07a2e44c11dd3b",
+    "source_ids": [
+      "atp_calendar_distribution_pdf"
+    ],
+    "format": "PDF",
+    "page_count": 2,
+    "text_layer_characters": 5401
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260104__7ade8cb59058.pdf",
+    "bytes": 260860,
+    "sha256": "7ade8cb590580b3b661a4247666d629332c4f083ffc5d7dd184b696e99a5a1a0",
+    "source_ids": [
+      "brisbane_oop_20260104"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2746
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260105__08550ae4df3d.pdf",
+    "bytes": 259723,
+    "sha256": "08550ae4df3df2d5d51eecb5c1cbaa7766f7d787b62e67b96892dabdba37b3ca",
+    "source_ids": [
+      "brisbane_oop_20260105"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2334
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260106__8a097ac2127e.pdf",
+    "bytes": 536313,
+    "sha256": "8a097ac2127e1262bce1c733fe6bcaacae747d423542f43b2112b8a9271ed7f6",
+    "source_ids": [
+      "brisbane_oop_20260106"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2478
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260107__b061cb95caf3.pdf",
+    "bytes": 533809,
+    "sha256": "b061cb95caf397b159f4901c2f3e264d1deb8fae0d6bdb15696bc721c8fa7a43",
+    "source_ids": [
+      "brisbane_oop_20260107"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2227
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260108__076d5bf93e4c.pdf",
+    "bytes": 534127,
+    "sha256": "076d5bf93e4c39c5d1a50f1bdc0abd4f58ab7a12e8b661c18cc7c832e81838b7",
+    "source_ids": [
+      "brisbane_oop_20260108"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2008
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260109__9feff7ed9356.pdf",
+    "bytes": 533235,
+    "sha256": "9feff7ed9356e7fb7c1a0a7be3cc86249a0c8861235e5d7a9ccbdd939a05db21",
+    "source_ids": [
+      "brisbane_oop_20260109"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1666
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260110__5dc99040d89f.pdf",
+    "bytes": 237239,
+    "sha256": "5dc99040d89f36d19155a5204826e6c247a5cba1c5fddea37b8bd8f30e75e58d",
+    "source_ids": [
+      "brisbane_oop_20260110"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1773
+  },
+  {
+    "file": "data/raw/schedules/brisbane_oop_20260111__81c5486260a9.pdf",
+    "bytes": 208011,
+    "sha256": "81c5486260a977030be7eaf8784782e48532cc94c6ac6fb24c633ba1b47fc011",
+    "source_ids": [
+      "brisbane_oop_20260111"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 990
+  },
+  {
+    "file": "data/raw/schedules/doha_2026_official_op__dc055eddbcaa.pdf",
+    "bytes": 69826,
+    "sha256": "dc055eddbcaa3dcc3a7bb8456590e97024fb8de1820934b4d8a7a7b3bbf8546a",
+    "source_ids": [
+      "doha_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 501
+  },
+  {
+    "file": "data/raw/schedules/doha_2026_official_site__4ef85e7108ac.html",
+    "bytes": 175065,
+    "sha256": "4ef85e7108acf1f05f073a1fddf9314a91e552b3a04a300b598adb75242fe66b",
+    "source_ids": [
+      "doha_2026_official_site"
+    ],
+    "format": "HTML",
+    "title": "QTF ATP Qatar Open 2026 | Live Scores, Schedule & News",
+    "visible_text_characters": 540
+  },
+  {
+    "file": "data/raw/schedules/doha_full_schedule__b272ef5575de.html",
+    "bytes": 153508,
+    "sha256": "b272ef5575de2d799fcd37fb4d98301c3b1b2589e7c2e9b609bf43133ec62b36",
+    "source_ids": [
+      "doha_full_schedule"
+    ],
+    "format": "HTML",
+    "title": "Qatar Open 2026 Schedule | Daily Order of Play & Courts",
+    "visible_text_characters": 484
+  },
+  {
+    "file": "data/raw/schedules/doha_tournament_page__d0b19776994d.html",
+    "bytes": 46110,
+    "sha256": "d0b19776994d52530e21541718f1f89c2f987c2b46f50207407c70ddb1c02a64",
+    "source_ids": [
+      "doha_tournament_page"
+    ],
+    "format": "HTML",
+    "title": null,
+    "visible_text_characters": 229
+  },
+  {
+    "file": "data/raw/schedules/dubai_2026_official_op__f8257a3c79bd.pdf",
+    "bytes": 74347,
+    "sha256": "f8257a3c79bda672a6201e3f5345d6709c0bff76a854a0a7f780e04b9005fb1c",
+    "source_ids": [
+      "dubai_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 657
+  },
+  {
+    "file": "data/raw/schedules/dubai_2026_order_play_pdf__01e6c8f9d567.pdf",
+    "bytes": 101319,
+    "sha256": "01e6c8f9d56758eb8aed04c7f01018eacb4a01ed8a0f2e4963d91cf4d92b4f7a",
+    "source_ids": [
+      "dubai_2026_order_play_pdf"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1505
+  },
+  {
+    "file": "data/raw/schedules/dubai_order_play_page__5b20a8dca010.html",
+    "bytes": 303519,
+    "sha256": "5b20a8dca01058d91beca4aab9986348c38aee695a7668c1884317fcc934b7ad",
+    "source_ids": [
+      "dubai_order_play_page"
+    ],
+    "format": "HTML",
+    "title": "Order of Play - Dubai Duty Free Tennis Championships",
+    "visible_text_characters": 1456
+  },
+  {
+    "file": "data/raw/schedules/f1_2026_calendar__d5cf9586c5ba.html",
+    "bytes": 583830,
+    "sha256": "d5cf9586c5ba3af68fa4484458a9481688bfe87a4cea0dc8fdf9741154729635",
+    "source_ids": [
+      "f1_2026_calendar"
+    ],
+    "format": "HTML",
+    "title": "F1 Schedule 2026 - Official Calendar of Grand Prix Races",
+    "visible_text_characters": 5048
+  },
+  {
+    "file": "data/raw/schedules/f1_singapore_timetable__ae63fac1bb2c.html",
+    "bytes": 334484,
+    "sha256": "ae63fac1bb2c6680e2a073dfaf110275800e00957ffff6b4e2e6d4f136d3c165",
+    "source_ids": [
+      "f1_singapore_timetable"
+    ],
+    "format": "HTML",
+    "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable | Formula 1®",
+    "visible_text_characters": 3028
+  },
+  {
+    "file": "data/raw/schedules/fancode_laliga_fixtures__6fe62ff0d408.html",
+    "bytes": 426996,
+    "sha256": "6fe62ff0d408f72293d052d7f3d187b045dff11b045b99c8c5e373958743fe09",
+    "source_ids": [
+      "fancode_laliga_fixtures"
+    ],
+    "format": "HTML",
+    "title": "LALIGA 2026-27 Football, Watch Live, Videos, Highlights & info | FanCode",
+    "visible_text_characters": 3523
+  },
+  {
+    "file": "data/raw/schedules/halle_2026_official_op__efef964f3542.pdf",
+    "bytes": 73623,
+    "sha256": "efef964f35426fb7cf01808163fe3ca3a86dfb747c6def12ea35b1e6909619fb",
+    "source_ids": [
+      "halle_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 618
+  },
+  {
+    "file": "data/raw/schedules/halle_tournament__ed283a127b08.html",
+    "bytes": 22476,
+    "sha256": "ed283a127b0854550dbbfb2a360530091fa6d1d2214248f8a3c54a0a242a00dc",
+    "source_ids": [
+      "halle_tournament"
+    ],
+    "format": "HTML",
+    "title": "Tournament",
+    "visible_text_characters": 998
+  },
+  {
+    "file": "data/raw/schedules/hongkong_2026_booklet__2cab99d57f14.html",
+    "bytes": 2305,
+    "sha256": "2cab99d57f14150c45bee92e9e661a7c7f120bfc1d6cc097ff152422691d7ca2",
+    "source_ids": [
+      "hongkong_2026_booklet"
+    ],
+    "format": "HTML",
+    "title": "BOCHKTO2026 Booklet",
+    "visible_text_characters": 25
+  },
+  {
+    "file": "data/raw/schedules/hongkong_2026_booklet_pdf__604b98bc2835.pdf",
+    "bytes": 55847823,
+    "sha256": "604b98bc2835411ccadbe6ae92f4771df1e2eab661d2b78e65d08c771ab7fc24",
+    "source_ids": [
+      "hongkong_2026_booklet_pdf"
+    ],
+    "format": "PDF",
+    "page_count": 46,
+    "text_layer_characters": 34425
+  },
+  {
+    "file": "data/raw/schedules/hongkong_2026_official_op__a88a6a558f39.pdf",
+    "bytes": 72774,
+    "sha256": "a88a6a558f39b1f158e5b66890fb360a64fe205fa42e0730df900f29b0b288fe",
+    "source_ids": [
+      "hongkong_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 645
+  },
+  {
+    "file": "data/raw/schedules/hongkong_booklet_config__4ae454040694.html",
+    "bytes": 28261,
+    "sha256": "4ae454040694291777022d365a2267817565b642ae5438e9e357099919b7aa4e",
+    "source_ids": [
+      "hongkong_booklet_config"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/schedules/hongkong_oop__578b17368eb7.html",
+    "bytes": 113716,
+    "sha256": "578b17368eb781c0610852d8fee94cbbda63dd8673dadf99cccd3ca44b62950b",
+    "source_ids": [
+      "hongkong_oop"
+    ],
+    "format": "HTML",
+    "title": "Order of Play - Today - Bank of China Hong Kong Tennis Open 2026",
+    "visible_text_characters": 1159
+  },
+  {
+    "file": "data/raw/schedules/hongkong_schedule__dc1a24e8dc7c.html",
+    "bytes": 58927,
+    "sha256": "dc1a24e8dc7c0d8bf0cce9809c7e75629b4ee70050ca578dfd81182f396464ff",
+    "source_ids": [
+      "hongkong_schedule"
+    ],
+    "format": "HTML",
+    "title": "Tournament Schedule - Bank of China Hong Kong Tennis Open 2026",
+    "visible_text_characters": 840
+  },
+  {
+    "file": "data/raw/schedules/hongkong_tournament__753fa0c69e7f.html",
+    "bytes": 51090,
+    "sha256": "753fa0c69e7f7cba7e353cf0d0ff01656be9731dd0d6cf9b732d09b1610d451c",
+    "source_ids": [
+      "hongkong_tournament"
+    ],
+    "format": "HTML",
+    "title": "Tournament Info - Bank of China Hong Kong Tennis Open 2026",
+    "visible_text_characters": 654
+  },
+  {
+    "file": "data/raw/schedules/indian_wells_20260306_oop__aa7f31821c55.pdf",
+    "bytes": 336378,
+    "sha256": "aa7f31821c553f8855adbe64474b10684a3caed836546642d0b18808b7ed32e5",
+    "source_ids": [
+      "indian_wells_20260306_oop"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 3682
+  },
+  {
+    "file": "data/raw/schedules/indian_wells_20260307_oop__23ff0b1150ec.pdf",
+    "bytes": 336710,
+    "sha256": "23ff0b1150ec63389ac21f0d4f3bb4c4e2a6e27e80efafe90355a8dbc4b06610",
+    "source_ids": [
+      "indian_wells_20260307_oop"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 3573
+  },
+  {
+    "file": "data/raw/schedules/indian_wells_2026_official_op__aed291c849e1.pdf",
+    "bytes": 223594,
+    "sha256": "aed291c849e168fdfc8f71cbfbe50ad3c6b796a8c73930c9265d4725cd62a25c",
+    "source_ids": [
+      "indian_wells_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 631
+  },
+  {
+    "file": "data/raw/schedules/indian_wells_faq__9c8a41a8877a.html",
+    "bytes": 367229,
+    "sha256": "9c8a41a8877a65b84f1f1973c9aa11972adb2cd941416004ce23bbf4d8054d0c",
+    "source_ids": [
+      "indian_wells_faq"
+    ],
+    "format": "HTML",
+    "title": "FAQs | BNP Paribas Open",
+    "visible_text_characters": 22154
+  },
+  {
+    "file": "data/raw/schedules/indian_wells_schedule__6b0fd0de9ac3.html",
+    "bytes": 259941,
+    "sha256": "6b0fd0de9ac3d8bd8241a9e3bc20fdc0627b463757093ce52e540766fb61ee30",
+    "source_ids": [
+      "indian_wells_schedule"
+    ],
+    "format": "HTML",
+    "title": "Competition | BNP Paribas Open",
+    "visible_text_characters": 3465
+  },
+  {
+    "file": "data/raw/schedules/laliga_calendar__6175d095d248.html",
+    "bytes": 222782,
+    "sha256": "6175d095d248770a3264434ef05090c1f6375ccf2803badcb6cb151f75829386",
+    "source_ids": [
+      "laliga_calendar"
+    ],
+    "format": "HTML",
+    "title": "Calendar LALIGA EA SPORTS 2026/27 | LALIGA",
+    "visible_text_characters": 5003
+  },
+  {
+    "file": "data/raw/schedules/laliga_season_announcement__647042113d28.html",
+    "bytes": 272184,
+    "sha256": "647042113d284177b6748aa704a32e1823480a4f1836a7571c00f77138057b30",
+    "source_ids": [
+      "laliga_season_announcement"
+    ],
+    "format": "HTML",
+    "title": "Ya se conoce el calendario al completo de LALIGA EA SPORTS 2026/27 | LALIGA",
+    "visible_text_characters": 6504
+  },
+  {
+    "file": "data/raw/schedules/madrid_2026_official_op__e213173d7359.pdf",
+    "bytes": 227020,
+    "sha256": "e213173d73599dceb6a9433970bfa1726b759ae3e3ffa188295df4e709e94b01",
+    "source_ids": [
+      "madrid_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 984
+  },
+  {
+    "file": "data/raw/schedules/madrid_2026_programme__92a53e77f426.pdf",
+    "bytes": 34366,
+    "sha256": "92a53e77f42637120e0cd22855b6402dd35c3d0bbb7fe6aef55e04217f905c1e",
+    "source_ids": [
+      "madrid_2026_programme"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 5255
+  },
+  {
+    "file": "data/raw/schedules/madrid_programme_english__2f644f5051ea.pdf",
+    "bytes": 37147,
+    "sha256": "2f644f5051ea41f5aa08a33637da2be8cff3cd51e9b0dbc7ed2dae7b891cfd68",
+    "source_ids": [
+      "madrid_programme_english"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 5410
+  },
+  {
+    "file": "data/raw/schedules/marrakech_20260331_oop__8c04b1b9f106.pdf",
+    "bytes": 94601,
+    "sha256": "8c04b1b9f10619dedd36aff81451cd7e973402e32421f1caf0414dec1b0ed643",
+    "source_ids": [
+      "marrakech_20260331_oop"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1452
+  },
+  {
+    "file": "data/raw/schedules/marrakech_2026_official_op__c7900638e405.pdf",
+    "bytes": 60785,
+    "sha256": "c7900638e4050f85e5c37cf3315d6ff2fec26570c13ea83c78965cd7eac1ee6b",
+    "source_ids": [
+      "marrakech_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 492
+  },
+  {
+    "file": "data/raw/schedules/marrakech_home__04a586569f3e.html",
+    "bytes": 171933,
+    "sha256": "04a586569f3e1e8ecf149c052411d7a0ac9f40423f79ce675c2978e0fb439673",
+    "source_ids": [
+      "marrakech_home"
+    ],
+    "format": "HTML",
+    "title": "Site Officiel Grand Prix Hassan II – Tournoi ATP 250 à Marrakech",
+    "visible_text_characters": 5460
+  },
+  {
+    "file": "data/raw/schedules/marrakech_programme__b1c1393b0a11.html",
+    "bytes": 116603,
+    "sha256": "b1c1393b0a11d4832b8e43143715b2464b350d7389f1daa82a1467fe88a38183",
+    "source_ids": [
+      "marrakech_programme"
+    ],
+    "format": "HTML",
+    "title": "Programme Grand Prix Hassan II – Matchs et Événements",
+    "visible_text_characters": 1651
+  },
+  {
+    "file": "data/raw/schedules/miami_2026_official_op__ac8a1feb8a6a.pdf",
+    "bytes": 224989,
+    "sha256": "ac8a1feb8a6ac1791ce3ea9070f9e11a104f92abf246fba6c6909226ec7a6fbc",
+    "source_ids": [
+      "miami_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 727
+  },
+  {
+    "file": "data/raw/schedules/miami_2026_schedule_fara__3268efe1dbd1.pdf",
+    "bytes": 7692400,
+    "sha256": "3268efe1dbd13c6f8934a9f339334c72db49dd64921a9d2bba8feca18d86c750",
+    "source_ids": [
+      "miami_2026_schedule_fara"
+    ],
+    "format": "PDF",
+    "page_count": 16,
+    "text_layer_characters": 14682
+  },
+  {
+    "file": "data/raw/schedules/miami_2026_schedule_lta__a5ff4653f9f2.html",
+    "bytes": 163494,
+    "sha256": "a5ff4653f9f29674abbfe59d100459069f535ba2a273538e3e59cbf8c446e65f",
+    "source_ids": [
+      "miami_2026_schedule_lta"
+    ],
+    "format": "HTML",
+    "title": "What is the schedule for the Miami Open 2026?",
+    "visible_text_characters": 7890
+  },
+  {
+    "file": "data/raw/schedules/miami_2026_schedule_page__ac4fe3718a0e.html",
+    "bytes": 282871,
+    "sha256": "ac4fe3718a0e38b6563a18388a41805552c5b29c9af4b99106447ade2780a547",
+    "source_ids": [
+      "miami_2026_schedule_page"
+    ],
+    "format": "HTML",
+    "title": "Miami Open Tennis Tournament Schedule",
+    "visible_text_characters": 2893
+  },
+  {
+    "file": "data/raw/schedules/miami_2026_schedule_tourism__1c24648d80f7.html",
+    "bytes": 205336,
+    "sha256": "1c24648d80f73638fb1121aa7f33c5608157e9f6bc868f34e4a55246261876ca",
+    "source_ids": [
+      "miami_2026_schedule_tourism"
+    ],
+    "format": "HTML",
+    "title": "Miami Open | Miami & Miami Beach",
+    "visible_text_characters": 11032
+  },
+  {
+    "file": "data/raw/schedules/miami_draws_order_play__e1e549dbd0ab.html",
+    "bytes": 474259,
+    "sha256": "e1e549dbd0abafac188522ba9c26ffc963debf33f118e2fb877c54a012893e25",
+    "source_ids": [
+      "miami_draws_order_play"
+    ],
+    "format": "HTML",
+    "title": "Draws - Miami Open",
+    "visible_text_characters": 2747
+  },
+  {
+    "file": "data/raw/schedules/miami_order_play__dfb7c21c1119.html",
+    "bytes": 261488,
+    "sha256": "dfb7c21c11197afe90e912ab252e44758c4fcd6d5982b3f286f7fb46bb2d979f",
+    "source_ids": [
+      "miami_order_play"
+    ],
+    "format": "HTML",
+    "title": "Order of Play - Miami Open",
+    "visible_text_characters": 3802
+  },
+  {
+    "file": "data/raw/schedules/motogp_calendar__f1457a429ca9.html",
+    "bytes": 304766,
+    "sha256": "f1457a429ca9b2eebbfa41e4f082df05ee82b576ad7e6a40b8fa552b1d5683a8",
+    "source_ids": [
+      "motogp_calendar"
+    ],
+    "format": "HTML",
+    "title": "MotoGP™ 2026 Calendar | Circuits | Schedule | Information",
+    "visible_text_characters": 9303
+  },
+  {
+    "file": "data/raw/schedules/motogp_full_calendar_article__42a5a5578b68.html",
+    "bytes": 111328,
+    "sha256": "42a5a5578b6804f2c37ab02a203b2fbfa8e5647660449bebca490c1023aed163",
+    "source_ids": [
+      "motogp_full_calendar_article"
+    ],
+    "format": "HTML",
+    "title": "2026 MotoGP™ calendar",
+    "visible_text_characters": 6582
+  },
+  {
+    "file": "data/raw/schedules/rome_2026_official_op__e694becf7a0b.pdf",
+    "bytes": 229702,
+    "sha256": "e694becf7a0b8d2aac8afdd5335ccb852a84284eda5dd3f7ada088042ae0cce0",
+    "source_ids": [
+      "rome_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 819
+  },
+  {
+    "file": "data/raw/schedules/rome_final_broadcaster__83c3a8f89a6d.html",
+    "bytes": 227729,
+    "sha256": "83c3a8f89a6d93a96246c7aa0f12c37f049868fa2004c53e29d3e5d40d5a5ec1",
+    "source_ids": [
+      "rome_final_broadcaster"
+    ],
+    "format": "HTML",
+    "title": "Internazionali di Roma 2026, il programma di oggi: partite e orari | Sky Sport",
+    "visible_text_characters": 5663
+  },
+  {
+    "file": "data/raw/schedules/rome_tournament__e07f805883e4.html",
+    "bytes": 17688,
+    "sha256": "e07f805883e4bf86aa55e868be19f579242f276e292ebb165c831b50fd1c930f",
+    "source_ids": [
+      "rome_tournament"
+    ],
+    "format": "HTML",
+    "title": null,
+    "visible_text_characters": 0
+  },
+  {
+    "file": "data/raw/schedules/rotterdam_20260211_oop_mirror__5efc5941936c.pdf",
+    "bytes": 81420,
+    "sha256": "5efc5941936c7715ca8107707c5bd9889f986ef4190516066a75f4653429d483",
+    "source_ids": [
+      "rotterdam_20260211_oop_mirror"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 1436
+  },
+  {
+    "file": "data/raw/schedules/rotterdam_2026_official_op__3070b2bbab07.pdf",
+    "bytes": 81099,
+    "sha256": "3070b2bbab07738c2d387ab57e0dd26504208b5085a35779069c33a36b2466e1",
+    "source_ids": [
+      "rotterdam_2026_official_op"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 645
+  },
+  {
+    "file": "data/raw/schedules/rotterdam_faq__8802bfea86da.html",
+    "bytes": 148152,
+    "sha256": "8802bfea86da2b1fdb27e818b0c1239ef0e5b7bdd111c72aedb9912cddf8a8a3",
+    "source_ids": [
+      "rotterdam_faq"
+    ],
+    "format": "HTML",
+    "title": "ABN AMRO Open - Veelgestelde vragen",
+    "visible_text_characters": 15613
+  },
+  {
+    "file": "data/raw/schedules/rotterdam_order_play__67557f363de0.html",
+    "bytes": 115795,
+    "sha256": "67557f363de08f2fea04f720b824cd12d233fefd8b3594a8a8a1d759e990bdf6",
+    "source_ids": [
+      "rotterdam_order_play"
+    ],
+    "format": "HTML",
+    "title": "ABN AMRO Open - order of play",
+    "visible_text_characters": 800
+  },
+  {
+    "file": "data/raw/schedules/rotterdam_programme_book__c67529bf3d46.html",
+    "bytes": 125906,
+    "sha256": "c67529bf3d4660064dfb5b81d7e0dd63f220b73098636cb3d4967380a2fc5db6",
+    "source_ids": [
+      "rotterdam_programme_book"
+    ],
+    "format": "HTML",
+    "title": "ABN AMRO Open - Programma boek",
+    "visible_text_characters": 1396
+  },
+  {
+    "file": "data/raw/schedules/v3_f1_malaysia_confirmation__67dc47e54a50.html",
+    "bytes": 333490,
+    "sha256": "67dc47e54a507de28145d835309c08cacaf17a16b419196fb96c970b470e11e0",
+    "source_ids": [
+      "v3_f1_malaysia_confirmation"
+    ],
+    "format": "HTML",
+    "title": "Formula 1 and FIA confirm Malaysia will join 2026 calendar as host venue for Bahrain Grand Prix",
+    "visible_text_characters": 7623
+  },
+  {
+    "file": "data/raw/schedules/v3_jolpica_documentation__295025930ae6.md",
+    "bytes": 5683,
+    "sha256": "295025930ae6c5b2d392e235b78ce3fdfc6865118f1d96d8b484b4908bbf4406",
+    "source_ids": [
+      "v3_jolpica_documentation"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/schedules/v3_jolpica_races_2026__11a7c0be6996.json",
+    "bytes": 14294,
+    "sha256": "11a7c0be699623eb503ba6de14301847da22273eabc62572fc180079c1a7262c",
+    "source_ids": [
+      "v3_jolpica_races_2026"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v3_tennisexplorer_aug29__db8de5de116a.html",
+    "bytes": 165688,
+    "sha256": "db8de5de116a827b668936847448d05b23b9692048252d48685f01bcded11c07",
+    "source_ids": [
+      "v3_tennisexplorer_aug29"
+    ],
+    "format": "HTML",
+    "title": "Tennis Explorer: Tennis Results, WTA & ATP Results",
+    "visible_text_characters": 6122
+  },
+  {
+    "file": "data/raw/schedules/v4_assen_timetable__5686a1f8e8bc.pdf",
+    "bytes": 513594,
+    "sha256": "5686a1f8e8bc1594ac6bb462685cc4d29e14e442fe4aa80112cbb6ba3d3d2ade",
+    "source_ids": [
+      "v4_assen_timetable"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 2245
+  },
+  {
+    "file": "data/raw/schedules/v4_barca_winter_time__990a671947a7.html",
+    "bytes": 316788,
+    "sha256": "990a671947a7c5b037373f008b7c1a3afd10ebc66ffaae245a17a91909fa2be0",
+    "source_ids": [
+      "v4_barca_winter_time"
+    ],
+    "format": "HTML",
+    "title": "PREVIEW | RCD Espanyol v FC Barcelona",
+    "visible_text_characters": 11329
+  },
+  {
+    "file": "data/raw/schedules/v4_football_index__368bccdcbe37.html",
+    "bytes": 46388,
+    "sha256": "368bccdcbe37354c9616744fd34a159e3db774d5bddd2962cb56b923fe91fadb",
+    "source_ids": [
+      "v4_football_index"
+    ],
+    "format": "HTML",
+    "title": "Spain Football Results and Betting Odds",
+    "visible_text_characters": 7921
+  },
+  {
+    "file": "data/raw/schedules/v4_football_notes__6ecd41a98ad2.txt",
+    "bytes": 7686,
+    "sha256": "6ecd41a98ad2751372817e7e6f1709bfeb433c53dd9aeda330fd926a5471452d",
+    "source_ids": [
+      "v4_football_notes"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/schedules/v4_laliga_2526__4ca2e285f3ee.csv",
+    "bytes": 197653,
+    "sha256": "4ca2e285f3ee0702f6bc55fcaa4f5a15cb3aef6220735a1d15398131e21d63f5",
+    "source_ids": [
+      "v4_laliga_2526"
+    ],
+    "format": "CSV",
+    "data_rows": 380,
+    "columns": [
+      "Div",
+      "Date",
+      "Time",
+      "HomeTeam",
+      "AwayTeam",
+      "FTHG",
+      "FTAG",
+      "FTR",
+      "HTHG",
+      "HTAG",
+      "HTR",
+      "HS",
+      "AS",
+      "HST",
+      "AST",
+      "HF",
+      "AF",
+      "HC",
+      "AC",
+      "HY",
+      "AY",
+      "HR",
+      "AR",
+      "B365H",
+      "B365D",
+      "B365A",
+      "BFDH",
+      "BFDD",
+      "BFDA",
+      "BMGMH",
+      "BMGMD",
+      "BMGMA",
+      "BVH",
+      "BVD",
+      "BVA",
+      "BWH",
+      "BWD",
+      "BWA",
+      "CLH",
+      "CLD",
+      "CLA",
+      "LBH",
+      "LBD",
+      "LBA",
+      "PSH",
+      "PSD",
+      "PSA",
+      "MaxH",
+      "MaxD",
+      "MaxA",
+      "AvgH",
+      "AvgD",
+      "AvgA",
+      "BFEH",
+      "BFED",
+      "BFEA",
+      "B365>2.5",
+      "B365<2.5",
+      "P>2.5",
+      "P<2.5",
+      "Max>2.5",
+      "Max<2.5",
+      "Avg>2.5",
+      "Avg<2.5",
+      "BFE>2.5",
+      "BFE<2.5",
+      "AHh",
+      "B365AHH",
+      "B365AHA",
+      "PAHH",
+      "PAHA",
+      "MaxAHH",
+      "MaxAHA",
+      "AvgAHH",
+      "AvgAHA",
+      "BFEAHH",
+      "BFEAHA",
+      "B365CH",
+      "B365CD",
+      "B365CA",
+      "BFDCH",
+      "BFDCD",
+      "BFDCA",
+      "BMGMCH",
+      "BMGMCD",
+      "BMGMCA",
+      "BVCH",
+      "BVCD",
+      "BVCA",
+      "BWCH",
+      "BWCD",
+      "BWCA",
+      "CLCH",
+      "CLCD",
+      "CLCA",
+      "LBCH",
+      "LBCD",
+      "LBCA",
+      "PSCH",
+      "PSCD",
+      "PSCA",
+      "MaxCH",
+      "MaxCD",
+      "MaxCA",
+      "AvgCH",
+      "AvgCD",
+      "AvgCA",
+      "BFECH",
+      "BFECD",
+      "BFECA",
+      "B365C>2.5",
+      "B365C<2.5",
+      "PC>2.5",
+      "PC<2.5",
+      "MaxC>2.5",
+      "MaxC<2.5",
+      "AvgC>2.5",
+      "AvgC<2.5",
+      "BFEC>2.5",
+      "BFEC<2.5",
+      "AHCh",
+      "B365CAHH",
+      "B365CAHA",
+      "PCAHH",
+      "PCAHA",
+      "MaxCAHH",
+      "MaxCAHA",
+      "AvgCAHH",
+      "AvgCAHA",
+      "BFECAHH",
+      "BFECAHA"
+    ]
+  },
+  {
+    "file": "data/raw/schedules/v4_laliga_2627__deeed48a605c.csv",
+    "bytes": 20074,
+    "sha256": "deeed48a605c521dad8a6a50ff76e316f9904badb5493f3e6ac847c3468c59dc",
+    "source_ids": [
+      "v4_laliga_2627"
+    ],
+    "format": "CSV",
+    "data_rows": 41,
+    "columns": [
+      "Div",
+      "Date",
+      "Time",
+      "HomeTeam",
+      "AwayTeam",
+      "FTHG",
+      "FTAG",
+      "FTR",
+      "HTHG",
+      "HTAG",
+      "HTR",
+      "HxG",
+      "AxG",
+      "HS",
+      "AS",
+      "HST",
+      "AST",
+      "HF",
+      "AF",
+      "HC",
+      "AC",
+      "HY",
+      "AY",
+      "HR",
+      "AR",
+      "B365H",
+      "B365D",
+      "B365A",
+      "BFDH",
+      "BFDD",
+      "BFDA",
+      "BVH",
+      "BVD",
+      "BVA",
+      "BWH",
+      "BWD",
+      "BWA",
+      "PPH",
+      "PPD",
+      "PPA",
+      "SKBH",
+      "SKBD",
+      "SKBA",
+      "MaxH",
+      "MaxD",
+      "MaxA",
+      "AvgH",
+      "AvgD",
+      "AvgA",
+      "BFEH",
+      "BFED",
+      "BFEA",
+      "B365>2.5",
+      "B365<2.5",
+      "Max>2.5",
+      "Max<2.5",
+      "Avg>2.5",
+      "Avg<2.5",
+      "BFE>2.5",
+      "BFE<2.5",
+      "AHh",
+      "B365AHH",
+      "B365AHA",
+      "MaxAHH",
+      "MaxAHA",
+      "AvgAHH",
+      "AvgAHA",
+      "BFEAHH",
+      "BFEAHA",
+      "B365CH",
+      "B365CD",
+      "B365CA",
+      "BFDCH",
+      "BFDCD",
+      "BFDCA",
+      "BVCH",
+      "BVCD",
+      "BVCA",
+      "BWCH",
+      "BWCD",
+      "BWCA",
+      "PPCH",
+      "PPCD",
+      "PPCA",
+      "SKBCH",
+      "SKBCD",
+      "SKBCA",
+      "MaxCH",
+      "MaxCD",
+      "MaxCA",
+      "AvgCH",
+      "AvgCD",
+      "AvgCA",
+      "BFECH",
+      "BFECD",
+      "BFECA",
+      "B365C>2.5",
+      "B365C<2.5",
+      "MaxC>2.5",
+      "MaxC<2.5",
+      "AvgC>2.5",
+      "AvgC<2.5",
+      "BFEC>2.5",
+      "BFEC<2.5",
+      "AHCh",
+      "B365CAHH",
+      "B365CAHA",
+      "MaxCAHH",
+      "MaxCAHA",
+      "AvgCAHH",
+      "AvgCAHA",
+      "BFECAHH",
+      "BFECAHA"
+    ]
+  },
+  {
+    "file": "data/raw/schedules/v4_madrid_summer_time__5119eb9b5477.html",
+    "bytes": 456851,
+    "sha256": "5119eb9b54771e88a8b21745bc9e463cf3c180377066cfdadc74af9e83875b88",
+    "source_ids": [
+      "v4_madrid_summer_time"
+    ],
+    "format": "HTML",
+    "title": "The Barcelona-Real Madrid match will take place on Sunday, May 10, at 9:00 pm CEST",
+    "visible_text_characters": 1185
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_assen_official__a61361ae8f8f.html",
+    "bytes": 104635,
+    "sha256": "a61361ae8f8f755018046fb9dec85075dddf9ea8b5d9400a5d22f864e3829952",
+    "source_ids": [
+      "v4_motogp_assen_official"
+    ],
+    "format": "HTML",
+    "title": "TIME SCHEDULE: Tissot Grand Prix of the Netherlands",
+    "visible_text_characters": 4772
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_categories__09b4652e3ee4.json",
+    "bytes": 236,
+    "sha256": "09b4652e3ee49874dd8461731c01731e3f29015ca963f0c5bb30454910d69244",
+    "source_ids": [
+      "v4_motogp_categories"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_finished_events__fdf77c6db60e.json",
+    "bytes": 24947,
+    "sha256": "fdf77c6db60e498f87b3377701ecf1225ec688ec2ff53e2d0fd70e1003b7b199",
+    "source_ids": [
+      "v4_motogp_finished_events"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_future_events__595695186c9c.json",
+    "bytes": 7715,
+    "sha256": "595695186c9c42b0e979ff120eca4e9cda19587c829c0fefc64e81c2ceb01fec",
+    "source_ids": [
+      "v4_motogp_future_events"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_ics__e511f97d1fd1.ics",
+    "bytes": 74422,
+    "sha256": "e511f97d1fd19ebd4c3afa6558f82f3c939049b40c2c1f1d58800283bdd2e236",
+    "source_ids": [
+      "v4_motogp_ics"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ara_rac__a4a0987c0592.pdf",
+    "bytes": 1003047,
+    "sha256": "a4a0987c0592538a5e9ef7d77ed20b319a35040b231918e7f0d29b446e86edd4",
+    "source_ids": [
+      "v4_motogp_report_ara_rac"
+    ],
+    "format": "PDF",
+    "page_count": 26,
+    "text_layer_characters": 74333
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ara_spr__49c1ed3f5c0b.pdf",
+    "bytes": 826295,
+    "sha256": "49c1ed3f5c0b2d8bf4decdfecfcfc88e68fadb1691276117a165e260139919a9",
+    "source_ids": [
+      "v4_motogp_report_ara_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 48076
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_bra_rac__3b4c96bd0952.pdf",
+    "bytes": 910536,
+    "sha256": "3b4c96bd0952bb49b185513f32803c102579cfe00b2f9e69d4327950252dd7ca",
+    "source_ids": [
+      "v4_motogp_report_bra_rac"
+    ],
+    "format": "PDF",
+    "page_count": 24,
+    "text_layer_characters": 64759
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_bra_spr__2d2e1d7bae8b.pdf",
+    "bytes": 790934,
+    "sha256": "2d2e1d7bae8b31277823de078c3c1456f675a23e8b18f7daac16f5db8b01bdcb",
+    "source_ids": [
+      "v4_motogp_report_bra_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 51041
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_cat_rac2__252a9fac6950.pdf",
+    "bytes": 932015,
+    "sha256": "252a9fac69509edc21bc1411e37f683b685328d696502be78071c747fc137a48",
+    "source_ids": [
+      "v4_motogp_report_cat_rac2"
+    ],
+    "format": "PDF",
+    "page_count": 25,
+    "text_layer_characters": 57321
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_cat_rac__fe322782d42f.pdf",
+    "bytes": 1007905,
+    "sha256": "fe322782d42f95e72df63d39a1c5a1951a98b2f5ea1763f7fe84b99861db2f91",
+    "source_ids": [
+      "v4_motogp_report_cat_rac"
+    ],
+    "format": "PDF",
+    "page_count": 15,
+    "text_layer_characters": 43842
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_cat_spr__86308f9901b3.pdf",
+    "bytes": 795362,
+    "sha256": "86308f9901b348f165c93fe2994ddfa5bb905c59904936f57a4078103ab13d45",
+    "source_ids": [
+      "v4_motogp_report_cat_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 46741
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_cze_rac__2286cc1d758b.pdf",
+    "bytes": 937388,
+    "sha256": "2286cc1d758bf5449ab1967389bfa6f2e16df4e42a4522afef6d57f04dcd1508",
+    "source_ids": [
+      "v4_motogp_report_cze_rac"
+    ],
+    "format": "PDF",
+    "page_count": 23,
+    "text_layer_characters": 65096
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_cze_spr__b5ec397fe622.pdf",
+    "bytes": 797442,
+    "sha256": "b5ec397fe6228c958c9aa222dff813eb7b00fd370fcbcd9a3d5520c3cc051580",
+    "source_ids": [
+      "v4_motogp_report_cze_spr"
+    ],
+    "format": "PDF",
+    "page_count": 18,
+    "text_layer_characters": 43381
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_fra_rac__e3c209caad48.pdf",
+    "bytes": 969761,
+    "sha256": "e3c209caad4864ca51808b7be3a955e1403cf4f54a1fa0009ccfe823ff61fded",
+    "source_ids": [
+      "v4_motogp_report_fra_rac"
+    ],
+    "format": "PDF",
+    "page_count": 24,
+    "text_layer_characters": 68961
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_fra_spr__ebeee418b676.pdf",
+    "bytes": 830130,
+    "sha256": "ebeee418b6763c8e4a0d3fa06c64fa690a515423f101d38fdd5f443b74275a16",
+    "source_ids": [
+      "v4_motogp_report_fra_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 47332
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_gbr_rac__a7e51b0fda51.pdf",
+    "bytes": 985526,
+    "sha256": "a7e51b0fda51ad97df8619ee3c34e05f6329d912cb5b3729dc798cf3ab1ea8bb",
+    "source_ids": [
+      "v4_motogp_report_gbr_rac"
+    ],
+    "format": "PDF",
+    "page_count": 24,
+    "text_layer_characters": 66137
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_gbr_spr__715cc5588670.pdf",
+    "bytes": 856674,
+    "sha256": "715cc55886709a99dd6e9f43ddc98e91b2f69bc861d99be4cd44a88f6d763f25",
+    "source_ids": [
+      "v4_motogp_report_gbr_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 48062
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ger_rac__e234ac4028e4.pdf",
+    "bytes": 982840,
+    "sha256": "e234ac4028e468aabfa4bf343131da9c5801d2dfdd6fad6f87eb01e65a720527",
+    "source_ids": [
+      "v4_motogp_report_ger_rac"
+    ],
+    "format": "PDF",
+    "page_count": 24,
+    "text_layer_characters": 73375
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ger_spr__426a5c15ba22.pdf",
+    "bytes": 809853,
+    "sha256": "426a5c15ba22e3006b609e96187731f1145118f8b13365068c17d828948635ab",
+    "source_ids": [
+      "v4_motogp_report_ger_spr"
+    ],
+    "format": "PDF",
+    "page_count": 18,
+    "text_layer_characters": 49198
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_hun_rac__7fc9edfc0742.pdf",
+    "bytes": 1074707,
+    "sha256": "7fc9edfc0742a53fb4c385afcb35e2884ca4cdf2f1f67a51148d5affdd8e6505",
+    "source_ids": [
+      "v4_motogp_report_hun_rac"
+    ],
+    "format": "PDF",
+    "page_count": 26,
+    "text_layer_characters": 71472
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_hun_spr__a2f3e83db769.pdf",
+    "bytes": 885217,
+    "sha256": "a2f3e83db76941e8634d5d9ee179279be834a3e81ae5a87941783ed8cc6695be",
+    "source_ids": [
+      "v4_motogp_report_hun_spr"
+    ],
+    "format": "PDF",
+    "page_count": 19,
+    "text_layer_characters": 50175
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ita_rac__a9f275ab8129.pdf",
+    "bytes": 1001016,
+    "sha256": "a9f275ab8129ac37e0382a072de02da853fc77f9f3fb4098f4d59bdf874818a8",
+    "source_ids": [
+      "v4_motogp_report_ita_rac"
+    ],
+    "format": "PDF",
+    "page_count": 25,
+    "text_layer_characters": 70537
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ita_spr__cbd056437b86.pdf",
+    "bytes": 827363,
+    "sha256": "cbd056437b8651d8138dbbdb63939a93820cc5a9db00473f3a069e2533d7889e",
+    "source_ids": [
+      "v4_motogp_report_ita_spr"
+    ],
+    "format": "PDF",
+    "page_count": 19,
+    "text_layer_characters": 46034
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ned_rac__6472f0704f2d.pdf",
+    "bytes": 1009298,
+    "sha256": "6472f0704f2d976c8baaaffa7705f0e463e4b137adcf02bee716899ed96c1b81",
+    "source_ids": [
+      "v4_motogp_report_ned_rac"
+    ],
+    "format": "PDF",
+    "page_count": 26,
+    "text_layer_characters": 74711
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_ned_spr__e339da153eaf.pdf",
+    "bytes": 847127,
+    "sha256": "e339da153eaf4c3771cf8e681bb61194bfdb30f8233be183e69231b1c9182f0a",
+    "source_ids": [
+      "v4_motogp_report_ned_spr"
+    ],
+    "format": "PDF",
+    "page_count": 20,
+    "text_layer_characters": 51369
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_rsm_rac__747efa6fe189.pdf",
+    "bytes": 1014799,
+    "sha256": "747efa6fe189c9c5cc9477aa41268c6d1953816a5784dec3868674a48c7fe13e",
+    "source_ids": [
+      "v4_motogp_report_rsm_rac"
+    ],
+    "format": "PDF",
+    "page_count": 26,
+    "text_layer_characters": 74209
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_rsm_spr__fe632c3e319d.pdf",
+    "bytes": 841761,
+    "sha256": "fe632c3e319d95fae7dbf1799352bf8a0278725e3654c4b665c90d5356fee126",
+    "source_ids": [
+      "v4_motogp_report_rsm_spr"
+    ],
+    "format": "PDF",
+    "page_count": 19,
+    "text_layer_characters": 52380
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_spa_rac__a6f5afc56d90.pdf",
+    "bytes": 1036628,
+    "sha256": "a6f5afc56d909b638099d9aab1d49160c72605ef6888dda9e72aeff61d7053ef",
+    "source_ids": [
+      "v4_motogp_report_spa_rac"
+    ],
+    "format": "PDF",
+    "page_count": 27,
+    "text_layer_characters": 75113
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_spa_spr__146563391f97.pdf",
+    "bytes": 897720,
+    "sha256": "146563391f97d31515d9c23925a69daac2927292727de074d88ca0a8cf0003db",
+    "source_ids": [
+      "v4_motogp_report_spa_spr"
+    ],
+    "format": "PDF",
+    "page_count": 22,
+    "text_layer_characters": 53868
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_tha_rac__176f86a02a77.pdf",
+    "bytes": 902612,
+    "sha256": "176f86a02a77af146c46836c465d8aa479d69dfe349c35170e45440da67da732",
+    "source_ids": [
+      "v4_motogp_report_tha_rac"
+    ],
+    "format": "PDF",
+    "page_count": 25,
+    "text_layer_characters": 72272
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_tha_spr__96b2ea20acc1.pdf",
+    "bytes": 1248588,
+    "sha256": "96b2ea20acc146b1731c7c6a22713c8cc5b5255648dbfaa9836de4bd53898b7c",
+    "source_ids": [
+      "v4_motogp_report_tha_spr"
+    ],
+    "format": "PDF",
+    "page_count": 19,
+    "text_layer_characters": 50010
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_usa_rac__e01df47731ce.pdf",
+    "bytes": 899983,
+    "sha256": "e01df47731cebb3d33f5c6cb97c84fd06ba3ecacf36b23994648931584192494",
+    "source_ids": [
+      "v4_motogp_report_usa_rac"
+    ],
+    "format": "PDF",
+    "page_count": 22,
+    "text_layer_characters": 60683
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_report_usa_spr__229f39ee5004.pdf",
+    "bytes": 786532,
+    "sha256": "229f39ee50044a3a1db3c6b962f177314ef29f19a96ae33e570398daab40c8a5",
+    "source_ids": [
+      "v4_motogp_report_usa_spr"
+    ],
+    "format": "PDF",
+    "page_count": 18,
+    "text_layer_characters": 42268
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_seasons_api__880d59baff7b.json",
+    "bytes": 6708,
+    "sha256": "880d59baff7bd4f938c554b40c51913b70508cff45259f61f2524d543710ad91",
+    "source_ids": [
+      "v4_motogp_seasons_api"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_ara__9aba6b9830db.json",
+    "bytes": 16201,
+    "sha256": "9aba6b9830db970880e105b8c14ad40baf6c7e031a395bdc1d579cf3ff711a8b",
+    "source_ids": [
+      "v4_motogp_sessions_ara"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_aus__d518ba46f1c3.json",
+    "bytes": 10910,
+    "sha256": "d518ba46f1c3e15b965e54b1957b01ff776b0b7dd9642f61b26fcf8ebf7b1103",
+    "source_ids": [
+      "v4_motogp_sessions_aus"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_aut__a2304f48f5ea.json",
+    "bytes": 11110,
+    "sha256": "a2304f48f5ea6f3f9924dfebfda9fa785bc33243500860d26a132952fbf3e4ba",
+    "source_ids": [
+      "v4_motogp_sessions_aut"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_bra__23f8f5f26af2.json",
+    "bytes": 16786,
+    "sha256": "23f8f5f26af2ba33ce183ca01a23275c9efd8c4263bb8e496337c77464af9e20",
+    "source_ids": [
+      "v4_motogp_sessions_bra"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_cat__340107ab3d6b.json",
+    "bytes": 18625,
+    "sha256": "340107ab3d6b38586899effcad8c70e8fc8ddaac31aa3ad847a7edd323843d5f",
+    "source_ids": [
+      "v4_motogp_sessions_cat"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_cze__00cd9f2ebd16.json",
+    "bytes": 16297,
+    "sha256": "00cd9f2ebd161e94cab04c13894be827bb2d793157d792aa88d1eba3d8515ba4",
+    "source_ids": [
+      "v4_motogp_sessions_cze"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_fra__ad895f48861d.json",
+    "bytes": 15995,
+    "sha256": "ad895f48861d77027c57134fc0e398a9a83b4243f34e3d6fb7a6c1aaa634fc61",
+    "source_ids": [
+      "v4_motogp_sessions_fra"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_gbr__6db851da9bf2.json",
+    "bytes": 16785,
+    "sha256": "6db851da9bf253bd4c13c6e1b73d09628e570267ff0b51da5aaf99cc574aa075",
+    "source_ids": [
+      "v4_motogp_sessions_gbr"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_ger__50aabc91c36d.json",
+    "bytes": 16177,
+    "sha256": "50aabc91c36df209c7f93a71f4a39327226d03e5df1bb7413417a51c8028d5b2",
+    "source_ids": [
+      "v4_motogp_sessions_ger"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_hun__afa942abd635.json",
+    "bytes": 16268,
+    "sha256": "afa942abd63545b1ad74fd80bb90700f903c5e95b02f0f5792263caa14e920f8",
+    "source_ids": [
+      "v4_motogp_sessions_hun"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_ina__c8b8a5cc3a47.json",
+    "bytes": 11134,
+    "sha256": "c8b8a5cc3a475950bb488d371af9a2a364212bed0926d3b6eaac51254ff7af2f",
+    "source_ids": [
+      "v4_motogp_sessions_ina"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_ita__c518a0410c8d.json",
+    "bytes": 16412,
+    "sha256": "c518a0410c8d5c135d804f8c7268b6809332bbdfae36eac40c642312d4f66ec8",
+    "source_ids": [
+      "v4_motogp_sessions_ita"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_jpn__0410c91aa580.json",
+    "bytes": 10918,
+    "sha256": "0410c91aa5808ae10e194ede187ce17208d2b22eeda35b078a947bfab79c6353",
+    "source_ids": [
+      "v4_motogp_sessions_jpn"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_mal__8268fec3d9f9.json",
+    "bytes": 11254,
+    "sha256": "8268fec3d9f9417c3d05218990c05505141ac089bb5af66cb20062f75e2a91fe",
+    "source_ids": [
+      "v4_motogp_sessions_mal"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_ned__3cc21d6426e3.json",
+    "bytes": 16282,
+    "sha256": "3cc21d6426e355f609c4a2f52299dda31cf671b1f0b39062aa87c4c2b1af3e68",
+    "source_ids": [
+      "v4_motogp_sessions_ned"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_por__86d31f5a09f9.json",
+    "bytes": 11230,
+    "sha256": "86d31f5a09f97651c64326dde0592591e8661d707c9b9db067d7bdb951b39292",
+    "source_ids": [
+      "v4_motogp_sessions_por"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_qat__f7eaf0380548.json",
+    "bytes": 11062,
+    "sha256": "f7eaf03805481398239e3902d78cea5c89f3e909b474c1e26d8d8d95b360b1a0",
+    "source_ids": [
+      "v4_motogp_sessions_qat"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_rsm__793760e3d824.json",
+    "bytes": 16865,
+    "sha256": "793760e3d824faa29625a0933202f803d1be99198b65ad0ae21dbaee709da06a",
+    "source_ids": [
+      "v4_motogp_sessions_rsm"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_spa__a5cab5bb1249.json",
+    "bytes": 16559,
+    "sha256": "a5cab5bb1249a29467cc00b92da53512ffda9316db8ffe30e9cf00d1ac93f610",
+    "source_ids": [
+      "v4_motogp_sessions_spa"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_tha__4a94daa287ed.json",
+    "bytes": 16366,
+    "sha256": "4a94daa287ed8170de6d53b0b53898cdf0573829eacf388e3a742977e5824e6c",
+    "source_ids": [
+      "v4_motogp_sessions_tha"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_usa__52fba1303b6c.json",
+    "bytes": 16573,
+    "sha256": "52fba1303b6c741569afd0056f8d99fa4fdd09b6015ce09a8cc942fda99e5bec",
+    "source_ids": [
+      "v4_motogp_sessions_usa"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogp_sessions_val__c7876c68df8e.json",
+    "bytes": 10966,
+    "sha256": "c7876c68df8eef27546ff913ce3e5e5ce83913ab65dc9a1cdfae2f75032df6c3",
+    "source_ids": [
+      "v4_motogp_sessions_val"
+    ],
+    "format": "JSON"
+  },
+  {
+    "file": "data/raw/schedules/v4_motogpracetimes__aa6ce38b36b3.html",
+    "bytes": 162207,
+    "sha256": "aa6ce38b36b379198abddbb0955d18b41f23ceb89029a733056146c3c188c267",
+    "source_ids": [
+      "v4_motogpracetimes"
+    ],
+    "format": "HTML",
+    "title": "MotoGP 2026 Schedule — Next: Austria GP, Fri 18 Sep – Sun 20 Sep",
+    "visible_text_characters": 7434
+  },
+  {
+    "file": "data/raw/schedules/v4_racingmike_readme__e91694e4c154.md",
+    "bytes": 6837,
+    "sha256": "e91694e4c1548e88c27ba4774b62c3f3a2a069f21f6ea503a014743bc789f877",
+    "source_ids": [
+      "v4_racingmike_readme"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/schedules/winston_2026_schedule__ba85ac65ac9c.html",
+    "bytes": 49472,
+    "sha256": "ba85ac65ac9c9b7a5d98fb9bf1225b1fc02bbbd1947b2ef5c26ee727c4b94be0",
+    "source_ids": [
+      "winston_2026_schedule"
+    ],
+    "format": "HTML",
+    "title": "Schedule | Winston-Salem Open | Tennis",
+    "visible_text_characters": 1380
+  },
+  {
+    "file": "data/raw/schedules/winston_oop_pdf__136c0d6bc73e.pdf",
+    "bytes": 69443,
+    "sha256": "136c0d6bc73ef28fa581b59c58428608808a09227abfdff58d9af32834f125d8",
+    "source_ids": [
+      "winston_oop_pdf"
+    ],
+    "format": "PDF",
+    "page_count": 1,
+    "text_layer_characters": 639
+  },
+  {
+    "file": "data/raw/schedules/winston_recordbook__f4af4039ff7f.pdf",
+    "bytes": 6562822,
+    "sha256": "f4af4039ff7fca48a7e6e2672d871716c897be2f58c155239acf64f56dcdb062",
+    "source_ids": [
+      "winston_recordbook"
+    ],
+    "format": "PDF",
+    "page_count": 43,
+    "text_layer_characters": 70836
+  },
+  {
+    "file": "data/raw/schedules/winston_semifinal_oop__efd3897db3d9.html",
+    "bytes": 58253,
+    "sha256": "efd3897db3d90b6ebaae4a2eb744d2a41a84bf95032da7f6aa9439a3ddf691dc",
+    "source_ids": [
+      "winston_semifinal_oop"
+    ],
+    "format": "HTML",
+    "title": "Schedule | Winston-Salem Open | Tennis",
+    "visible_text_characters": 1607
+  },
+  {
+    "file": "data/raw/search_interest/google_trends_access_attempt__188c3c9d2b34.txt",
+    "bytes": 168,
+    "sha256": "188c3c9d2b3474dd6e65a7eff6a3bfadde93e5902dfae53bc6b0971ee6912409",
+    "source_ids": [
+      "google_trends_access_attempt"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/search_interest/google_trends_daily_table_v2__7d24b4f93e26.txt",
+    "bytes": 5587,
+    "sha256": "7d24b4f93e26d4ae497ea49f6f58ed7b5c7bf5566aad7e4b7e4ef9b25de8a4e4",
+    "source_ids": [
+      "google_trends_daily_table_v2"
+    ],
+    "format": "Browser table TSV",
+    "data_rows": 255,
+    "series": 4,
+    "transcription_check": "PASS"
+  },
+  {
+    "file": "data/raw/search_interest/google_trends_football_table_v5__f4ba95465353.tsv",
+    "bytes": 4343,
+    "sha256": "f4ba954653532b4fcbb038dc50d3b71cc3fd5ddeeb9796ce2ff6bf963e64348f",
+    "source_ids": [
+      "google_trends_football_table_v5"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/search_interest/google_trends_query_context_v2__48197826ef2c.txt",
+    "bytes": 889,
+    "sha256": "48197826ef2c5353c331d47cf5eb04444ebddb371b145714143e196df8caf4ab",
+    "source_ids": [
+      "google_trends_query_context_v2"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/search_interest/v4_trends_2025_pair__3fd20eb74693.txt",
+    "bytes": 8928,
+    "sha256": "3fd20eb74693833a5091e6e017b4a5b717bd63b84344938c742c9a45b6ba27dd",
+    "source_ids": [
+      "v4_trends_2025_pair"
+    ],
+    "format": "Text or JavaScript"
+  },
+  {
+    "file": "data/raw/search_interest/v4_trends_2025_timeline__644bd0d07201.txt",
+    "bytes": 9329,
+    "sha256": "644bd0d07201bfd5a92e52514f4c3bc513a1fbc2f3f3502d2ed50d609382c2fa",
+    "source_ids": [
+      "v4_trends_2025_timeline"
+    ],
+    "format": "Text or JavaScript"
+  }
+]

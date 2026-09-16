@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "checks": {
+    "video_ids_unique": true,
+    "video_count_53": true,
+    "only_2025_season_ids": true,
+    "player_event_unique": true,
+    "progression_bounded": true
+  }
+}

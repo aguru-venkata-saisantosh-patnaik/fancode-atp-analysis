@@ -1,0 +1,6 @@
+source_id,url,raw_file,retrieved
+fancode_terms,https://www.fancode.com/about/tnc,data/raw/offers/fancode_terms__ec711b2c0c24.html,2026-09-13T15:31:30.110677+00:00
+v3_cloudflare_stream_pricing,https://developers.cloudflare.com/stream/pricing/,data/raw/cost_benchmarks/v3_cloudflare_stream_pricing__aed3418cdef6.html,2026-09-14T12:13:56.708882+00:00
+v3_fancode_terms,https://www.fancode.com/about/tnc,data/raw/pricing/v3_fancode_terms__f8543d68e219.html,2026-09-14T12:17:35.629941+00:00
+v3_razorpay_pricing,https://razorpay.com/pricing/,data/raw/cost_benchmarks/v3_razorpay_pricing__e474532050c3.html,2026-09-14T12:13:56.696422+00:00
+v5_gst_council_rates,https://www.gstcouncil.gov.in/sites/default/files/2024-02/gstservicerates.pdf,data/raw/pricing/v5_gst_council_rates__f1d4414623a4.pdf,2026-09-14T17:01:48.432769+00:00

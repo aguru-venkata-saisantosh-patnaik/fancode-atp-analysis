@@ -1,0 +1,121 @@
+basket,monthly_atp,monthly_price,yearly_price,tournament_price,total_cost,choice
+One tennis event,False,116,899,79,79.0,Tournament Chengdu
+One tennis event,False,116,899,89,89.0,Tournament Chengdu
+One tennis event,False,116,899,99,99.0,Tournament Chengdu
+One tennis event,False,116,999,79,79.0,Tournament Chengdu
+One tennis event,False,116,999,89,89.0,Tournament Chengdu
+One tennis event,False,116,999,99,99.0,Tournament Chengdu
+One tennis event,False,199,899,79,79.0,Tournament Chengdu
+One tennis event,False,199,899,89,89.0,Tournament Chengdu
+One tennis event,False,199,899,99,99.0,Tournament Chengdu
+One tennis event,False,199,999,79,79.0,Tournament Chengdu
+One tennis event,False,199,999,89,89.0,Tournament Chengdu
+One tennis event,False,199,999,99,99.0,Tournament Chengdu
+One tennis event,True,116,899,79,79.0,Tournament Chengdu
+One tennis event,True,116,899,89,89.0,Tournament Chengdu
+One tennis event,True,116,899,99,99.0,Tournament Chengdu
+One tennis event,True,116,999,79,79.0,Tournament Chengdu
+One tennis event,True,116,999,89,89.0,Tournament Chengdu
+One tennis event,True,116,999,99,99.0,Tournament Chengdu
+One tennis event,True,199,899,79,79.0,Tournament Chengdu
+One tennis event,True,199,899,89,89.0,Tournament Chengdu
+One tennis event,True,199,899,99,99.0,Tournament Chengdu
+One tennis event,True,199,999,79,79.0,Tournament Chengdu
+One tennis event,True,199,999,89,89.0,Tournament Chengdu
+One tennis event,True,199,999,99,99.0,Tournament Chengdu
+Two tennis events within 30d,False,116,899,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,116,899,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,116,899,99,198.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,116,999,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,116,999,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,116,999,99,198.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,899,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,899,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,899,99,198.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,999,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,999,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,False,199,999,99,198.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,116,899,79,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,116,899,89,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,116,899,99,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,116,999,79,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,116,999,89,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,116,999,99,116.0,Monthly 2026-10-06
+Two tennis events within 30d,True,199,899,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,199,899,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,199,899,99,198.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,199,999,79,158.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,199,999,89,178.0,Tournament Tokyo; Tournament Shanghai
+Two tennis events within 30d,True,199,999,99,198.0,Tournament Tokyo; Tournament Shanghai
+Late-season tennis six,False,116,899,79,399.0,ATP season
+Late-season tennis six,False,116,899,89,399.0,ATP season
+Late-season tennis six,False,116,899,99,399.0,ATP season
+Late-season tennis six,False,116,999,79,399.0,ATP season
+Late-season tennis six,False,116,999,89,399.0,ATP season
+Late-season tennis six,False,116,999,99,399.0,ATP season
+Late-season tennis six,False,199,899,79,399.0,ATP season
+Late-season tennis six,False,199,899,89,399.0,ATP season
+Late-season tennis six,False,199,899,99,399.0,ATP season
+Late-season tennis six,False,199,999,79,399.0,ATP season
+Late-season tennis six,False,199,999,89,399.0,ATP season
+Late-season tennis six,False,199,999,99,399.0,ATP season
+Late-season tennis six,True,116,899,79,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,116,899,89,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,116,899,99,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,116,999,79,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,116,999,89,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,116,999,99,232.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,899,79,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,899,89,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,899,99,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,999,79,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,999,89,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Late-season tennis six,True,199,999,99,398.0,Monthly 2026-09-29; Monthly 2026-11-01
+Tennis plus two race weekends,False,116,899,79,353.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,116,899,89,383.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,116,899,99,413.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,116,999,79,353.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,116,999,89,383.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,116,999,99,413.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,899,79,436.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,899,89,466.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,899,99,496.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,999,79,436.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,999,89,466.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,False,199,999,99,496.0,Tournament Chengdu; Tournament Tokyo; Tournament Shanghai; Monthly 2026-09-26
+Tennis plus two race weekends,True,116,899,79,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,116,899,89,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,116,899,99,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,116,999,79,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,116,999,89,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,116,999,99,116.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,899,79,199.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,899,89,199.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,899,99,199.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,999,79,199.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,999,89,199.0,Monthly 2026-09-26
+Tennis plus two race weekends,True,199,999,99,199.0,Monthly 2026-09-26
+Portfolio to season end,False,116,899,79,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,116,899,89,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,116,899,99,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,116,999,79,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,116,999,89,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,116,999,99,747.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,199,899,79,899.0,Yearly 2026-09-26
+Portfolio to season end,False,199,899,89,899.0,Yearly 2026-09-26
+Portfolio to season end,False,199,899,99,899.0,Yearly 2026-09-26
+Portfolio to season end,False,199,999,79,996.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,199,999,89,996.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,False,199,999,99,996.0,ATP season; Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,899,79,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,899,89,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,899,99,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,999,79,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,999,89,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,116,999,99,348.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,899,79,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,899,89,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,899,99,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,999,79,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,999,89,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08
+Portfolio to season end,True,199,999,99,597.0,Monthly 2026-09-26; Monthly 2026-10-06; Monthly 2026-11-08

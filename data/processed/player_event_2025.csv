@@ -1,0 +1,2193 @@
+player,tourney_id,tourney_name,matches,max_round,reached_SF
+Abedallah Shelbayh,2025-0451,Doha,1,3,False
+Adam Walton,2025-0311,Queen's Club,1,3,False
+Adam Walton,2025-0339,Brisbane,1,3,False
+Adam Walton,2025-0403,Miami Masters,3,4,False
+Adam Walton,2025-0404,Indian Wells Masters,2,2,False
+Adam Walton,2025-0421,Canada Masters,2,2,False
+Adam Walton,2025-0422,Cincinnati Masters,3,3,False
+Adam Walton,2025-0499,Delray Beach,1,3,False
+Adam Walton,2025-0717,Houston,2,4,False
+Adam Walton,2025-0807,Acapulco,1,3,False
+Adam Walton,2025-4713,Hangzhou,1,3,False
+Adam Walton,2025-5014,Shanghai Masters,1,1,False
+Adam Walton,2025-5100,Athens,1,3,False
+Adam Walton,2025-6242,Winston-Salem,1,2,False
+Adam Walton,2025-7480,Los Cabos,4,6,True
+Adam Walton,2025-8998,Adelaide,1,3,False
+Adam Walton,2025-9410,Almaty,2,4,False
+Adrian Mannarino,2025-0301,Auckland,1,3,False
+Adrian Mannarino,2025-0341,Metz,1,3,False
+Adrian Mannarino,2025-0375,Montpellier,1,3,False
+Adrian Mannarino,2025-0421,Canada Masters,2,2,False
+Adrian Mannarino,2025-0422,Cincinnati Masters,4,4,False
+Adrian Mannarino,2025-0424,Dallas,1,3,False
+Adrian Mannarino,2025-0440,s Hertogenbosch,2,4,False
+Adrian Mannarino,2025-0717,Houston,2,4,False
+Adrian Mannarino,2025-0747,Beijing,2,4,False
+Adrian Mannarino,2025-4713,Hangzhou,1,3,False
+Adrian Mannarino,2025-5014,Shanghai Masters,2,2,False
+Adrian Mannarino,2025-7480,Los Cabos,1,3,False
+Alan Magadan,2025-7480,Los Cabos,1,3,False
+Albert Ramos,2025-0425,Barcelona,1,3,False
+Alejandro Davidovich Fokina,2025-0328,Basel,5,7,True
+Alejandro Davidovich Fokina,2025-0336,Hong Kong,1,3,False
+Alejandro Davidovich Fokina,2025-0352,Paris Masters,3,4,False
+Alejandro Davidovich Fokina,2025-0403,Miami Masters,2,2,False
+Alejandro Davidovich Fokina,2025-0404,Indian Wells Masters,1,1,False
+Alejandro Davidovich Fokina,2025-0410,Monte Carlo Masters,5,6,True
+Alejandro Davidovich Fokina,2025-0414,Hamburg,2,4,False
+Alejandro Davidovich Fokina,2025-0416,Rome Masters,1,2,False
+Alejandro Davidovich Fokina,2025-0418,Washington,5,7,True
+Alejandro Davidovich Fokina,2025-0421,Canada Masters,3,4,False
+Alejandro Davidovich Fokina,2025-0422,Cincinnati Masters,1,2,False
+Alejandro Davidovich Fokina,2025-0424,Dallas,2,4,False
+Alejandro Davidovich Fokina,2025-0425,Barcelona,3,5,False
+Alejandro Davidovich Fokina,2025-0499,Delray Beach,5,7,True
+Alejandro Davidovich Fokina,2025-0741,Eastbourne,4,6,True
+Alejandro Davidovich Fokina,2025-0747,Beijing,2,4,False
+Alejandro Davidovich Fokina,2025-0807,Acapulco,5,7,True
+Alejandro Davidovich Fokina,2025-1536,Madrid Masters,2,3,False
+Alejandro Davidovich Fokina,2025-5014,Shanghai Masters,2,3,False
+Alejandro Davidovich Fokina,2025-7480,Los Cabos,1,4,False
+Alejandro Davidovich Fokina,2025-7485,Brussels,2,5,False
+Alejandro Davidovich Fokina,2025-8998,Adelaide,2,4,False
+Alejandro Moro Canas,2025-0336,Hong Kong,1,3,False
+Alejandro Tabilo,2025-0301,Auckland,1,4,False
+Alejandro Tabilo,2025-0329,Tokyo,1,3,False
+Alejandro Tabilo,2025-0337,Vienna,1,3,False
+Alejandro Tabilo,2025-0339,Brisbane,1,3,False
+Alejandro Tabilo,2025-0403,Miami Masters,2,3,False
+Alejandro Tabilo,2025-0404,Indian Wells Masters,2,3,False
+Alejandro Tabilo,2025-0410,Monte Carlo Masters,3,4,False
+Alejandro Tabilo,2025-0422,Cincinnati Masters,1,1,False
+Alejandro Tabilo,2025-0506,Buenos Aires,1,4,False
+Alejandro Tabilo,2025-0717,Houston,1,4,False
+Alejandro Tabilo,2025-5014,Shanghai Masters,2,2,False
+Alejandro Tabilo,2025-5100,Athens,2,4,False
+Alejandro Tabilo,2025-6932,Rio de Janeiro,1,3,False
+Alejandro Tabilo,2025-7581,Chengdu,5,7,True
+Alejandro Tabilo,2025-8996,Santiago,1,4,False
+Aleksandar Kovacevic,2025-0337,Vienna,1,3,False
+Aleksandar Kovacevic,2025-0341,Metz,1,3,False
+Aleksandar Kovacevic,2025-0352,Paris Masters,1,2,False
+Aleksandar Kovacevic,2025-0375,Montpellier,5,7,True
+Aleksandar Kovacevic,2025-0403,Miami Masters,1,1,False
+Aleksandar Kovacevic,2025-0404,Indian Wells Masters,1,1,False
+Aleksandar Kovacevic,2025-0407,Rotterdam,1,3,False
+Aleksandar Kovacevic,2025-0414,Hamburg,1,3,False
+Aleksandar Kovacevic,2025-0416,Rome Masters,1,1,False
+Aleksandar Kovacevic,2025-0418,Washington,2,3,False
+Aleksandar Kovacevic,2025-0421,Canada Masters,1,1,False
+Aleksandar Kovacevic,2025-0422,Cincinnati Masters,1,1,False
+Aleksandar Kovacevic,2025-0429,Stockholm,2,4,False
+Aleksandar Kovacevic,2025-0440,s Hertogenbosch,1,3,False
+Aleksandar Kovacevic,2025-0717,Houston,3,5,False
+Aleksandar Kovacevic,2025-1536,Madrid Masters,1,1,False
+Aleksandar Kovacevic,2025-4713,Hangzhou,1,3,False
+Aleksandar Kovacevic,2025-5014,Shanghai Masters,1,1,False
+Aleksandar Kovacevic,2025-6242,Winston-Salem,2,3,False
+Aleksandar Kovacevic,2025-7480,Los Cabos,5,7,True
+Aleksandar Vukic,2025-0311,Queen's Club,1,3,False
+Aleksandar Vukic,2025-0329,Tokyo,3,5,False
+Aleksandar Vukic,2025-0339,Brisbane,2,4,False
+Aleksandar Vukic,2025-0341,Metz,2,4,False
+Aleksandar Vukic,2025-0352,Paris Masters,2,3,False
+Aleksandar Vukic,2025-0360,Marrakech,1,3,False
+Aleksandar Vukic,2025-0403,Miami Masters,1,1,False
+Aleksandar Vukic,2025-0404,Indian Wells Masters,1,1,False
+Aleksandar Vukic,2025-0416,Rome Masters,2,2,False
+Aleksandar Vukic,2025-0418,Washington,2,3,False
+Aleksandar Vukic,2025-0421,Canada Masters,3,3,False
+Aleksandar Vukic,2025-0422,Cincinnati Masters,1,1,False
+Aleksandar Vukic,2025-0424,Dallas,1,3,False
+Aleksandar Vukic,2025-0440,s Hertogenbosch,1,3,False
+Aleksandar Vukic,2025-0499,Delray Beach,1,3,False
+Aleksandar Vukic,2025-0741,Eastbourne,1,3,False
+Aleksandar Vukic,2025-0807,Acapulco,1,3,False
+Aleksandar Vukic,2025-1536,Madrid Masters,1,1,False
+Aleksandar Vukic,2025-4713,Hangzhou,2,4,False
+Aleksandar Vukic,2025-5014,Shanghai Masters,1,2,False
+Aleksandar Vukic,2025-6242,Winston-Salem,1,2,False
+Aleksandar Vukic,2025-7480,Los Cabos,1,3,False
+Aleksandar Vukic,2025-8998,Adelaide,1,3,False
+Aleksandar Vukic,2025-9410,Almaty,2,4,False
+Alex Bolt,2025-0311,Queen's Club,1,3,False
+Alex De Minaur,2025-0311,Queen's Club,1,3,False
+Alex De Minaur,2025-0337,Vienna,4,6,True
+Alex De Minaur,2025-0352,Paris Masters,3,5,False
+Alex De Minaur,2025-0403,Miami Masters,3,4,False
+Alex De Minaur,2025-0404,Indian Wells Masters,3,4,False
+Alex De Minaur,2025-0407,Rotterdam,5,7,True
+Alex De Minaur,2025-0410,Monte Carlo Masters,4,6,True
+Alex De Minaur,2025-0416,Rome Masters,3,4,False
+Alex De Minaur,2025-0418,Washington,5,7,True
+Alex De Minaur,2025-0421,Canada Masters,4,5,False
+Alex De Minaur,2025-0422,Cincinnati Masters,1,2,False
+Alex De Minaur,2025-0425,Barcelona,3,5,False
+Alex De Minaur,2025-0451,Doha,3,5,False
+Alex De Minaur,2025-0495,Dubai,1,3,False
+Alex De Minaur,2025-0605,Tour Finals,4,6,True
+Alex De Minaur,2025-0747,Beijing,4,6,True
+Alex De Minaur,2025-1536,Madrid Masters,3,4,False
+Alex De Minaur,2025-5014,Shanghai Masters,4,5,False
+Alex Michelsen,2025-0301,Auckland,3,5,False
+Alex Michelsen,2025-0321,Stuttgart,2,4,False
+Alex Michelsen,2025-0322,Geneva,1,3,False
+Alex Michelsen,2025-0329,Tokyo,1,3,False
+Alex Michelsen,2025-0337,Vienna,1,3,False
+Alex Michelsen,2025-0339,Brisbane,2,4,False
+Alex Michelsen,2025-0352,Paris Masters,1,2,False
+Alex Michelsen,2025-0403,Miami Masters,1,2,False
+Alex Michelsen,2025-0404,Indian Wells Masters,2,3,False
+Alex Michelsen,2025-0416,Rome Masters,1,2,False
+Alex Michelsen,2025-0418,Washington,1,3,False
+Alex Michelsen,2025-0421,Canada Masters,4,5,False
+Alex Michelsen,2025-0422,Cincinnati Masters,2,3,False
+Alex Michelsen,2025-0424,Dallas,1,3,False
+Alex Michelsen,2025-0499,Delray Beach,3,6,True
+Alex Michelsen,2025-0500,Halle,3,5,False
+Alex Michelsen,2025-0717,Houston,3,5,False
+Alex Michelsen,2025-0807,Acapulco,2,4,False
+Alex Michelsen,2025-1536,Madrid Masters,1,1,False
+Alex Michelsen,2025-5014,Shanghai Masters,1,2,False
+Alex Michelsen,2025-8994,Mallorca,3,6,True
+Alex Michelsen,2025-9410,Almaty,4,6,True
+Alexander Blockx,2025-0341,Metz,2,4,False
+Alexander Blockx,2025-0403,Miami Masters,1,1,False
+Alexander Blockx,2025-0421,Canada Masters,1,1,False
+Alexander Blockx,2025-0422,Cincinnati Masters,2,2,False
+Alexander Blockx,2025-0440,s Hertogenbosch,1,3,False
+Alexander Blockx,2025-7696,Next Gen Finals,5,7,True
+Alexander Bublik,2025-0308,Munich,1,3,False
+Alexander Bublik,2025-0314,Gstaad,4,7,True
+Alexander Bublik,2025-0319,Kitzbuhel,4,7,True
+Alexander Bublik,2025-0337,Vienna,3,5,False
+Alexander Bublik,2025-0341,Metz,1,4,False
+Alexander Bublik,2025-0352,Paris Masters,5,6,True
+Alexander Bublik,2025-0375,Montpellier,2,5,False
+Alexander Bublik,2025-0403,Miami Masters,2,2,False
+Alexander Bublik,2025-0404,Indian Wells Masters,1,1,False
+Alexander Bublik,2025-0407,Rotterdam,1,3,False
+Alexander Bublik,2025-0414,Hamburg,1,3,False
+Alexander Bublik,2025-0416,Rome Masters,2,2,False
+Alexander Bublik,2025-0451,Doha,1,3,False
+Alexander Bublik,2025-0495,Dubai,1,3,False
+Alexander Bublik,2025-0496,Marseille,2,4,False
+Alexander Bublik,2025-0500,Halle,5,7,True
+Alexander Bublik,2025-0747,Beijing,1,3,False
+Alexander Bublik,2025-1536,Madrid Masters,4,4,False
+Alexander Bublik,2025-4713,Hangzhou,4,7,True
+Alexander Bublik,2025-5014,Shanghai Masters,1,2,False
+Alexander Bublik,2025-8998,Adelaide,1,3,False
+Alexander Ritschard,2025-0717,Houston,1,3,False
+Alexander Shevchenko,2025-0308,Munich,2,4,False
+Alexander Shevchenko,2025-0314,Gstaad,2,4,False
+Alexander Shevchenko,2025-0319,Kitzbuhel,3,5,False
+Alexander Shevchenko,2025-0404,Indian Wells Masters,1,1,False
+Alexander Shevchenko,2025-0416,Rome Masters,1,1,False
+Alexander Shevchenko,2025-0424,Dallas,1,3,False
+Alexander Shevchenko,2025-0499,Delray Beach,1,3,False
+Alexander Shevchenko,2025-4462,Bucharest,1,3,False
+Alexander Shevchenko,2025-5014,Shanghai Masters,1,1,False
+Alexander Shevchenko,2025-6932,Rio de Janeiro,2,4,False
+Alexander Shevchenko,2025-7581,Chengdu,4,6,True
+Alexander Shevchenko,2025-8996,Santiago,1,3,False
+Alexander Shevchenko,2025-9410,Almaty,2,4,False
+Alexander Zverev,2025-0308,Munich,5,7,True
+Alexander Zverev,2025-0321,Stuttgart,4,7,True
+Alexander Zverev,2025-0337,Vienna,5,7,True
+Alexander Zverev,2025-0352,Paris Masters,4,6,True
+Alexander Zverev,2025-0403,Miami Masters,3,4,False
+Alexander Zverev,2025-0404,Indian Wells Masters,1,2,False
+Alexander Zverev,2025-0410,Monte Carlo Masters,1,3,False
+Alexander Zverev,2025-0414,Hamburg,2,4,False
+Alexander Zverev,2025-0416,Rome Masters,4,5,False
+Alexander Zverev,2025-0421,Canada Masters,5,6,True
+Alexander Zverev,2025-0422,Cincinnati Masters,5,6,True
+Alexander Zverev,2025-0500,Halle,4,6,True
+Alexander Zverev,2025-0506,Buenos Aires,2,5,False
+Alexander Zverev,2025-0605,Tour Finals,3,0,False
+Alexander Zverev,2025-0747,Beijing,3,5,False
+Alexander Zverev,2025-0807,Acapulco,2,4,False
+Alexander Zverev,2025-1536,Madrid Masters,3,4,False
+Alexander Zverev,2025-5014,Shanghai Masters,2,3,False
+Alexander Zverev,2025-6932,Rio de Janeiro,3,5,False
+Alexandre Muller,2025-0308,Munich,1,3,False
+Alexandre Muller,2025-0328,Basel,1,3,False
+Alexandre Muller,2025-0336,Hong Kong,5,7,True
+Alexandre Muller,2025-0352,Paris Masters,2,3,False
+Alexandre Muller,2025-0360,Marrakech,2,5,False
+Alexandre Muller,2025-0403,Miami Masters,2,2,False
+Alexandre Muller,2025-0404,Indian Wells Masters,1,1,False
+Alexandre Muller,2025-0410,Monte Carlo Masters,2,3,False
+Alexandre Muller,2025-0414,Hamburg,3,5,False
+Alexandre Muller,2025-0416,Rome Masters,2,2,False
+Alexandre Muller,2025-0418,Washington,2,3,False
+Alexandre Muller,2025-0421,Canada Masters,2,3,False
+Alexandre Muller,2025-0422,Cincinnati Masters,1,1,False
+Alexandre Muller,2025-0429,Stockholm,1,3,False
+Alexandre Muller,2025-0500,Halle,1,3,False
+Alexandre Muller,2025-0506,Buenos Aires,1,3,False
+Alexandre Muller,2025-0747,Beijing,2,4,False
+Alexandre Muller,2025-0807,Acapulco,1,3,False
+Alexandre Muller,2025-1536,Madrid Masters,3,3,False
+Alexandre Muller,2025-5014,Shanghai Masters,1,1,False
+Alexandre Muller,2025-5100,Athens,3,5,False
+Alexandre Muller,2025-6242,Winston-Salem,2,4,False
+Alexandre Muller,2025-6932,Rio de Janeiro,5,7,True
+Alexandre Muller,2025-8994,Mallorca,1,3,False
+Alexei Popyrin,2025-0311,Queen's Club,2,4,False
+Alexei Popyrin,2025-0322,Geneva,3,5,False
+Alexei Popyrin,2025-0337,Vienna,1,3,False
+Alexei Popyrin,2025-0339,Brisbane,1,3,False
+Alexei Popyrin,2025-0352,Paris Masters,1,2,False
+Alexei Popyrin,2025-0403,Miami Masters,1,2,False
+Alexei Popyrin,2025-0404,Indian Wells Masters,2,3,False
+Alexei Popyrin,2025-0407,Rotterdam,1,3,False
+Alexei Popyrin,2025-0410,Monte Carlo Masters,4,5,False
+Alexei Popyrin,2025-0416,Rome Masters,2,3,False
+Alexei Popyrin,2025-0418,Washington,1,3,False
+Alexei Popyrin,2025-0421,Canada Masters,4,5,False
+Alexei Popyrin,2025-0422,Cincinnati Masters,2,3,False
+Alexei Popyrin,2025-0429,Stockholm,1,3,False
+Alexei Popyrin,2025-0440,s Hertogenbosch,1,4,False
+Alexei Popyrin,2025-0451,Doha,1,3,False
+Alexei Popyrin,2025-0495,Dubai,2,4,False
+Alexei Popyrin,2025-1536,Madrid Masters,1,2,False
+Alexei Popyrin,2025-5100,Athens,1,3,False
+Alexis Galarneau,2025-0421,Canada Masters,2,2,False
+Alibek Kachmazov,2025-0375,Montpellier,1,3,False
+Alibek Kachmazov,2025-7480,Los Cabos,1,3,False
+Alvaro Guillen Meza,2025-0439,Umag,1,3,False
+Amir Omarkhanov,2025-9410,Almaty,1,3,False
+Andrea Pellegrino,2025-0316,Bastad,2,4,False
+Andrea Vavassori,2025-0407,Rotterdam,2,4,False
+Andrey Rublev,2025-0336,Hong Kong,1,4,False
+Andrey Rublev,2025-0337,Vienna,1,3,False
+Andrey Rublev,2025-0352,Paris Masters,3,4,False
+Andrey Rublev,2025-0375,Montpellier,3,6,True
+Andrey Rublev,2025-0403,Miami Masters,1,2,False
+Andrey Rublev,2025-0404,Indian Wells Masters,1,2,False
+Andrey Rublev,2025-0407,Rotterdam,3,5,False
+Andrey Rublev,2025-0410,Monte Carlo Masters,2,4,False
+Andrey Rublev,2025-0414,Hamburg,5,7,True
+Andrey Rublev,2025-0416,Rome Masters,1,2,False
+Andrey Rublev,2025-0418,Washington,1,3,False
+Andrey Rublev,2025-0421,Canada Masters,4,5,False
+Andrey Rublev,2025-0422,Cincinnati Masters,4,5,False
+Andrey Rublev,2025-0425,Barcelona,2,4,False
+Andrey Rublev,2025-0451,Doha,5,7,True
+Andrey Rublev,2025-0495,Dubai,1,3,False
+Andrey Rublev,2025-0500,Halle,2,4,False
+Andrey Rublev,2025-0747,Beijing,1,3,False
+Andrey Rublev,2025-1536,Madrid Masters,2,3,False
+Andrey Rublev,2025-4713,Hangzhou,1,4,False
+Andrey Rublev,2025-5014,Shanghai Masters,1,2,False
+Andrey Rublev,2025-7480,Los Cabos,3,6,True
+Arthur Cazaux,2025-0314,Gstaad,4,6,True
+Arthur Cazaux,2025-0319,Kitzbuhel,5,7,True
+Arthur Cazaux,2025-0322,Geneva,1,3,False
+Arthur Cazaux,2025-0339,Brisbane,1,3,False
+Arthur Cazaux,2025-0341,Metz,2,4,False
+Arthur Cazaux,2025-0352,Paris Masters,2,3,False
+Arthur Cazaux,2025-0375,Montpellier,2,4,False
+Arthur Cazaux,2025-0422,Cincinnati Masters,1,2,False
+Arthur Cazaux,2025-0747,Beijing,2,4,False
+Arthur Cazaux,2025-4713,Hangzhou,2,4,False
+Arthur Cazaux,2025-5014,Shanghai Masters,2,2,False
+Arthur Cazaux,2025-8998,Adelaide,2,4,False
+Arthur Cazaux,2025-9410,Almaty,1,3,False
+Arthur Fery,2025-0429,Stockholm,1,3,False
+Arthur Fils,2025-0336,Hong Kong,2,5,False
+Arthur Fils,2025-0403,Miami Masters,4,5,False
+Arthur Fils,2025-0404,Indian Wells Masters,4,5,False
+Arthur Fils,2025-0407,Rotterdam,2,4,False
+Arthur Fils,2025-0410,Monte Carlo Masters,4,5,False
+Arthur Fils,2025-0416,Rome Masters,3,4,False
+Arthur Fils,2025-0421,Canada Masters,2,3,False
+Arthur Fils,2025-0425,Barcelona,4,6,True
+Arthur Fils,2025-0495,Dubai,1,3,False
+Arthur Fils,2025-1536,Madrid Masters,1,2,False
+Arthur Gea,2025-0496,Marseille,1,3,False
+Arthur Rinderknech,2025-0311,Queen's Club,3,5,False
+Arthur Rinderknech,2025-0314,Gstaad,1,3,False
+Arthur Rinderknech,2025-0319,Kitzbuhel,4,6,True
+Arthur Rinderknech,2025-0321,Stuttgart,2,4,False
+Arthur Rinderknech,2025-0322,Geneva,2,4,False
+Arthur Rinderknech,2025-0339,Brisbane,1,3,False
+Arthur Rinderknech,2025-0341,Metz,1,3,False
+Arthur Rinderknech,2025-0352,Paris Masters,2,3,False
+Arthur Rinderknech,2025-0375,Montpellier,2,4,False
+Arthur Rinderknech,2025-0403,Miami Masters,1,1,False
+Arthur Rinderknech,2025-0404,Indian Wells Masters,1,1,False
+Arthur Rinderknech,2025-0416,Rome Masters,1,1,False
+Arthur Rinderknech,2025-0421,Canada Masters,1,1,False
+Arthur Rinderknech,2025-0422,Cincinnati Masters,3,3,False
+Arthur Rinderknech,2025-0424,Dallas,1,3,False
+Arthur Rinderknech,2025-0425,Barcelona,1,3,False
+Arthur Rinderknech,2025-0499,Delray Beach,2,4,False
+Arthur Rinderknech,2025-0747,Beijing,2,4,False
+Arthur Rinderknech,2025-0807,Acapulco,1,3,False
+Arthur Rinderknech,2025-1536,Madrid Masters,2,2,False
+Arthur Rinderknech,2025-5014,Shanghai Masters,7,7,True
+Arthur Rinderknech,2025-6242,Winston-Salem,1,2,False
+Arthur Rinderknech,2025-8994,Mallorca,2,4,False
+Arthur Rinderknech,2025-8998,Adelaide,1,3,False
+August Holmgren,2025-5014,Shanghai Masters,1,1,False
+Aziz Dougaz,2025-0451,Doha,1,3,False
+Aziz Dougaz,2025-0495,Dubai,1,3,False
+Beibit Zhukayev,2025-0418,Washington,1,2,False
+Beibit Zhukayev,2025-9410,Almaty,1,3,False
+Ben Shelton,2025-0301,Auckland,1,4,False
+Ben Shelton,2025-0308,Munich,5,7,True
+Ben Shelton,2025-0311,Queen's Club,1,3,False
+Ben Shelton,2025-0321,Stuttgart,3,6,True
+Ben Shelton,2025-0328,Basel,2,4,False
+Ben Shelton,2025-0352,Paris Masters,3,5,False
+Ben Shelton,2025-0403,Miami Masters,1,2,False
+Ben Shelton,2025-0404,Indian Wells Masters,4,5,False
+Ben Shelton,2025-0410,Monte Carlo Masters,1,2,False
+Ben Shelton,2025-0416,Rome Masters,1,2,False
+Ben Shelton,2025-0418,Washington,4,6,True
+Ben Shelton,2025-0421,Canada Masters,6,7,True
+Ben Shelton,2025-0422,Cincinnati Masters,4,5,False
+Ben Shelton,2025-0424,Dallas,2,4,False
+Ben Shelton,2025-0605,Tour Finals,3,0,False
+Ben Shelton,2025-0807,Acapulco,2,4,False
+Ben Shelton,2025-1536,Madrid Masters,2,3,False
+Ben Shelton,2025-5014,Shanghai Masters,1,2,False
+Ben Shelton,2025-8994,Mallorca,1,4,False
+Benjamin Bonzi,2025-0321,Stuttgart,1,3,False
+Benjamin Bonzi,2025-0339,Brisbane,2,4,False
+Benjamin Bonzi,2025-0403,Miami Masters,1,1,False
+Benjamin Bonzi,2025-0404,Indian Wells Masters,1,1,False
+Benjamin Bonzi,2025-0418,Washington,1,2,False
+Benjamin Bonzi,2025-0421,Canada Masters,1,1,False
+Benjamin Bonzi,2025-0422,Cincinnati Masters,4,4,False
+Benjamin Bonzi,2025-0496,Marseille,1,3,False
+Benjamin Bonzi,2025-0500,Halle,1,3,False
+Benjamin Bonzi,2025-0747,Beijing,1,3,False
+Benjamin Bonzi,2025-0807,Acapulco,1,3,False
+Benjamin Bonzi,2025-1536,Madrid Masters,3,3,False
+Benjamin Bonzi,2025-5014,Shanghai Masters,2,2,False
+Benjamin Bonzi,2025-7485,Brussels,3,5,False
+Benjamin Bonzi,2025-8994,Mallorca,1,3,False
+Benjamin Bonzi,2025-8998,Adelaide,2,5,False
+Bernard Tomic,2025-8994,Mallorca,2,4,False
+Bernard Tomic,2025-9410,Almaty,1,3,False
+Billy Harris,2025-0308,Munich,1,3,False
+Billy Harris,2025-0311,Queen's Club,1,3,False
+Billy Harris,2025-0403,Miami Masters,1,1,False
+Billy Harris,2025-0418,Washington,1,2,False
+Billy Harris,2025-0741,Eastbourne,3,5,False
+Billy Harris,2025-7581,Chengdu,1,3,False
+Borna Coric,2025-0375,Montpellier,1,3,False
+Borna Coric,2025-0421,Canada Masters,1,1,False
+Borna Coric,2025-0422,Cincinnati Masters,1,1,False
+Borna Coric,2025-1536,Madrid Masters,1,1,False
+Borna Coric,2025-6242,Winston-Salem,1,2,False
+Borna Gojo,2025-0308,Munich,1,3,False
+Borna Gojo,2025-0360,Marrakech,1,3,False
+Borna Gojo,2025-0414,Hamburg,1,3,False
+Borna Gojo,2025-0499,Delray Beach,1,3,False
+Borna Gojo,2025-1536,Madrid Masters,1,1,False
+Botic Van De Zandschulp,2025-0308,Munich,2,4,False
+Botic Van De Zandschulp,2025-0316,Bastad,2,4,False
+Botic Van De Zandschulp,2025-0319,Kitzbuhel,4,6,True
+Botic Van De Zandschulp,2025-0328,Basel,2,4,False
+Botic Van De Zandschulp,2025-0375,Montpellier,1,3,False
+Botic Van De Zandschulp,2025-0404,Indian Wells Masters,3,3,False
+Botic Van De Zandschulp,2025-0407,Rotterdam,1,3,False
+Botic Van De Zandschulp,2025-0451,Doha,2,4,False
+Botic Van De Zandschulp,2025-0496,Marseille,1,3,False
+Botic Van De Zandschulp,2025-1536,Madrid Masters,1,1,False
+Botic Van De Zandschulp,2025-4462,Bucharest,1,3,False
+Botic Van De Zandschulp,2025-5014,Shanghai Masters,1,1,False
+Botic Van De Zandschulp,2025-5100,Athens,1,3,False
+Botic Van De Zandschulp,2025-6242,Winston-Salem,6,7,True
+Botic Van De Zandschulp,2025-7485,Brussels,2,4,False
+Botic Van De Zandschulp,2025-7581,Chengdu,1,3,False
+Brandon Holt,2025-0403,Miami Masters,1,1,False
+Brandon Holt,2025-0422,Cincinnati Masters,1,1,False
+Brandon Holt,2025-0424,Dallas,1,3,False
+Brandon Holt,2025-0717,Houston,1,3,False
+Brandon Holt,2025-6242,Winston-Salem,1,2,False
+Brandon Holt,2025-8994,Mallorca,2,4,False
+Brandon Nakashima,2025-0311,Queen's Club,3,5,False
+Brandon Nakashima,2025-0321,Stuttgart,3,5,False
+Brandon Nakashima,2025-0329,Tokyo,3,5,False
+Brandon Nakashima,2025-0336,Hong Kong,1,3,False
+Brandon Nakashima,2025-0337,Vienna,2,4,False
+Brandon Nakashima,2025-0352,Paris Masters,1,2,False
+Brandon Nakashima,2025-0403,Miami Masters,3,4,False
+Brandon Nakashima,2025-0404,Indian Wells Masters,3,4,False
+Brandon Nakashima,2025-0410,Monte Carlo Masters,1,2,False
+Brandon Nakashima,2025-0414,Hamburg,2,4,False
+Brandon Nakashima,2025-0416,Rome Masters,2,3,False
+Brandon Nakashima,2025-0418,Washington,3,5,False
+Brandon Nakashima,2025-0421,Canada Masters,2,3,False
+Brandon Nakashima,2025-0422,Cincinnati Masters,2,3,False
+Brandon Nakashima,2025-0424,Dallas,1,3,False
+Brandon Nakashima,2025-0425,Barcelona,1,3,False
+Brandon Nakashima,2025-0499,Delray Beach,3,5,False
+Brandon Nakashima,2025-0717,Houston,3,6,True
+Brandon Nakashima,2025-0807,Acapulco,4,6,True
+Brandon Nakashima,2025-1536,Madrid Masters,3,4,False
+Brandon Nakashima,2025-5014,Shanghai Masters,1,2,False
+Brandon Nakashima,2025-5100,Athens,1,4,False
+Brandon Nakashima,2025-7581,Chengdu,3,6,True
+Brandon Nakashima,2025-8998,Adelaide,2,4,False
+Brandon Nakashima,2025-9410,Almaty,2,4,False
+Bu Yunchaokete,2025-0301,Auckland,1,3,False
+Bu Yunchaokete,2025-0336,Hong Kong,1,3,False
+Bu Yunchaokete,2025-0375,Montpellier,3,5,False
+Bu Yunchaokete,2025-0403,Miami Masters,2,2,False
+Bu Yunchaokete,2025-0404,Indian Wells Masters,2,2,False
+Bu Yunchaokete,2025-0410,Monte Carlo Masters,1,2,False
+Bu Yunchaokete,2025-0414,Hamburg,1,3,False
+Bu Yunchaokete,2025-0416,Rome Masters,1,1,False
+Bu Yunchaokete,2025-0418,Washington,2,3,False
+Bu Yunchaokete,2025-0421,Canada Masters,2,2,False
+Bu Yunchaokete,2025-0422,Cincinnati Masters,1,1,False
+Bu Yunchaokete,2025-0424,Dallas,1,3,False
+Bu Yunchaokete,2025-0499,Delray Beach,2,4,False
+Bu Yunchaokete,2025-0747,Beijing,1,3,False
+Bu Yunchaokete,2025-0807,Acapulco,1,3,False
+Bu Yunchaokete,2025-1536,Madrid Masters,1,1,False
+Bu Yunchaokete,2025-4462,Bucharest,1,3,False
+Bu Yunchaokete,2025-4713,Hangzhou,1,3,False
+Bu Yunchaokete,2025-5014,Shanghai Masters,2,2,False
+Bu Yunchaokete,2025-6242,Winston-Salem,4,5,False
+Bu Yunchaokete,2025-6932,Rio de Janeiro,1,3,False
+Bu Yunchaokete,2025-7480,Los Cabos,2,4,False
+Bu Yunchaokete,2025-8994,Mallorca,1,3,False
+Calvin Hemery,2025-0314,Gstaad,1,3,False
+Cameron Norrie,2025-0301,Auckland,1,3,False
+Cameron Norrie,2025-0311,Queen's Club,1,3,False
+Cameron Norrie,2025-0322,Geneva,4,6,True
+Cameron Norrie,2025-0336,Hong Kong,3,5,False
+Cameron Norrie,2025-0337,Vienna,2,4,False
+Cameron Norrie,2025-0341,Metz,5,7,True
+Cameron Norrie,2025-0352,Paris Masters,3,4,False
+Cameron Norrie,2025-0403,Miami Masters,1,1,False
+Cameron Norrie,2025-0404,Indian Wells Masters,3,3,False
+Cameron Norrie,2025-0416,Rome Masters,2,2,False
+Cameron Norrie,2025-0418,Washington,3,4,False
+Cameron Norrie,2025-0421,Canada Masters,1,2,False
+Cameron Norrie,2025-0422,Cincinnati Masters,1,2,False
+Cameron Norrie,2025-0424,Dallas,2,4,False
+Cameron Norrie,2025-0425,Barcelona,1,3,False
+Cameron Norrie,2025-0499,Delray Beach,3,5,False
+Cameron Norrie,2025-0741,Eastbourne,1,3,False
+Cameron Norrie,2025-0747,Beijing,1,3,False
+Cameron Norrie,2025-0807,Acapulco,1,3,False
+Cameron Norrie,2025-1536,Madrid Masters,3,3,False
+Cameron Norrie,2025-5014,Shanghai Masters,2,3,False
+Cameron Norrie,2025-7581,Chengdu,1,3,False
+Camilo Ugo Carabelli,2025-0311,Queen's Club,1,3,False
+Camilo Ugo Carabelli,2025-0316,Bastad,4,6,True
+Camilo Ugo Carabelli,2025-0337,Vienna,1,3,False
+Camilo Ugo Carabelli,2025-0352,Paris Masters,2,3,False
+Camilo Ugo Carabelli,2025-0403,Miami Masters,3,3,False
+Camilo Ugo Carabelli,2025-0410,Monte Carlo Masters,1,2,False
+Camilo Ugo Carabelli,2025-0414,Hamburg,2,4,False
+Camilo Ugo Carabelli,2025-0416,Rome Masters,2,2,False
+Camilo Ugo Carabelli,2025-0421,Canada Masters,1,1,False
+Camilo Ugo Carabelli,2025-0422,Cincinnati Masters,2,2,False
+Camilo Ugo Carabelli,2025-0429,Stockholm,1,3,False
+Camilo Ugo Carabelli,2025-0439,Umag,3,6,True
+Camilo Ugo Carabelli,2025-0506,Buenos Aires,1,3,False
+Camilo Ugo Carabelli,2025-0747,Beijing,1,3,False
+Camilo Ugo Carabelli,2025-1536,Madrid Masters,1,1,False
+Camilo Ugo Carabelli,2025-4462,Bucharest,2,4,False
+Camilo Ugo Carabelli,2025-4713,Hangzhou,1,3,False
+Camilo Ugo Carabelli,2025-5014,Shanghai Masters,2,2,False
+Camilo Ugo Carabelli,2025-6932,Rio de Janeiro,4,6,True
+Camilo Ugo Carabelli,2025-8994,Mallorca,1,3,False
+Camilo Ugo Carabelli,2025-8996,Santiago,4,6,True
+Carlos Alcaraz,2025-0311,Queen's Club,5,7,True
+Carlos Alcaraz,2025-0329,Tokyo,5,7,True
+Carlos Alcaraz,2025-0352,Paris Masters,1,3,False
+Carlos Alcaraz,2025-0403,Miami Masters,1,2,False
+Carlos Alcaraz,2025-0404,Indian Wells Masters,5,6,True
+Carlos Alcaraz,2025-0407,Rotterdam,5,7,True
+Carlos Alcaraz,2025-0410,Monte Carlo Masters,5,7,True
+Carlos Alcaraz,2025-0416,Rome Masters,6,7,True
+Carlos Alcaraz,2025-0422,Cincinnati Masters,6,7,True
+Carlos Alcaraz,2025-0425,Barcelona,5,7,True
+Carlos Alcaraz,2025-0451,Doha,3,5,False
+Carlos Alcaraz,2025-0605,Tour Finals,5,7,True
+Carlos Taberner,2025-0314,Gstaad,1,3,False
+Carlos Taberner,2025-0416,Rome Masters,2,2,False
+Carlos Taberner,2025-0439,Umag,5,7,True
+Casper Ruud,2025-0314,Gstaad,2,5,False
+Casper Ruud,2025-0328,Basel,3,5,False
+Casper Ruud,2025-0329,Tokyo,4,6,True
+Casper Ruud,2025-0352,Paris Masters,1,3,False
+Casper Ruud,2025-0403,Miami Masters,3,4,False
+Casper Ruud,2025-0404,Indian Wells Masters,1,2,False
+Casper Ruud,2025-0410,Monte Carlo Masters,2,4,False
+Casper Ruud,2025-0416,Rome Masters,4,5,False
+Casper Ruud,2025-0421,Canada Masters,3,4,False
+Casper Ruud,2025-0422,Cincinnati Masters,1,2,False
+Casper Ruud,2025-0424,Dallas,5,7,True
+Casper Ruud,2025-0425,Barcelona,3,5,False
+Casper Ruud,2025-0429,Stockholm,4,7,True
+Casper Ruud,2025-0807,Acapulco,2,4,False
+Casper Ruud,2025-1536,Madrid Masters,6,7,True
+Casper Ruud,2025-5014,Shanghai Masters,1,2,False
+Christopher Eubanks,2025-0375,Montpellier,2,4,False
+Christopher Eubanks,2025-0403,Miami Masters,1,1,False
+Christopher Eubanks,2025-0424,Dallas,1,3,False
+Christopher Eubanks,2025-0499,Delray Beach,1,3,False
+Christopher Eubanks,2025-0717,Houston,3,5,False
+Christopher Oconnell,2025-0308,Munich,1,3,False
+Christopher Oconnell,2025-0311,Queen's Club,1,3,False
+Christopher Oconnell,2025-0339,Brisbane,1,3,False
+Christopher Oconnell,2025-0403,Miami Masters,1,1,False
+Christopher Oconnell,2025-0404,Indian Wells Masters,2,2,False
+Christopher Oconnell,2025-0416,Rome Masters,1,1,False
+Christopher Oconnell,2025-0418,Washington,1,2,False
+Christopher Oconnell,2025-0421,Canada Masters,3,3,False
+Christopher Oconnell,2025-0440,s Hertogenbosch,1,3,False
+Christopher Oconnell,2025-0451,Doha,2,4,False
+Christopher Oconnell,2025-0495,Dubai,2,4,False
+Christopher Oconnell,2025-1536,Madrid Masters,2,2,False
+Christopher Oconnell,2025-4462,Bucharest,3,5,False
+Christopher Oconnell,2025-5014,Shanghai Masters,2,2,False
+Christopher Oconnell,2025-6242,Winston-Salem,2,3,False
+Christopher Oconnell,2025-7581,Chengdu,3,5,False
+Christopher Oconnell,2025-8998,Adelaide,2,4,False
+Chun Hsin Tseng,2025-0308,Munich,1,3,False
+Chun Hsin Tseng,2025-0316,Bastad,1,3,False
+Chun Hsin Tseng,2025-0403,Miami Masters,2,2,False
+Chun Hsin Tseng,2025-0416,Rome Masters,1,1,False
+Chun Hsin Tseng,2025-0421,Canada Masters,1,1,False
+Chun Hsin Tseng,2025-0439,Umag,2,4,False
+Chun Hsin Tseng,2025-0741,Eastbourne,1,3,False
+Chun Hsin Tseng,2025-4462,Bucharest,1,3,False
+Chun Hsin Tseng,2025-6242,Winston-Salem,1,2,False
+Chun Hsin Tseng,2025-6932,Rio de Janeiro,3,5,False
+Clement Chidekh,2025-0496,Marseille,1,3,False
+Clement Tabur,2025-0341,Metz,3,5,False
+Coleman Wong,2025-0336,Hong Kong,1,3,False
+Coleman Wong,2025-0403,Miami Masters,3,3,False
+Coleman Wong,2025-0422,Cincinnati Masters,2,2,False
+Coleman Wong,2025-1536,Madrid Masters,1,1,False
+Coleman Wong,2025-7581,Chengdu,1,3,False
+Colton Smith,2025-0404,Indian Wells Masters,2,2,False
+Colton Smith,2025-0418,Washington,1,2,False
+Colton Smith,2025-0421,Canada Masters,1,1,False
+Colton Smith,2025-0422,Cincinnati Masters,1,1,False
+Colton Smith,2025-0717,Houston,3,5,False
+Colton Smith,2025-7480,Los Cabos,1,3,False
+Constant Lestienne,2025-0375,Montpellier,2,4,False
+Constant Lestienne,2025-0407,Rotterdam,1,3,False
+Corentin Denolly,2025-0717,Houston,2,4,False
+Corentin Moutet,2025-0311,Queen's Club,2,4,False
+Corentin Moutet,2025-0321,Stuttgart,2,4,False
+Corentin Moutet,2025-0337,Vienna,3,5,False
+Corentin Moutet,2025-0341,Metz,1,3,False
+Corentin Moutet,2025-0352,Paris Masters,2,3,False
+Corentin Moutet,2025-0403,Miami Masters,2,2,False
+Corentin Moutet,2025-0404,Indian Wells Masters,2,2,False
+Corentin Moutet,2025-0410,Monte Carlo Masters,1,2,False
+Corentin Moutet,2025-0416,Rome Masters,4,4,False
+Corentin Moutet,2025-0418,Washington,4,6,True
+Corentin Moutet,2025-0421,Canada Masters,2,2,False
+Corentin Moutet,2025-0422,Cincinnati Masters,2,2,False
+Corentin Moutet,2025-0506,Buenos Aires,2,4,False
+Corentin Moutet,2025-0747,Beijing,2,4,False
+Corentin Moutet,2025-1536,Madrid Masters,1,1,False
+Corentin Moutet,2025-4713,Hangzhou,3,6,True
+Corentin Moutet,2025-5014,Shanghai Masters,1,2,False
+Corentin Moutet,2025-6932,Rio de Janeiro,1,3,False
+Corentin Moutet,2025-8994,Mallorca,5,7,True
+Corentin Moutet,2025-8996,Santiago,1,3,False
+Corentin Moutet,2025-9410,Almaty,5,7,True
+Cristian Garin,2025-0316,Bastad,1,3,False
+Cristian Garin,2025-0439,Umag,1,3,False
+Cristian Garin,2025-0717,Houston,2,4,False
+Cristian Garin,2025-8996,Santiago,2,4,False
+Dalibor Svrcina,2025-0314,Gstaad,1,3,False
+Dalibor Svrcina,2025-0421,Canada Masters,2,2,False
+Dalibor Svrcina,2025-4713,Hangzhou,3,5,False
+Dalibor Svrcina,2025-5014,Shanghai Masters,2,2,False
+Damir Dzumhur,2025-0316,Bastad,3,5,False
+Damir Dzumhur,2025-0321,Stuttgart,1,3,False
+Damir Dzumhur,2025-0329,Tokyo,1,3,False
+Damir Dzumhur,2025-0337,Vienna,1,3,False
+Damir Dzumhur,2025-0352,Paris Masters,1,2,False
+Damir Dzumhur,2025-0404,Indian Wells Masters,2,2,False
+Damir Dzumhur,2025-0414,Hamburg,1,3,False
+Damir Dzumhur,2025-0416,Rome Masters,1,1,False
+Damir Dzumhur,2025-0421,Canada Masters,1,1,False
+Damir Dzumhur,2025-0422,Cincinnati Masters,2,2,False
+Damir Dzumhur,2025-0425,Barcelona,1,3,False
+Damir Dzumhur,2025-0439,Umag,3,6,True
+Damir Dzumhur,2025-0506,Buenos Aires,1,3,False
+Damir Dzumhur,2025-1536,Madrid Masters,3,3,False
+Damir Dzumhur,2025-4462,Bucharest,4,6,True
+Damir Dzumhur,2025-4713,Hangzhou,1,3,False
+Damir Dzumhur,2025-5014,Shanghai Masters,1,1,False
+Damir Dzumhur,2025-5100,Athens,2,4,False
+Damir Dzumhur,2025-6932,Rio de Janeiro,2,4,False
+Damir Dzumhur,2025-7485,Brussels,2,4,False
+Damir Dzumhur,2025-8994,Mallorca,1,3,False
+Damir Dzumhur,2025-8996,Santiago,3,5,False
+Dan Added,2025-0341,Metz,1,4,False
+Dan Martin,2025-0421,Canada Masters,1,1,False
+Daniel Altmaier,2025-0301,Auckland,1,3,False
+Daniel Altmaier,2025-0308,Munich,2,4,False
+Daniel Altmaier,2025-0329,Tokyo,2,4,False
+Daniel Altmaier,2025-0337,Vienna,1,3,False
+Daniel Altmaier,2025-0341,Metz,3,5,False
+Daniel Altmaier,2025-0352,Paris Masters,3,4,False
+Daniel Altmaier,2025-0360,Marrakech,1,3,False
+Daniel Altmaier,2025-0375,Montpellier,1,3,False
+Daniel Altmaier,2025-0403,Miami Masters,1,1,False
+Daniel Altmaier,2025-0407,Rotterdam,3,5,False
+Daniel Altmaier,2025-0410,Monte Carlo Masters,3,4,False
+Daniel Altmaier,2025-0414,Hamburg,1,3,False
+Daniel Altmaier,2025-0416,Rome Masters,1,1,False
+Daniel Altmaier,2025-0418,Washington,1,2,False
+Daniel Altmaier,2025-0421,Canada Masters,1,1,False
+Daniel Altmaier,2025-0422,Cincinnati Masters,1,1,False
+Daniel Altmaier,2025-0496,Marseille,3,5,False
+Daniel Altmaier,2025-0500,Halle,1,3,False
+Daniel Altmaier,2025-0807,Acapulco,2,4,False
+Daniel Altmaier,2025-1536,Madrid Masters,1,1,False
+Daniel Altmaier,2025-5014,Shanghai Masters,2,2,False
+Daniel Altmaier,2025-7480,Los Cabos,2,4,False
+Daniel Altmaier,2025-7485,Brussels,1,3,False
+Daniel Altmaier,2025-8994,Mallorca,2,4,False
+Daniel Elahi Galan,2025-0319,Kitzbuhel,1,3,False
+Daniel Elahi Galan,2025-0422,Cincinnati Masters,2,2,False
+Daniel Elahi Galan,2025-0425,Barcelona,1,3,False
+Daniel Elahi Galan,2025-0717,Houston,1,3,False
+Daniel Evans,2025-0311,Queen's Club,2,4,False
+Daniel Evans,2025-0418,Washington,3,4,False
+Daniel Evans,2025-0440,s Hertogenbosch,2,4,False
+Daniel Evans,2025-0495,Dubai,1,3,False
+Daniel Evans,2025-0741,Eastbourne,3,5,False
+Daniil Medvedev,2025-0337,Vienna,2,4,False
+Daniil Medvedev,2025-0352,Paris Masters,4,5,False
+Daniil Medvedev,2025-0403,Miami Masters,1,2,False
+Daniil Medvedev,2025-0404,Indian Wells Masters,5,6,True
+Daniil Medvedev,2025-0407,Rotterdam,2,4,False
+Daniil Medvedev,2025-0410,Monte Carlo Masters,3,4,False
+Daniil Medvedev,2025-0416,Rome Masters,3,4,False
+Daniil Medvedev,2025-0418,Washington,3,5,False
+Daniil Medvedev,2025-0421,Canada Masters,2,3,False
+Daniil Medvedev,2025-0422,Cincinnati Masters,1,2,False
+Daniil Medvedev,2025-0440,s Hertogenbosch,2,5,False
+Daniil Medvedev,2025-0451,Doha,3,5,False
+Daniil Medvedev,2025-0495,Dubai,3,5,False
+Daniil Medvedev,2025-0496,Marseille,3,6,True
+Daniil Medvedev,2025-0500,Halle,5,7,True
+Daniil Medvedev,2025-0747,Beijing,4,6,True
+Daniil Medvedev,2025-1536,Madrid Masters,4,5,False
+Daniil Medvedev,2025-4713,Hangzhou,2,5,False
+Daniil Medvedev,2025-5014,Shanghai Masters,5,6,True
+Daniil Medvedev,2025-9410,Almaty,4,7,True
+Darwin Blanch,2025-6242,Winston-Salem,2,3,False
+David Goffin,2025-0308,Munich,3,5,False
+David Goffin,2025-0314,Gstaad,2,4,False
+David Goffin,2025-0328,Basel,1,3,False
+David Goffin,2025-0339,Brisbane,1,3,False
+David Goffin,2025-0375,Montpellier,1,3,False
+David Goffin,2025-0403,Miami Masters,3,3,False
+David Goffin,2025-0404,Indian Wells Masters,2,2,False
+David Goffin,2025-0407,Rotterdam,1,3,False
+David Goffin,2025-0418,Washington,1,2,False
+David Goffin,2025-0421,Canada Masters,1,1,False
+David Goffin,2025-0422,Cincinnati Masters,1,1,False
+David Goffin,2025-0747,Beijing,1,3,False
+David Goffin,2025-0807,Acapulco,3,5,False
+David Goffin,2025-1536,Madrid Masters,1,1,False
+David Goffin,2025-4713,Hangzhou,1,3,False
+David Goffin,2025-5014,Shanghai Masters,3,3,False
+David Goffin,2025-6242,Winston-Salem,1,2,False
+David Goffin,2025-7485,Brussels,1,3,False
+David Goffin,2025-8998,Adelaide,1,3,False
+Denis Shapovalov,2025-0308,Munich,1,3,False
+Denis Shapovalov,2025-0321,Stuttgart,1,3,False
+Denis Shapovalov,2025-0328,Basel,3,5,False
+Denis Shapovalov,2025-0329,Tokyo,1,3,False
+Denis Shapovalov,2025-0336,Hong Kong,1,3,False
+Denis Shapovalov,2025-0352,Paris Masters,1,2,False
+Denis Shapovalov,2025-0403,Miami Masters,2,3,False
+Denis Shapovalov,2025-0404,Indian Wells Masters,2,3,False
+Denis Shapovalov,2025-0410,Monte Carlo Masters,1,2,False
+Denis Shapovalov,2025-0416,Rome Masters,1,2,False
+Denis Shapovalov,2025-0421,Canada Masters,1,2,False
+Denis Shapovalov,2025-0422,Cincinnati Masters,1,2,False
+Denis Shapovalov,2025-0424,Dallas,5,7,True
+Denis Shapovalov,2025-0429,Stockholm,3,6,True
+Denis Shapovalov,2025-0500,Halle,2,4,False
+Denis Shapovalov,2025-0807,Acapulco,4,6,True
+Denis Shapovalov,2025-1536,Madrid Masters,2,3,False
+Denis Shapovalov,2025-5014,Shanghai Masters,2,3,False
+Denis Shapovalov,2025-7480,Los Cabos,4,7,True
+Denis Shapovalov,2025-8998,Adelaide,2,4,False
+Dhakshineswar Suresh,2025-6242,Winston-Salem,1,2,False
+Diego Dedura Palomero,2025-0308,Munich,2,4,False
+Diego Dedura Palomero,2025-0414,Hamburg,1,3,False
+Diego Schwartzman,2025-0506,Buenos Aires,2,4,False
+Dino Prizmic,2025-0439,Umag,3,5,False
+Dino Prizmic,2025-7581,Chengdu,2,4,False
+Dino Prizmic,2025-7696,Next Gen Finals,3,0,False
+Dmitry Popko,2025-0499,Delray Beach,1,3,False
+Dominic Stricker,2025-0314,Gstaad,2,4,False
+Dominic Stricker,2025-0322,Geneva,1,3,False
+Dominik Koepfer,2025-0375,Montpellier,2,4,False
+Dusan Lajovic,2025-0322,Geneva,1,3,False
+Dusan Lajovic,2025-0339,Brisbane,2,4,False
+Dusan Lajovic,2025-0404,Indian Wells Masters,2,2,False
+Dusan Lajovic,2025-0410,Monte Carlo Masters,1,2,False
+Dusan Lajovic,2025-0416,Rome Masters,2,2,False
+Dusan Lajovic,2025-0439,Umag,1,3,False
+Dusan Lajovic,2025-0506,Buenos Aires,2,4,False
+Dusan Lajovic,2025-1536,Madrid Masters,1,1,False
+Dusan Lajovic,2025-4462,Bucharest,1,3,False
+Dusan Lajovic,2025-6932,Rio de Janeiro,1,3,False
+Elias Ymer,2025-0316,Bastad,2,4,False
+Elias Ymer,2025-0414,Hamburg,1,3,False
+Elias Ymer,2025-0429,Stockholm,3,5,False
+Eliot Spizzirri,2025-0403,Miami Masters,2,2,False
+Eliot Spizzirri,2025-5100,Athens,2,4,False
+Eliot Spizzirri,2025-7485,Brussels,3,5,False
+Elliot Benchetrit,2025-0360,Marrakech,1,3,False
+Elmer Moller,2025-0316,Bastad,1,3,False
+Elmer Moller,2025-0439,Umag,1,3,False
+Elmer Moller,2025-1536,Madrid Masters,1,1,False
+Emil Ruusuvuori,2025-7485,Brussels,1,3,False
+Emilio Nava,2025-0418,Washington,1,2,False
+Emilio Nava,2025-0421,Canada Masters,3,3,False
+Emilio Nava,2025-0422,Cincinnati Masters,2,2,False
+Emilio Nava,2025-7480,Los Cabos,3,5,False
+Ethan Quinn,2025-0329,Tokyo,2,4,False
+Ethan Quinn,2025-0352,Paris Masters,1,2,False
+Ethan Quinn,2025-0403,Miami Masters,1,1,False
+Ethan Quinn,2025-0404,Indian Wells Masters,1,1,False
+Ethan Quinn,2025-0418,Washington,2,3,False
+Ethan Quinn,2025-0421,Canada Masters,2,2,False
+Ethan Quinn,2025-0422,Cincinnati Masters,2,2,False
+Ethan Quinn,2025-0424,Dallas,2,4,False
+Ethan Quinn,2025-0425,Barcelona,1,3,False
+Ethan Quinn,2025-0499,Delray Beach,2,4,False
+Ethan Quinn,2025-0717,Houston,2,4,False
+Ethan Quinn,2025-1536,Madrid Masters,2,2,False
+Ethan Quinn,2025-5014,Shanghai Masters,1,1,False
+Ethan Quinn,2025-7581,Chengdu,1,3,False
+Ethan Quinn,2025-8994,Mallorca,2,4,False
+Fabian Marozsan,2025-0308,Munich,4,6,True
+Fabian Marozsan,2025-0322,Geneva,2,4,False
+Fabian Marozsan,2025-0336,Hong Kong,3,5,False
+Fabian Marozsan,2025-0352,Paris Masters,1,2,False
+Fabian Marozsan,2025-0403,Miami Masters,1,1,False
+Fabian Marozsan,2025-0404,Indian Wells Masters,2,2,False
+Fabian Marozsan,2025-0407,Rotterdam,2,4,False
+Fabian Marozsan,2025-0410,Monte Carlo Masters,1,2,False
+Fabian Marozsan,2025-0416,Rome Masters,3,3,False
+Fabian Marozsan,2025-0418,Washington,2,3,False
+Fabian Marozsan,2025-0421,Canada Masters,3,3,False
+Fabian Marozsan,2025-0422,Cincinnati Masters,2,2,False
+Fabian Marozsan,2025-0451,Doha,2,4,False
+Fabian Marozsan,2025-0495,Dubai,1,3,False
+Fabian Marozsan,2025-0500,Halle,2,4,False
+Fabian Marozsan,2025-0741,Eastbourne,1,3,False
+Fabian Marozsan,2025-0747,Beijing,3,5,False
+Fabian Marozsan,2025-1536,Madrid Masters,1,1,False
+Fabian Marozsan,2025-5014,Shanghai Masters,2,2,False
+Fabian Marozsan,2025-9410,Almaty,3,5,False
+Fabio Fognini,2025-0321,Stuttgart,1,3,False
+Fabio Fognini,2025-0360,Marrakech,1,3,False
+Fabio Fognini,2025-0410,Monte Carlo Masters,1,2,False
+Fabio Fognini,2025-0416,Rome Masters,1,1,False
+Fabio Fognini,2025-1536,Madrid Masters,1,1,False
+Fabio Fognini,2025-8994,Mallorca,1,3,False
+Facundo Bagnis,2025-0319,Kitzbuhel,1,3,False
+Facundo Bagnis,2025-0421,Canada Masters,2,2,False
+Facundo Diaz Acosta,2025-0301,Auckland,3,5,False
+Facundo Diaz Acosta,2025-0506,Buenos Aires,1,3,False
+Facundo Diaz Acosta,2025-6932,Rio de Janeiro,1,3,False
+Facundo Diaz Acosta,2025-8996,Santiago,1,3,False
+Fajing Sun,2025-4713,Hangzhou,1,3,False
+Federico Agustin Gomez,2025-0339,Brisbane,1,3,False
+Federico Cina,2025-0403,Miami Masters,2,2,False
+Federico Cina,2025-0416,Rome Masters,1,1,False
+Federico Cina,2025-1536,Madrid Masters,2,2,False
+Federico Cina,2025-7485,Brussels,1,3,False
+Federico Coria,2025-0360,Marrakech,1,3,False
+Federico Coria,2025-0506,Buenos Aires,2,4,False
+Federico Coria,2025-8996,Santiago,3,5,False
+Felipe Meligeni Alves,2025-6932,Rio de Janeiro,1,3,False
+Felipe Meligeni Alves,2025-8996,Santiago,1,3,False
+Felix Auger Aliassime,2025-0308,Munich,1,3,False
+Felix Auger Aliassime,2025-0321,Stuttgart,3,6,True
+Felix Auger Aliassime,2025-0328,Basel,3,5,False
+Felix Auger Aliassime,2025-0352,Paris Masters,6,7,True
+Felix Auger Aliassime,2025-0375,Montpellier,4,7,True
+Felix Auger Aliassime,2025-0403,Miami Masters,2,3,False
+Felix Auger Aliassime,2025-0404,Indian Wells Masters,1,2,False
+Felix Auger Aliassime,2025-0407,Rotterdam,1,3,False
+Felix Auger Aliassime,2025-0410,Monte Carlo Masters,1,2,False
+Felix Auger Aliassime,2025-0414,Hamburg,4,6,True
+Felix Auger Aliassime,2025-0421,Canada Masters,1,2,False
+Felix Auger Aliassime,2025-0422,Cincinnati Masters,4,5,False
+Felix Auger Aliassime,2025-0451,Doha,4,6,True
+Felix Auger Aliassime,2025-0495,Dubai,5,7,True
+Felix Auger Aliassime,2025-0500,Halle,2,4,False
+Felix Auger Aliassime,2025-0605,Tour Finals,4,6,True
+Felix Auger Aliassime,2025-1536,Madrid Masters,1,2,False
+Felix Auger Aliassime,2025-5014,Shanghai Masters,4,5,False
+Felix Auger Aliassime,2025-7485,Brussels,4,7,True
+Felix Auger Aliassime,2025-8994,Mallorca,3,6,True
+Felix Auger Aliassime,2025-8998,Adelaide,4,7,True
+Filip Cristian Jianu,2025-4462,Bucharest,2,4,False
+Filip Misolic,2025-0316,Bastad,3,5,False
+Filip Misolic,2025-0319,Kitzbuhel,2,4,False
+Filip Misolic,2025-0337,Vienna,2,4,False
+Filip Misolic,2025-0429,Stockholm,1,3,False
+Filip Misolic,2025-4462,Bucharest,3,5,False
+Filip Misolic,2025-6242,Winston-Salem,1,2,False
+Filip Misolic,2025-7581,Chengdu,1,3,False
+Flavio Cobolli,2025-0301,Auckland,1,3,False
+Flavio Cobolli,2025-0308,Munich,1,3,False
+Flavio Cobolli,2025-0337,Vienna,2,4,False
+Flavio Cobolli,2025-0341,Metz,1,4,False
+Flavio Cobolli,2025-0352,Paris Masters,2,3,False
+Flavio Cobolli,2025-0375,Montpellier,1,4,False
+Flavio Cobolli,2025-0403,Miami Masters,1,1,False
+Flavio Cobolli,2025-0404,Indian Wells Masters,1,1,False
+Flavio Cobolli,2025-0407,Rotterdam,1,3,False
+Flavio Cobolli,2025-0410,Monte Carlo Masters,2,3,False
+Flavio Cobolli,2025-0414,Hamburg,5,7,True
+Flavio Cobolli,2025-0416,Rome Masters,1,1,False
+Flavio Cobolli,2025-0418,Washington,2,4,False
+Flavio Cobolli,2025-0421,Canada Masters,3,4,False
+Flavio Cobolli,2025-0422,Cincinnati Masters,1,2,False
+Flavio Cobolli,2025-0500,Halle,3,5,False
+Flavio Cobolli,2025-0741,Eastbourne,1,3,False
+Flavio Cobolli,2025-0747,Beijing,2,4,False
+Flavio Cobolli,2025-0807,Acapulco,1,3,False
+Flavio Cobolli,2025-1536,Madrid Masters,3,3,False
+Flavio Cobolli,2025-4462,Bucharest,4,7,True
+Flavio Cobolli,2025-5014,Shanghai Masters,1,2,False
+Flavio Cobolli,2025-9410,Almaty,2,5,False
+Frances Tiafoe,2025-0311,Queen's Club,1,3,False
+Frances Tiafoe,2025-0329,Tokyo,1,3,False
+Frances Tiafoe,2025-0339,Brisbane,2,4,False
+Frances Tiafoe,2025-0403,Miami Masters,2,3,False
+Frances Tiafoe,2025-0404,Indian Wells Masters,2,3,False
+Frances Tiafoe,2025-0410,Monte Carlo Masters,2,3,False
+Frances Tiafoe,2025-0414,Hamburg,2,4,False
+Frances Tiafoe,2025-0416,Rome Masters,1,2,False
+Frances Tiafoe,2025-0418,Washington,3,5,False
+Frances Tiafoe,2025-0421,Canada Masters,3,4,False
+Frances Tiafoe,2025-0422,Cincinnati Masters,3,4,False
+Frances Tiafoe,2025-0424,Dallas,2,4,False
+Frances Tiafoe,2025-0425,Barcelona,1,3,False
+Frances Tiafoe,2025-0717,Houston,4,7,True
+Frances Tiafoe,2025-0807,Acapulco,2,4,False
+Frances Tiafoe,2025-1536,Madrid Masters,3,4,False
+Frances Tiafoe,2025-5014,Shanghai Masters,1,2,False
+Francesco Passaro,2025-0314,Gstaad,2,4,False
+Francesco Passaro,2025-0336,Hong Kong,1,3,False
+Francesco Passaro,2025-0341,Metz,1,3,False
+Francesco Passaro,2025-0416,Rome Masters,3,3,False
+Francesco Passaro,2025-0439,Umag,2,4,False
+Francisco Cerundolo,2025-0301,Auckland,1,4,False
+Francisco Cerundolo,2025-0308,Munich,4,6,True
+Francisco Cerundolo,2025-0316,Bastad,3,6,True
+Francisco Cerundolo,2025-0337,Vienna,2,4,False
+Francisco Cerundolo,2025-0352,Paris Masters,3,4,False
+Francisco Cerundolo,2025-0403,Miami Masters,4,5,False
+Francisco Cerundolo,2025-0404,Indian Wells Masters,4,5,False
+Francisco Cerundolo,2025-0410,Monte Carlo Masters,2,3,False
+Francisco Cerundolo,2025-0414,Hamburg,2,4,False
+Francisco Cerundolo,2025-0416,Rome Masters,3,4,False
+Francisco Cerundolo,2025-0421,Canada Masters,3,4,False
+Francisco Cerundolo,2025-0439,Umag,1,4,False
+Francisco Cerundolo,2025-0500,Halle,1,3,False
+Francisco Cerundolo,2025-0506,Buenos Aires,5,7,True
+Francisco Cerundolo,2025-0747,Beijing,1,3,False
+Francisco Cerundolo,2025-1536,Madrid Masters,5,6,True
+Francisco Cerundolo,2025-5014,Shanghai Masters,2,3,False
+Francisco Cerundolo,2025-6932,Rio de Janeiro,3,5,False
+Francisco Cerundolo,2025-8996,Santiago,3,6,True
+Francisco Comesana,2025-0301,Auckland,1,3,False
+Francisco Comesana,2025-0314,Gstaad,3,5,False
+Francisco Comesana,2025-0319,Kitzbuhel,2,4,False
+Francisco Comesana,2025-0352,Paris Masters,1,2,False
+Francisco Comesana,2025-0403,Miami Masters,1,1,False
+Francisco Comesana,2025-0414,Hamburg,1,3,False
+Francisco Comesana,2025-0416,Rome Masters,2,2,False
+Francisco Comesana,2025-0421,Canada Masters,2,2,False
+Francisco Comesana,2025-0422,Cincinnati Masters,4,4,False
+Francisco Comesana,2025-0506,Buenos Aires,1,3,False
+Francisco Comesana,2025-0741,Eastbourne,1,3,False
+Francisco Comesana,2025-1536,Madrid Masters,3,3,False
+Francisco Comesana,2025-4462,Bucharest,3,5,False
+Francisco Comesana,2025-5014,Shanghai Masters,2,2,False
+Francisco Comesana,2025-6242,Winston-Salem,1,2,False
+Francisco Comesana,2025-6932,Rio de Janeiro,4,6,True
+Francisco Comesana,2025-7485,Brussels,2,4,False
+Francisco Comesana,2025-8996,Santiago,2,4,False
+Gabriel Diallo,2025-0301,Auckland,1,3,False
+Gabriel Diallo,2025-0311,Queen's Club,2,4,False
+Gabriel Diallo,2025-0328,Basel,1,3,False
+Gabriel Diallo,2025-0329,Tokyo,1,3,False
+Gabriel Diallo,2025-0336,Hong Kong,2,4,False
+Gabriel Diallo,2025-0352,Paris Masters,2,3,False
+Gabriel Diallo,2025-0403,Miami Masters,2,2,False
+Gabriel Diallo,2025-0404,Indian Wells Masters,2,2,False
+Gabriel Diallo,2025-0416,Rome Masters,1,1,False
+Gabriel Diallo,2025-0418,Washington,2,4,False
+Gabriel Diallo,2025-0421,Canada Masters,2,3,False
+Gabriel Diallo,2025-0422,Cincinnati Masters,2,3,False
+Gabriel Diallo,2025-0440,s Hertogenbosch,5,7,True
+Gabriel Diallo,2025-0807,Acapulco,1,3,False
+Gabriel Diallo,2025-1536,Madrid Masters,5,5,False
+Gabriel Diallo,2025-4462,Bucharest,2,4,False
+Gabriel Diallo,2025-5014,Shanghai Masters,3,4,False
+Gabriel Diallo,2025-6242,Winston-Salem,2,4,False
+Gabriel Diallo,2025-8994,Mallorca,3,5,False
+Gabriel Diallo,2025-9410,Almaty,2,4,False
+Gael Monfils,2025-0301,Auckland,5,7,True
+Gael Monfils,2025-0311,Queen's Club,1,3,False
+Gael Monfils,2025-0321,Stuttgart,1,3,False
+Gael Monfils,2025-0339,Brisbane,2,4,False
+Gael Monfils,2025-0403,Miami Masters,4,4,False
+Gael Monfils,2025-0404,Indian Wells Masters,3,3,False
+Gael Monfils,2025-0410,Monte Carlo Masters,2,3,False
+Gael Monfils,2025-0414,Hamburg,1,3,False
+Gael Monfils,2025-0418,Washington,1,2,False
+Gael Monfils,2025-0421,Canada Masters,1,1,False
+Gael Monfils,2025-0495,Dubai,1,3,False
+Gael Monfils,2025-1536,Madrid Masters,2,2,False
+Gael Monfils,2025-7581,Chengdu,1,3,False
+George Loffhagen,2025-0741,Eastbourne,1,3,False
+Gilles Arnaud Bailly,2025-7485,Brussels,2,4,False
+Giovanni Mpetshi Perricard,2025-0311,Queen's Club,1,3,False
+Giovanni Mpetshi Perricard,2025-0321,Stuttgart,2,4,False
+Giovanni Mpetshi Perricard,2025-0328,Basel,1,3,False
+Giovanni Mpetshi Perricard,2025-0339,Brisbane,4,6,True
+Giovanni Mpetshi Perricard,2025-0341,Metz,1,3,False
+Giovanni Mpetshi Perricard,2025-0352,Paris Masters,1,2,False
+Giovanni Mpetshi Perricard,2025-0403,Miami Masters,1,2,False
+Giovanni Mpetshi Perricard,2025-0404,Indian Wells Masters,2,3,False
+Giovanni Mpetshi Perricard,2025-0410,Monte Carlo Masters,1,2,False
+Giovanni Mpetshi Perricard,2025-0414,Hamburg,2,4,False
+Giovanni Mpetshi Perricard,2025-0416,Rome Masters,1,1,False
+Giovanni Mpetshi Perricard,2025-0418,Washington,1,2,False
+Giovanni Mpetshi Perricard,2025-0421,Canada Masters,2,2,False
+Giovanni Mpetshi Perricard,2025-0422,Cincinnati Masters,1,1,False
+Giovanni Mpetshi Perricard,2025-0425,Barcelona,1,3,False
+Giovanni Mpetshi Perricard,2025-0495,Dubai,2,4,False
+Giovanni Mpetshi Perricard,2025-0747,Beijing,1,3,False
+Giovanni Mpetshi Perricard,2025-1536,Madrid Masters,1,1,False
+Giovanni Mpetshi Perricard,2025-5014,Shanghai Masters,3,4,False
+Giovanni Mpetshi Perricard,2025-6242,Winston-Salem,4,6,True
+Giovanni Mpetshi Perricard,2025-7485,Brussels,4,6,True
+Giovanni Mpetshi Perricard,2025-7581,Chengdu,2,4,False
+Giulio Zeppieri,2025-0404,Indian Wells Masters,1,1,False
+Giulio Zeppieri,2025-0429,Stockholm,1,3,False
+Giulio Zeppieri,2025-0439,Umag,1,3,False
+Giulio Zeppieri,2025-4713,Hangzhou,2,4,False
+Govind Nanda,2025-7480,Los Cabos,2,4,False
+Gregoire Barrere,2025-0375,Montpellier,1,3,False
+Grigor Dimitrov,2025-0339,Brisbane,4,6,True
+Grigor Dimitrov,2025-0352,Paris Masters,2,3,False
+Grigor Dimitrov,2025-0403,Miami Masters,5,6,True
+Grigor Dimitrov,2025-0404,Indian Wells Masters,3,4,False
+Grigor Dimitrov,2025-0410,Monte Carlo Masters,4,5,False
+Grigor Dimitrov,2025-0416,Rome Masters,1,2,False
+Grigor Dimitrov,2025-0451,Doha,1,3,False
+Grigor Dimitrov,2025-0495,Dubai,1,3,False
+Grigor Dimitrov,2025-1536,Madrid Masters,3,4,False
+Gustavo Heide,2025-6932,Rio de Janeiro,1,3,False
+Gustavo Heide,2025-8996,Santiago,2,4,False
+Hady Habib,2025-0451,Doha,1,3,False
+Hady Habib,2025-0495,Dubai,1,3,False
+Hady Habib,2025-7480,Los Cabos,1,3,False
+Hamad Medjedovic,2025-0329,Tokyo,1,3,False
+Hamad Medjedovic,2025-0337,Vienna,1,3,False
+Hamad Medjedovic,2025-0403,Miami Masters,1,1,False
+Hamad Medjedovic,2025-0416,Rome Masters,1,1,False
+Hamad Medjedovic,2025-0422,Cincinnati Masters,3,3,False
+Hamad Medjedovic,2025-0425,Barcelona,2,4,False
+Hamad Medjedovic,2025-0451,Doha,2,4,False
+Hamad Medjedovic,2025-0496,Marseille,5,7,True
+Hamad Medjedovic,2025-1536,Madrid Masters,1,1,False
+Hamad Medjedovic,2025-5014,Shanghai Masters,1,1,False
+Hamad Medjedovic,2025-6242,Winston-Salem,4,5,False
+Hamad Medjedovic,2025-8994,Mallorca,3,5,False
+Hamad Medjedovic,2025-9410,Almaty,1,3,False
+Harold Mayot,2025-0375,Montpellier,1,3,False
+Harold Mayot,2025-0407,Rotterdam,1,3,False
+Harold Mayot,2025-0496,Marseille,1,3,False
+Harold Mayot,2025-1536,Madrid Masters,2,2,False
+Henry Bernet,2025-0328,Basel,1,3,False
+Holger Rune,2025-0311,Queen's Club,3,5,False
+Holger Rune,2025-0329,Tokyo,3,5,False
+Holger Rune,2025-0339,Brisbane,1,3,False
+Holger Rune,2025-0403,Miami Masters,1,2,False
+Holger Rune,2025-0404,Indian Wells Masters,6,7,True
+Holger Rune,2025-0407,Rotterdam,2,4,False
+Holger Rune,2025-0410,Monte Carlo Masters,1,2,False
+Holger Rune,2025-0416,Rome Masters,2,3,False
+Holger Rune,2025-0421,Canada Masters,3,4,False
+Holger Rune,2025-0422,Cincinnati Masters,4,5,False
+Holger Rune,2025-0425,Barcelona,5,7,True
+Holger Rune,2025-0429,Stockholm,3,6,True
+Holger Rune,2025-0506,Buenos Aires,1,4,False
+Holger Rune,2025-0807,Acapulco,2,4,False
+Holger Rune,2025-1536,Madrid Masters,1,2,False
+Holger Rune,2025-5014,Shanghai Masters,4,5,False
+Hubert Hurkacz,2025-0322,Geneva,5,7,True
+Hubert Hurkacz,2025-0404,Indian Wells Masters,2,3,False
+Hubert Hurkacz,2025-0407,Rotterdam,4,6,True
+Hubert Hurkacz,2025-0416,Rome Masters,4,5,False
+Hubert Hurkacz,2025-0440,s Hertogenbosch,2,4,False
+Hubert Hurkacz,2025-0496,Marseille,1,4,False
+Hubert Hurkacz,2025-1536,Madrid Masters,1,2,False
+Hugo Dellien,2025-0316,Bastad,1,3,False
+Hugo Dellien,2025-0360,Marrakech,2,4,False
+Hugo Dellien,2025-0416,Rome Masters,2,3,False
+Hugo Dellien,2025-0421,Canada Masters,1,1,False
+Hugo Dellien,2025-0422,Cincinnati Masters,1,1,False
+Hugo Dellien,2025-6932,Rio de Janeiro,1,3,False
+Hugo Gaston,2025-0316,Bastad,2,4,False
+Hugo Gaston,2025-0319,Kitzbuhel,1,3,False
+Hugo Gaston,2025-0322,Geneva,1,3,False
+Hugo Gaston,2025-0341,Metz,2,4,False
+Hugo Gaston,2025-0360,Marrakech,2,4,False
+Hugo Gaston,2025-0403,Miami Masters,2,2,False
+Hugo Gaston,2025-0404,Indian Wells Masters,2,2,False
+Hugo Gaston,2025-0416,Rome Masters,1,1,False
+Hugo Gaston,2025-0421,Canada Masters,2,2,False
+Hugo Gaston,2025-0422,Cincinnati Masters,1,1,False
+Hugo Gaston,2025-0506,Buenos Aires,1,3,False
+Hugo Gaston,2025-1536,Madrid Masters,1,1,False
+Hugo Gaston,2025-6242,Winston-Salem,1,2,False
+Hugo Gaston,2025-6932,Rio de Janeiro,1,3,False
+Hugo Gaston,2025-8996,Santiago,1,3,False
+Hugo Grenier,2025-0496,Marseille,2,4,False
+Ignacio Buse,2025-0314,Gstaad,4,6,True
+Ignacio Buse,2025-0319,Kitzbuhel,1,3,False
+Ignacio Buse,2025-8996,Santiago,1,3,False
+Isaac Becroft,2025-0301,Auckland,1,3,False
+Ivan Gakhov,2025-0322,Geneva,1,3,False
+Ivan Ivanov,2025-5100,Athens,1,3,False
+Jack Draper,2025-0311,Queen's Club,4,6,True
+Jack Draper,2025-0403,Miami Masters,1,2,False
+Jack Draper,2025-0404,Indian Wells Masters,6,7,True
+Jack Draper,2025-0410,Monte Carlo Masters,2,4,False
+Jack Draper,2025-0416,Rome Masters,4,5,False
+Jack Draper,2025-0451,Doha,5,7,True
+Jack Draper,2025-1536,Madrid Masters,6,7,True
+Jack Pinnington Jones,2025-0741,Eastbourne,1,3,False
+Jacob Fearnley,2025-0311,Queen's Club,3,5,False
+Jacob Fearnley,2025-0321,Stuttgart,1,3,False
+Jacob Fearnley,2025-0322,Geneva,2,4,False
+Jacob Fearnley,2025-0337,Vienna,1,3,False
+Jacob Fearnley,2025-0352,Paris Masters,1,2,False
+Jacob Fearnley,2025-0403,Miami Masters,2,2,False
+Jacob Fearnley,2025-0404,Indian Wells Masters,1,1,False
+Jacob Fearnley,2025-0416,Rome Masters,2,2,False
+Jacob Fearnley,2025-0421,Canada Masters,1,1,False
+Jacob Fearnley,2025-0422,Cincinnati Masters,1,1,False
+Jacob Fearnley,2025-0425,Barcelona,2,4,False
+Jacob Fearnley,2025-0429,Stockholm,2,4,False
+Jacob Fearnley,2025-0741,Eastbourne,2,4,False
+Jacob Fearnley,2025-1536,Madrid Masters,3,3,False
+Jacob Fearnley,2025-5100,Athens,1,3,False
+Jacob Fearnley,2025-6242,Winston-Salem,1,3,False
+Jaime Faria,2025-0316,Bastad,1,3,False
+Jaime Faria,2025-0319,Kitzbuhel,1,3,False
+Jaime Faria,2025-6932,Rio de Janeiro,3,5,False
+Jaime Faria,2025-8996,Santiago,3,5,False
+Jakub Mensik,2025-0301,Auckland,3,5,False
+Jakub Mensik,2025-0308,Munich,1,3,False
+Jakub Mensik,2025-0311,Queen's Club,2,4,False
+Jakub Mensik,2025-0328,Basel,2,4,False
+Jakub Mensik,2025-0339,Brisbane,3,5,False
+Jakub Mensik,2025-0403,Miami Masters,7,7,True
+Jakub Mensik,2025-0404,Indian Wells Masters,2,2,False
+Jakub Mensik,2025-0407,Rotterdam,2,4,False
+Jakub Mensik,2025-0416,Rome Masters,3,4,False
+Jakub Mensik,2025-0421,Canada Masters,2,3,False
+Jakub Mensik,2025-0422,Cincinnati Masters,2,3,False
+Jakub Mensik,2025-0741,Eastbourne,2,5,False
+Jakub Mensik,2025-0747,Beijing,3,5,False
+Jakub Mensik,2025-0807,Acapulco,1,3,False
+Jakub Mensik,2025-1536,Madrid Masters,4,5,False
+Jakub Mensik,2025-5014,Shanghai Masters,1,2,False
+James Duckworth,2025-0321,Stuttgart,1,3,False
+James Duckworth,2025-0421,Canada Masters,2,2,False
+James Duckworth,2025-0424,Dallas,1,3,False
+James Duckworth,2025-0717,Houston,1,3,False
+James Duckworth,2025-0741,Eastbourne,2,4,False
+James Duckworth,2025-7480,Los Cabos,3,5,False
+James Duckworth,2025-8998,Adelaide,1,3,False
+James Duckworth,2025-9410,Almaty,4,6,True
+James Mccabe,2025-7480,Los Cabos,1,3,False
+James Trotter,2025-0499,Delray Beach,1,3,False
+James Trotter,2025-5014,Shanghai Masters,1,1,False
+Jan Choinski,2025-0341,Metz,1,3,False
+Jan Lennard Struff,2025-0301,Auckland,2,4,False
+Jan Lennard Struff,2025-0308,Munich,1,3,False
+Jan Lennard Struff,2025-0314,Gstaad,1,3,False
+Jan Lennard Struff,2025-0319,Kitzbuhel,3,5,False
+Jan Lennard Struff,2025-0321,Stuttgart,2,4,False
+Jan Lennard Struff,2025-0403,Miami Masters,1,1,False
+Jan Lennard Struff,2025-0404,Indian Wells Masters,1,1,False
+Jan Lennard Struff,2025-0407,Rotterdam,1,3,False
+Jan Lennard Struff,2025-0410,Monte Carlo Masters,1,2,False
+Jan Lennard Struff,2025-0414,Hamburg,1,3,False
+Jan Lennard Struff,2025-0451,Doha,1,3,False
+Jan Lennard Struff,2025-0495,Dubai,1,3,False
+Jan Lennard Struff,2025-0496,Marseille,3,5,False
+Jan Lennard Struff,2025-0500,Halle,1,3,False
+Jan Lennard Struff,2025-1536,Madrid Masters,2,2,False
+Jan Lennard Struff,2025-5100,Athens,1,3,False
+Jan Lennard Struff,2025-9410,Almaty,3,5,False
+Jannik Sinner,2025-0337,Vienna,5,7,True
+Jannik Sinner,2025-0352,Paris Masters,5,7,True
+Jannik Sinner,2025-0416,Rome Masters,6,7,True
+Jannik Sinner,2025-0422,Cincinnati Masters,6,7,True
+Jannik Sinner,2025-0500,Halle,2,4,False
+Jannik Sinner,2025-0605,Tour Finals,5,7,True
+Jannik Sinner,2025-0747,Beijing,5,7,True
+Jannik Sinner,2025-5014,Shanghai Masters,2,3,False
+Jaume Munar,2025-0311,Queen's Club,2,4,False
+Jaume Munar,2025-0322,Geneva,1,3,False
+Jaume Munar,2025-0328,Basel,4,6,True
+Jaume Munar,2025-0329,Tokyo,1,3,False
+Jaume Munar,2025-0336,Hong Kong,4,6,True
+Jaume Munar,2025-0352,Paris Masters,1,2,False
+Jaume Munar,2025-0360,Marrakech,1,3,False
+Jaume Munar,2025-0403,Miami Masters,3,3,False
+Jaume Munar,2025-0404,Indian Wells Masters,1,1,False
+Jaume Munar,2025-0416,Rome Masters,4,4,False
+Jaume Munar,2025-0418,Washington,2,3,False
+Jaume Munar,2025-0421,Canada Masters,2,2,False
+Jaume Munar,2025-0422,Cincinnati Masters,1,1,False
+Jaume Munar,2025-0424,Dallas,4,6,True
+Jaume Munar,2025-0425,Barcelona,2,4,False
+Jaume Munar,2025-1536,Madrid Masters,1,1,False
+Jaume Munar,2025-5014,Shanghai Masters,4,4,False
+Jaume Munar,2025-6242,Winston-Salem,3,5,False
+Jaume Munar,2025-6932,Rio de Janeiro,2,4,False
+Jaume Munar,2025-8994,Mallorca,1,3,False
+Jenson Brooksby,2025-0311,Queen's Club,1,3,False
+Jenson Brooksby,2025-0328,Basel,2,4,False
+Jenson Brooksby,2025-0329,Tokyo,4,6,True
+Jenson Brooksby,2025-0403,Miami Masters,1,1,False
+Jenson Brooksby,2025-0404,Indian Wells Masters,3,3,False
+Jenson Brooksby,2025-0418,Washington,1,2,False
+Jenson Brooksby,2025-0421,Canada Masters,1,1,False
+Jenson Brooksby,2025-0422,Cincinnati Masters,3,3,False
+Jenson Brooksby,2025-0424,Dallas,1,3,False
+Jenson Brooksby,2025-0717,Houston,5,7,True
+Jenson Brooksby,2025-0741,Eastbourne,5,7,True
+Jenson Brooksby,2025-5014,Shanghai Masters,2,2,False
+Jerome Kym,2025-0314,Gstaad,3,5,False
+Jesper De Jong,2025-0316,Bastad,5,7,True
+Jesper De Jong,2025-0360,Marrakech,2,4,False
+Jesper De Jong,2025-0375,Montpellier,4,6,True
+Jesper De Jong,2025-0416,Rome Masters,3,3,False
+Jesper De Jong,2025-0425,Barcelona,1,3,False
+Jesper De Jong,2025-0429,Stockholm,1,3,False
+Jesper De Jong,2025-0439,Umag,3,5,False
+Jesper De Jong,2025-0440,s Hertogenbosch,1,3,False
+Jesper De Jong,2025-0500,Halle,1,3,False
+Jesper De Jong,2025-5014,Shanghai Masters,3,3,False
+Jiri Lehecka,2025-0311,Queen's Club,5,7,True
+Jiri Lehecka,2025-0321,Stuttgart,3,5,False
+Jiri Lehecka,2025-0328,Basel,1,3,False
+Jiri Lehecka,2025-0339,Brisbane,5,7,True
+Jiri Lehecka,2025-0352,Paris Masters,1,2,False
+Jiri Lehecka,2025-0403,Miami Masters,1,2,False
+Jiri Lehecka,2025-0404,Indian Wells Masters,1,2,False
+Jiri Lehecka,2025-0407,Rotterdam,2,4,False
+Jiri Lehecka,2025-0410,Monte Carlo Masters,2,3,False
+Jiri Lehecka,2025-0414,Hamburg,3,5,False
+Jiri Lehecka,2025-0416,Rome Masters,1,1,False
+Jiri Lehecka,2025-0418,Washington,2,4,False
+Jiri Lehecka,2025-0421,Canada Masters,3,4,False
+Jiri Lehecka,2025-0422,Cincinnati Masters,3,4,False
+Jiri Lehecka,2025-0451,Doha,4,6,True
+Jiri Lehecka,2025-0495,Dubai,1,3,False
+Jiri Lehecka,2025-1536,Madrid Masters,1,2,False
+Jiri Lehecka,2025-5014,Shanghai Masters,3,4,False
+Jiri Lehecka,2025-7485,Brussels,4,7,True
+Joao Fonseca,2025-0328,Basel,5,7,True
+Joao Fonseca,2025-0352,Paris Masters,2,3,False
+Joao Fonseca,2025-0403,Miami Masters,3,3,False
+Joao Fonseca,2025-0404,Indian Wells Masters,2,2,False
+Joao Fonseca,2025-0416,Rome Masters,1,1,False
+Joao Fonseca,2025-0421,Canada Masters,1,1,False
+Joao Fonseca,2025-0422,Cincinnati Masters,3,3,False
+Joao Fonseca,2025-0500,Halle,1,3,False
+Joao Fonseca,2025-0506,Buenos Aires,5,7,True
+Joao Fonseca,2025-0741,Eastbourne,2,4,False
+Joao Fonseca,2025-1536,Madrid Masters,2,2,False
+Joao Fonseca,2025-6932,Rio de Janeiro,1,3,False
+Joao Fonseca,2025-7485,Brussels,1,3,False
+Joel Schwaerzler,2025-0319,Kitzbuhel,1,3,False
+Jordan Thompson,2025-0311,Queen's Club,1,3,False
+Jordan Thompson,2025-0329,Tokyo,1,3,False
+Jordan Thompson,2025-0339,Brisbane,3,5,False
+Jordan Thompson,2025-0403,Miami Masters,3,3,False
+Jordan Thompson,2025-0404,Indian Wells Masters,1,1,False
+Jordan Thompson,2025-0410,Monte Carlo Masters,2,3,False
+Jordan Thompson,2025-0416,Rome Masters,2,2,False
+Jordan Thompson,2025-0422,Cincinnati Masters,1,1,False
+Jordan Thompson,2025-0440,s Hertogenbosch,2,4,False
+Jordan Thompson,2025-0717,Houston,1,3,False
+Jordan Thompson,2025-5014,Shanghai Masters,2,2,False
+Jordan Thompson,2025-7581,Chengdu,1,3,False
+Juan Alejandro Hernandez Serrano,2025-7480,Los Cabos,2,4,False
+Juan Manuel Cerundolo,2025-0314,Gstaad,5,7,True
+Juan Manuel Cerundolo,2025-0360,Marrakech,1,3,False
+Juan Manuel Cerundolo,2025-0506,Buenos Aires,2,4,False
+Juan Manuel Cerundolo,2025-1536,Madrid Masters,3,3,False
+Juan Manuel Cerundolo,2025-5014,Shanghai Masters,1,1,False
+Juan Manuel Cerundolo,2025-6932,Rio de Janeiro,1,3,False
+Juan Manuel Cerundolo,2025-7581,Chengdu,1,3,False
+Juan Manuel Cerundolo,2025-8996,Santiago,1,3,False
+Juan Pablo Ficovich,2025-0421,Canada Masters,2,2,False
+Juan Pablo Ficovich,2025-7480,Los Cabos,3,5,False
+Juan Pablo Ficovich,2025-8996,Santiago,1,3,False
+Juncheng Shang,2025-0336,Hong Kong,4,6,True
+Juncheng Shang,2025-0421,Canada Masters,1,1,False
+Juncheng Shang,2025-0422,Cincinnati Masters,1,1,False
+Juncheng Shang,2025-0747,Beijing,1,3,False
+Juncheng Shang,2025-5014,Shanghai Masters,3,3,False
+Juncheng Shang,2025-7581,Chengdu,2,4,False
+Jurij Rodionov,2025-0337,Vienna,1,3,False
+Justin Engel,2025-0308,Munich,1,3,False
+Justin Engel,2025-0319,Kitzbuhel,1,3,False
+Justin Engel,2025-0321,Stuttgart,3,5,False
+Justin Engel,2025-0414,Hamburg,2,4,False
+Justin Engel,2025-7696,Next Gen Finals,3,0,False
+Justin Engel,2025-8994,Mallorca,1,3,False
+Kamil Majchrzak,2025-0314,Gstaad,2,4,False
+Kamil Majchrzak,2025-0328,Basel,1,3,False
+Kamil Majchrzak,2025-0360,Marrakech,4,6,True
+Kamil Majchrzak,2025-0429,Stockholm,2,4,False
+Kamil Majchrzak,2025-0439,Umag,1,3,False
+Kamil Majchrzak,2025-1536,Madrid Masters,1,2,False
+Kamil Majchrzak,2025-5014,Shanghai Masters,3,3,False
+Kamil Majchrzak,2025-5100,Athens,1,3,False
+Kamil Majchrzak,2025-6242,Winston-Salem,3,4,False
+Karen Khachanov,2025-0322,Geneva,2,5,False
+Karen Khachanov,2025-0336,Hong Kong,1,4,False
+Karen Khachanov,2025-0337,Vienna,1,3,False
+Karen Khachanov,2025-0352,Paris Masters,3,4,False
+Karen Khachanov,2025-0403,Miami Masters,2,3,False
+Karen Khachanov,2025-0404,Indian Wells Masters,2,3,False
+Karen Khachanov,2025-0410,Monte Carlo Masters,1,2,False
+Karen Khachanov,2025-0416,Rome Masters,3,4,False
+Karen Khachanov,2025-0421,Canada Masters,6,7,True
+Karen Khachanov,2025-0422,Cincinnati Masters,3,4,False
+Karen Khachanov,2025-0425,Barcelona,4,6,True
+Karen Khachanov,2025-0440,s Hertogenbosch,2,5,False
+Karen Khachanov,2025-0451,Doha,1,3,False
+Karen Khachanov,2025-0495,Dubai,2,4,False
+Karen Khachanov,2025-0496,Marseille,1,4,False
+Karen Khachanov,2025-0500,Halle,4,6,True
+Karen Khachanov,2025-0747,Beijing,1,3,False
+Karen Khachanov,2025-1536,Madrid Masters,2,3,False
+Karen Khachanov,2025-5014,Shanghai Masters,1,2,False
+Karen Khachanov,2025-9410,Almaty,1,4,False
+Karue Sell,2025-0322,Geneva,1,3,False
+Kei Nishikori,2025-0322,Geneva,2,4,False
+Kei Nishikori,2025-0336,Hong Kong,5,7,True
+Kei Nishikori,2025-0404,Indian Wells Masters,2,2,False
+Kei Nishikori,2025-0422,Cincinnati Masters,1,1,False
+Kei Nishikori,2025-0424,Dallas,1,3,False
+Kei Nishikori,2025-0499,Delray Beach,1,3,False
+Kei Nishikori,2025-0717,Houston,2,4,False
+Kei Nishikori,2025-1536,Madrid Masters,2,2,False
+Kyrian Jacquet,2025-0341,Metz,3,5,False
+Laslo Djere,2025-0314,Gstaad,1,3,False
+Laslo Djere,2025-0416,Rome Masters,3,3,False
+Laslo Djere,2025-0425,Barcelona,2,4,False
+Laslo Djere,2025-0440,s Hertogenbosch,1,3,False
+Laslo Djere,2025-0500,Halle,1,3,False
+Laslo Djere,2025-0506,Buenos Aires,4,6,True
+Laslo Djere,2025-1536,Madrid Masters,2,2,False
+Laslo Djere,2025-4462,Bucharest,1,3,False
+Laslo Djere,2025-5014,Shanghai Masters,1,1,False
+Laslo Djere,2025-5100,Athens,1,3,False
+Laslo Djere,2025-8994,Mallorca,2,4,False
+Laslo Djere,2025-8996,Santiago,5,7,True
+Laslo Djere,2025-9410,Almaty,1,3,False
+Leandro Riedi,2025-0422,Cincinnati Masters,1,1,False
+Learner Tien,2025-0308,Munich,1,3,False
+Learner Tien,2025-0321,Stuttgart,2,4,False
+Learner Tien,2025-0322,Geneva,1,3,False
+Learner Tien,2025-0336,Hong Kong,1,3,False
+Learner Tien,2025-0341,Metz,5,7,True
+Learner Tien,2025-0352,Paris Masters,2,3,False
+Learner Tien,2025-0403,Miami Masters,1,1,False
+Learner Tien,2025-0404,Indian Wells Masters,1,1,False
+Learner Tien,2025-0416,Rome Masters,2,2,False
+Learner Tien,2025-0418,Washington,3,4,False
+Learner Tien,2025-0421,Canada Masters,4,4,False
+Learner Tien,2025-0422,Cincinnati Masters,2,2,False
+Learner Tien,2025-0499,Delray Beach,2,4,False
+Learner Tien,2025-0717,Houston,1,3,False
+Learner Tien,2025-0747,Beijing,5,7,True
+Learner Tien,2025-0807,Acapulco,3,5,False
+Learner Tien,2025-1536,Madrid Masters,1,1,False
+Learner Tien,2025-4713,Hangzhou,3,5,False
+Learner Tien,2025-5014,Shanghai Masters,4,4,False
+Learner Tien,2025-7696,Next Gen Finals,5,7,True
+Learner Tien,2025-8994,Mallorca,3,5,False
+Leo Borg,2025-0429,Stockholm,2,4,False
+Li Tu,2025-0404,Indian Wells Masters,1,1,False
+Li Tu,2025-8998,Adelaide,2,4,False
+Liam Draxl,2025-0421,Canada Masters,1,1,False
+Lorenzo Musetti,2025-0336,Hong Kong,2,5,False
+Lorenzo Musetti,2025-0337,Vienna,4,6,True
+Lorenzo Musetti,2025-0352,Paris Masters,1,3,False
+Lorenzo Musetti,2025-0403,Miami Masters,3,4,False
+Lorenzo Musetti,2025-0404,Indian Wells Masters,2,3,False
+Lorenzo Musetti,2025-0410,Monte Carlo Masters,6,7,True
+Lorenzo Musetti,2025-0416,Rome Masters,5,6,True
+Lorenzo Musetti,2025-0418,Washington,1,3,False
+Lorenzo Musetti,2025-0421,Canada Masters,2,3,False
+Lorenzo Musetti,2025-0422,Cincinnati Masters,1,2,False
+Lorenzo Musetti,2025-0506,Buenos Aires,2,5,False
+Lorenzo Musetti,2025-0605,Tour Finals,3,0,False
+Lorenzo Musetti,2025-0747,Beijing,3,5,False
+Lorenzo Musetti,2025-1536,Madrid Masters,5,6,True
+Lorenzo Musetti,2025-5014,Shanghai Masters,3,4,False
+Lorenzo Musetti,2025-5100,Athens,4,7,True
+Lorenzo Musetti,2025-7485,Brussels,2,5,False
+Lorenzo Musetti,2025-7581,Chengdu,4,7,True
+Lorenzo Sonego,2025-0301,Auckland,2,4,False
+Lorenzo Sonego,2025-0321,Stuttgart,1,3,False
+Lorenzo Sonego,2025-0328,Basel,1,3,False
+Lorenzo Sonego,2025-0336,Hong Kong,2,4,False
+Lorenzo Sonego,2025-0341,Metz,4,6,True
+Lorenzo Sonego,2025-0352,Paris Masters,3,4,False
+Lorenzo Sonego,2025-0360,Marrakech,1,4,False
+Lorenzo Sonego,2025-0403,Miami Masters,2,2,False
+Lorenzo Sonego,2025-0404,Indian Wells Masters,1,1,False
+Lorenzo Sonego,2025-0407,Rotterdam,1,3,False
+Lorenzo Sonego,2025-0410,Monte Carlo Masters,1,2,False
+Lorenzo Sonego,2025-0416,Rome Masters,1,1,False
+Lorenzo Sonego,2025-0418,Washington,1,3,False
+Lorenzo Sonego,2025-0421,Canada Masters,2,3,False
+Lorenzo Sonego,2025-0422,Cincinnati Masters,2,3,False
+Lorenzo Sonego,2025-0429,Stockholm,3,5,False
+Lorenzo Sonego,2025-0495,Dubai,1,3,False
+Lorenzo Sonego,2025-0496,Marseille,3,5,False
+Lorenzo Sonego,2025-0500,Halle,2,4,False
+Lorenzo Sonego,2025-0741,Eastbourne,2,4,False
+Lorenzo Sonego,2025-0747,Beijing,1,3,False
+Lorenzo Sonego,2025-1536,Madrid Masters,2,2,False
+Lorenzo Sonego,2025-5014,Shanghai Masters,1,1,False
+Lorenzo Sonego,2025-6242,Winston-Salem,2,4,False
+Lorenzo Sonego,2025-7581,Chengdu,2,4,False
+Luca Nardi,2025-0301,Auckland,2,4,False
+Luca Nardi,2025-0404,Indian Wells Masters,1,1,False
+Luca Nardi,2025-0416,Rome Masters,2,2,False
+Luca Nardi,2025-0422,Cincinnati Masters,4,4,False
+Luca Nardi,2025-0451,Doha,2,4,False
+Luca Nardi,2025-0495,Dubai,3,5,False
+Luca Nardi,2025-0496,Marseille,1,3,False
+Luca Nardi,2025-4462,Bucharest,1,3,False
+Luca Nardi,2025-5014,Shanghai Masters,2,2,False
+Luca Nardi,2025-9410,Almaty,1,3,False
+Luca Van Assche,2025-0341,Metz,1,3,False
+Luca Van Assche,2025-0496,Marseille,2,4,False
+Lucas Pouille,2025-0375,Montpellier,1,3,False
+Luciano Darderi,2025-0301,Auckland,1,3,False
+Luciano Darderi,2025-0308,Munich,3,5,False
+Luciano Darderi,2025-0316,Bastad,5,7,True
+Luciano Darderi,2025-0329,Tokyo,2,4,False
+Luciano Darderi,2025-0336,Hong Kong,1,3,False
+Luciano Darderi,2025-0337,Vienna,1,3,False
+Luciano Darderi,2025-0352,Paris Masters,1,2,False
+Luciano Darderi,2025-0360,Marrakech,5,7,True
+Luciano Darderi,2025-0403,Miami Masters,2,2,False
+Luciano Darderi,2025-0404,Indian Wells Masters,1,1,False
+Luciano Darderi,2025-0414,Hamburg,3,5,False
+Luciano Darderi,2025-0416,Rome Masters,2,2,False
+Luciano Darderi,2025-0422,Cincinnati Masters,1,2,False
+Luciano Darderi,2025-0439,Umag,4,7,True
+Luciano Darderi,2025-0440,s Hertogenbosch,1,3,False
+Luciano Darderi,2025-0500,Halle,1,3,False
+Luciano Darderi,2025-0506,Buenos Aires,1,3,False
+Luciano Darderi,2025-0741,Eastbourne,1,3,False
+Luciano Darderi,2025-1536,Madrid Masters,2,2,False
+Luciano Darderi,2025-5014,Shanghai Masters,2,3,False
+Luciano Darderi,2025-5100,Athens,1,4,False
+Luciano Darderi,2025-6242,Winston-Salem,2,4,False
+Luciano Darderi,2025-6932,Rio de Janeiro,2,4,False
+Luciano Darderi,2025-7581,Chengdu,1,4,False
+Luciano Darderi,2025-8996,Santiago,1,3,False
+Luciano Darderi,2025-9410,Almaty,1,4,False
+Luis Carlos Alvarez,2025-7480,Los Cabos,2,4,False
+Lukas Neumayer,2025-0319,Kitzbuhel,1,3,False
+Mackenzie Mcdonald,2025-0311,Queen's Club,2,4,False
+Mackenzie Mcdonald,2025-0403,Miami Masters,1,1,False
+Mackenzie Mcdonald,2025-0404,Indian Wells Masters,2,2,False
+Mackenzie Mcdonald,2025-0418,Washington,2,3,False
+Mackenzie Mcdonald,2025-0421,Canada Masters,2,2,False
+Mackenzie Mcdonald,2025-0422,Cincinnati Masters,1,1,False
+Mackenzie Mcdonald,2025-0440,s Hertogenbosch,2,4,False
+Mackenzie Mcdonald,2025-0499,Delray Beach,2,4,False
+Mackenzie Mcdonald,2025-0717,Houston,2,4,False
+Mackenzie Mcdonald,2025-5014,Shanghai Masters,1,1,False
+Mackenzie Mcdonald,2025-5100,Athens,1,3,False
+Mackenzie Mcdonald,2025-6242,Winston-Salem,2,3,False
+Mackenzie Mcdonald,2025-7581,Chengdu,2,4,False
+Mackenzie Mcdonald,2025-9410,Almaty,1,3,False
+Manuel Guinard,2025-0496,Marseille,1,3,False
+Manuel Guinard,2025-8998,Adelaide,2,4,False
+Marc Andrea Huesler,2025-0336,Hong Kong,1,3,False
+Marco Trungelliti,2025-0314,Gstaad,1,3,False
+Marcos Giron,2025-0308,Munich,1,3,False
+Marcos Giron,2025-0328,Basel,1,3,False
+Marcos Giron,2025-0329,Tokyo,1,3,False
+Marcos Giron,2025-0352,Paris Masters,1,2,False
+Marcos Giron,2025-0403,Miami Masters,1,1,False
+Marcos Giron,2025-0404,Indian Wells Masters,4,4,False
+Marcos Giron,2025-0410,Monte Carlo Masters,2,3,False
+Marcos Giron,2025-0414,Hamburg,1,3,False
+Marcos Giron,2025-0416,Rome Masters,3,3,False
+Marcos Giron,2025-0418,Washington,1,2,False
+Marcos Giron,2025-0421,Canada Masters,1,1,False
+Marcos Giron,2025-0422,Cincinnati Masters,1,1,False
+Marcos Giron,2025-0499,Delray Beach,2,5,False
+Marcos Giron,2025-0500,Halle,1,3,False
+Marcos Giron,2025-0741,Eastbourne,3,5,False
+Marcos Giron,2025-0807,Acapulco,3,5,False
+Marcos Giron,2025-1536,Madrid Masters,2,2,False
+Marcos Giron,2025-5014,Shanghai Masters,1,1,False
+Marcos Giron,2025-5100,Athens,3,5,False
+Marcos Giron,2025-6242,Winston-Salem,1,3,False
+Marcos Giron,2025-7485,Brussels,2,4,False
+Marcos Giron,2025-7581,Chengdu,3,5,False
+Marcos Giron,2025-8998,Adelaide,3,5,False
+Mariano Navone,2025-0301,Auckland,2,4,False
+Mariano Navone,2025-0308,Munich,2,4,False
+Mariano Navone,2025-0316,Bastad,2,4,False
+Mariano Navone,2025-0339,Brisbane,1,3,False
+Mariano Navone,2025-0403,Miami Masters,1,1,False
+Mariano Navone,2025-0404,Indian Wells Masters,2,2,False
+Mariano Navone,2025-0410,Monte Carlo Masters,1,2,False
+Mariano Navone,2025-0416,Rome Masters,2,2,False
+Mariano Navone,2025-0422,Cincinnati Masters,1,1,False
+Mariano Navone,2025-0439,Umag,2,4,False
+Mariano Navone,2025-0506,Buenos Aires,3,5,False
+Mariano Navone,2025-1536,Madrid Masters,2,2,False
+Mariano Navone,2025-4462,Bucharest,2,4,False
+Mariano Navone,2025-4713,Hangzhou,1,3,False
+Mariano Navone,2025-5014,Shanghai Masters,1,1,False
+Mariano Navone,2025-6242,Winston-Salem,3,4,False
+Mariano Navone,2025-6932,Rio de Janeiro,2,4,False
+Mariano Navone,2025-8996,Santiago,2,4,False
+Marin Cilic,2025-0328,Basel,2,4,False
+Marin Cilic,2025-0429,Stockholm,2,4,False
+Marin Cilic,2025-0451,Doha,1,3,False
+Marin Cilic,2025-0495,Dubai,3,5,False
+Marin Cilic,2025-0747,Beijing,1,3,False
+Marin Cilic,2025-1536,Madrid Masters,1,1,False
+Marin Cilic,2025-4713,Hangzhou,1,3,False
+Marin Cilic,2025-5014,Shanghai Masters,2,2,False
+Mark Lajal,2025-0429,Stockholm,1,3,False
+Mark Lajal,2025-0440,s Hertogenbosch,3,5,False
+Marko Topo,2025-9410,Almaty,1,3,False
+Martin Klizan,2025-4462,Bucharest,1,3,False
+Martin Landaluce,2025-0314,Gstaad,1,3,False
+Martin Landaluce,2025-0422,Cincinnati Masters,2,2,False
+Martin Landaluce,2025-1536,Madrid Masters,1,1,False
+Martin Landaluce,2025-7696,Next Gen Finals,3,0,False
+Marton Fucsovics,2025-0319,Kitzbuhel,2,4,False
+Marton Fucsovics,2025-0321,Stuttgart,3,5,False
+Marton Fucsovics,2025-0322,Geneva,2,4,False
+Marton Fucsovics,2025-0329,Tokyo,2,4,False
+Marton Fucsovics,2025-0429,Stockholm,2,4,False
+Marton Fucsovics,2025-0495,Dubai,1,3,False
+Marton Fucsovics,2025-4462,Bucharest,4,6,True
+Marton Fucsovics,2025-5014,Shanghai Masters,1,1,False
+Marton Fucsovics,2025-6242,Winston-Salem,6,7,True
+Matej Dodig,2025-0439,Umag,1,3,False
+Matteo Arnaldi,2025-0321,Stuttgart,1,3,False
+Matteo Arnaldi,2025-0322,Geneva,3,5,False
+Matteo Arnaldi,2025-0337,Vienna,2,4,False
+Matteo Arnaldi,2025-0339,Brisbane,2,4,False
+Matteo Arnaldi,2025-0403,Miami Masters,2,2,False
+Matteo Arnaldi,2025-0404,Indian Wells Masters,3,3,False
+Matteo Arnaldi,2025-0410,Monte Carlo Masters,1,2,False
+Matteo Arnaldi,2025-0416,Rome Masters,1,1,False
+Matteo Arnaldi,2025-0418,Washington,3,4,False
+Matteo Arnaldi,2025-0421,Canada Masters,2,3,False
+Matteo Arnaldi,2025-0422,Cincinnati Masters,1,1,False
+Matteo Arnaldi,2025-0424,Dallas,3,5,False
+Matteo Arnaldi,2025-0425,Barcelona,1,3,False
+Matteo Arnaldi,2025-0499,Delray Beach,3,6,True
+Matteo Arnaldi,2025-0807,Acapulco,1,3,False
+Matteo Arnaldi,2025-1536,Madrid Masters,5,5,False
+Matteo Arnaldi,2025-4713,Hangzhou,1,3,False
+Matteo Arnaldi,2025-5014,Shanghai Masters,2,2,False
+Matteo Arnaldi,2025-6242,Winston-Salem,1,3,False
+Matteo Arnaldi,2025-7485,Brussels,1,3,False
+Matteo Berrettini,2025-0329,Tokyo,2,4,False
+Matteo Berrettini,2025-0337,Vienna,3,5,False
+Matteo Berrettini,2025-0339,Brisbane,1,3,False
+Matteo Berrettini,2025-0341,Metz,3,5,False
+Matteo Berrettini,2025-0403,Miami Masters,4,5,False
+Matteo Berrettini,2025-0404,Indian Wells Masters,2,3,False
+Matteo Berrettini,2025-0407,Rotterdam,1,3,False
+Matteo Berrettini,2025-0410,Monte Carlo Masters,3,4,False
+Matteo Berrettini,2025-0416,Rome Masters,2,3,False
+Matteo Berrettini,2025-0429,Stockholm,2,4,False
+Matteo Berrettini,2025-0451,Doha,3,5,False
+Matteo Berrettini,2025-0495,Dubai,3,5,False
+Matteo Berrettini,2025-1536,Madrid Masters,2,3,False
+Matteo Berrettini,2025-4713,Hangzhou,1,3,False
+Matteo Berrettini,2025-5014,Shanghai Masters,1,1,False
+Matteo Gigante,2025-0404,Indian Wells Masters,2,2,False
+Matteo Gigante,2025-0416,Rome Masters,2,2,False
+Matteo Gigante,2025-0421,Canada Masters,2,2,False
+Mattia Bellucci,2025-0360,Marrakech,3,5,False
+Mattia Bellucci,2025-0375,Montpellier,2,4,False
+Mattia Bellucci,2025-0403,Miami Masters,1,1,False
+Mattia Bellucci,2025-0407,Rotterdam,4,6,True
+Mattia Bellucci,2025-0416,Rome Masters,1,1,False
+Mattia Bellucci,2025-0421,Canada Masters,1,1,False
+Mattia Bellucci,2025-0422,Cincinnati Masters,1,1,False
+Mattia Bellucci,2025-0440,s Hertogenbosch,1,3,False
+Mattia Bellucci,2025-0741,Eastbourne,2,4,False
+Mattia Bellucci,2025-0807,Acapulco,1,3,False
+Mattia Bellucci,2025-1536,Madrid Masters,1,1,False
+Mattia Bellucci,2025-5014,Shanghai Masters,2,2,False
+Mattia Bellucci,2025-6242,Winston-Salem,2,3,False
+Mattia Bellucci,2025-7485,Brussels,1,3,False
+Mees Rottgering,2025-0407,Rotterdam,1,3,False
+Michael Mmoh,2025-0424,Dallas,2,4,False
+Michael Mmoh,2025-0499,Delray Beach,2,4,False
+Michael Mmoh,2025-0717,Houston,1,3,False
+Mikael Ymer,2025-0316,Bastad,1,3,False
+Mikael Ymer,2025-0429,Stockholm,1,3,False
+Mikhail Kukushkin,2025-0339,Brisbane,1,3,False
+Mikhail Kukushkin,2025-0375,Montpellier,1,3,False
+Mili Poljicak,2025-0439,Umag,1,3,False
+Miomir Kecmanovic,2025-0308,Munich,2,4,False
+Miomir Kecmanovic,2025-0322,Geneva,1,3,False
+Miomir Kecmanovic,2025-0328,Basel,1,3,False
+Miomir Kecmanovic,2025-0336,Hong Kong,2,4,False
+Miomir Kecmanovic,2025-0352,Paris Masters,2,3,False
+Miomir Kecmanovic,2025-0403,Miami Masters,2,2,False
+Miomir Kecmanovic,2025-0404,Indian Wells Masters,1,1,False
+Miomir Kecmanovic,2025-0410,Monte Carlo Masters,1,2,False
+Miomir Kecmanovic,2025-0416,Rome Masters,1,1,False
+Miomir Kecmanovic,2025-0418,Washington,1,2,False
+Miomir Kecmanovic,2025-0421,Canada Masters,2,2,False
+Miomir Kecmanovic,2025-0422,Cincinnati Masters,1,1,False
+Miomir Kecmanovic,2025-0424,Dallas,1,3,False
+Miomir Kecmanovic,2025-0429,Stockholm,2,4,False
+Miomir Kecmanovic,2025-0499,Delray Beach,5,7,True
+Miomir Kecmanovic,2025-0500,Halle,1,3,False
+Miomir Kecmanovic,2025-0741,Eastbourne,1,3,False
+Miomir Kecmanovic,2025-0747,Beijing,1,3,False
+Miomir Kecmanovic,2025-0807,Acapulco,1,3,False
+Miomir Kecmanovic,2025-1536,Madrid Masters,1,1,False
+Miomir Kecmanovic,2025-5014,Shanghai Masters,1,1,False
+Miomir Kecmanovic,2025-5100,Athens,3,5,False
+Miomir Kecmanovic,2025-6242,Winston-Salem,3,5,False
+Miomir Kecmanovic,2025-8998,Adelaide,4,6,True
+Mitchell Krueger,2025-0717,Houston,1,3,False
+Mitchell Krueger,2025-7480,Los Cabos,1,3,False
+Moez Echargui,2025-0341,Metz,1,4,False
+Murphy Cassone,2025-0418,Washington,1,2,False
+Nick Kyrgios,2025-0339,Brisbane,1,3,False
+Nick Kyrgios,2025-0403,Miami Masters,2,2,False
+Nick Kyrgios,2025-0404,Indian Wells Masters,1,1,False
+Nicolai Budkov Kjaer,2025-0316,Bastad,2,4,False
+Nicolai Budkov Kjaer,2025-0337,Vienna,1,3,False
+Nicolai Budkov Kjaer,2025-0429,Stockholm,1,3,False
+Nicolai Budkov Kjaer,2025-7696,Next Gen Finals,4,6,True
+Nicolas Arseneault,2025-0421,Canada Masters,2,2,False
+Nicolas Jarry,2025-0308,Munich,1,3,False
+Nicolas Jarry,2025-0319,Kitzbuhel,1,3,False
+Nicolas Jarry,2025-0322,Geneva,1,3,False
+Nicolas Jarry,2025-0339,Brisbane,3,5,False
+Nicolas Jarry,2025-0410,Monte Carlo Masters,1,2,False
+Nicolas Jarry,2025-0416,Rome Masters,2,2,False
+Nicolas Jarry,2025-0422,Cincinnati Masters,1,1,False
+Nicolas Jarry,2025-0440,s Hertogenbosch,2,4,False
+Nicolas Jarry,2025-0506,Buenos Aires,1,3,False
+Nicolas Jarry,2025-1536,Madrid Masters,2,2,False
+Nicolas Jarry,2025-4462,Bucharest,1,4,False
+Nicolas Jarry,2025-6242,Winston-Salem,1,2,False
+Nicolas Jarry,2025-6932,Rio de Janeiro,2,4,False
+Nicolas Jarry,2025-8996,Santiago,1,3,False
+Nicolas Mejia,2025-7480,Los Cabos,1,3,False
+Nicolas Moreno De Alboran,2025-0416,Rome Masters,1,1,False
+Nikoloz Basilashvili,2025-0314,Gstaad,1,3,False
+Nikoloz Basilashvili,2025-0375,Montpellier,3,5,False
+Nikoloz Basilashvili,2025-0404,Indian Wells Masters,1,1,False
+Nikoloz Basilashvili,2025-0439,Umag,2,4,False
+Nikoloz Basilashvili,2025-5014,Shanghai Masters,1,1,False
+Nikoloz Basilashvili,2025-7485,Brussels,2,4,False
+Nikoloz Basilashvili,2025-7581,Chengdu,3,5,False
+Nishesh Basavareddy,2025-0301,Auckland,4,6,True
+Nishesh Basavareddy,2025-0339,Brisbane,1,3,False
+Nishesh Basavareddy,2025-0404,Indian Wells Masters,1,1,False
+Nishesh Basavareddy,2025-0422,Cincinnati Masters,2,2,False
+Nishesh Basavareddy,2025-0440,s Hertogenbosch,1,3,False
+Nishesh Basavareddy,2025-0807,Acapulco,1,3,False
+Nishesh Basavareddy,2025-4462,Bucharest,1,3,False
+Nishesh Basavareddy,2025-4713,Hangzhou,2,4,False
+Nishesh Basavareddy,2025-6242,Winston-Salem,2,3,False
+Nishesh Basavareddy,2025-7480,Los Cabos,2,4,False
+Nishesh Basavareddy,2025-7696,Next Gen Finals,4,6,True
+Nishesh Basavareddy,2025-8994,Mallorca,1,3,False
+Norbert Gombos,2025-0319,Kitzbuhel,2,4,False
+Novak Djokovic,2025-0322,Geneva,4,7,True
+Novak Djokovic,2025-0339,Brisbane,3,5,False
+Novak Djokovic,2025-0403,Miami Masters,6,7,True
+Novak Djokovic,2025-0404,Indian Wells Masters,1,2,False
+Novak Djokovic,2025-0410,Monte Carlo Masters,1,3,False
+Novak Djokovic,2025-0451,Doha,1,3,False
+Novak Djokovic,2025-1536,Madrid Masters,1,2,False
+Novak Djokovic,2025-5014,Shanghai Masters,5,6,True
+Novak Djokovic,2025-5100,Athens,4,7,True
+Nuno Borges,2025-0301,Auckland,4,6,True
+Nuno Borges,2025-0311,Queen's Club,1,3,False
+Nuno Borges,2025-0316,Bastad,1,4,False
+Nuno Borges,2025-0322,Geneva,2,4,False
+Nuno Borges,2025-0329,Tokyo,2,4,False
+Nuno Borges,2025-0336,Hong Kong,2,4,False
+Nuno Borges,2025-0337,Vienna,1,3,False
+Nuno Borges,2025-0352,Paris Masters,1,2,False
+Nuno Borges,2025-0360,Marrakech,2,5,False
+Nuno Borges,2025-0403,Miami Masters,1,1,False
+Nuno Borges,2025-0404,Indian Wells Masters,2,2,False
+Nuno Borges,2025-0410,Monte Carlo Masters,3,4,False
+Nuno Borges,2025-0416,Rome Masters,1,1,False
+Nuno Borges,2025-0421,Canada Masters,2,3,False
+Nuno Borges,2025-0422,Cincinnati Masters,1,1,False
+Nuno Borges,2025-0440,s Hertogenbosch,3,5,False
+Nuno Borges,2025-0451,Doha,2,4,False
+Nuno Borges,2025-0495,Dubai,2,4,False
+Nuno Borges,2025-0496,Marseille,2,4,False
+Nuno Borges,2025-0741,Eastbourne,2,4,False
+Nuno Borges,2025-1536,Madrid Masters,2,2,False
+Nuno Borges,2025-5014,Shanghai Masters,4,4,False
+Nuno Borges,2025-5100,Athens,3,5,False
+Nuno Borges,2025-6242,Winston-Salem,1,3,False
+Otto Virtanen,2025-0360,Marrakech,2,4,False
+Otto Virtanen,2025-0416,Rome Masters,2,2,False
+Otto Virtanen,2025-0440,s Hertogenbosch,2,4,False
+Otto Virtanen,2025-0451,Doha,1,3,False
+Otto Virtanen,2025-0496,Marseille,2,4,False
+Pablo Carreno Busta,2025-0301,Auckland,1,3,False
+Pablo Carreno Busta,2025-0360,Marrakech,2,4,False
+Pablo Carreno Busta,2025-0404,Indian Wells Masters,1,1,False
+Pablo Carreno Busta,2025-0416,Rome Masters,1,1,False
+Pablo Carreno Busta,2025-0421,Canada Masters,2,2,False
+Pablo Carreno Busta,2025-0425,Barcelona,1,3,False
+Pablo Carreno Busta,2025-1536,Madrid Masters,1,1,False
+Pablo Carreno Busta,2025-6242,Winston-Salem,2,3,False
+Pablo Llamas Ruiz,2025-0439,Umag,3,5,False
+Patrick Kypson,2025-0422,Cincinnati Masters,1,1,False
+Patrick Zahraj,2025-0314,Gstaad,1,4,False
+Pavel Kotov,2025-0360,Marrakech,1,3,False
+Pedro Martinez,2025-0301,Auckland,1,3,False
+Pedro Martinez,2025-0319,Kitzbuhel,1,4,False
+Pedro Martinez,2025-0336,Hong Kong,2,4,False
+Pedro Martinez,2025-0403,Miami Masters,1,1,False
+Pedro Martinez,2025-0404,Indian Wells Masters,1,1,False
+Pedro Martinez,2025-0407,Rotterdam,3,5,False
+Pedro Martinez,2025-0410,Monte Carlo Masters,2,3,False
+Pedro Martinez,2025-0414,Hamburg,1,3,False
+Pedro Martinez,2025-0416,Rome Masters,2,2,False
+Pedro Martinez,2025-0421,Canada Masters,1,1,False
+Pedro Martinez,2025-0422,Cincinnati Masters,2,2,False
+Pedro Martinez,2025-0425,Barcelona,2,4,False
+Pedro Martinez,2025-0500,Halle,1,3,False
+Pedro Martinez,2025-0506,Buenos Aires,4,6,True
+Pedro Martinez,2025-1536,Madrid Masters,1,1,False
+Pedro Martinez,2025-4462,Bucharest,2,5,False
+Pedro Martinez,2025-5014,Shanghai Masters,1,1,False
+Pedro Martinez,2025-5100,Athens,1,3,False
+Pedro Martinez,2025-6242,Winston-Salem,2,3,False
+Pedro Martinez,2025-6932,Rio de Janeiro,1,3,False
+Pedro Martinez,2025-7485,Brussels,1,3,False
+Pedro Martinez,2025-8994,Mallorca,1,3,False
+Pedro Martinez,2025-8996,Santiago,1,4,False
+Pierre Hugues Herbert,2025-0314,Gstaad,1,3,False
+Pierre Hugues Herbert,2025-0321,Stuttgart,2,4,False
+Pierre Hugues Herbert,2025-0360,Marrakech,2,4,False
+Pierre Hugues Herbert,2025-0421,Canada Masters,1,1,False
+Pierre Hugues Herbert,2025-0439,Umag,1,3,False
+Pierre Hugues Herbert,2025-0496,Marseille,2,4,False
+Quentin Halys,2025-0321,Stuttgart,2,4,False
+Quentin Halys,2025-0322,Geneva,2,4,False
+Quentin Halys,2025-0328,Basel,1,3,False
+Quentin Halys,2025-0341,Metz,1,3,False
+Quentin Halys,2025-0375,Montpellier,1,3,False
+Quentin Halys,2025-0403,Miami Masters,2,2,False
+Quentin Halys,2025-0404,Indian Wells Masters,2,2,False
+Quentin Halys,2025-0416,Rome Masters,1,1,False
+Quentin Halys,2025-0418,Washington,1,2,False
+Quentin Halys,2025-0421,Canada Masters,1,1,False
+Quentin Halys,2025-0451,Doha,1,3,False
+Quentin Halys,2025-0495,Dubai,4,6,True
+Quentin Halys,2025-0496,Marseille,1,3,False
+Quentin Halys,2025-0500,Halle,2,4,False
+Quentin Halys,2025-0741,Eastbourne,1,3,False
+Quentin Halys,2025-1536,Madrid Masters,1,1,False
+Quentin Halys,2025-5014,Shanghai Masters,2,2,False
+Quentin Halys,2025-7480,Los Cabos,1,4,False
+Quentin Halys,2025-7485,Brussels,1,3,False
+Quentin Halys,2025-7581,Chengdu,1,3,False
+Radu Albot,2025-4462,Bucharest,1,3,False
+Rafael Jodar,2025-7696,Next Gen Finals,3,0,False
+Raphael Collignon,2025-0316,Bastad,1,3,False
+Raphael Collignon,2025-0328,Basel,1,3,False
+Raphael Collignon,2025-0360,Marrakech,2,4,False
+Raphael Collignon,2025-0414,Hamburg,1,3,False
+Raphael Collignon,2025-0439,Umag,1,3,False
+Raphael Collignon,2025-0496,Marseille,1,3,False
+Raphael Collignon,2025-6242,Winston-Salem,1,2,False
+Raphael Collignon,2025-7485,Brussels,4,6,True
+Rei Sakamoto,2025-0403,Miami Masters,1,1,False
+Rei Sakamoto,2025-5014,Shanghai Masters,1,1,False
+Reilly Opelka,2025-0311,Queen's Club,2,4,False
+Reilly Opelka,2025-0328,Basel,3,5,False
+Reilly Opelka,2025-0339,Brisbane,5,7,True
+Reilly Opelka,2025-0352,Paris Masters,1,2,False
+Reilly Opelka,2025-0403,Miami Masters,3,3,False
+Reilly Opelka,2025-0404,Indian Wells Masters,1,1,False
+Reilly Opelka,2025-0416,Rome Masters,1,1,False
+Reilly Opelka,2025-0418,Washington,2,3,False
+Reilly Opelka,2025-0421,Canada Masters,3,3,False
+Reilly Opelka,2025-0422,Cincinnati Masters,3,3,False
+Reilly Opelka,2025-0424,Dallas,3,5,False
+Reilly Opelka,2025-0425,Barcelona,1,3,False
+Reilly Opelka,2025-0440,s Hertogenbosch,4,6,True
+Reilly Opelka,2025-0499,Delray Beach,2,4,False
+Reilly Opelka,2025-0741,Eastbourne,2,4,False
+Reilly Opelka,2025-1536,Madrid Masters,2,2,False
+Reilly Opelka,2025-5014,Shanghai Masters,1,1,False
+Reilly Opelka,2025-5100,Athens,1,3,False
+Reilly Opelka,2025-7485,Brussels,1,3,False
+Remy Bertola,2025-0328,Basel,1,3,False
+Richard Gasquet,2025-0375,Montpellier,2,4,False
+Richard Gasquet,2025-0410,Monte Carlo Masters,2,3,False
+Richard Gasquet,2025-0496,Marseille,1,3,False
+Richard Gasquet,2025-4462,Bucharest,2,4,False
+Rinky Hijikata,2025-0339,Brisbane,1,3,False
+Rinky Hijikata,2025-0403,Miami Masters,2,2,False
+Rinky Hijikata,2025-0404,Indian Wells Masters,2,2,False
+Rinky Hijikata,2025-0416,Rome Masters,1,1,False
+Rinky Hijikata,2025-0424,Dallas,2,4,False
+Rinky Hijikata,2025-0440,s Hertogenbosch,1,3,False
+Rinky Hijikata,2025-0499,Delray Beach,1,3,False
+Rinky Hijikata,2025-0717,Houston,1,3,False
+Rinky Hijikata,2025-0807,Acapulco,1,3,False
+Rinky Hijikata,2025-1536,Madrid Masters,1,1,False
+Rinky Hijikata,2025-4713,Hangzhou,2,4,False
+Rinky Hijikata,2025-8994,Mallorca,1,3,False
+Rinky Hijikata,2025-8998,Adelaide,3,5,False
+Rinky Hijikata,2025-9410,Almaty,2,4,False
+Roberto Bautista Agut,2025-0308,Munich,1,3,False
+Roberto Bautista Agut,2025-0311,Queen's Club,4,6,True
+Roberto Bautista Agut,2025-0319,Kitzbuhel,1,4,False
+Roberto Bautista Agut,2025-0403,Miami Masters,1,1,False
+Roberto Bautista Agut,2025-0404,Indian Wells Masters,1,1,False
+Roberto Bautista Agut,2025-0407,Rotterdam,1,3,False
+Roberto Bautista Agut,2025-0410,Monte Carlo Masters,2,3,False
+Roberto Bautista Agut,2025-0414,Hamburg,3,5,False
+Roberto Bautista Agut,2025-0416,Rome Masters,2,2,False
+Roberto Bautista Agut,2025-0422,Cincinnati Masters,3,3,False
+Roberto Bautista Agut,2025-0440,s Hertogenbosch,1,3,False
+Roberto Bautista Agut,2025-0451,Doha,1,3,False
+Roberto Bautista Agut,2025-0495,Dubai,2,4,False
+Roberto Bautista Agut,2025-1536,Madrid Masters,2,2,False
+Roberto Bautista Agut,2025-4462,Bucharest,2,4,False
+Roberto Bautista Agut,2025-6242,Winston-Salem,2,4,False
+Roberto Bautista Agut,2025-8994,Mallorca,3,5,False
+Roberto Bautista Agut,2025-8998,Adelaide,1,3,False
+Roberto Carballes Baena,2025-0301,Auckland,3,5,False
+Roberto Carballes Baena,2025-0314,Gstaad,2,4,False
+Roberto Carballes Baena,2025-0336,Hong Kong,1,3,False
+Roberto Carballes Baena,2025-0360,Marrakech,4,6,True
+Roberto Carballes Baena,2025-0403,Miami Masters,2,2,False
+Roberto Carballes Baena,2025-0404,Indian Wells Masters,1,1,False
+Roberto Carballes Baena,2025-0416,Rome Masters,1,1,False
+Roberto Carballes Baena,2025-0421,Canada Masters,2,2,False
+Roberto Carballes Baena,2025-0422,Cincinnati Masters,2,2,False
+Roberto Carballes Baena,2025-0424,Dallas,1,3,False
+Roberto Carballes Baena,2025-0425,Barcelona,1,3,False
+Roberto Carballes Baena,2025-0439,Umag,1,3,False
+Roberto Carballes Baena,2025-0506,Buenos Aires,1,3,False
+Roberto Carballes Baena,2025-0807,Acapulco,1,3,False
+Roberto Carballes Baena,2025-6932,Rio de Janeiro,1,3,False
+Rodrigo Pacheco Mendez,2025-0807,Acapulco,3,5,False
+Rodrigo Pacheco Mendez,2025-7480,Los Cabos,1,3,False
+Roman Andres Burruchaga,2025-0314,Gstaad,3,5,False
+Roman Andres Burruchaga,2025-0416,Rome Masters,2,2,False
+Roman Andres Burruchaga,2025-0506,Buenos Aires,1,3,False
+Roman Andres Burruchaga,2025-6932,Rio de Janeiro,1,3,False
+Roman Safiullin,2025-0321,Stuttgart,1,3,False
+Roman Safiullin,2025-0336,Hong Kong,1,3,False
+Roman Safiullin,2025-0403,Miami Masters,3,3,False
+Roman Safiullin,2025-0404,Indian Wells Masters,2,2,False
+Roman Safiullin,2025-0416,Rome Masters,1,1,False
+Roman Safiullin,2025-0421,Canada Masters,2,2,False
+Roman Safiullin,2025-0422,Cincinnati Masters,2,2,False
+Roman Safiullin,2025-0451,Doha,1,3,False
+Roman Safiullin,2025-0495,Dubai,1,3,False
+Roman Safiullin,2025-1536,Madrid Masters,1,1,False
+Roman Safiullin,2025-6242,Winston-Salem,1,2,False
+Roman Safiullin,2025-8994,Mallorca,2,4,False
+Roman Safiullin,2025-8998,Adelaide,1,3,False
+Sebastian Baez,2025-0301,Auckland,1,4,False
+Sebastian Baez,2025-0316,Bastad,2,5,False
+Sebastian Baez,2025-0319,Kitzbuhel,1,4,False
+Sebastian Baez,2025-0328,Basel,1,3,False
+Sebastian Baez,2025-0329,Tokyo,1,3,False
+Sebastian Baez,2025-0352,Paris Masters,1,2,False
+Sebastian Baez,2025-0403,Miami Masters,1,1,False
+Sebastian Baez,2025-0404,Indian Wells Masters,1,1,False
+Sebastian Baez,2025-0410,Monte Carlo Masters,1,2,False
+Sebastian Baez,2025-0414,Hamburg,1,3,False
+Sebastian Baez,2025-0416,Rome Masters,1,2,False
+Sebastian Baez,2025-0422,Cincinnati Masters,2,2,False
+Sebastian Baez,2025-0425,Barcelona,2,4,False
+Sebastian Baez,2025-0506,Buenos Aires,2,4,False
+Sebastian Baez,2025-1536,Madrid Masters,1,2,False
+Sebastian Baez,2025-4462,Bucharest,4,7,True
+Sebastian Baez,2025-5014,Shanghai Masters,2,2,False
+Sebastian Baez,2025-6242,Winston-Salem,2,4,False
+Sebastian Baez,2025-6932,Rio de Janeiro,5,7,True
+Sebastian Baez,2025-7485,Brussels,1,3,False
+Sebastian Baez,2025-8996,Santiago,4,7,True
+Sebastian Korda,2025-0328,Basel,1,3,False
+Sebastian Korda,2025-0329,Tokyo,3,5,False
+Sebastian Korda,2025-0352,Paris Masters,1,2,False
+Sebastian Korda,2025-0403,Miami Masters,4,5,False
+Sebastian Korda,2025-0404,Indian Wells Masters,1,2,False
+Sebastian Korda,2025-0410,Monte Carlo Masters,1,2,False
+Sebastian Korda,2025-0416,Rome Masters,2,3,False
+Sebastian Korda,2025-0425,Barcelona,2,4,False
+Sebastian Korda,2025-0429,Stockholm,3,5,False
+Sebastian Korda,2025-0496,Marseille,1,3,False
+Sebastian Korda,2025-1536,Madrid Masters,2,3,False
+Sebastian Korda,2025-4713,Hangzhou,2,4,False
+Sebastian Korda,2025-5014,Shanghai Masters,1,1,False
+Sebastian Korda,2025-5100,Athens,4,6,True
+Sebastian Korda,2025-6242,Winston-Salem,4,6,True
+Sebastian Korda,2025-8998,Adelaide,4,7,True
+Sebastian Ofner,2025-0316,Bastad,1,3,False
+Sebastian Ofner,2025-0319,Kitzbuhel,1,3,False
+Sebastian Ofner,2025-0322,Geneva,4,6,True
+Sebastian Ofner,2025-0416,Rome Masters,3,3,False
+Sebastian Ofner,2025-0421,Canada Masters,1,1,False
+Sebastian Ofner,2025-0422,Cincinnati Masters,1,1,False
+Sebastian Ofner,2025-0429,Stockholm,1,3,False
+Sebastian Ofner,2025-0500,Halle,1,3,False
+Sebastian Ofner,2025-1536,Madrid Masters,2,2,False
+Sebastian Ofner,2025-5014,Shanghai Masters,1,1,False
+Sebastian Ofner,2025-6242,Winston-Salem,1,2,False
+Shintaro Mochizuki,2025-0329,Tokyo,1,3,False
+Shintaro Mochizuki,2025-0421,Canada Masters,1,1,False
+Shintaro Mochizuki,2025-9410,Almaty,3,5,False
+Sho Shimabukuro,2025-0329,Tokyo,2,4,False
+Stan Wawrinka,2025-0314,Gstaad,1,3,False
+Stan Wawrinka,2025-0328,Basel,2,4,False
+Stan Wawrinka,2025-0375,Montpellier,1,3,False
+Stan Wawrinka,2025-0407,Rotterdam,1,3,False
+Stan Wawrinka,2025-0410,Monte Carlo Masters,1,2,False
+Stan Wawrinka,2025-0425,Barcelona,1,3,False
+Stan Wawrinka,2025-0439,Umag,2,4,False
+Stan Wawrinka,2025-0496,Marseille,1,3,False
+Stan Wawrinka,2025-4462,Bucharest,2,4,False
+Stan Wawrinka,2025-5014,Shanghai Masters,1,1,False
+Stan Wawrinka,2025-5100,Athens,2,4,False
+Stefan Dostanic,2025-6242,Winston-Salem,2,3,False
+Stefanos Sakellaridis,2025-5100,Athens,1,3,False
+Stefanos Tsitsipas,2025-0403,Miami Masters,2,3,False
+Stefanos Tsitsipas,2025-0404,Indian Wells Masters,3,4,False
+Stefanos Tsitsipas,2025-0407,Rotterdam,3,5,False
+Stefanos Tsitsipas,2025-0410,Monte Carlo Masters,3,5,False
+Stefanos Tsitsipas,2025-0416,Rome Masters,2,3,False
+Stefanos Tsitsipas,2025-0421,Canada Masters,1,2,False
+Stefanos Tsitsipas,2025-0422,Cincinnati Masters,2,3,False
+Stefanos Tsitsipas,2025-0425,Barcelona,3,5,False
+Stefanos Tsitsipas,2025-0451,Doha,1,3,False
+Stefanos Tsitsipas,2025-0495,Dubai,5,7,True
+Stefanos Tsitsipas,2025-0500,Halle,2,4,False
+Stefanos Tsitsipas,2025-1536,Madrid Masters,2,3,False
+Stefanos Tsitsipas,2025-6242,Winston-Salem,1,3,False
+Sumit Nagal,2025-0301,Auckland,1,3,False
+Sumit Nagal,2025-0506,Buenos Aires,1,3,False
+Taha Baadi,2025-0360,Marrakech,1,3,False
+Tallon Griekspoor,2025-0308,Munich,3,5,False
+Tallon Griekspoor,2025-0316,Bastad,2,5,False
+Tallon Griekspoor,2025-0337,Vienna,3,5,False
+Tallon Griekspoor,2025-0352,Paris Masters,1,2,False
+Tallon Griekspoor,2025-0360,Marrakech,4,7,True
+Tallon Griekspoor,2025-0375,Montpellier,3,5,False
+Tallon Griekspoor,2025-0404,Indian Wells Masters,5,5,False
+Tallon Griekspoor,2025-0407,Rotterdam,2,4,False
+Tallon Griekspoor,2025-0410,Monte Carlo Masters,1,2,False
+Tallon Griekspoor,2025-0416,Rome Masters,2,2,False
+Tallon Griekspoor,2025-0421,Canada Masters,1,2,False
+Tallon Griekspoor,2025-0422,Cincinnati Masters,1,2,False
+Tallon Griekspoor,2025-0429,Stockholm,1,3,False
+Tallon Griekspoor,2025-0451,Doha,2,4,False
+Tallon Griekspoor,2025-0495,Dubai,4,6,True
+Tallon Griekspoor,2025-0747,Beijing,1,3,False
+Tallon Griekspoor,2025-1536,Madrid Masters,2,2,False
+Tallon Griekspoor,2025-5014,Shanghai Masters,3,4,False
+Tallon Griekspoor,2025-6242,Winston-Salem,1,3,False
+Tallon Griekspoor,2025-7581,Chengdu,1,4,False
+Tallon Griekspoor,2025-8994,Mallorca,4,7,True
+Taro Daniel,2025-0424,Dallas,1,3,False
+Taro Daniel,2025-0499,Delray Beach,1,3,False
+Taro Daniel,2025-0717,Houston,1,3,False
+Taro Daniel,2025-7480,Los Cabos,1,3,False
+Taro Daniel,2025-7581,Chengdu,3,5,False
+Taylor Fritz,2025-0311,Queen's Club,1,3,False
+Taylor Fritz,2025-0321,Stuttgart,4,7,True
+Taylor Fritz,2025-0322,Geneva,2,5,False
+Taylor Fritz,2025-0328,Basel,2,4,False
+Taylor Fritz,2025-0329,Tokyo,5,7,True
+Taylor Fritz,2025-0352,Paris Masters,2,4,False
+Taylor Fritz,2025-0403,Miami Masters,5,6,True
+Taylor Fritz,2025-0404,Indian Wells Masters,3,4,False
+Taylor Fritz,2025-0416,Rome Masters,1,2,False
+Taylor Fritz,2025-0418,Washington,3,5,False
+Taylor Fritz,2025-0421,Canada Masters,5,6,True
+Taylor Fritz,2025-0422,Cincinnati Masters,3,4,False
+Taylor Fritz,2025-0424,Dallas,2,4,False
+Taylor Fritz,2025-0499,Delray Beach,2,5,False
+Taylor Fritz,2025-0605,Tour Finals,3,0,False
+Taylor Fritz,2025-0741,Eastbourne,4,7,True
+Taylor Fritz,2025-1536,Madrid Masters,3,4,False
+Taylor Fritz,2025-5014,Shanghai Masters,2,3,False
+Terence Atmane,2025-0314,Gstaad,1,3,False
+Terence Atmane,2025-0341,Metz,1,3,False
+Terence Atmane,2025-0352,Paris Masters,1,2,False
+Terence Atmane,2025-0421,Canada Masters,1,2,False
+Terence Atmane,2025-0422,Cincinnati Masters,6,6,True
+Terence Atmane,2025-0439,Umag,2,4,False
+Terence Atmane,2025-0747,Beijing,2,4,False
+Terence Atmane,2025-5014,Shanghai Masters,1,1,False
+Terence Atmane,2025-7581,Chengdu,1,3,False
+Thanasi Kokkinakis,2025-8998,Adelaide,3,5,False
+Thiago Agustin Tirante,2025-0319,Kitzbuhel,2,4,False
+Thiago Agustin Tirante,2025-0403,Miami Masters,2,2,False
+Thiago Agustin Tirante,2025-0422,Cincinnati Masters,1,1,False
+Thiago Monteiro,2025-0316,Bastad,1,3,False
+Thiago Monteiro,2025-6932,Rio de Janeiro,2,4,False
+Thiago Monteiro,2025-8996,Santiago,2,4,False
+Thiago Seyboth Wild,2025-0319,Kitzbuhel,3,5,False
+Thiago Seyboth Wild,2025-0403,Miami Masters,1,1,False
+Thiago Seyboth Wild,2025-0404,Indian Wells Masters,2,2,False
+Thiago Seyboth Wild,2025-0416,Rome Masters,2,2,False
+Thiago Seyboth Wild,2025-0506,Buenos Aires,3,5,False
+Thiago Seyboth Wild,2025-6932,Rio de Janeiro,1,3,False
+Thiago Seyboth Wild,2025-8996,Santiago,1,3,False
+Timofey Skatov,2025-4462,Bucharest,1,3,False
+Timofey Skatov,2025-9410,Almaty,1,3,False
+Titouan Droguet,2025-0439,Umag,3,5,False
+Tomas Barrios Vera,2025-0316,Bastad,1,3,False
+Tomas Barrios Vera,2025-0416,Rome Masters,1,1,False
+Tomas Barrios Vera,2025-0421,Canada Masters,2,2,False
+Tomas Barrios Vera,2025-0439,Umag,1,3,False
+Tomas Barrios Vera,2025-6932,Rio de Janeiro,1,3,False
+Tomas Barrios Vera,2025-8996,Santiago,1,3,False
+Tomas Machac,2025-0322,Geneva,1,4,False
+Tomas Machac,2025-0329,Tokyo,1,3,False
+Tomas Machac,2025-0337,Vienna,1,3,False
+Tomas Machac,2025-0352,Paris Masters,1,2,False
+Tomas Machac,2025-0403,Miami Masters,3,4,False
+Tomas Machac,2025-0404,Indian Wells Masters,1,2,False
+Tomas Machac,2025-0410,Monte Carlo Masters,2,3,False
+Tomas Machac,2025-0416,Rome Masters,2,3,False
+Tomas Machac,2025-0421,Canada Masters,1,2,False
+Tomas Machac,2025-0422,Cincinnati Masters,1,2,False
+Tomas Machac,2025-0424,Dallas,3,5,False
+Tomas Machac,2025-0500,Halle,3,5,False
+Tomas Machac,2025-0807,Acapulco,5,7,True
+Tomas Machac,2025-1536,Madrid Masters,1,2,False
+Tomas Machac,2025-5014,Shanghai Masters,2,3,False
+Tomas Martin Etcheverry,2025-0314,Gstaad,1,4,False
+Tomas Martin Etcheverry,2025-0319,Kitzbuhel,1,3,False
+Tomas Martin Etcheverry,2025-0337,Vienna,2,4,False
+Tomas Martin Etcheverry,2025-0352,Paris Masters,1,2,False
+Tomas Martin Etcheverry,2025-0403,Miami Masters,1,1,False
+Tomas Martin Etcheverry,2025-0404,Indian Wells Masters,1,1,False
+Tomas Martin Etcheverry,2025-0410,Monte Carlo Masters,2,3,False
+Tomas Martin Etcheverry,2025-0414,Hamburg,4,6,True
+Tomas Martin Etcheverry,2025-0416,Rome Masters,1,1,False
+Tomas Martin Etcheverry,2025-0421,Canada Masters,3,3,False
+Tomas Martin Etcheverry,2025-0422,Cincinnati Masters,2,2,False
+Tomas Martin Etcheverry,2025-0425,Barcelona,1,3,False
+Tomas Martin Etcheverry,2025-0429,Stockholm,3,5,False
+Tomas Martin Etcheverry,2025-0440,s Hertogenbosch,1,3,False
+Tomas Martin Etcheverry,2025-0500,Halle,3,5,False
+Tomas Martin Etcheverry,2025-0506,Buenos Aires,1,3,False
+Tomas Martin Etcheverry,2025-0717,Houston,1,3,False
+Tomas Martin Etcheverry,2025-1536,Madrid Masters,2,2,False
+Tomas Martin Etcheverry,2025-4713,Hangzhou,3,5,False
+Tomas Martin Etcheverry,2025-5100,Athens,2,4,False
+Tomas Martin Etcheverry,2025-6932,Rio de Janeiro,2,4,False
+Tomas Martin Etcheverry,2025-8994,Mallorca,1,3,False
+Tomas Martin Etcheverry,2025-8996,Santiago,3,5,False
+Tomas Martin Etcheverry,2025-8998,Adelaide,2,4,False
+Tommy Paul,2025-0403,Miami Masters,2,3,False
+Tommy Paul,2025-0404,Indian Wells Masters,3,4,False
+Tommy Paul,2025-0416,Rome Masters,5,6,True
+Tommy Paul,2025-0422,Cincinnati Masters,2,3,False
+Tommy Paul,2025-0424,Dallas,4,6,True
+Tommy Paul,2025-0717,Houston,3,6,True
+Tommy Paul,2025-0741,Eastbourne,1,4,False
+Tommy Paul,2025-0807,Acapulco,2,4,False
+Tommy Paul,2025-1536,Madrid Masters,3,4,False
+Tommy Paul,2025-8998,Adelaide,3,6,True
+Trevor Svajda,2025-0424,Dallas,1,3,False
+Tristan Boyer,2025-0316,Bastad,1,3,False
+Tristan Boyer,2025-0319,Kitzbuhel,1,3,False
+Tristan Boyer,2025-0360,Marrakech,1,3,False
+Tristan Boyer,2025-0404,Indian Wells Masters,2,2,False
+Tristan Boyer,2025-0421,Canada Masters,2,2,False
+Tristan Boyer,2025-0422,Cincinnati Masters,2,2,False
+Tristan Boyer,2025-0499,Delray Beach,1,3,False
+Tristan Schoolkate,2025-0403,Miami Masters,2,2,False
+Tristan Schoolkate,2025-0421,Canada Masters,2,2,False
+Tristan Schoolkate,2025-5014,Shanghai Masters,1,1,False
+Tristan Schoolkate,2025-7480,Los Cabos,3,5,False
+Tristan Schoolkate,2025-8998,Adelaide,1,3,False
+Tristan Schoolkate,2025-9410,Almaty,1,3,False
+Ugo Blanchet,2025-0341,Metz,1,3,False
+Ugo Blanchet,2025-0421,Canada Masters,1,1,False
+Ugo Blanchet,2025-5014,Shanghai Masters,1,1,False
+Ugo Blanchet,2025-9410,Almaty,1,3,False
+Ugo Humbert,2025-0308,Munich,2,4,False
+Ugo Humbert,2025-0328,Basel,4,6,True
+Ugo Humbert,2025-0329,Tokyo,1,3,False
+Ugo Humbert,2025-0403,Miami Masters,1,2,False
+Ugo Humbert,2025-0404,Indian Wells Masters,2,3,False
+Ugo Humbert,2025-0410,Monte Carlo Masters,1,2,False
+Ugo Humbert,2025-0416,Rome Masters,1,2,False
+Ugo Humbert,2025-0422,Cincinnati Masters,2,3,False
+Ugo Humbert,2025-0429,Stockholm,4,7,True
+Ugo Humbert,2025-0440,s Hertogenbosch,3,6,True
+Ugo Humbert,2025-0495,Dubai,2,4,False
+Ugo Humbert,2025-0496,Marseille,4,7,True
+Ugo Humbert,2025-0500,Halle,1,3,False
+Ugo Humbert,2025-0741,Eastbourne,3,6,True
+Ugo Humbert,2025-1536,Madrid Masters,1,2,False
+Ugo Humbert,2025-5014,Shanghai Masters,2,3,False
+Valentin Royer,2025-0328,Basel,2,4,False
+Valentin Royer,2025-0341,Metz,1,3,False
+Valentin Royer,2025-0352,Paris Masters,1,2,False
+Valentin Royer,2025-0421,Canada Masters,1,1,False
+Valentin Royer,2025-0422,Cincinnati Masters,2,2,False
+Valentin Royer,2025-4713,Hangzhou,5,7,True
+Valentin Royer,2025-5014,Shanghai Masters,2,2,False
+Valentin Royer,2025-7485,Brussels,2,4,False
+Valentin Vacherot,2025-0328,Basel,1,3,False
+Valentin Vacherot,2025-0352,Paris Masters,4,5,False
+Valentin Vacherot,2025-0410,Monte Carlo Masters,2,3,False
+Valentin Vacherot,2025-4462,Bucharest,1,3,False
+Valentin Vacherot,2025-5014,Shanghai Masters,7,7,True
+Vasek Pospisil,2025-0421,Canada Masters,1,1,False
+Vilius Gaubas,2025-0416,Rome Masters,3,3,False
+Vit Kopriva,2025-0316,Bastad,2,4,False
+Vit Kopriva,2025-0360,Marrakech,3,5,False
+Vit Kopriva,2025-0416,Rome Masters,3,3,False
+Vit Kopriva,2025-0421,Canada Masters,1,1,False
+Vit Kopriva,2025-0422,Cincinnati Masters,1,1,False
+Vit Kopriva,2025-0439,Umag,2,4,False
+Vit Kopriva,2025-1536,Madrid Masters,1,1,False
+Vit Kopriva,2025-5100,Athens,2,4,False
+Vit Kopriva,2025-6242,Winston-Salem,2,3,False
+Vitaliy Sachko,2025-0341,Metz,4,6,True
+Vitaliy Sachko,2025-0414,Hamburg,1,3,False
+William Rejchtman Vinciguerra,2025-0316,Bastad,1,3,False
+Yannick Hanfmann,2025-0308,Munich,2,4,False
+Yannick Hanfmann,2025-0319,Kitzbuhel,3,5,False
+Yannick Hanfmann,2025-0321,Stuttgart,1,3,False
+Yannick Hanfmann,2025-0339,Brisbane,1,3,False
+Yannick Hanfmann,2025-0500,Halle,1,3,False
+Yannick Hanfmann,2025-0717,Houston,1,3,False
+Yannick Hanfmann,2025-5014,Shanghai Masters,3,3,False
+Yannick Hanfmann,2025-5100,Athens,4,6,True
+Yannick Hanfmann,2025-7485,Brussels,2,4,False
+Yannick Hanfmann,2025-8996,Santiago,2,4,False
+Yannick Hanfmann,2025-8998,Adelaide,1,3,False
+Yi Zhou,2025-5014,Shanghai Masters,1,1,False
+Yi Zhou,2025-7581,Chengdu,2,4,False
+Yibing Wu,2025-0403,Miami Masters,1,1,False
+Yibing Wu,2025-0418,Washington,3,4,False
+Yibing Wu,2025-4713,Hangzhou,4,6,True
+Yibing Wu,2025-5014,Shanghai Masters,1,1,False
+Yibing Wu,2025-7480,Los Cabos,1,3,False
+Yoshihito Nishioka,2025-0321,Stuttgart,1,3,False
+Yoshihito Nishioka,2025-0329,Tokyo,1,3,False
+Yoshihito Nishioka,2025-0339,Brisbane,2,4,False
+Yoshihito Nishioka,2025-0403,Miami Masters,1,1,False
+Yoshihito Nishioka,2025-0416,Rome Masters,1,1,False
+Yoshihito Nishioka,2025-0418,Washington,2,3,False
+Yoshihito Nishioka,2025-0421,Canada Masters,1,1,False
+Yoshihito Nishioka,2025-0422,Cincinnati Masters,1,1,False
+Yoshihito Nishioka,2025-0424,Dallas,3,5,False
+Yoshihito Nishioka,2025-0499,Delray Beach,2,4,False
+Yoshihito Nishioka,2025-5014,Shanghai Masters,3,3,False
+Yoshihito Nishioka,2025-6242,Winston-Salem,1,2,False
+Yoshihito Nishioka,2025-8998,Adelaide,1,3,False
+Yosuke Watanuki,2025-0329,Tokyo,1,3,False
+Yosuke Watanuki,2025-0404,Indian Wells Masters,4,4,False
+Yosuke Watanuki,2025-0421,Canada Masters,2,2,False
+Younes Lalami Laaroussi,2025-0360,Marrakech,1,3,False
+Zachary Svajda,2025-0418,Washington,2,3,False
+Zachary Svajda,2025-0499,Delray Beach,1,3,False
+Zhizhen Zhang,2025-0404,Indian Wells Masters,1,1,False
+Zhizhen Zhang,2025-0407,Rotterdam,1,3,False
+Zhizhen Zhang,2025-0451,Doha,1,3,False
+Zhizhen Zhang,2025-0495,Dubai,1,3,False
+Zhizhen Zhang,2025-0496,Marseille,3,5,False
+Zhizhen Zhang,2025-0747,Beijing,1,3,False
+Zhizhen Zhang,2025-4713,Hangzhou,2,4,False
+Zhizhen Zhang,2025-5014,Shanghai Masters,1,1,False
+Zhizhen Zhang,2025-8998,Adelaide,1,3,False
+Zizou Bergs,2025-0301,Auckland,5,7,True
+Zizou Bergs,2025-0308,Munich,3,5,False
+Zizou Bergs,2025-0322,Geneva,1,3,False
+Zizou Bergs,2025-0329,Tokyo,2,4,False
+Zizou Bergs,2025-0336,Hong Kong,2,4,False
+Zizou Bergs,2025-0352,Paris Masters,2,3,False
+Zizou Bergs,2025-0403,Miami Masters,3,3,False
+Zizou Bergs,2025-0404,Indian Wells Masters,2,2,False
+Zizou Bergs,2025-0418,Washington,1,2,False
+Zizou Bergs,2025-0421,Canada Masters,1,1,False
+Zizou Bergs,2025-0422,Cincinnati Masters,2,2,False
+Zizou Bergs,2025-0440,s Hertogenbosch,5,7,True
+Zizou Bergs,2025-0451,Doha,2,4,False
+Zizou Bergs,2025-0495,Dubai,2,4,False
+Zizou Bergs,2025-0496,Marseille,4,6,True
+Zizou Bergs,2025-0500,Halle,1,3,False
+Zizou Bergs,2025-0741,Eastbourne,1,3,False
+Zizou Bergs,2025-1536,Madrid Masters,1,1,False
+Zizou Bergs,2025-5014,Shanghai Masters,5,5,False
+Zizou Bergs,2025-7485,Brussels,1,3,False
+Zizou Bergs,2025-7581,Chengdu,1,3,False

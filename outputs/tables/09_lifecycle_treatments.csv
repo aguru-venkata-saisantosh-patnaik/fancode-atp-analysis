@@ -1,0 +1,5 @@
+state,eligibility,treatment,primary_outcome
+First-ever payer,"First successful ATP payment, no previous FanCode payment","Pay-to-play, next included event, relevant upgrade",Incremental new payer and portfolio contribution
+Reactivated payer,Prior payment but no active access,"Restore entitlement clarity, chosen next occasion","Incremental reactivation contribution, not new-payer CAC"
+"Existing payer, ATP uncovered",Current other-sport pass does not cover ATP,Cheapest relevant additional coverage,Incremental total portfolio contribution
+ATP already covered,Verified active covering pass,"Suppress redundant sale, relevant live/replay nudge",Renewal at genuine expiry and contribution

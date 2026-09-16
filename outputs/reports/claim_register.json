@@ -1,0 +1,92 @@
+[
+  {
+    "claim_id":"C01",
+    "claim":"Robust final-start fit across all chosen timing cells",
+    "value":6.0,
+    "unit":"of 12 purposively selected finals",
+    "table":"01_timing_robustness.csv",
+    "notebook":"01",
+    "planned_slide":"3",
+    "qualification":"Design grid, not probability or full-season share"
+  },
+  {
+    "claim_id":"C02",
+    "claim":"Explicit tennis mentions in collected mobile and iOS reviews",
+    "value":13.0,
+    "unit":"mentions",
+    "table":"04_store_coverage.csv",
+    "notebook":"04",
+    "planned_slide":"1",
+    "qualification":"Sparse keyword signal, not a tennis customer survey"
+  },
+  {
+    "claim_id":"C03",
+    "claim":"F1\/FanCode rank correlation in common request",
+    "value":0.458255029,
+    "unit":"Spearman rho",
+    "table":"05_search_associations.csv",
+    "notebook":"05",
+    "planned_slide":"1",
+    "qualification":"Search association, not paid acquisition attribution"
+  },
+  {
+    "claim_id":"C04",
+    "claim":"Season contribution before marketing under selected cost case",
+    "value":298.7191932203,
+    "unit":"INR",
+    "table":"07_contribution_grid.csv",
+    "notebook":"07",
+    "planned_slide":"5",
+    "qualification":"18% inclusive tax, 2% fee plus fee tax, INR30 additional cost"
+  },
+  {
+    "claim_id":"C05",
+    "claim":"Season contribution after INR175 acquisition in same case",
+    "value":123.7191932203,
+    "unit":"INR",
+    "table":"07_contribution_grid.csv",
+    "notebook":"07",
+    "planned_slide":"5",
+    "qualification":"Rights excluded, not observed company margin"
+  },
+  {
+    "claim_id":"C06",
+    "claim":"Incrementality needed at attributed INR175 for INR200 iCAC",
+    "value":0.875,
+    "unit":"fraction",
+    "table":"07_incrementality_cac.csv",
+    "notebook":"07",
+    "planned_slide":"5",
+    "qualification":"Algebraic target requirement, not measured fraction"
+  },
+  {
+    "claim_id":"C07",
+    "claim":"Acquisition-cell ceiling after 10% reserve at INR200 target",
+    "value":180.0,
+    "unit":"INR",
+    "table":"08_measurement_reserve_sensitivity.csv",
+    "notebook":"08",
+    "planned_slide":"7",
+    "qualification":"Reserve funds no separately credited payers"
+  },
+  {
+    "claim_id":"C08",
+    "claim":"Working-test programme CAC",
+    "value":599.7751666591,
+    "unit":"INR",
+    "table":"08_blended_programme_cac.csv",
+    "notebook":"08",
+    "planned_slide":"7",
+    "qualification":"Conditional on unmeasured response assumptions, not forecast"
+  },
+  {
+    "claim_id":"C09",
+    "claim":"Users for 1% baseline and 20% relative lift",
+    "value":85214.0,
+    "unit":"total randomized users",
+    "table":"09_binary_power_grid.csv",
+    "notebook":"09",
+    "planned_slide":"8",
+    "qualification":"Two-sided 5% alpha, 80% power, independent equally sized arms"
+  }
+]

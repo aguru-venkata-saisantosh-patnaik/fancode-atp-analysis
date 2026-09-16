@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "checks": {
+    "named_sports_visible": true,
+    "mutually_exclusive_ownership_columns": true,
+    "eight_substantive_slides": true,
+    "four_deliverables": true,
+    "claim_tables_exist": true,
+    "no_invented_segment_sizes": true
+  }
+}

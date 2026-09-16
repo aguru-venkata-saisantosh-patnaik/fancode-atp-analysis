@@ -1,0 +1,16 @@
+product,scope,low_price,high_price,validity,evidence_type,source_id,limitation
+FanCode tournament,ATP,79,99,tournament,case input,supplied_BGCC_FANCODE_R3,PDF p11. Current checkout unverified
+FanCode season,ATP,399,399,2026 season,case input,supplied_BGCC_FANCODE_R3,Declining late-season price not observed
+FanCode monthly list,ATP uncertain,199,199,30 days,public observation,fancode_monthly_final_v5,"Explicit F1/MotoGP, ATP unresolved"
+FanCode monthly promo,ATP uncertain,116,116,30 days,public observation,fancode_monthly_final_v5,"SEPT10 applied, renewal price not verified"
+FanCode yearly list,Portfolio including tennis,999,999,365 days,public observation,fancode_yearly_rendered,Device and scope per captured description
+FanCode yearly promo,Portfolio including tennis,899,899,365 days,public observation,fancode_yearly_rendered,"Coupon snapshot, not permanent policy"
+Sony LIV Premium monthly,Different rights basket,399,399,month,public listing,sonyliv_subscription,Not an ATP-equivalent substitute
+Sony LIV Premium annual,Different rights basket,1499,1499,year,public listing,sonyliv_subscription,Not an ATP-equivalent substitute
+Sony LIV mobile annual,Mobile only,699,699,year,public listing,sonyliv_subscription,Device restriction matters
+Tennis TV monthly IAP,ATP product,449,449,month,India App Store listing,v3_tennistv_india_iap,Not web checkout or purchased entitlement
+Tennis TV six-month IAP,ATP product,2500,2500,six months,India App Store listing,v3_tennistv_india_iap,Not directly equivalent to FanCode season
+Tennis TV annual IAP,ATP product,4499,4499,year,India App Store listing,v3_tennistv_india_iap,Grand Slams excluded from ATP comparison
+JioHotstar Mobile,Different rights basket,79,79,month,January announcement,jiohotstar_2026_price_release,"Dated launch price, not September checkout"
+JioHotstar Super,Different rights basket,149,149,month,January announcement,jiohotstar_2026_price_release,Rights basket differs
+JioHotstar Premium,Different rights basket,299,299,month,January announcement,jiohotstar_2026_price_release,Rights basket differs

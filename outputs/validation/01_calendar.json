@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "checks": {
+    "twelve_distinct_finals": true,
+    "unique_slots": true,
+    "all_times_timezone_aware": true,
+    "dubai_ist_2030": true,
+    "indian_wells_next_day": true
+  }
+}

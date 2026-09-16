@@ -1,0 +1,18 @@
+input_id,value,unit,pdf_page,limitation,source_id
+registered_users,240000000.0,"users, cumulative",9,Not active or reachable audience,supplied_BGCC_FANCODE_R3
+watch_minutes,90.0,minutes per sport/tour,9,No payer or session denominator,supplied_BGCC_FANCODE_R3
+masters_uplift,0.5,relative uplift,9,"Association, not causal timing effect",supplied_BGCC_FANCODE_R3
+noncore_share,0.1,ordinary-week tennis viewers,9,Not platform conversion,supplied_BGCC_FANCODE_R3
+repeat_low,0.6,repurchase proportion,10,Horizon unknown,supplied_BGCC_FANCODE_R3
+repeat_high,0.65,repurchase proportion,10,Not a stationary repeat hazard,supplied_BGCC_FANCODE_R3
+renewal,0.9,season renewal proportion,10,Cohort and period unspecified,supplied_BGCC_FANCODE_R3
+cac_low,150.0,INR per paying subscriber target,11,Not observed incremental CAC,supplied_BGCC_FANCODE_R3
+cac_high,200.0,INR per paying subscriber target,11,Target may exceed product contribution,supplied_BGCC_FANCODE_R3
+contest_cvr,0.078,click-to-purchase proportion,11,Historical case channel only,supplied_BGCC_FANCODE_R3
+tournament_low,79.0,INR per tournament,11,"Case input, current checkout unverified",supplied_BGCC_FANCODE_R3
+tournament_high,99.0,INR per tournament,11,Case input,supplied_BGCC_FANCODE_R3
+season_price,399.0,INR per season,11,"Declines late season, not rolling 365 days",supplied_BGCC_FANCODE_R3
+performance_share_low,0.65,fraction of total marketing spend,11,"Current case baseline, not proposed allocation",supplied_BGCC_FANCODE_R3
+performance_share_high,0.7,fraction of total marketing spend,11,"Current case baseline, not proposed allocation",supplied_BGCC_FANCODE_R3
+attention_lead_days,2.0,days before match,11,"Approximate engagement peak, not measured purchase-conversion peak",supplied_BGCC_FANCODE_R3
+weekly_inventory,200.0,tour-level matches or sessions per week,9,"Case input, not independently counted",supplied_BGCC_FANCODE_R3

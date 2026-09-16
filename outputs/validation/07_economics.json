@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "checks": {
+    "tax_bridge": true,
+    "credit_no_effect_at_zero": true,
+    "discount_proportional_hurdle": true,
+    "incremental_fraction_hurdle": true,
+    "cost_grid_identity": true,
+    "finite_repeat_below_infinite": true
+  }
+}

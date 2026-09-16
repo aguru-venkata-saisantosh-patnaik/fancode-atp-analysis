@@ -1,0 +1,67 @@
+{
+  "author": "Competition team",
+  "research_cutoff": "2026-09-12T23:59:59+05:30",
+  "collection_date": "2026-09-13",
+  "review_scope": "Newest accessible India-English reviews. Preserve source pagination and all ratings. Stop at cutoff start or bounded retrieval cap, report truncation.",
+  "review_window_start": "2025-01-01",
+  "schedule_sample": {
+    "Masters": [
+      "Indian Wells",
+      "Miami",
+      "Madrid",
+      "Rome"
+    ],
+    "ATP 500": [
+      "Rotterdam",
+      "Doha",
+      "Dubai",
+      "Halle"
+    ],
+    "ATP 250": [
+      "Brisbane",
+      "Hong Kong",
+      "Marrakech",
+      "Winston-Salem"
+    ]
+  },
+  "sample_rationale": "Purposive tier-balanced 12-edition sample across regions and early/mid/late completed season. Selected before new schedule extraction. Not population-representative. Record failures without silent substitution.",
+  "calendar_scope": "2026 event-level universe, verified sampled sessions, next-event published windows. Separate qualifying/main draw, ATP/WTA, scheduled/not-before/actual, and programme revision.",
+  "price_scope": "India public logged-out observed offers. No purchases or account access. Preserve list/promo/renewal and entitlement uncertainty.",
+  "search_interest_scope": "India 2026-01-01 through 2026-09-12. Common query window and anchors. No inferred WTP or subscriber counts.",
+  "raw_definition": "Original fetched body or documented browser-visible capture. Parsing/normalization excluded from raw provider files. Failed requests retained separately.",
+  "collection_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "review_pilot_cap_per_app_initial": 2000,
+  "review_actual_caps": {
+    "mobile_initial": 10000,
+    "mobile_extension": 30000,
+    "tv": 3000
+  },
+  "protocol_amendments": [
+    {
+      "date": "2026-09-14",
+      "change": "Extended mobile retrieval from 10000 to a maximum 30000 using preserved public continuation token, to reach the original January 2025 boundary. No review content outcome used to choose stopping point."
+    },
+    {
+      "date": "2026-09-14",
+      "change": "Product snapshots retain actual retrieval date, not the historical review cutoff. Current-source information must not be treated as available at past advertising decisions."
+    },
+    {
+      "date": "2026-09-14",
+      "change": "raw-v2 retries retain all v1 bodies and archive its metadata. Recovered missing official draw/order PDFs, secondary 2025/2026 results files and a complete browser-visible four-term Trends daily table. Broader five-term 2025-2026 endpoint returned 429 and was not retried. Preserve route-specific monthly offers. Ongoing US Open results fetched after the study cutoff require independent match dates before cutoff filtering."
+    },
+    {
+      "date": "2026-09-14",
+      "change": "Raw-v4 recovers 2025 two-term weekly Trends after a five-term request failed, plus two-season La Liga data, official MotoGP 2026 session APIs and linked sprint/race PDFs. Keep original 2026 research cutoff, future schedules, response dates and actual/planned times separate. Broader data collection does not make original ATP sample representative."
+    }
+  ],
+  "raw_v5_closure": {
+    "report": "docs/RAW_V5_CLOSURE.md",
+    "failure_dispositions": "data/manifests/failure_disposition.json",
+    "additional_sources": "7 HTTP sources plus full football table and two selected browser offer observations",
+    "search_normalization": "Football/FanCode is a separate 255-day request. Do not treat all series as one common-scale request.",
+    "collection_closure": "All failed HTTP IDs mapped to evidence replacements or explicit scenario/exclusion treatments. Private facts remain unknown."
+  }
+}

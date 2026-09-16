@@ -1,0 +1,10 @@
+{
+  "python": "3.10.11 (v3.10.11:7d4cc5aa85, Apr  4 2023, 19:05:19) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "timezone": [
+    "IST",
+    "IST"
+  ],
+  "curl": "curl 8.7.1 (x86_64-apple-darwin25.0) libcurl/8.7.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.12 nghttp2/1.68.1",
+  "note": "Environment recorded at collection. Lock file records full temporary environment, including unused optional exploration packages. Minimal offline requirements are in requirements-collection.txt."
+}

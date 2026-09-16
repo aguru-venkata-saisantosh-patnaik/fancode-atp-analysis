@@ -1,0 +1,20 @@
+{
+  "python": "3.10.11",
+  "platform_family": "darwin",
+  "kernel": "Python ipykernel, independent kernel per notebook",
+  "dependencies": "requirements-analysis.lock.txt",
+  "seed": 20260915,
+  "execution_order": [
+    "00_evidence_and_case",
+    "01_viewing_calendar",
+    "02_portfolio_clashes",
+    "03_offers_and_baskets",
+    "04_review_friction",
+    "05_search_attention",
+    "06_player_and_video_risk",
+    "07_contribution_and_pricing",
+    "08_channel_economics",
+    "09_retention_and_experiments",
+    "10_strategy_and_claims"
+  ]
+}

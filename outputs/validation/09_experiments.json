@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "checks": {
+    "positive_sample_sizes": true,
+    "larger_lift_requires_fewer_users": true,
+    "cluster_design_effect_at_least_one": true,
+    "mature_90_subset_30": true
+  }
+}

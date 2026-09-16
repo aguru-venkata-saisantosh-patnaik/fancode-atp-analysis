@@ -1,0 +1,13 @@
+acquiring_event,end_date,next_event,next_start,gap_days,trigger,source_id
+"Chengdu, China Chengdu Open",2026-09-29,"Beijing, China China Open",2026-09-30,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Hangzhou, China Hangzhou Open",2026-09-29,"Beijing, China China Open",2026-09-30,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Beijing, China China Open",2026-10-06,"Shanghai, China Rolex Shanghai Masters",2026-10-07,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Tokyo, Japan Kinoshita Group Japan Open Tennis Championships",2026-10-06,"Shanghai, China Rolex Shanghai Masters",2026-10-07,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Shanghai, China Rolex Shanghai Masters",2026-10-18,"Almaty, Kazakhstan Almaty Open",2026-10-19,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Almaty, Kazakhstan Almaty Open",2026-10-25,"Vienna, Austria Erste Bank Open",2026-10-26,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Lyon, France Grand Prix Auvergne-Rhone-Alpes",2026-10-25,"Vienna, Austria Erste Bank Open",2026-10-26,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Brussels, Belgium BNP Paribas Fortis European Open",2026-10-25,"Vienna, Austria Erste Bank Open",2026-10-26,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Vienna, Austria Erste Bank Open",2026-11-01,"Paris, France Rolex Paris Masters",2026-11-02,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Basel, Switzerland Swiss Indoors Basel",2026-11-01,"Paris, France Rolex Paris Masters",2026-11-02,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Paris, France Rolex Paris Masters",2026-11-08,"Nitto ATP Finals Turin, Italy",2026-11-15,7,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2
+"Stockholm, Sweden Bybit Stockholm Open",2026-11-14,"Nitto ATP Finals Turin, Italy",2026-11-15,1,"After successful play, show time and coverage; confirm usable slot",atp_future_calendar_rendered_v2

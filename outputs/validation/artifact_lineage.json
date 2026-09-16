@@ -1,0 +1,2651 @@
+[
+  {
+    "artifact": "outputs/tables/00_raw_coverage.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "09bbffef8e2286c92c8c72cb1b73e6e02ed38f8ab7d4b988f01b548897ae591d"
+  },
+  {
+    "artifact": "outputs/figures/png/00_evidence_coverage.png",
+    "kind": "figure",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "Source: locked raw-v5 inventory. Includes failed-response bodies.",
+    "sha256": "6de70901480f005059fa3564ee181f891109087c45a292a3827127aa0042de94"
+  },
+  {
+    "artifact": "outputs/figures/svg/00_evidence_coverage.svg",
+    "kind": "figure",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "Source: locked raw-v5 inventory. Includes failed-response bodies.",
+    "sha256": "a0eebaeeb8f428ab276cdd44c0d584cf8f2d3ec0efb3f677f02a235adeae8d9c"
+  },
+  {
+    "artifact": "data/processed/case_inputs.csv",
+    "kind": "processed table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "c8cce6a2597d5523619dc4584a7c9b8706b1864b813faa9c422347a87d245cc8"
+  },
+  {
+    "artifact": "outputs/tables/00_case_dictionary.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "c8cce6a2597d5523619dc4584a7c9b8706b1864b813faa9c422347a87d245cc8"
+  },
+  {
+    "artifact": "outputs/tables/00_spike_definition_audit.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "46db9af7156862d9595ef4ccccb319d8452c2357905223df326a169de707641a"
+  },
+  {
+    "artifact": "outputs/tables/00_external_evidence_register.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "040bb1bfbb2f4efeea01d23e043021d9e3aa84b2cb169c86ac0224664d887bee"
+  },
+  {
+    "artifact": "outputs/tables/00_requirement_map.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "1cb8455af8434bc1c51e1ea47525327a19b536dc1436da62145abbef7ec47f38"
+  },
+  {
+    "artifact": "data/processed/atp_event_starts.csv",
+    "kind": "processed table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "93585340823066fe0f6510240c9669b453b1e84b82e19215ef8888fe6c765964"
+  },
+  {
+    "artifact": "outputs/tables/01_calendar_tiers.csv",
+    "kind": "output table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "cc71196e849f830cea3eecaf7bd3cdec05a6416e67d937320c32e54779088435"
+  },
+  {
+    "artifact": "data/processed/atp_future_windows.csv",
+    "kind": "processed table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "106fed2677bae3c2c32c64e7524927bf5deb86b92047161087cf5a902c78c4e7"
+  },
+  {
+    "artifact": "outputs/figures/png/01_event_calendar.png",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "Annual guide snapshot. TBC rows excluded from monthly chart. Rights scope differs by event.",
+    "sha256": "03fb0a2e86486492cdabe495b1e261a159b274c0c545b2c51284805e00b9285c"
+  },
+  {
+    "artifact": "outputs/figures/svg/01_event_calendar.svg",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "Annual guide snapshot. TBC rows excluded from monthly chart. Rights scope differs by event.",
+    "sha256": "64bae004b39d9291ba724894cec733e9f2672a36d707efb95cf73defda18e4a3"
+  },
+  {
+    "artifact": "data/processed/atp_slots.csv",
+    "kind": "processed table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "13a3ef2ea0ec7ca16b1149958839d73d7b9befb7bc3809743fb2494ec064229e"
+  },
+  {
+    "artifact": "outputs/tables/01_verified_slot_ledger.csv",
+    "kind": "output table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "c6f8bd823b5f8c1307861cf0841556a879d0a3660869ca94722d55925a003c21"
+  },
+  {
+    "artifact": "outputs/figures/png/01_final_start_times.png",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "One final per preselected edition, n=12. Not-before is not actual start. Date rollover retained in table.",
+    "sha256": "7014bdd3d1eaa3e6d543cf5bf17441b87814a8580854b76689cc3257c55c1b7c"
+  },
+  {
+    "artifact": "outputs/figures/svg/01_final_start_times.svg",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "One final per preselected edition, n=12. Not-before is not actual start. Date rollover retained in table.",
+    "sha256": "fae0193186833b319822a65ebc2ba29627e6795d30048449a5792d2bd2264898"
+  },
+  {
+    "artifact": "outputs/tables/01_window_delay_sensitivity.csv",
+    "kind": "output table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "1c671792dc8de0cf4b8da4e5fbfa00760084dce466999905391bd778cb58cffb"
+  },
+  {
+    "artifact": "outputs/tables/01_timing_robustness.csv",
+    "kind": "output table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "cb63288b22009d787a950f68d2577c1d45cb5f3681d3ab159d8db7264c01dcbb"
+  },
+  {
+    "artifact": "outputs/figures/png/01_window_sensitivity.png",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "Binary scheduled-start fit. Unknown preference, not measured audience propensity.",
+    "sha256": "b4ba3e60a61fbac9752e8ea124099f963213bb74f699f6a8538c4f8352841d3c"
+  },
+  {
+    "artifact": "outputs/figures/svg/01_window_sensitivity.svg",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "Binary scheduled-start fit. Unknown preference, not measured audience propensity.",
+    "sha256": "909b80dea9e817f5402acd8b23fe899031d5a96c65da73ecddbeb0e4dde4203b"
+  },
+  {
+    "artifact": "outputs/figures/png/01_sampled_week_hour.png",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "White cells are unobserved, not absence of tennis. Use the final comparison for balanced tier analysis.",
+    "sha256": "1593fa228f9e999aa52f083fedc4e86271f05d0687733896b5d399a5a4dd6d07"
+  },
+  {
+    "artifact": "outputs/figures/svg/01_sampled_week_hour.svg",
+    "kind": "figure",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "White cells are unobserved, not absence of tennis. Use the final comparison for balanced tier analysis.",
+    "sha256": "6aad2124a0b344ab2fd91500998445e891ccac24abf1ebebf239bf1044806207"
+  },
+  {
+    "artifact": "outputs/tables/01_source_references.csv",
+    "kind": "output table",
+    "notebook": "01_viewing_calendar",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2",
+      "brisbane_oop_20260105",
+      "brisbane_oop_20260110",
+      "brisbane_oop_20260111",
+      "doha_2026_official_op",
+      "dubai_2026_official_op",
+      "halle_2026_official_op",
+      "hongkong_2026_official_op",
+      "indian_wells_2026_official_op",
+      "madrid_2026_official_op",
+      "marrakech_2026_official_op",
+      "miami_2026_official_op",
+      "rome_2026_official_op",
+      "rotterdam_2026_official_op",
+      "v5_atp_media_guide_lta",
+      "winston_oop_pdf",
+      "winston_semifinal_oop"
+    ],
+    "note": "",
+    "sha256": "eba9735e53d750ccb05e806fa10b7da16fb1ae6fd5a478a5d387d16bb5b2d91d"
+  },
+  {
+    "artifact": "data/processed/f1_races.csv",
+    "kind": "processed table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "c1e1c10fed4686a2b2e82c85e4ebaff5d0d54458f1aad2a6db2161601edb64e1"
+  },
+  {
+    "artifact": "data/processed/football_fixtures.csv",
+    "kind": "processed table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "a61a123ab88e8255b728fe124f9237f93b7ac98786fc6b3974289deac6d2f1ad"
+  },
+  {
+    "artifact": "data/processed/motogp_sessions_quarantined.csv",
+    "kind": "processed table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "0ff6cff652efcf4e574cc8c0bfb2662d445c557b033c0e57b29a56661767c400"
+  },
+  {
+    "artifact": "outputs/tables/02_motogp_actual_clock_evidence.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "e17d0efd5db698b1cb46a27538b28abfa8f2a50bb38f8f4ad196e94d5aea9c36"
+  },
+  {
+    "artifact": "outputs/tables/02_assen_timezone_audit.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "e4b006d69a92cb02c0bb27b28491143ad5816446d168f9c6082b00b2aa7224df"
+  },
+  {
+    "artifact": "outputs/tables/02_motogp_coverage.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "0fd9378a19c6a46d5003fb2a31218a6ccf8c11df2a60685b3a657a75a2f8fc53"
+  },
+  {
+    "artifact": "outputs/tables/02_clash_scenarios.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "0c8714bd91c26a3790b88847f4a70f88f97897810d2c438a3213235a4dcbc01b"
+  },
+  {
+    "artifact": "outputs/tables/02_clash_bounds.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "ad24b0edbee965217a5434df685ad094f0d22127ad0dab18107f58a6e5b7e401"
+  },
+  {
+    "artifact": "outputs/figures/png/02_selected_clashes.png",
+    "kind": "figure",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "Assumed durations, scheduled starts. Partial final and football sample, no actual viewing or audience overlap.",
+    "sha256": "479c031edf24955426bc3e2d1e176039994cd3463db4e4196bf29332a73a1d7a"
+  },
+  {
+    "artifact": "outputs/figures/svg/02_selected_clashes.svg",
+    "kind": "figure",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "Assumed durations, scheduled starts. Partial final and football sample, no actual viewing or audience overlap.",
+    "sha256": "a58d626a96f6d12c7eaaf0b6dc5438467d6a85cc305076b4d9d674c89e51e009"
+  },
+  {
+    "artifact": "outputs/tables/02_motogp_weekend_cooccurrence.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "deb8c0b44312ba6a14ef057e8b5601df4fcee6cc4a3c1ac5b995367daf7f7311"
+  },
+  {
+    "artifact": "outputs/tables/02_source_references.csv",
+    "kind": "output table",
+    "notebook": "02_portfolio_clashes",
+    "source_ids": [
+      "v3_jolpica_races_2026",
+      "v4_laliga_2526",
+      "v4_laliga_2627",
+      "v4_motogp_finished_events",
+      "v4_motogp_future_events",
+      "v4_motogp_report_ara_rac",
+      "v4_motogp_report_ara_spr",
+      "v4_motogp_report_bra_rac",
+      "v4_motogp_report_bra_spr",
+      "v4_motogp_report_cat_rac",
+      "v4_motogp_report_cat_rac2",
+      "v4_motogp_report_cat_spr",
+      "v4_motogp_report_cze_rac",
+      "v4_motogp_report_cze_spr",
+      "v4_motogp_report_fra_rac",
+      "v4_motogp_report_fra_spr",
+      "v4_motogp_report_gbr_rac",
+      "v4_motogp_report_gbr_spr",
+      "v4_motogp_report_ger_rac",
+      "v4_motogp_report_ger_spr",
+      "v4_motogp_report_hun_rac",
+      "v4_motogp_report_hun_spr",
+      "v4_motogp_report_ita_rac",
+      "v4_motogp_report_ita_spr",
+      "v4_motogp_report_ned_rac",
+      "v4_motogp_report_ned_spr",
+      "v4_motogp_report_rsm_rac",
+      "v4_motogp_report_rsm_spr",
+      "v4_motogp_report_spa_rac",
+      "v4_motogp_report_spa_spr",
+      "v4_motogp_report_tha_rac",
+      "v4_motogp_report_tha_spr",
+      "v4_motogp_report_usa_rac",
+      "v4_motogp_report_usa_spr",
+      "v4_motogp_sessions_ara",
+      "v4_motogp_sessions_aus",
+      "v4_motogp_sessions_aut",
+      "v4_motogp_sessions_bra",
+      "v4_motogp_sessions_cat",
+      "v4_motogp_sessions_code",
+      "v4_motogp_sessions_cze",
+      "v4_motogp_sessions_fra",
+      "v4_motogp_sessions_gbr",
+      "v4_motogp_sessions_ger",
+      "v4_motogp_sessions_hun",
+      "v4_motogp_sessions_ina",
+      "v4_motogp_sessions_ita",
+      "v4_motogp_sessions_jpn",
+      "v4_motogp_sessions_mal",
+      "v4_motogp_sessions_ned",
+      "v4_motogp_sessions_por",
+      "v4_motogp_sessions_qat",
+      "v4_motogp_sessions_rsm",
+      "v4_motogp_sessions_spa",
+      "v4_motogp_sessions_tha",
+      "v4_motogp_sessions_usa",
+      "v4_motogp_sessions_val"
+    ],
+    "note": "",
+    "sha256": "d97b258d32575f4afe5b8b2542de4521236557be6f88aa274aaf8909078f1c25"
+  },
+  {
+    "artifact": "data/processed/offers.csv",
+    "kind": "processed table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "a4dec4ed5c91291cc99bd9cffde1ff53f05978c42b8554b8db190c67cfbd69a3"
+  },
+  {
+    "artifact": "outputs/tables/03_offer_audit.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "a4dec4ed5c91291cc99bd9cffde1ff53f05978c42b8554b8db190c67cfbd69a3"
+  },
+  {
+    "artifact": "outputs/tables/03_basket_definitions.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "37224a6eea61e882e4cb7840dff3648d8ee044432abef5e9faf82704ee1773fb"
+  },
+  {
+    "artifact": "outputs/tables/03_minimum_cost_baskets.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "cff39c60ce007a5d0789a1d09086debaca5f661f9bbcf833e7a1fc6f787a8b46"
+  },
+  {
+    "artifact": "data/processed/basket_results.csv",
+    "kind": "processed table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "cff39c60ce007a5d0789a1d09086debaca5f661f9bbcf833e7a1fc6f787a8b46"
+  },
+  {
+    "artifact": "outputs/figures/png/03_basket_switch_map.png",
+    "kind": "figure",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "Scenario intentions on source-dated events. Monthly ATP inclusion unresolved. No customer demand inferred.",
+    "sha256": "060bd28fb75e64322664384618a7d475940316385d5d07de49d84c458a7ce152"
+  },
+  {
+    "artifact": "outputs/figures/svg/03_basket_switch_map.svg",
+    "kind": "figure",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "Scenario intentions on source-dated events. Monthly ATP inclusion unresolved. No customer demand inferred.",
+    "sha256": "3d0caaeba27b8af26d03baf4b71d72b552dc3304666e91b533b4ce30b0bb3bb2"
+  },
+  {
+    "artifact": "outputs/tables/03_remaining_inventory_price.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "e40ae074d540250d0616469716b780136633fc3f7e2144092947164a49748ddc"
+  },
+  {
+    "artifact": "outputs/figures/png/03_remaining_season_rule.png",
+    "kind": "figure",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "Guide dates, equal event-start weights. Current declining season checkout is unknown. Validate before testing.",
+    "sha256": "a17ef3fd68763bdc77bf595fe2d655287347b29d7c4cfcd6e3adaf0d24d67d74"
+  },
+  {
+    "artifact": "outputs/figures/svg/03_remaining_season_rule.svg",
+    "kind": "figure",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "Guide dates, equal event-start weights. Current declining season checkout is unknown. Validate before testing.",
+    "sha256": "812a3cc636e61ac097153adb332d624f7c3d5bb9b7bee00819719aacaf272be7"
+  },
+  {
+    "artifact": "outputs/tables/03_format_decisions.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "4e8efaad827c89448d3a3c0072f6b208a0c8b76396610b46ec8b050e99285e28"
+  },
+  {
+    "artifact": "outputs/tables/03_source_references.csv",
+    "kind": "output table",
+    "notebook": "03_offers_and_baskets",
+    "source_ids": [
+      "fancode_monthly",
+      "fancode_monthly_final_v5",
+      "fancode_yearly",
+      "fancode_yearly_rendered",
+      "jiohotstar_2026_price_release",
+      "sonyliv_subscription",
+      "v3_tennistv_india_iap"
+    ],
+    "note": "",
+    "sha256": "d7a75dd297fc35ef4c1ab8341bb8798854e1aaacdbb9d8fc354f3f7a23f54682"
+  },
+  {
+    "artifact": "data/processed/review_features_local_only.csv",
+    "kind": "processed table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "fcaba6a0f111ccf90a56de233151f7bf7ce59c0d17b375ad834e7d956f14dbbc"
+  },
+  {
+    "artifact": "outputs/tables/04_store_coverage.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "dee59551227a39b41ca185578b8a25323bfbdd61c82ad02c69298a2c2cbddc98"
+  },
+  {
+    "artifact": "outputs/tables/04_issue_mentions.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "d7bd642301bfd57dae6c76ea494bf9c50182a62cce5dc3816aa7a975bca02546"
+  },
+  {
+    "artifact": "outputs/figures/png/04_friction_mentions.png",
+    "kind": "figure",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "Heuristic topic mentions, overlapping categories. Conditional Wilson intervals do not remove review selection bias.",
+    "sha256": "8ca757e447d8f8185b338dc44f7bd46e4643b24d22929fc40c493934e75d125e"
+  },
+  {
+    "artifact": "outputs/figures/svg/04_friction_mentions.svg",
+    "kind": "figure",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "Heuristic topic mentions, overlapping categories. Conditional Wilson intervals do not remove review selection bias.",
+    "sha256": "dc2a2b6d2fa206064c33a742a197fa4a2aecf095b1a7da08204f4fcf6f195ba3"
+  },
+  {
+    "artifact": "outputs/tables/04_monthly_review_diagnostics.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "b42baef57ebeba48f2598dea8c9c604e97fccde044c951d58da5dcfb82e173e0"
+  },
+  {
+    "artifact": "outputs/figures/png/04_review_time_series.png",
+    "kind": "figure",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "Public storefront sample, not a before/after causal ATP-launch evaluation. iOS is a latest-500 window.",
+    "sha256": "9e9a302320c178bd6e44324d180583d62cfd128c65ed7cb8e1fde4597ebca7ce"
+  },
+  {
+    "artifact": "outputs/figures/svg/04_review_time_series.svg",
+    "kind": "figure",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "Public storefront sample, not a before/after causal ATP-launch evaluation. iOS is a latest-500 window.",
+    "sha256": "9432f44098e0f7b4469bcc2afe9d93fbe359fb12f293d8e92a6d1a28ffc083f7"
+  },
+  {
+    "artifact": "outputs/tables/04_matched_month_comparison.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "f2ce669122faa1e517500173c7f40b3b897322b1e169564504bd10ad833c45fa"
+  },
+  {
+    "artifact": "outputs/tables/04_exploratory_themes.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "2965b769236a0cc4b21ad5cd564bd304c5e89bc291795268707ebc15c84fc0f8"
+  },
+  {
+    "artifact": "outputs/tables/04_sport_mention_counts.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "cce83f8697757f8f41c7591d19bfd3cc170ff70d72e1af5437d6a9d7abc9c5da"
+  },
+  {
+    "artifact": "outputs/tables/04_source_references.csv",
+    "kind": "output table",
+    "notebook": "04_review_friction",
+    "source_ids": [
+      "fancode_ios_reviews_page1",
+      "fancode_ios_reviews_page10",
+      "fancode_ios_reviews_page2",
+      "fancode_ios_reviews_page3",
+      "fancode_ios_reviews_page4",
+      "fancode_ios_reviews_page5",
+      "fancode_ios_reviews_page6",
+      "fancode_ios_reviews_page7",
+      "fancode_ios_reviews_page8",
+      "fancode_ios_reviews_page9"
+    ],
+    "note": "",
+    "sha256": "77e12d6de1e18a5b15752a33650e23edfdea50481fb492e1c715fbc1bb87caac"
+  },
+  {
+    "artifact": "data/processed/trends_daily_four_terms.csv",
+    "kind": "processed table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "34dc870cfc7d8f3a4d54dc61da175b449c8ca7e47fdabfb777d45a26aaaced04"
+  },
+  {
+    "artifact": "data/processed/trends_football_pair.csv",
+    "kind": "processed table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "91086594979060ba351d1e9d4348f70908ed041f629e43fd93a7d95029e49e62"
+  },
+  {
+    "artifact": "data/processed/trends_2025_weekly.csv",
+    "kind": "processed table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "7e4a52fd4dd90c3c5b4bbd4f8d9237039923f3fa80faf139ef9c8abb3d2d6bc0"
+  },
+  {
+    "artifact": "outputs/figures/png/05_search_series.png",
+    "kind": "figure",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "Google Trends India web search, Jan1\u2013Sep12 2026. Context contains noisy related queries. No subscriber inference.",
+    "sha256": "95c56251501c54cae9580c0c383d86490fe87ad75d313e180b36511192d1c549"
+  },
+  {
+    "artifact": "outputs/figures/svg/05_search_series.svg",
+    "kind": "figure",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "Google Trends India web search, Jan1\u2013Sep12 2026. Context contains noisy related queries. No subscriber inference.",
+    "sha256": "ec69fbda8c5ad1540de24017ec24c3578808c60ea4202479fbfe60298a205b82"
+  },
+  {
+    "artifact": "outputs/tables/05_search_associations.csv",
+    "kind": "output table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "f3e44c2bfb29a404e750e7b6ca6f20dc6712fae7d418c75ad1817bf4940f98dc"
+  },
+  {
+    "artifact": "outputs/figures/png/05_search_associations.png",
+    "kind": "figure",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "Descriptive correlations. Broad terms and cricket/other events confound interpretation. No causal sport contribution.",
+    "sha256": "0758a147a15c28a5cb7ea386de02fb4ec15beda920702b46c2c21c26f6328574"
+  },
+  {
+    "artifact": "outputs/figures/svg/05_search_associations.svg",
+    "kind": "figure",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "Descriptive correlations. Broad terms and cricket/other events confound interpretation. No causal sport contribution.",
+    "sha256": "b77584fb4e220c1ce3d43419f80440c1bbb9d869f88137dc355f1b3e4100fc0f"
+  },
+  {
+    "artifact": "outputs/tables/05_peak_date_context.csv",
+    "kind": "output table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "4daeead6c0b127873514b6791708c000831a5ffff11b648c55c89270f9c12ca8"
+  },
+  {
+    "artifact": "outputs/tables/05_rounding_diagnostic.csv",
+    "kind": "output table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "e41a341563e4dcee9597486d05e73ce46627bfd90b5449d51fdd7e9fbf35d157"
+  },
+  {
+    "artifact": "outputs/tables/05_source_references.csv",
+    "kind": "output table",
+    "notebook": "05_search_attention",
+    "source_ids": [
+      "google_trends_daily_table_v2",
+      "google_trends_football_table_v5",
+      "google_trends_query_context_v2",
+      "v4_trends_2025_timeline"
+    ],
+    "note": "",
+    "sha256": "118f307a9fb0c180b74125d0f70928416c0ad9e78a4bdf7b6932ba2a4aed0cde"
+  },
+  {
+    "artifact": "outputs/tables/06_results_source_audit.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "8be60d98e413eac585f02be1cbbdc00de7eb31b795e7bfbf43017505612c7600"
+  },
+  {
+    "artifact": "data/processed/results_2025_regular.csv",
+    "kind": "processed table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "f3e0a16bdaecb60c537e78c7589a5cdecd1671f207637c72f923d7b6775fc372"
+  },
+  {
+    "artifact": "outputs/tables/06_player_progression.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "c9f8628bb78a3ad939048d738a7d7e808325717a5d844ecd44658f641364ccaa"
+  },
+  {
+    "artifact": "data/processed/player_event_2025.csv",
+    "kind": "processed table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "cc361599d602b1a5554aabd14c793b10f89e30f147d25c5cd52b3e991d9a2990"
+  },
+  {
+    "artifact": "outputs/figures/png/06_player_appearance_risk.png",
+    "kind": "figure",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "2025 regular-tour archive. Retrospective top ten by matches, not popular-player WTP or 2026 prediction.",
+    "sha256": "d2176426248d1c13a2a74915469a89a3ef1b5b692c8602868815eda9c7414566"
+  },
+  {
+    "artifact": "outputs/figures/svg/06_player_appearance_risk.svg",
+    "kind": "figure",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "2025 regular-tour archive. Retrospective top ten by matches, not popular-player WTP or 2026 prediction.",
+    "sha256": "1ce45b03f2575ca63e765a33071f8928e8963af56c363555059c3eb18ac900b2"
+  },
+  {
+    "artifact": "outputs/tables/06_player_bundle_coverage.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "653cbe65c00d8e1b3ef6852191caffdd645bb7924268978c27874e47ac3d6613"
+  },
+  {
+    "artifact": "data/processed/video_metadata.csv",
+    "kind": "processed table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "3f2a603766a7057b7d1e37a76852b4e13b4cb392f80d0212907576edd0bb8ed2"
+  },
+  {
+    "artifact": "outputs/tables/06_top_displayed_videos.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "34826c4f79beedae1aca6885ec18a0cbf4e57ff3eb382ad5f2f9659d57b55c2f"
+  },
+  {
+    "artifact": "outputs/tables/06_video_star_diagnostic.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "96ae51fa5836e90e05cffdb7cee5447e914b7130814e0ce725d9f846df9d6522"
+  },
+  {
+    "artifact": "outputs/figures/png/06_video_views.png",
+    "kind": "figure",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "Keyword-selected metadata, cumulative views, mixed ages and competitions. Title association is not player causal effect.",
+    "sha256": "a9f4ecc63d0bf8f257497ec978d287d94e566e00482dd6a6575bd4b70c06edb6"
+  },
+  {
+    "artifact": "outputs/figures/svg/06_video_views.svg",
+    "kind": "figure",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "Keyword-selected metadata, cumulative views, mixed ages and competitions. Title association is not player causal effect.",
+    "sha256": "e17c66c6c3327e09f83c2842cde9d23c6c12bdd6de74667134234f692272d0f6"
+  },
+  {
+    "artifact": "outputs/tables/06_source_references.csv",
+    "kind": "output table",
+    "notebook": "06_player_and_video_risk",
+    "source_ids": [
+      "fancode_youtube_atp_search",
+      "fancode_youtube_tennis_search",
+      "sackmann_archive_2025"
+    ],
+    "note": "",
+    "sha256": "30b2161323a4731954d5d274f086055b2d41413ad6a3e67d1fd1a311c0167307"
+  },
+  {
+    "artifact": "outputs/tables/07_contribution_grid.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "d7db65596073afb24e8a096da18141948362463d18f91f6f29966da1ff32ff1f"
+  },
+  {
+    "artifact": "data/processed/contribution_grid.csv",
+    "kind": "processed table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "d7db65596073afb24e8a096da18141948362463d18f91f6f29966da1ff32ff1f"
+  },
+  {
+    "artifact": "outputs/figures/png/07_contribution_bridge.png",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "18% tax-inclusive scenario, 2% gateway + fee tax, INR30 other variable cost. Rights excluded.",
+    "sha256": "c06c5dc9e617ec5f352968834d13b92d6f73bf9571d1aef60d4e17810674e727"
+  },
+  {
+    "artifact": "outputs/figures/svg/07_contribution_bridge.svg",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "18% tax-inclusive scenario, 2% gateway + fee tax, INR30 other variable cost. Rights excluded.",
+    "sha256": "34f1572ad2e5d49d51a723ba9a77227d8bfe3d3037003619c30742d6da8bc288"
+  },
+  {
+    "artifact": "outputs/tables/07_tax_exclusive_alternative.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "1a5d4be0c728d773fccffdd657b699570eb07112285c799f6e6dd102d9c4f81d"
+  },
+  {
+    "artifact": "outputs/tables/07_repeat_horizons.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "1cf0469443c28df90effaceeb825d956039795e7475e5dd696bc39ab4cf36f27"
+  },
+  {
+    "artifact": "outputs/figures/png/07_repeat_sensitivity.png",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "INR89 midpoint tournament scenario. Constant repeat probability is unverified. No infinite lifetime claim.",
+    "sha256": "6d78631fdd34d1ad74ef9b8410c9522f944bfe0c31bf536af1e75bd91fec26e2"
+  },
+  {
+    "artifact": "outputs/figures/svg/07_repeat_sensitivity.svg",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "INR89 midpoint tournament scenario. Constant repeat probability is unverified. No infinite lifetime claim.",
+    "sha256": "e6c2a95eaa5b070e204532658235408633a9773a0d68f4e8d3e296e1508c5508"
+  },
+  {
+    "artifact": "outputs/tables/07_rights_horizon_ltv.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "90d9b8d3c3f40b06aa3897512bbf16a7b641308002e3303e3d233e396067e938"
+  },
+  {
+    "artifact": "outputs/tables/07_credit_break_even.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "081065278905e17325419eb311d41e086cec2c1b04cddbf0e08c833d454a4f67"
+  },
+  {
+    "artifact": "outputs/tables/07_discount_hurdles.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "c57f55f6dbd510f9237c215f78a0cc2ef7448b58a662cd25777a3c1c80f23398"
+  },
+  {
+    "artifact": "outputs/figures/png/07_discount_hurdles.png",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "NaN means the positive-contribution hurdle is not defined. No elasticity measured.",
+    "sha256": "7b0dad07d236b642e658a5cf8ba4cd840a9d8ac9f77e01036f880397aef1b515"
+  },
+  {
+    "artifact": "outputs/figures/svg/07_discount_hurdles.svg",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "NaN means the positive-contribution hurdle is not defined. No elasticity measured.",
+    "sha256": "4232da68b225f566e540bfee27f7ca8c587c43876c986806f4ed2624f53529d6"
+  },
+  {
+    "artifact": "outputs/tables/07_usage_cost_stress.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "2df94a6b3da3ac52c1a984e73ea20f8dbccb15cbb5d91271489c24f75811c197"
+  },
+  {
+    "artifact": "outputs/figures/png/07_usage_cost_stress.png",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "External USD1/1,000-minute benchmark, assumed FX90, INR10 operations. No FanCode contract inference.",
+    "sha256": "b0e2595a21d4a7a1e7bd3eb50ff5a339bd9486281be6b2525919917a29bd30ea"
+  },
+  {
+    "artifact": "outputs/figures/svg/07_usage_cost_stress.svg",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "External USD1/1,000-minute benchmark, assumed FX90, INR10 operations. No FanCode contract inference.",
+    "sha256": "78d9e1f196721e1019f540f8fab5be444659e813ae986c64daa8a83a5f938e29"
+  },
+  {
+    "artifact": "outputs/tables/07_referral_reward_stress.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "23a586c31100bd97c345846225f07444a9340ad3bf4645a17c9e0cdf8fa248d4"
+  },
+  {
+    "artifact": "outputs/tables/07_fixed_cost_coverage.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "435f12878e092a8b5e0164a9e36b85f913f1a766e076b2058e9432dd7f75f907"
+  },
+  {
+    "artifact": "outputs/tables/07_incrementality_cac.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "8a5d066cd5d83a55ec48b5cc5ae05c5f0c20ece39a6d690e6f6425351e9372cf"
+  },
+  {
+    "artifact": "outputs/figures/png/07_incrementality_frontier.png",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "Attributed INR175 is hypothetical. 87.5% incrementality is required for a proposed INR200 incremental-CAC hurdle, not a supplied causal target.",
+    "sha256": "5e00e9734ade0f5b893fa3984c53f7011951c8ad51d3f8b2701d8039408909c8"
+  },
+  {
+    "artifact": "outputs/figures/svg/07_incrementality_frontier.svg",
+    "kind": "figure",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "Attributed INR175 is hypothetical. 87.5% incrementality is required for a proposed INR200 incremental-CAC hurdle, not a supplied causal target.",
+    "sha256": "2e2add322b98fd00d6cf34a9975b5f7f531af2f1225a5123ef3d49d66fd5ea6b"
+  },
+  {
+    "artifact": "outputs/tables/07_source_references.csv",
+    "kind": "output table",
+    "notebook": "07_contribution_and_pricing",
+    "source_ids": [
+      "fancode_terms",
+      "v3_cloudflare_stream_pricing",
+      "v3_fancode_terms",
+      "v3_razorpay_pricing",
+      "v5_gst_council_rates"
+    ],
+    "note": "",
+    "sha256": "c129a636c1f96f48537c7a6c1700ba69977b0dfede327b2f7facecc7ad1097b6"
+  },
+  {
+    "artifact": "outputs/tables/08_budget_allocation.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "87072371dfbed90262f4aa7ba3aa6082714a86436759240110f000397fe0ef5a"
+  },
+  {
+    "artifact": "outputs/tables/08_cost_build.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "0ec6f41bb610af35788fd92edb5beb33069d168c8b95eef03f5ee950951f07aa"
+  },
+  {
+    "artifact": "outputs/tables/08_response_assumptions.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "d68b000574db2ae6e2b31f4c0d1f2db019009cb656813c5dbbc595a80acdc7ea"
+  },
+  {
+    "artifact": "outputs/tables/08_conditional_channel_cac.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd"
+  },
+  {
+    "artifact": "data/processed/channel_scenarios.csv",
+    "kind": "processed table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd"
+  },
+  {
+    "artifact": "outputs/tables/08_blended_programme_cac.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "7cb217d50983a0866da420870166442becca236d024009e1681c9cc9ff069e82"
+  },
+  {
+    "artifact": "outputs/figures/png/08_channel_cac.png",
+    "kind": "figure",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "External unit-cost proxies plus explicit response assumptions. INR180 channel gate allows a 10% measurement reserve.",
+    "sha256": "96d67a51b774f1a91db5a6fd4c73f90c145a2bf86036fe0330a59100a32f515f"
+  },
+  {
+    "artifact": "outputs/figures/svg/08_channel_cac.svg",
+    "kind": "figure",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "External unit-cost proxies plus explicit response assumptions. INR180 channel gate allows a 10% measurement reserve.",
+    "sha256": "3c5a8231eedf7f7471aa31ddd27d53a2a64527b067c2227ae664f18fd3bce0c5"
+  },
+  {
+    "artifact": "outputs/tables/08_contest_takeover_procurement_gates.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "c7016593393f1b4959e865367959ec0c98784ad91c9c73a10bec761f47fb0eee"
+  },
+  {
+    "artifact": "outputs/tables/08_creator_fee_hurdles.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "69064b1a632319eb6959e9adce2491e7943976c7afe15f8b5069765981473c64"
+  },
+  {
+    "artifact": "outputs/tables/08_owned_capacity_gate.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "4c13211f112cd8a3c5e793e2efc4f6593a8ef661fd97209090b819b32c250b1c"
+  },
+  {
+    "artifact": "outputs/tables/08_measurement_reserve_sensitivity.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "6cef51dd5adffa2c8fef6010cc276dc87b5535701f8e002f646cbaf501f57d42"
+  },
+  {
+    "artifact": "outputs/tables/08_source_references.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "50c9436b913b53a7f4886a5d38f944b8b745d72020bd6946aa7bc14a41da8c3d"
+  },
+  {
+    "artifact": "outputs/tables/09_next_event_journeys.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "f6e06a70bb665265cc9f18435883f69b7db621a9fd29d02c4ad8f7bf3193b7a9"
+  },
+  {
+    "artifact": "outputs/tables/09_lifecycle_treatments.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "cf39b73cba9104b1b6738ea6a2c0552e76f6d009ab33bfe519ec442ca4fbfaf1"
+  },
+  {
+    "artifact": "outputs/tables/09_kpi_dictionary.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "5cf7eb50bfe963f5cb2f40cc78bab046d3addf3a9a11dae9f1d4180f345dfd2a"
+  },
+  {
+    "artifact": "outputs/tables/09_binary_power_grid.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "748d9c563144136fe6bdf82fe7085c9bb5bc50e87d068f66a05d5e450ff9cc02"
+  },
+  {
+    "artifact": "outputs/figures/png/09_power_requirements.png",
+    "kind": "figure",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "Analytical planning approximation, 80% power, two-sided 5% alpha. Not an experiment result.",
+    "sha256": "ac2d7bf0c095e329ec977e519463f793b6dd87880324eefb44b86b06dbc0368e"
+  },
+  {
+    "artifact": "outputs/figures/svg/09_power_requirements.svg",
+    "kind": "figure",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "Analytical planning approximation, 80% power, two-sided 5% alpha. Not an experiment result.",
+    "sha256": "b17dd4fa5887b26ed3db911cbbdbcb91ff42c4d84ef1127c95250dd89657bfed"
+  },
+  {
+    "artifact": "outputs/tables/09_cluster_design_effect.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "983434dd4a7976cdb5340d16a6ad63e616ab1b191abd80105a1b63a8ad4bff24"
+  },
+  {
+    "artifact": "outputs/tables/09_contribution_power.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "cdb420050ba73f1b513db00454d501bc84fc74ed9a26f71541325c9d8f8a0d8c"
+  },
+  {
+    "artifact": "outputs/tables/09_followup_maturity_example.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "5e429138f0b21bcec7bcb04444404973217b12a19dd9b4c9ccf9588eb3b9a66b"
+  },
+  {
+    "artifact": "outputs/tables/09_pilot_design.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "57bd1820a28050f5c43c8d10796507f7f13b9d14e906af99e6cb65d42758549a"
+  },
+  {
+    "artifact": "outputs/tables/09_source_references.csv",
+    "kind": "output table",
+    "notebook": "09_retention_and_experiments",
+    "source_ids": [
+      "atp_future_calendar_rendered_v2"
+    ],
+    "note": "",
+    "sha256": "cb8e0258002cf50e63aa89695a212502b779c966124b95548ffd2b216e11109d"
+  },
+  {
+    "artifact": "outputs/tables/10_segmentation_matrix.csv",
+    "kind": "output table",
+    "notebook": "10_strategy_and_claims",
+    "source_ids": [],
+    "note": "",
+    "sha256": "cc741720b580e6cd5ce926671179d653bf30e18d5c31024e74e3158c20106319"
+  },
+  {
+    "artifact": "outputs/tables/10_recommendation_rules.csv",
+    "kind": "output table",
+    "notebook": "10_strategy_and_claims",
+    "source_ids": [],
+    "note": "",
+    "sha256": "68dc39aa36e6147d518483b19ef9e941ec1d6991a925db573aab4a7d730fa28a"
+  },
+  {
+    "artifact": "outputs/tables/10_claim_register.csv",
+    "kind": "output table",
+    "notebook": "10_strategy_and_claims",
+    "source_ids": [],
+    "note": "",
+    "sha256": "55af88ff20dc86731b97d21b5ac64a16c415822aa22129eee7064b5d19b5f52b"
+  },
+  {
+    "artifact": "outputs/tables/10_storyboard_evidence.csv",
+    "kind": "output table",
+    "notebook": "10_strategy_and_claims",
+    "source_ids": [],
+    "note": "",
+    "sha256": "407c47d8daa1ad15b1e72fb5aaea04fa0ab68c2a1e69bde4c0ebcb499351070e"
+  },
+  {
+    "artifact": "outputs/tables/10_deliverable_coverage.csv",
+    "kind": "output table",
+    "notebook": "10_strategy_and_claims",
+    "source_ids": [],
+    "note": "",
+    "sha256": "c8a6b990a6a919262e5b50afcd634c86c3d9ffd820272305a5eaf9e31c852dc3"
+  },
+  {
+    "artifact": "outputs/tables/00_case_operating_facts.csv",
+    "kind": "output table",
+    "notebook": "00_evidence_and_case",
+    "source_ids": [],
+    "note": "",
+    "sha256": "66c481e93a81254fb88017a211ce533af86d8709ce2e5ba56153d10e6b0d125b"
+  },
+  {
+    "artifact": "outputs/tables/08_current_spend_baseline.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "2a64ea6cdbebeb592c955cdbdbd38de178bdecf5464c6c4afded16113b5c9a15"
+  },
+  {
+    "artifact": "outputs/tables/08_case_contest_cpc_ceiling.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "1e8959d41b79b79548641db033004ee2e4796a0750dbca42676fac1aa4758a8c"
+  },
+  {
+    "artifact": "outputs/tables/08_purchase_and_incremental_cac.csv",
+    "kind": "output table",
+    "notebook": "08_channel_economics",
+    "source_ids": [
+      "kofluence_2025_report",
+      "v3_meta_inr_ratecard_jan2026",
+      "v3_nurdd_india"
+    ],
+    "note": "",
+    "sha256": "90709ebe91e378ddc15be1e1883f8ed2d4a39e70214a0433bb610b1a4e13988b"
+  }
+]

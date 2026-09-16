@@ -1,0 +1,70 @@
+{
+  "checked_at_utc": "2026-09-14T17:11:11.732229+00:00",
+  "result": "PASS",
+  "errors": [],
+  "raw_files": 397,
+  "raw_bytes": 305286705,
+  "http_source_ids": 290,
+  "http_retrieved": 258,
+  "http_failed": 32,
+  "local_input_files": 7,
+  "browser_observations": 17,
+  "formats": {
+    "HTML": 147,
+    "Text or JavaScript": 33,
+    "JSON": 41,
+    "PDF": 92,
+    "CSV": 8,
+    "Google Play public RPC": 75,
+    "Browser table TSV": 1
+  },
+  "duplicate_content_groups": [
+    [
+      "data/raw/player_results/miami_2026_official_mds__951ba99b0857.pdf",
+      "data/raw/player_results/miami_singles_draw__951ba99b0857.pdf"
+    ],
+    [
+      "data/raw/player_results/rome_2026_official_mds__3dfa3b90904c.pdf",
+      "data/raw/player_results/rome_singles_draw__3dfa3b90904c.pdf"
+    ]
+  ],
+  "review_coverage": [
+    {
+      "app_id": "com.dream11sportsguru",
+      "raw_record_occurrences": 14800,
+      "unique_review_ids": 14800,
+      "within_registered_window": 14665,
+      "before_window": 135,
+      "after_window": 0,
+      "earliest": "2024-12-21T13:38:27+05:30",
+      "latest": "2026-09-12T20:33:17+05:30",
+      "timezone": "Asia/Kolkata",
+      "note": "Accessible storefront reviews, not a representative customer sample. iOS uses public updated timestamp."
+    },
+    {
+      "app_id": "com.fancode.tv",
+      "raw_record_occurrences": 93,
+      "unique_review_ids": 93,
+      "within_registered_window": 64,
+      "before_window": 29,
+      "after_window": 0,
+      "earliest": "2022-11-28T20:15:47+05:30",
+      "latest": "2026-08-26T11:05:03+05:30",
+      "timezone": "Asia/Kolkata",
+      "note": "Accessible storefront reviews, not a representative customer sample. iOS uses public updated timestamp."
+    },
+    {
+      "app_id": "ios_1406379831",
+      "raw_record_occurrences": 500,
+      "unique_review_ids": 500,
+      "within_registered_window": 500,
+      "before_window": 0,
+      "after_window": 0,
+      "earliest": "2025-08-09T02:17:41+05:30",
+      "latest": "2026-09-12T13:15:16+05:30",
+      "timezone": "Asia/Kolkata",
+      "note": "Accessible storefront reviews, not a representative customer sample. iOS uses public updated timestamp."
+    }
+  ],
+  "note": "PASS means byte integrity and expected file formats, not completeness, causal validity or approval for publication. Consult source_validation.json and docs/DATA_AVAILABILITY.md."
+}

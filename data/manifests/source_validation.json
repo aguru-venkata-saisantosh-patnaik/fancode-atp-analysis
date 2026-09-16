@@ -1,0 +1,2032 @@
+[
+  {
+    "source_id": "atp_calendar_2026_article",
+    "file": "data/raw/_failed_requests/schedules/atp_calendar_2026_article__31765d0c6021.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_current_calendar",
+    "file": "data/raw/_failed_requests/schedules/atp_current_calendar__63f531bb4cac.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_calendar_announcement",
+    "file": "data/raw/_failed_requests/schedules/atp_calendar_announcement__e637e9d82ecf.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_2026_media_guide",
+    "file": "data/raw/_failed_requests/schedules/atp_2026_media_guide__0b9c0b1574ec.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "madrid_2026_programme",
+    "file": "data/raw/schedules/madrid_2026_programme__92a53e77f426.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official full 2026 Spanish programme. Planned sessions, ATP/WTA ordering, gates and approximate finish estimates must remain distinct."
+  },
+  {
+    "source_id": "miami_2026_media_notes",
+    "file": "data/raw/_failed_requests/schedules/miami_2026_media_notes__de7342559b31.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "miami_draws_order_play",
+    "file": "data/raw/schedules/miami_draws_order_play__e1e549dbd0ab.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Site chrome advertises 2027 but embedded draw shows 2026 results. Use explicit 2026 draw PDF as canonical."
+  },
+  {
+    "source_id": "indian_wells_schedule",
+    "file": "data/raw/schedules/indian_wells_schedule__6b0fd0de9ac3.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Visible competition schedule has rolled to 2027. Use dated 2026 orders of play instead."
+  },
+  {
+    "source_id": "indian_wells_faq",
+    "file": "data/raw/schedules/indian_wells_faq__9c8a41a8877a.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "FAQ refers to 2027. Not evidence for 2026 session times."
+  },
+  {
+    "source_id": "f1_2026_calendar",
+    "file": "data/raw/schedules/f1_2026_calendar__d5cf9586c5ba.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official 2026 season calendar snapshot. Future dates remain scheduled. Exact session fields require parsing and inspection."
+  },
+  {
+    "source_id": "f1_singapore_timetable",
+    "file": "data/raw/schedules/f1_singapore_timetable__ae63fac1bb2c.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official 9-11 October 2026 programme with local times and explicit UTC+8. Race 20:00-22:00 is scheduled, subject to change."
+  },
+  {
+    "source_id": "motogp_calendar",
+    "file": "data/raw/schedules/motogp_calendar__f1457a429ca9.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current calendar shell plus future race-date cards. Does not by itself expose all season race rows as visible HTML."
+  },
+  {
+    "source_id": "laliga_calendar",
+    "file": "data/raw/schedules/laliga_calendar__6175d095d248.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Calendar interface text without complete fixture rows in fetched body."
+  },
+  {
+    "source_id": "fancode_monthly",
+    "file": "data/raw/offers/fancode_monthly__e8a8c5ed831b.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Initial HTML lacks rendered purchase details. Selected rendered browser text separately preserved."
+  },
+  {
+    "source_id": "fancode_yearly",
+    "file": "data/raw/offers/fancode_yearly__04958ae6ee48.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Initial HTML lacks rendered purchase details. Selected rendered browser text separately preserved."
+  },
+  {
+    "source_id": "fancode_tour_passes",
+    "file": "data/raw/offers/fancode_tour_passes__d1f1d06d1e21.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Subscription interface shell. No independently verified ATP price from this route."
+  },
+  {
+    "source_id": "fancode_tennis",
+    "file": "data/raw/offers/fancode_tennis__eed84f6e5ef0.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Existing tennis programmes and upcoming tour inventory. Demonstrates product presence, not exact pass entitlement."
+  },
+  {
+    "source_id": "fancode_football",
+    "file": "data/raw/offers/fancode_football__d96f89a8e738.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current competition inventory. Does not establish each pass coverage or season rights length."
+  },
+  {
+    "source_id": "fancode_terms",
+    "file": "data/raw/offers/fancode_terms__ec711b2c0c24.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated snapshot of terms, including recurring billing and geographic/device conditions. Generic terms do not settle ATP monthly inclusion."
+  },
+  {
+    "source_id": "sonyliv_subscription",
+    "file": "data/raw/offers/sonyliv_subscription__58d2de2b0bc6.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public product page contains regular Premium monthly/yearly and mobile-only annual prices and device/quality differences. Snapshot is not a completed purchase."
+  },
+  {
+    "source_id": "sonyliv_faq",
+    "file": "data/raw/_failed_requests/offers/sonyliv_faq__9bce46541530.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "jiohotstar_2026_price_release",
+    "file": "data/raw/offers/jiohotstar_2026_price_release__9bbb0774b59d.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official January 2026 new-subscriber pricing announcement. Separate from September checkout and existing renewal customers."
+  },
+  {
+    "source_id": "tennistv_product",
+    "file": "data/raw/offers/tennistv_product__b5fd12bca3cb.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Product and format benchmark. India-specific checkout price and territorial entitlement not verified."
+  },
+  {
+    "source_id": "tennistv_countries",
+    "file": "data/raw/_failed_requests/offers/tennistv_countries__abe72a315c7e.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "tennistv_features",
+    "file": "data/raw/_failed_requests/offers/tennistv_features__8e63d6cf63a0.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_fancode_rights",
+    "file": "data/raw/company/atp_fancode_rights__2936cdcaeae0.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary ATP Media announcement, rights scope and term. No public rights fee observed."
+  },
+  {
+    "source_id": "f1_fancode_rights",
+    "file": "data/raw/_failed_requests/company/f1_fancode_rights__b146166624e2.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 475, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_aces_announcement",
+    "file": "data/raw/_failed_requests/company/atp_aces_announcement__b0063a1417e7.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "fancode_android_listing",
+    "file": "data/raw/reviews/fancode_android_listing__d2401239edf5.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Storefront app identity, public metadata and visible reviews, not customer population or installs by sport."
+  },
+  {
+    "source_id": "fancode_tv_listing",
+    "file": "data/raw/reviews/fancode_tv_listing__f315d377b241.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Separate TV package identity. Keep platform distinct from mobile."
+  },
+  {
+    "source_id": "fancode_ios_listing",
+    "file": "data/raw/reviews/fancode_ios_listing__f2625ae02cce.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "India storefront metadata. RSS reviews separately preserved."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page1",
+    "file": "data/raw/reviews/fancode_ios_reviews_page1__914bf56cd470.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "kofluence_2025_report",
+    "file": "data/raw/channel_costs/kofluence_2025_report__6419508dc4ae.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public landing-page statistics only. Full report is form-gated and was not obtained. Vendor survey, not independent FanCode conversion evidence."
+  },
+  {
+    "source_id": "ey_influencer_2024",
+    "file": null,
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 000, curl exit 60. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "wordstream_meta_2024",
+    "file": "data/raw/channel_costs/wordstream_meta_2024__df4eb2dedcb4.pdf",
+    "status": "reference_only_non_india",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2024 traffic and lead-generation benchmark. Not an India tennis subscription conversion benchmark. Do not transport CPC/CVR as measured FanCode results."
+  },
+  {
+    "source_id": "google_trends_methodology",
+    "file": "data/raw/methodology/google_trends_methodology__af4e09f1e641.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary explanation of sampling and relative normalization, not an actual Trends export."
+  },
+  {
+    "source_id": "google_conversion_lift",
+    "file": "data/raw/methodology/google_conversion_lift__f1d2a5b4469e.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary conversion-lift experiment documentation. Proposed experiment design reference, not a completed team experiment."
+  },
+  {
+    "source_id": "cbic_gst_services",
+    "file": null,
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 000, curl exit 60. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "sackmann_repository",
+    "file": "data/raw/_failed_requests/player_results/sackmann_repository__0f74c8b9c1f0.json",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 404, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "sackmann_readme",
+    "file": "data/raw/_failed_requests/player_results/sackmann_readme__d5558cd419c8.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 404, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "atp_calendar_distribution_pdf",
+    "file": "data/raw/schedules/atp_calendar_distribution_pdf__5d942388328f.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Two-page 2026 ATP calendar distributed on a third-party mail host. Contains TBD entries and old sponsor labels. Preserve as a dated planning baseline, not the final revised universe. Cross-check selected event dates against tournament documents."
+  },
+  {
+    "source_id": "dubai_order_play_page",
+    "file": "data/raw/schedules/dubai_order_play_page__5b20a8dca010.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current page promotes 2027. Direct February 2026 order PDF is separately usable."
+  },
+  {
+    "source_id": "dubai_2026_order_play_pdf",
+    "file": "data/raw/schedules/dubai_2026_order_play_pdf__01e6c8f9d567.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Internal date is Wednesday 25 February 2026, ATP. Starts/not-before/followed-by distinct."
+  },
+  {
+    "source_id": "rotterdam_programme_book",
+    "file": "data/raw/schedules/rotterdam_programme_book__c67529bf3d46.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current page links a 2022 programme book. Not a 2026 programme."
+  },
+  {
+    "source_id": "rotterdam_order_play",
+    "file": "data/raw/schedules/rotterdam_order_play__67557f363de0.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "No usable 2026 order of play in retrieved page. Separate official PDFs available."
+  },
+  {
+    "source_id": "rotterdam_faq",
+    "file": "data/raw/schedules/rotterdam_faq__8802bfea86da.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Generic/current visitor information. Do not infer 2026 times without explicit edition evidence."
+  },
+  {
+    "source_id": "doha_tournament_page",
+    "file": "data/raw/schedules/doha_tournament_page__d0b19776994d.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Tournament heading without usable historical session rows."
+  },
+  {
+    "source_id": "halle_tournament",
+    "file": "data/raw/schedules/halle_tournament__ed283a127b08.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current header promotes 2027. Separate 2026 final order and draw captured."
+  },
+  {
+    "source_id": "brisbane_2026_orders_play",
+    "file": "data/raw/_failed_requests/schedules/brisbane_2026_orders_play__f61431214553.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "hongkong_tournament",
+    "file": "data/raw/schedules/hongkong_tournament__753fa0c69e7f.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official event background. Client-rendered fields are incomplete in fetched body."
+  },
+  {
+    "source_id": "hongkong_2026_booklet",
+    "file": "data/raw/schedules/hongkong_2026_booklet__2cab99d57f14.html",
+    "status": "discovery_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Flipbook wrapper, not programme pages. Followed its configuration to the official PDF."
+  },
+  {
+    "source_id": "marrakech_programme",
+    "file": "data/raw/schedules/marrakech_programme__b1c1393b0a11.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 tournament programme. Final ceremony and final match start must not be equated."
+  },
+  {
+    "source_id": "marrakech_home",
+    "file": "data/raw/schedules/marrakech_home__04a586569f3e.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official 2026 event context, not a timing census."
+  },
+  {
+    "source_id": "marrakech_20260331_oop",
+    "file": "data/raw/schedules/marrakech_20260331_oop__8c04b1b9f106.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official federation PDF dated 31 March 2026. Court opening times and followed-by matches, not actual starts."
+  },
+  {
+    "source_id": "winston_2026_schedule",
+    "file": "data/raw/schedules/winston_2026_schedule__ba85ac65ac9c.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day schedule, 29 August 2026. Separate start and not-before values."
+  },
+  {
+    "source_id": "winston_2026_players",
+    "file": "data/raw/player_results/winston_2026_players__dec51c5006a4.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Published player listing, not a complete record of actual entrants or start dates."
+  },
+  {
+    "source_id": "miami_order_play",
+    "file": "data/raw/schedules/miami_order_play__dfb7c21c1119.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Current site chrome and navigation without usable historical order rows."
+  },
+  {
+    "source_id": "rome_tournament",
+    "file": "data/raw/schedules/rome_tournament__e07f805883e4.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "JavaScript shell. Separate final order and draw PDFs available."
+  },
+  {
+    "source_id": "hongkong_schedule",
+    "file": "data/raw/schedules/hongkong_schedule__dc1a24e8dc7c.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Schedule headings present but row values absent in HTML."
+  },
+  {
+    "source_id": "hongkong_oop",
+    "file": "data/raw/schedules/hongkong_oop__578b17368eb7.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Client-side placeholders, not match records. Separate final order PDF captured."
+  },
+  {
+    "source_id": "hongkong_booklet_config",
+    "file": "data/raw/schedules/hongkong_booklet_config__4ae454040694.html",
+    "status": "discovery_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Original flipbook configuration exposes official 46-page PDF download URL."
+  },
+  {
+    "source_id": "winston_oop_pdf",
+    "file": "data/raw/schedules/winston_oop_pdf__136c0d6bc73e.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official posting dated 29 August 2026, doubles start 13:30 and singles not before 16:00 local."
+  },
+  {
+    "source_id": "winston_recordbook",
+    "file": "data/raw/schedules/winston_recordbook__f4af4039ff7f.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 record book, including history and player background. Do not attribute historical statistics to the 2026 event."
+  },
+  {
+    "source_id": "winston_semifinal_oop",
+    "file": "data/raw/schedules/winston_semifinal_oop__efd3897db3d9.html",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official schedule page explicitly requested day 7, 28 August 2026. Preserve court/match order."
+  },
+  {
+    "source_id": "indian_wells_20260306_oop",
+    "file": "data/raw/schedules/indian_wells_20260306_oop__aa7f31821c55.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official asset-hosted 2026 daily order. Mixed ATP/WTA, use court and match type. March 6-7 precede US daylight-saving change."
+  },
+  {
+    "source_id": "indian_wells_20260307_oop",
+    "file": "data/raw/schedules/indian_wells_20260307_oop__23ff0b1150ec.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official asset-hosted 2026 daily order. Mixed ATP/WTA, use court and match type. March 6-7 precede US daylight-saving change."
+  },
+  {
+    "source_id": "rotterdam_20260211_oop_mirror",
+    "file": "data/raw/schedules/rotterdam_20260211_oop_mirror__5efc5941936c.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Copy of official ATP order hosted by a tennis publisher. Internal date 11 February 2026. File path dates are not event dates. Preserve host provenance."
+  },
+  {
+    "source_id": "doha_2026_official_site",
+    "file": "data/raw/schedules/doha_2026_official_site__4ef85e7108ac.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official site shell, sponsorship and navigation, no historical matches loaded."
+  },
+  {
+    "source_id": "halle_2026_final_schedule",
+    "file": "data/raw/_failed_requests/schedules/halle_2026_final_schedule__a3084c13948c.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "indian_wells_2026_final_schedule",
+    "file": "data/raw/_failed_requests/schedules/indian_wells_2026_final_schedule__99de9075e8a1.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "rome_2026_programme_flipbook",
+    "file": "data/raw/_failed_requests/schedules/rome_2026_programme_flipbook__25ac4223a7d5.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page2",
+    "file": "data/raw/reviews/fancode_ios_reviews_page2__51f8dafa74b6.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page3",
+    "file": "data/raw/reviews/fancode_ios_reviews_page3__dd86a176a1e5.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page4",
+    "file": "data/raw/reviews/fancode_ios_reviews_page4__bb6a70b4c548.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page5",
+    "file": "data/raw/reviews/fancode_ios_reviews_page5__7bb2b0495fc7.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page6",
+    "file": "data/raw/reviews/fancode_ios_reviews_page6__08bdc57a4441.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page7",
+    "file": "data/raw/reviews/fancode_ios_reviews_page7__b26654b5b37a.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page8",
+    "file": "data/raw/reviews/fancode_ios_reviews_page8__0d1298e30174.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page9",
+    "file": "data/raw/reviews/fancode_ios_reviews_page9__46d9cafb4efe.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "fancode_ios_reviews_page10",
+    "file": "data/raw/reviews/fancode_ios_reviews_page10__fe6560261c8e.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Raw India most-recent RSS page. Latest response has 50 entries. Up to 500 accessible reviews, not a census. Preserve updated timestamp and deduplicate IDs in notebook."
+  },
+  {
+    "source_id": "brisbane_oop_20260104",
+    "file": "data/raw/schedules/brisbane_oop_20260104__7ade8cb59058.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260105",
+    "file": "data/raw/schedules/brisbane_oop_20260105__08550ae4df3d.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260106",
+    "file": "data/raw/schedules/brisbane_oop_20260106__8a097ac2127e.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260107",
+    "file": "data/raw/schedules/brisbane_oop_20260107__b061cb95caf3.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260108",
+    "file": "data/raw/schedules/brisbane_oop_20260108__076d5bf93e4c.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260109",
+    "file": "data/raw/schedules/brisbane_oop_20260109__9feff7ed9356.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260110",
+    "file": "data/raw/schedules/brisbane_oop_20260110__5dc99040d89f.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "brisbane_oop_20260111",
+    "file": "data/raw/schedules/brisbane_oop_20260111__81c5486260a9.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 2026 official combined ATP/WTA daily order. Preserve mixed match types, starts/not-before/followed-by and revision."
+  },
+  {
+    "source_id": "hongkong_2026_booklet_pdf",
+    "file": "data/raw/schedules/hongkong_2026_booklet_pdf__604b98bc2835.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official 46-page 2026 souvenir booklet. Opening timetable on page 2 is village gate opening, not match start. Do not substitute it for order-of-play times."
+  },
+  {
+    "source_id": "doha_full_schedule",
+    "file": "data/raw/schedules/doha_full_schedule__b272ef5575de.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Schedule application shell without usable match rows. Separate final-day order PDF captured."
+  },
+  {
+    "source_id": "miami_singles_draw",
+    "file": "data/raw/player_results/miami_singles_draw__951ba99b0857.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "rome_singles_draw",
+    "file": "data/raw/player_results/rome_singles_draw__3dfa3b90904c.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "miami_2026_schedule_fara",
+    "file": "data/raw/schedules/miami_2026_schedule_fara__3268efe1dbd1.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "PIF sponsor material filed 20 March 2026. Includes planned session table for 22-29 March. Mixed ATP/WTA. Apparent 10:00 PM gate typo must not be silently corrected. Public archive includes unrelated correspondence, so keep local."
+  },
+  {
+    "source_id": "miami_2026_schedule_tourism",
+    "file": "data/raw/schedules/miami_2026_schedule_tourism__1c24648d80f7.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Destination marketing event information for 2026, broader date corroboration, not actual starts."
+  },
+  {
+    "source_id": "miami_2026_schedule_lta",
+    "file": "data/raw/schedules/miami_2026_schedule_lta__a5ff4653f9f2.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Governing-body 2026 schedule preview. Preserve explicit timezone and distinguish planned session starts from ATP match times."
+  },
+  {
+    "source_id": "kofluence_2025_preview",
+    "file": "data/raw/channel_costs/kofluence_2025_preview__674752b8f94c.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Vendor primary report preview. Fee units and creator tiers vary. Apparent CPV unit anomaly must not be used without confirmation."
+  },
+  {
+    "source_id": "rome_final_broadcaster",
+    "file": "data/raw/schedules/rome_final_broadcaster__83c3a8f89a6d.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Dated 17 May broadcaster final schedule. Local Italy timing context. Separate from official order PDF."
+  },
+  {
+    "source_id": "hongkong_singles_draw_page",
+    "file": "data/raw/player_results/hongkong_singles_draw_page__a5c4c91a04e6.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Client-rendered draw page, canonical final draw PDF captured separately."
+  },
+  {
+    "source_id": "halle_singles_draw_page",
+    "file": "data/raw/player_results/halle_singles_draw_page__5656a208bb63.html",
+    "status": "discovery_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official page exposes 2026 final draw URL. Separate PDF captured."
+  },
+  {
+    "source_id": "miami_2026_schedule_page",
+    "file": "data/raw/schedules/miami_2026_schedule_page__ac4fe3718a0e.html",
+    "status": "wrong_edition",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Schedule body explicitly says 2027. Exclude from 2026 timing dataset."
+  },
+  {
+    "source_id": "doha_2026_official_mds",
+    "file": "data/raw/player_results/doha_2026_official_mds__5a360ee93800.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "doha_2026_official_op",
+    "file": "data/raw/schedules/doha_2026_official_op__dc055eddbcaa.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day order, internal date checked in PDF. Scheduled or not-before, not actual start. Some release timestamps fall after scheduled starts, so not valid as a contemporaneous pre-event information set."
+  },
+  {
+    "source_id": "halle_2026_official_mds",
+    "file": "data/raw/player_results/halle_2026_official_mds__96eafbe01873.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "halle_2026_official_op",
+    "file": "data/raw/schedules/halle_2026_official_op__efef964f3542.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day order, internal date checked in PDF. Scheduled or not-before, not actual start. Some release timestamps fall after scheduled starts, so not valid as a contemporaneous pre-event information set."
+  },
+  {
+    "source_id": "rotterdam_2026_official_mds",
+    "file": "data/raw/player_results/rotterdam_2026_official_mds__053a30ab5ec2.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "rotterdam_2026_official_op",
+    "file": "data/raw/schedules/rotterdam_2026_official_op__3070b2bbab07.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day order, internal date checked in PDF. Scheduled or not-before, not actual start. Some release timestamps fall after scheduled starts, so not valid as a contemporaneous pre-event information set."
+  },
+  {
+    "source_id": "hongkong_2026_official_mds",
+    "file": "data/raw/player_results/hongkong_2026_official_mds__b4bf6a61d94b.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "hongkong_2026_official_op",
+    "file": "data/raw/schedules/hongkong_2026_official_op__a88a6a558f39.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day order, internal date checked in PDF. Scheduled or not-before, not actual start. Some release timestamps fall after scheduled starts, so not valid as a contemporaneous pre-event information set."
+  },
+  {
+    "source_id": "rome_2026_official_mds",
+    "file": "data/raw/player_results/rome_2026_official_mds__3dfa3b90904c.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "rome_2026_official_op",
+    "file": "data/raw/schedules/rome_2026_official_op__e694becf7a0b.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official final-day order, internal date checked in PDF. Scheduled or not-before, not actual start. Some release timestamps fall after scheduled starts, so not valid as a contemporaneous pre-event information set."
+  },
+  {
+    "source_id": "miami_2026_official_mds",
+    "file": "data/raw/player_results/miami_2026_official_mds__951ba99b0857.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "miami_2026_official_op",
+    "file": "data/raw/schedules/miami_2026_official_op__ac8a1feb8a6a.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 final-day order of play. Starts at and not-before are planned times, not actual starts. Preserve released-at time without assuming advance availability."
+  },
+  {
+    "source_id": "winston_2026_official_mds",
+    "file": "data/raw/player_results/winston_2026_official_mds__e1a3550ac385.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 completed singles draw. Retrospective player progression only, not individual match dates or start times."
+  },
+  {
+    "source_id": "winston_2026_official_op",
+    "file": "data/raw/_failed_requests/schedules/winston_2026_official_op__e8584cb9c0db.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 429, curl exit 0. Error body retained separately when present. Not usable substantive evidence."
+  },
+  {
+    "source_id": "brisbane_singles_draw",
+    "file": "data/raw/player_results/brisbane_singles_draw__95e27d3345f5.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "2026 main-draw result PDF. Completed bracket supports retrospective results within captured editions. Not known at campaign planning time and not full-season player continuity."
+  },
+  {
+    "source_id": "madrid_programme_english",
+    "file": "data/raw/schedules/madrid_programme_english__2f644f5051ea.pdf",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "English programme counterpart. Same event, not independent corroboration. Planned envelope is not observed ATP streaming minutes."
+  },
+  {
+    "source_id": "marrakech_2026_official_mds",
+    "file": "data/raw/player_results/marrakech_2026_official_mds__6b49375c2e0b.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 completed singles draw. Retrospective player progression only, not individual match dates or start times."
+  },
+  {
+    "source_id": "marrakech_2026_official_op",
+    "file": "data/raw/schedules/marrakech_2026_official_op__c7900638e405.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 final-day order of play. Starts at and not-before are planned times, not actual starts. Preserve released-at time without assuming advance availability."
+  },
+  {
+    "source_id": "madrid_2026_official_mds",
+    "file": "data/raw/player_results/madrid_2026_official_mds__0ed669ac5fdc.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 completed singles draw. Retrospective player progression only, not individual match dates or start times."
+  },
+  {
+    "source_id": "madrid_2026_official_op",
+    "file": "data/raw/schedules/madrid_2026_official_op__e213173d7359.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 final-day order of play. Starts at and not-before are planned times, not actual starts. Preserve released-at time without assuming advance availability."
+  },
+  {
+    "source_id": "dubai_2026_official_mds",
+    "file": "data/raw/player_results/dubai_2026_official_mds__cbd6c09ec174.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 completed singles draw. Retrospective player progression only, not individual match dates or start times."
+  },
+  {
+    "source_id": "dubai_2026_official_op",
+    "file": "data/raw/schedules/dubai_2026_official_op__f8257a3c79bd.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 final-day order of play. Starts at and not-before are planned times, not actual starts. Preserve released-at time without assuming advance availability."
+  },
+  {
+    "source_id": "indian_wells_2026_official_mds",
+    "file": "data/raw/player_results/indian_wells_2026_official_mds__aee63a693698.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 completed singles draw. Retrospective player progression only, not individual match dates or start times."
+  },
+  {
+    "source_id": "indian_wells_2026_official_op",
+    "file": "data/raw/schedules/indian_wells_2026_official_op__aed291c849e1.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Recovered official 2026 final-day order of play. Starts at and not-before are planned times, not actual starts. Preserve released-at time without assuming advance availability."
+  },
+  {
+    "source_id": "motogp_full_calendar_article",
+    "file": "data/raw/schedules/motogp_full_calendar_article__42a5a5578b68.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official article contains all 22 race-date rows. URL/publication label says January while body reflects later dates. Use retrieval-time snapshot, not proof of information available in January."
+  },
+  {
+    "source_id": "laliga_season_announcement",
+    "file": "data/raw/schedules/laliga_season_announcement__647042113d28.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official 2026/27 season announcement. Dates and marquee fixtures only. Not a complete exact-kickoff dataset."
+  },
+  {
+    "source_id": "mediaant_digital_directory",
+    "file": "data/raw/channel_costs/mediaant_digital_directory__aa618db6fec7.html",
+    "status": "discovery_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Indian vendor directory with advertised minimum spends. Links to platform rate listings, not CAC evidence."
+  },
+  {
+    "source_id": "fancode_chengdu_event",
+    "file": "data/raw/offers/fancode_chengdu_event__81144d7f9c30.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Upcoming broadcaster event with generic session label. Browser shows a pass message without price. Do not infer account status, free access or exact ATP start."
+  },
+  {
+    "source_id": "fancode_shanghai_tour",
+    "file": "data/raw/offers/fancode_shanghai_tour__244185c24a5b.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Upcoming tournament inventory. Generic listed sessions are not named match start times or guaranteed future schedule."
+  },
+  {
+    "source_id": "mediaant_youtube",
+    "file": "data/raw/channel_costs/mediaant_youtube__091caa90f6f8.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Indicative Indian vendor listing. Preserve format, base/offer price and impression/view/click denominator. Narrative and rate-card numbers differ. No purchase conversion or causal lift."
+  },
+  {
+    "source_id": "mediaant_instagram",
+    "file": "data/raw/channel_costs/mediaant_instagram__aca3b310248b.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Indian vendor video and install rate listing. Banner denominator ambiguously says Impression/Click, exclude that unit from modeled CPC/CPM. No payer conversion."
+  },
+  {
+    "source_id": "mediaant_facebook",
+    "file": "data/raw/channel_costs/mediaant_facebook__2d29748b731b.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Indian vendor video and install rate listing. Banner denominator ambiguously says Impressions/Click, exclude from modeled CPC/CPM. No payer conversion."
+  },
+  {
+    "source_id": "fancode_laliga_fixtures",
+    "file": "data/raw/schedules/fancode_laliga_fixtures__6fe62ff0d408.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Broadcaster listing with embedded fixture data. Page claim of 380 matches does not prove 380 usable rows. Scope to actually recovered date-qualified fixtures."
+  },
+  {
+    "source_id": "sackmann_archive_readme",
+    "file": "data/raw/player_results/sackmann_archive_readme__9037ec2e60ba.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Archive provenance, original definitions or licensing document. Mirror publisher is not Jeff Sackmann. June 2026 snapshot claim must not imply complete current season. Retain attribution and noncommercial/share-alike conditions."
+  },
+  {
+    "source_id": "sackmann_archive_atp_index",
+    "file": "data/raw/player_results/sackmann_archive_atp_index__32cdc91deb46.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Archive provenance, original definitions or licensing document. Mirror publisher is not Jeff Sackmann. June 2026 snapshot claim must not imply complete current season. Retain attribution and noncommercial/share-alike conditions."
+  },
+  {
+    "source_id": "tennismylife_database",
+    "file": "data/raw/player_results/tennismylife_database__601e4c3295c6.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Publisher database documentation, source links, displayed modification dates, field definitions, and MIT license statement. Documentation labels dates tournament weeks, but the recovered data often varies within an event. This inconsistency requires validation before any dated join. Reliability claims are publisher statements, not external validation."
+  },
+  {
+    "source_id": "fancode_recurring_monthly",
+    "file": "data/raw/offers/fancode_recurring_monthly__5e0a3f869e3e.html",
+    "status": "shell_or_empty",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Initial HTML route. Use separately registered rendered observation for actual visible price. Generic footer tennis link is not ATP entitlement evidence."
+  },
+  {
+    "source_id": "sackmann_archive_2025",
+    "file": "data/raw/player_results/sackmann_archive_2025__78c356ef9328.csv",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary archival mirror of Jeff Sackmann data. 2944 rows, 49 fields, tournament-week values 20241227 to 20251217. 2026 archive was taken in June, not September coverage. CC BY-NC-SA 4.0 per mirror/upstream documentation. Match numbers are not chronological order. No match start times."
+  },
+  {
+    "source_id": "sackmann_archive_2026",
+    "file": "data/raw/player_results/sackmann_archive_2026__ceb157ae698f.csv",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary archival mirror of Jeff Sackmann data. 1449 rows, 49 fields, tournament-week values 20260104 to 20260525. 2026 archive was taken in June, not September coverage. CC BY-NC-SA 4.0 per mirror/upstream documentation. Match numbers are not chronological order. No match start times."
+  },
+  {
+    "source_id": "sackmann_archive_dictionary",
+    "file": "data/raw/player_results/sackmann_archive_dictionary__b4b525ad8163.txt",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Archive provenance, original definitions or licensing document. Mirror publisher is not Jeff Sackmann. June 2026 snapshot claim must not imply complete current season. Retain attribution and noncommercial/share-alike conditions."
+  },
+  {
+    "source_id": "sackmann_archive_upstream_readme",
+    "file": "data/raw/player_results/sackmann_archive_upstream_readme__80fd5a50ba02.md",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Archive provenance, original definitions or licensing document. Mirror publisher is not Jeff Sackmann. June 2026 snapshot claim must not imply complete current season. Retain attribution and noncommercial/share-alike conditions."
+  },
+  {
+    "source_id": "sackmann_archive_license",
+    "file": "data/raw/player_results/sackmann_archive_license__d128251e9a37.txt",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Archive provenance, original definitions or licensing document. Mirror publisher is not Jeff Sackmann. June 2026 snapshot claim must not imply complete current season. Retain attribution and noncommercial/share-alike conditions."
+  },
+  {
+    "source_id": "tennismylife_2025",
+    "file": "data/raw/player_results/tennismylife_2025__f10ff8ce35c7.csv",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary maintained results dataset, 2944 rows, 50 fields, date-field values 20241229 to 20251222. ATP player IDs differ from Sackmann IDs. No start time. Date semantics conflict with publisher documentation: many event IDs have varying dates. Winston-Salem final is 20260830 in the CSV versus 29 August in official order. Do not assume local match dates or a timezone. Tournament ID plus match number is not reliably unique. Publisher declares MIT and free access on database page. Cross-source agreement is not proof of independent collection."
+  },
+  {
+    "source_id": "tennismylife_2026",
+    "file": "data/raw/player_results/tennismylife_2026__490e37cec9e2.csv",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary maintained results dataset, 2132 rows, 50 fields, date-field values 20260102 to 20260830. ATP player IDs differ from Sackmann IDs. No start time. Date semantics conflict with publisher documentation: many event IDs have varying dates. Winston-Salem final is 20260830 in the CSV versus 29 August in official order. Do not assume local match dates or a timezone. Tournament ID plus match number is not reliably unique. Publisher declares MIT and free access on database page. Cross-source agreement is not proof of independent collection."
+  },
+  {
+    "source_id": "atp_collect_launch",
+    "file": "data/raw/_failed_requests/retention/atp_collect_launch__774527ccda69.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, curl exit 0. Not usable substantive evidence."
+  },
+  {
+    "source_id": "google_trends_five_terms_explore",
+    "file": "data/raw/_failed_requests/search_interest/google_trends_five_terms_explore__53ef7165d419.txt",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 429, curl exit 0. Not usable substantive evidence."
+  },
+  {
+    "source_id": "tennismylife_ongoing",
+    "file": "data/raw/player_results/tennismylife_ongoing__f5723e9f2117.csv",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary maintained results dataset, 127 rows, 50 fields, date-field values 20260830 to 20260913. ATP player IDs differ from Sackmann IDs. No start time. Date semantics conflict with publisher documentation: many event IDs have varying dates. Winston-Salem final is 20260830 in the CSV versus 29 August in official order. Do not assume local match dates or a timezone. Tournament ID plus match number is not reliably unique. Publisher declares MIT and free access on database page. Cross-source agreement is not proof of independent collection. US Open live snapshot updated after registered September 12 cutoff. Preserve whole raw file. Exclude from cutoff-bounded analyses unless each match date is verified independently."
+  },
+  {
+    "source_id": "tennismylife_file_index",
+    "file": "data/raw/player_results/tennismylife_file_index__c40b599f4a3f.json",
+    "status": "discovery_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Publisher file listing and timestamps. Discovery/provenance only, not additional matches."
+  },
+  {
+    "source_id": "cbic_gst_services_english",
+    "file": null,
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 000, curl exit 60. Not usable substantive evidence."
+  },
+  {
+    "source_id": "fancode_youtube_tennis_search",
+    "file": "data/raw/public_video/fancode_youtube_tennis_search__802aa91b8408.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official FanCode channel, initial public keyword-search results. Ranked incomplete sample. Public metadata only, no media downloaded. Not India-only, unique viewers or willingness to pay. See video_source_qa.json for supported renderers."
+  },
+  {
+    "source_id": "fancode_youtube_atp_search",
+    "file": "data/raw/public_video/fancode_youtube_atp_search__5a97a1402572.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official FanCode channel, initial public keyword-search results. Ranked incomplete sample. Public metadata only, no media downloaded. Not India-only, unique viewers or willingness to pay. See video_source_qa.json for supported renderers."
+  },
+  {
+    "source_id": "v3_tennistv_india_iap",
+    "file": "data/raw/pricing/v3_tennistv_india_iap__5ff1a5e6cf87.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "India App Store featured subscriptions: INR449 monthly, INR2500 six-monthly, INR4499 annually. Auto-renewing IAP listing, not web checkout or proof every SKU is purchasable. Product scope excludes Grand Slams and WTA. Retrieved September 14."
+  },
+  {
+    "source_id": "v3_fancode_tour_5832",
+    "file": "data/raw/pricing/v3_fancode_tour_5832__4d71412bea6d.html",
+    "status": "empty_app_shell",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public rendered browser showed Tour Pass Matches but no identifiable tournament, price or offer. Footer sports names do not establish entitlement."
+  },
+  {
+    "source_id": "v3_yougov_cricket_2025",
+    "file": "data/raw/audience_reports/v3_yougov_cricket_2025__c867a98c2e9b.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Publisher PDF. Page 4: Profiles/Global Fan Profiles, extracted January 2025. Page 6 visually checked: 2024 tennis23%, football23%, cricket55%; 2023 tennis24%. Chart target Nat Rep N~30000 while page headline refers to urban India. These are marginal interests, not cricket-fan cross-tabs or FanCode payers. Do not multiply by IBM/Ormax universes."
+  },
+  {
+    "source_id": "v3_ibm_sports_survey_2025",
+    "file": "data/raw/audience_reports/v3_ibm_sports_survey_2025__cf51c5136f14.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Publisher-hosted Morning Consult report. Page3 online unweighted June23-30 2025 adult sports fans, India n2209. Page60 visually checked India soccer60%, tennis37%, F1 22%, cricket91%. Marginal interests, no joint audience. Page61 2024 tennis33% vs2025 37%, different survey waves, not FanCode growth. Global tennis feature tables must not be labelled India."
+  },
+  {
+    "source_id": "v3_mint_fancode_f1",
+    "file": "data/raw/company/v3_mint_fancode_f1__f19258d17fb7.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "January20 2026 interview reports cofounder claim >21m fans engaged with F1 on FanCode, +18% YoY, India fanbase >79m. Engagement period and deduplication unspecified, not paid subscribers."
+  },
+  {
+    "source_id": "v3_google_cloud_fancode",
+    "file": "data/raw/company/v3_google_cloud_fancode__061dd33a2313.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "December19 2024 vendor case study attributed to FanCode technology executives. Personalized recommendations/cache capabilities and >160m users reported. Undefined user denominator, not current active subscribers or streaming cost quote."
+  },
+  {
+    "source_id": "v3_aws_fancode",
+    "file": "data/raw/company/v3_aws_fancode__cdd88b149fdc.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Historical vendor case study: 2022 >80m users, 6m concurrent viewers at cricket event, estimated15% monthly operating cost saving vs on-premises. Not current supplier exclusivity, cost per ATP viewer, or independent financial audit."
+  },
+  {
+    "source_id": "v3_ormax_sports_2024",
+    "file": "data/raw/audience_reports/v3_ormax_sports_2024__eb4999104f11.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "March20 2024 official summary, n12000 urban/rural Nov2023-Jan2024. Sports audience watched >=30min TV/OTT during past year. 678m all sports, 305m football. Full21-sport paid report not obtained, tennis population not exposed in text summary."
+  },
+  {
+    "source_id": "v3_kpmg_sportlight_2025",
+    "file": "data/raw/audience_reports/v3_kpmg_sportlight_2025__a8aa11c8327b.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "September2025 industry report retrieved and text-layer reviewed for scope. Broad context, many statistics originate from Ormax and other publishers. Do not count republications as independent estimates. No accepted FanCode ATP rights fee or payer conversion extracted."
+  },
+  {
+    "source_id": "v3_ficci_ey_2026",
+    "file": "data/raw/audience_reports/v3_ficci_ey_2026__be39d7e62768.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "March2026 FICCI-EY report on Creative First mirror. PDFp45: EY2025 year-end estimates exclude event spikes:216m subscriptions,143m subscribing households,71% subscriptions bundled,148bn INR video subscription revenue gross of taxes. Not directly comparable to monthly-active Ormax subscription counts."
+  },
+  {
+    "source_id": "v3_cott_2025",
+    "file": "data/raw/audience_reports/v3_cott_2025__1d7b47d53006.pdf",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Industry white paper retrieved. Claim78% churn after acquisition lacks usable cohort, time horizon and counterfactual definition in passage. Excluded from quantitative retention inputs."
+  },
+  {
+    "source_id": "v3_wimbledon_india",
+    "file": "data/raw/audience_reports/v3_wimbledon_india__a5485cf2fe64.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "July11 2025 article discussing2024 Wimbledon:36.3m viewers and930m minutes reported, but3.5x and176% growth phrases inconsistent and TV/digital attribution ambiguous. Secondary directional evidence only. Do not transplant Grand Slam audience into ATP paying TAM."
+  },
+  {
+    "source_id": "v3_wimbledon_creator_campaign",
+    "file": "data/raw/_failed_requests/engagement/v3_wimbledon_creator_campaign__f95dfb2eac37.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, error response retained. No substantive evidence accepted."
+  },
+  {
+    "source_id": "v3_dreamsports_fy25",
+    "file": "data/raw/company/v3_dreamsports_fy25__37ac78d24bb6.html",
+    "status": "context_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Inc42 February9 2026 group FY25 financial report. Dream Sports consolidated operating revenue6759.3cr and goods/services258.8cr are not FanCode streaming segment revenue. Group ad spend cannot estimate tennis CAC."
+  },
+  {
+    "source_id": "v3_atp_rights_moneycontrol",
+    "file": "data/raw/company/v3_atp_rights_moneycontrol__3e5c8cfee5a4.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "January5 2026 trade/news corroboration of56 events and ATP rights through2028. No disclosed fee in retrieved article. Use original ATP Media statement for rights scope."
+  },
+  {
+    "source_id": "v3_razorpay_pricing",
+    "file": "data/raw/cost_benchmarks/v3_razorpay_pricing__e474532050c3.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public2%+GST platform fee, custom pricing above5lakh INR monthly processing. Includes temporary new-customer promotion. Use standard2% as external list-rate scenario, not FanCode gateway contract. Fee GST cash flow differs from net economic cost with input credits."
+  },
+  {
+    "source_id": "v3_cloudflare_stream_pricing",
+    "file": "data/raw/cost_benchmarks/v3_cloudflare_stream_pricing__aed3418cdef6.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official September8 2026 docs:USD1/1000 delivered minutes, USD5/month/1000 stored minutes, encoding/ingress included. Public list-price technology proxy, not FanCode enterprise sports/DRM contract. Streaming volume and FX still require assumptions."
+  },
+  {
+    "source_id": "v3_meta_inr_ratecard_jan2026",
+    "file": "data/raw/cost_benchmarks/v3_meta_inr_ratecard_jan2026__40f9aa9afe44.pdf",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Third-party mirror of dated ratecard. PDFp1 January1 2026 India marketing0.8631, utility/auth0.115 INR/message. PDF says future relative to its creation. Current official page points to July2026 cards without downloadable numeric links in saved response. July vendor cross-check retained. Not proof of September negotiated total cost."
+  },
+  {
+    "source_id": "v3_meta_official_pricing",
+    "file": "data/raw/cost_benchmarks/v3_meta_official_pricing__5a13483fe75f.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official documentation response is Markdown despite .html suffix. Describes per-message charging, template categories and July1 2026 ratecard date. Numeric INR download links absent from captured table. October2026 updates must not be applied to September costs."
+  },
+  {
+    "source_id": "v3_superads_india",
+    "file": "data/raw/cost_benchmarks/v3_superads_india__490d1f361e72.html",
+    "status": "excluded_quantitative",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Header September2025-September2026 conflicts with narrative July2025-July2026. Methodology text discusses CTR on CPM page. Do not use narrative1.35USD average as a validated benchmark until period/data reconciliation."
+  },
+  {
+    "source_id": "v3_nurdd_india",
+    "file": "data/raw/cost_benchmarks/v3_nurdd_india__4ea1b57ff8ee.html",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Agency article September12 2026, D2C prospecting benchmarks, no auditable campaign sample. Category paired intervals can inform external sensitivity only: Meta CPC5-18 INR, CPM70-210 INR across categories; Google nonbrand CPC10-60 INR. Not sports subscription conversion or jointly consistent triples."
+  },
+  {
+    "source_id": "v3_busy_streaming_gst",
+    "file": "data/raw/cost_benchmarks/v3_busy_streaming_gst__9a40c1bc4723.html",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Accounting-software tax guide lists online content18%. Secondary rate corroboration only. Metadata predates text discussion of September2025 changes, so snapshot date must be retained. Does not establish FanCode invoice treatment or price inclusion."
+  },
+  {
+    "source_id": "v3_cleartax_telecom_gst",
+    "file": "data/raw/_failed_requests/cost_benchmarks/v3_cleartax_telecom_gst__c83debb1a895.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 410, error response retained. No substantive evidence accepted."
+  },
+  {
+    "source_id": "v3_timesprime_fancode",
+    "file": "data/raw/pricing/v3_timesprime_fancode__3cc0fe2ff625.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public FAQ names cricket/F1/MotoGP/football and two simultaneous devices. ATP not explicitly named in product FAQ. Footer tennis label is not entitlement proof."
+  },
+  {
+    "source_id": "v3_revenuecat_2026",
+    "file": "data/raw/audience_reports/v3_revenuecat_2026__664d7d57978b.html",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public2026 report target2025, >115000 platform-integrated apps; minimum activity thresholds and mixed categories. Developer-HQ IN/SEA D35 payer median1.4% must not be labelled Indian consumer conversion. Separate geography first-renewal medians monthly46%, yearly22% span India plus six SEA markets, not FanCode or tennis cohorts. No paid/gated PDF acquired."
+  },
+  {
+    "source_id": "v3_tennisexplorer_aug29",
+    "file": "data/raw/schedules/v3_tennisexplorer_aug29__db8de5de116a.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "August29 results page includes Buse-Fery final22:10 and Fery-Duckworth01:10. Timezone label GMT+1 but title Berlin/Prague/Vienna, which creates summer DST ambiguity. No verified actual-vs-scheduled semantics. Keep for results identity and clock comparison, exclude from definitive IST actual-start dataset."
+  },
+  {
+    "source_id": "v3_jolpica_races_2026",
+    "file": "data/raw/schedules/v3_jolpica_races_2026__11a7c0be6996.json",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Secondary structured feed has23 unique rounds with all23 race date/time fields and session objects. Includes revised Bahrain-in-Malaysia October4, corroborated by official F1 announcement. UTC date rollover matters for Las Vegas. Snapshot schedule, not actual lights-out log or as-known-earlier calendar."
+  },
+  {
+    "source_id": "v3_jolpica_documentation",
+    "file": "data/raw/schedules/v3_jolpica_documentation__295025930ae6.md",
+    "status": "usable",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Source-maintainer Markdown documents UTC race time. Use with exact dated feed snapshot and official event checks."
+  },
+  {
+    "source_id": "v3_msg91_sms",
+    "file": "data/raw/cost_benchmarks/v3_msg91_sms__99d14be4a2ce.html",
+    "status": "empty_app_shell",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Saved route lacks a usable SMS rate table. Embedded unrelated email-pricing fields must not be interpreted as SMS rates. Rival quote retained separately."
+  },
+  {
+    "source_id": "v3_whatsapp_business_pricing",
+    "file": "data/raw/cost_benchmarks/v3_whatsapp_business_pricing__527369fd2244.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public page explains recipient-market and per-delivered-message pricing, links Meta documentation. Does not independently expose India numeric rate card in saved response."
+  },
+  {
+    "source_id": "v3_fancode_terms",
+    "file": "data/raw/pricing/v3_fancode_terms__f8543d68e219.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official terms contain referral voucher bands25/75/150/500 INR for purchase bands1-25/26-75/76-199/200+. Named new-payer eligibility and company discretion. Published reward face values, not verified live eligibility, realized payout or procurement cost. Generic monthly/annual auto-renewal and all applicable streaming services wording, not explicit ATP entitlement or invoice tax proof."
+  },
+  {
+    "source_id": "v3_f1_malaysia_confirmation",
+    "file": "data/raw/schedules/v3_f1_malaysia_confirmation__67dc47e54a50.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official announcement corroborates Sepang hosting Bahrain GP October2-4 2026. Resolves apparently unusual secondary-feed event name. Does not validate all race clocks."
+  },
+  {
+    "source_id": "v3_richautomate_july2026",
+    "file": "data/raw/cost_benchmarks/v3_richautomate_july2026__8f4e7b4fb692.html",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Vendor-authored July2026 competitor pricing study, own commercial interest, advertised CC BY4.0 dataset. Meta marketing0.8631 baseline corroborated, not independent Meta source. Headline0-30% markup does not describe every dataset row: own SaaS Pay row39%, so do not use universal headline range."
+  },
+  {
+    "source_id": "v3_msg91_comparison",
+    "file": "data/raw/cost_benchmarks/v3_msg91_comparison__594ade4a77d0.html",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "UDO competitor-written August20 2026 comparison quotes MSG91 0.25 to0.16 INR/SMS by volume, excluding18%GST, own0.13 offer. Official SMS table not obtained. Treat as reported quote range, not verified FanCode rates or enterprise bid."
+  },
+  {
+    "source_id": "v3_motogp_rights_blackbook",
+    "file": "data/raw/company/v3_motogp_rights_blackbook__9184b7ff1096.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "February4 2025 specialist trade report:three-year digital deal starting2025 alongside Eurosport linear. End2027 is an inference from statedterm, not ATP2028 horizon. No Indian payer count or fee."
+  },
+  {
+    "source_id": "v3_desiracing_fancode_case",
+    "file": "data/raw/engagement/v3_desiracing_fancode_case__4dfb7a7d87de.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Creator agency portfolio describes FanCode F1 partnership2024 extended toMotoGP2025, reels/tweets/stories explaining pass options. No campaign fee, conversions or incremental-lift results. Prior art and feasibility only."
+  },
+  {
+    "source_id": "v3_fancode_f1_july_interview",
+    "file": "data/raw/_failed_requests/company/v3_fancode_f1_july_interview__e3baaf7d31e4.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403, error response retained. No substantive evidence accepted."
+  },
+  {
+    "source_id": "v3_ormax_ott_2026",
+    "file": "data/raw/audience_reports/v3_ormax_ott_2026__a5cc10dc9092.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official September10 2026 release, n15000 June-July2026. 664.9m last-month online-video audience,172.6m paid subscriptions used in lastmonth inclbundles,206.9m CTV individuals. Not172.6m unique payers and not comparable to EY2025 year-end216m contracts."
+  },
+  {
+    "source_id": "v3_richautomate_dataset",
+    "file": "data/raw/cost_benchmarks/v3_richautomate_dataset__ae0dde3481a4.csv",
+    "status": "proxy_only",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Source-published CSV with vendor pricing rows and July2026 verification labels. Commercially interested source, not independently re-quoted. Advertised CC BY4.0 on report, preserve attribution. Baseline, vendor variants and unpublished quotes make rows different from provider count."
+  },
+  {
+    "source_id": "v3_ormax_sports_track",
+    "file": "data/raw/measurement/v3_ormax_sports_track__ce3176d90f0f.html",
+    "status": "usable_with_limits",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "August12 2025 public methodology:600+ weekly regular OTT sports viewers,50/50 metro/nonmetro, buzz/reach/appeal/potency. Full current tournament results are paid and unavailable. Framework/prior art only, no observed ATP willingness to pay."
+  },
+  {
+    "source_id": "v4_football_index",
+    "file": "data/raw/schedules/v4_football_index__368bccdcbe37.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Download index for secondary football dataset. Season coverage is incomplete for 2026/27."
+  },
+  {
+    "source_id": "v4_football_notes",
+    "file": "data/raw/schedules/v4_football_notes__6ecd41a98ad2.txt",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Defines Time as kickoff, but does not specify timezone. Includes odds fields not required for the case."
+  },
+  {
+    "source_id": "v4_laliga_2526",
+    "file": "data/raw/schedules/v4_laliga_2526__4ca2e285f3ee.csv",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "380 completed-season rows. 209 lie in 2026 through 12 September. Kickoff timezone inferred as Europe/London using separate primary winter/summer checks. Not actual kickoff telemetry."
+  },
+  {
+    "source_id": "v4_laliga_2627",
+    "file": "data/raw/schedules/v4_laliga_2627__deeed48a605c.csv",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "41 partial-season rows, through 7 September. All within 2026 cutoff. Not complete through collection date and no remaining-season kickoff forecast."
+  },
+  {
+    "source_id": "v4_racingmike_readme",
+    "file": "data/raw/schedules/v4_racingmike_readme__e91694e4c154.md",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Independent toolkit documents public endpoint lineage and calendar links. Do not execute third-party code as part of collection."
+  },
+  {
+    "source_id": "v4_motogp_ics",
+    "file": "data/raw/schedules/v4_motogp_ics__e511f97d1fd1.ics",
+    "status": "retrieved_excluded_from_target_estimate",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "March 2 snapshot, 176 VEVENTs, 22 weekends. Reject as authoritative current UTC schedule: Assen clock conflicts with circuit UTC+2 programme and later event-date revisions exist. Retain as audit evidence."
+  },
+  {
+    "source_id": "v4_motogpracetimes",
+    "file": "data/raw/schedules/v4_motogpracetimes__aa6ce38b36b3.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Landing page advertises 22 rounds but preserved event list covers remaining 8 weekends only. Explicit offsets support future planned-time cross-checks. Templated durations/end times are not observed race durations."
+  },
+  {
+    "source_id": "v4_assen_timetable",
+    "file": "data/raw/schedules/v4_assen_timetable__5686a1f8e8bc.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official circuit DRAFT programme. Page 1: UTC+2, Sunday 28 June MotoGP 14:00, Saturday sprint 15:00. Issued 30 January, URL includes April 29 revision. Planned time only."
+  },
+  {
+    "source_id": "v4_fancode_faq",
+    "file": "data/raw/pricing/v4_fancode_faq__87fe74126ecd.html",
+    "status": "retrieved_non_substantive",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 200 app shell with no FAQ answer text. Public initialization links to helpdesk subdomain. Does not resolve ATP entitlement, price or tax."
+  },
+  {
+    "source_id": "v4_vi_postpaid_terms",
+    "file": "data/raw/pricing/v4_vi_postpaid_terms__ae1d28dd6465.pdf",
+    "status": "retrieved_requires_visual_or_ocr_review",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public 134-page PDF has largely unreadable/missing font mapping in extracted text. Retained unaltered. Selected offer claims use readable official Vi web alternative, not this text layer."
+  },
+  {
+    "source_id": "v4_itd_price_mirror",
+    "file": "data/raw/_failed_requests/pricing/v4_itd_price_mirror__19dc920ac536.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403. Error response preserved. Mirror unavailable. Search excerpt suggests historic Munich INR59 and ATP season INR399, but original post and full page not recovered. Not a verified current price."
+  },
+  {
+    "source_id": "v4_itd_pass_deeplink",
+    "file": "data/raw/pricing/v4_itd_pass_deeplink__fd8929e2a093.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public redirect resolves to BMW Open 2026 tour 19567043. Tour dates and metadata visible but no price or checkout. Does not verify search-snippet historic prices."
+  },
+  {
+    "source_id": "v4_sonyliv_affiliate",
+    "file": "data/raw/cost_benchmarks/v4_sonyliv_affiliate__e5027d140b2b.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Paused Cuelinks listing. Two payout sections show up to INR234 and INR135. Plan-specific rates and validation details hidden. Historical/undated affiliate mechanism precedent only, not available quote or all-in CAC. Do not average maxima or treat as a range."
+  },
+  {
+    "source_id": "v4_fancode_shop_affiliate",
+    "file": "data/raw/cost_benchmarks/v4_fancode_shop_affiliate__ecbc74c24f0e.html",
+    "status": "retrieved_excluded_from_target_estimate",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Explicit FanCode Shop merchandise programme, paused. Excluded from streaming subscription commission estimates."
+  },
+  {
+    "source_id": "v4_xpert_fancode",
+    "file": "data/raw/engagement/v4_xpert_fancode__8ac04ecf526a.html",
+    "status": "retrieved_excluded_from_target_estimate",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Vendor case explicitly concerns jerseys/apparel/accessories. Relative conversion/AOV claims have no baseline denominator. Excluded from streaming subscription conversion estimates."
+  },
+  {
+    "source_id": "v4_gokwik_fancode",
+    "file": "data/raw/engagement/v4_gokwik_fancode__e6f4533cc259.html",
+    "status": "retrieved_excluded_from_target_estimate",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Merchandise checkout, cash-on-delivery and return-to-origin case. Excluded from paid sports streaming acquisition economics."
+  },
+  {
+    "source_id": "v4_clevertap_sonyliv",
+    "file": "data/raw/engagement/v4_clevertap_sonyliv__8a8af96e68f3.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Historical OTT content notification case, page updated Jan 30 2025. Rates over16% and over25% concern content engagement, not demonstrated paid conversions. Workflow feasibility only, no lift or CAC calibration."
+  },
+  {
+    "source_id": "v4_mint_isl_audience",
+    "file": "data/raw/audience_reports/v4_mint_isl_audience__e0c56ff99d53.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Aug7 2026 report attributes 5.79m online and 9.39m linear ISL viewers to an AIFF document. Underlying audience methodology and original document not recovered. Neither payers nor deduplicated combined reach nor tennis overlap. Rights sums refer to ISL, not ATP."
+  },
+  {
+    "source_id": "v4_atp_social_2026",
+    "file": "data/raw/_failed_requests/audience_reports/v4_atp_social_2026__b5e8e7739da1.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403. Error response preserved. Not retrieved. Search discovery cannot establish a preserved verified global or Indian audience metric."
+  },
+  {
+    "source_id": "v4_atp_fantasy",
+    "file": "data/raw/_failed_requests/engagement/v4_atp_fantasy__37a30a6b239f.pdf",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403. Error response preserved. ATP PDF unavailable. Substantive primary partner version later recovered as v4_deltatre_fantasy."
+  },
+  {
+    "source_id": "v4_football_tz_documentation",
+    "file": "data/raw/methodology/v4_football_tz_documentation__b66f4543ddf1.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Independent software integration describes football-data.co.uk clocks as UK time. Corroborates, but does not replace, primary club fixture checks."
+  },
+  {
+    "source_id": "v4_barca_winter_time",
+    "file": "data/raw/schedules/v4_barca_winter_time__990a671947a7.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official club preview Jan3 2026 states 21:00 CET. CSV same fixture 20:00 supports Europe/London winter interpretation."
+  },
+  {
+    "source_id": "v4_madrid_summer_time",
+    "file": "data/raw/schedules/v4_madrid_summer_time__5119eb9b5477.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official club announcement Mar22: May10 fixture 21:00 CEST. CSV 20:00 supports Europe/London summer interpretation. Planned announcement, not proof of actual whistle time."
+  },
+  {
+    "source_id": "v4_motogp_assen_official",
+    "file": "data/raw/schedules/v4_motogp_assen_official__a61361ae8f8f.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary June24 timetable gives sprint15:00 and race14:00. Cross-check against official circuit UTC+2 programme. Planned schedule."
+  },
+  {
+    "source_id": "v4_motogp_seasons_api",
+    "file": "data/raw/schedules/v4_motogp_seasons_api__880d59baff7b.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public API season ID lookup, includes multiple years. Use 2026 only."
+  },
+  {
+    "source_id": "v4_mototiming_schedule",
+    "file": "data/raw/_failed_requests/schedules/v4_mototiming_schedule__088f95b67285.json",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403. Error response preserved. Secondary alternative endpoint unavailable. No usable schedule inferred."
+  },
+  {
+    "source_id": "v4_motogp_sessions_code",
+    "file": "data/raw/methodology/v4_motogp_sessions_code__21b85391dbaf.py",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public source code documents eventUuid/categoryUuid request syntax. Stored as methodology, not executed."
+  },
+  {
+    "source_id": "v4_motogp_ics_generator",
+    "file": "data/raw/methodology/v4_motogp_ics_generator__cba6bf23e138.py",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Public code converts API date fields literally. Inspection localizes the timezone issue to source date semantics, not proof of a code-only defect. Not executed."
+  },
+  {
+    "source_id": "v4_jio_ott_delivery",
+    "file": "data/raw/pricing/v4_jio_ott_delivery__20c35517110f.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official INR200 OTT Pass FAQ says FanCode content is accessed in JioTV mobile app. Does not enumerate ATP or establish equivalence to standalone FanCode all-access pass."
+  },
+  {
+    "source_id": "v4_aiff_tenders",
+    "file": "data/raw/company/v4_aiff_tenders__d964d266e904.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official tender index recovered, but the ISL 2025/26 audience source referenced in Mint was not identified. Do not treat index as corroboration of 5.79m."
+  },
+  {
+    "source_id": "v4_atp_fantasy_site",
+    "file": "data/raw/_failed_requests/engagement/v4_atp_fantasy_site__79943825f18c.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 403. Error response preserved. Official ATP alternative HTML unavailable. Primary delivery partner version recovered."
+  },
+  {
+    "source_id": "v4_motogp_categories",
+    "file": "data/raw/schedules/v4_motogp_categories__09b4652e3ee4.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public three-category lookup. Only legacy_id3 MotoGP sessions collected, not Moto2/Moto3."
+  },
+  {
+    "source_id": "v4_motogp_finished_events",
+    "file": "data/raw/schedules/v4_motogp_finished_events__fdf77c6db60e.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "21 entries include 7 tests and 14 race weekends. Filter tests and retain season/date distinctions. San Marino race Sep13 is after original research cutoff."
+  },
+  {
+    "source_id": "v4_motogp_future_events",
+    "file": "data/raw/schedules/v4_motogp_future_events__595695186c9c.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "8 upcoming race weekends. Current planned dates include Qatar Nov8, Portugal Nov22, Valencia Nov29. No actual outcomes."
+  },
+  {
+    "source_id": "v4_fancode_helpdesk",
+    "file": "data/raw/pricing/v4_fancode_helpdesk__fb0e08bf5028.html",
+    "status": "retrieved_non_substantive",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Observed double-slash helpdesk link returns generic FanCode shell, not entitlement answers."
+  },
+  {
+    "source_id": "v4_motogp_sessions_tha",
+    "file": "data/raw/schedules/v4_motogp_sessions_tha__4a94daa287ed.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_bra",
+    "file": "data/raw/schedules/v4_motogp_sessions_bra__23f8f5f26af2.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_usa",
+    "file": "data/raw/schedules/v4_motogp_sessions_usa__52fba1303b6c.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_spa",
+    "file": "data/raw/schedules/v4_motogp_sessions_spa__a5cab5bb1249.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_fra",
+    "file": "data/raw/schedules/v4_motogp_sessions_fra__ad895f48861d.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_cat",
+    "file": "data/raw/schedules/v4_motogp_sessions_cat__340107ab3d6b.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_ita",
+    "file": "data/raw/schedules/v4_motogp_sessions_ita__c518a0410c8d.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_hun",
+    "file": "data/raw/schedules/v4_motogp_sessions_hun__afa942abd635.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_cze",
+    "file": "data/raw/schedules/v4_motogp_sessions_cze__00cd9f2ebd16.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_ned",
+    "file": "data/raw/schedules/v4_motogp_sessions_ned__3cc21d6426e3.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_ger",
+    "file": "data/raw/schedules/v4_motogp_sessions_ger__50aabc91c36d.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_gbr",
+    "file": "data/raw/schedules/v4_motogp_sessions_gbr__6db851da9bf2.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_ara",
+    "file": "data/raw/schedules/v4_motogp_sessions_ara__9aba6b9830db.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_rsm",
+    "file": "data/raw/schedules/v4_motogp_sessions_rsm__793760e3d824.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_aut",
+    "file": "data/raw/schedules/v4_motogp_sessions_aut__a2304f48f5ea.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_jpn",
+    "file": "data/raw/schedules/v4_motogp_sessions_jpn__0410c91aa580.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_ina",
+    "file": "data/raw/schedules/v4_motogp_sessions_ina__c8b8a5cc3a47.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_aus",
+    "file": "data/raw/schedules/v4_motogp_sessions_aus__d518ba46f1c3.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_mal",
+    "file": "data/raw/schedules/v4_motogp_sessions_mal__8268fec3d9f9.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_qat",
+    "file": "data/raw/schedules/v4_motogp_sessions_qat__f7eaf0380548.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_por",
+    "file": "data/raw/schedules/v4_motogp_sessions_por__86d31f5a09f9.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_motogp_sessions_val",
+    "file": "data/raw/schedules/v4_motogp_sessions_val__c7876c68df8e.json",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official public MotoGP-class session records. Dates carry +00:00 but tested clock values match circuit-local schedule. Offset quarantined. Distinguish planned/API dates from race-control actual starts. Catalunya has RAC and RAC2. Current snapshot may include post-cutoff events and revised times."
+  },
+  {
+    "source_id": "v4_vi_ott_web",
+    "file": "data/raw/pricing/v4_vi_ott_web__315af79ba9dd.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official offer page distinguishes prepaid Pro INR202 and postpaid Pro INR199, Plus INR248. FAQ and hero disagree on OTT counts. ATP-specific entitlement, tax breakdown and wholesale payout not established. Postpaid FAQ says monthly auto-renew."
+  },
+  {
+    "source_id": "v4_fancode_helpdesk_canonical",
+    "file": "data/raw/pricing/v4_fancode_helpdesk_canonical__ed49da6441ad.html",
+    "status": "retrieved_non_substantive",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Single-slash canonical alternative also returns generic shell. No current ATP price or entitlement recovered."
+  },
+  {
+    "source_id": "v4_deltatre_fantasy",
+    "file": "data/raw/engagement/v4_deltatre_fantasy__88be9ab6a632.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary technology partner announcement Mar30 2026 verifies existing ATP Fantasy: 8 players, 100 credits, 23 tournament weeks at launch, swing/private/global leaderboards. Prior art, not proof of retention impact or current unchanged game calendar."
+  },
+  {
+    "source_id": "v4_motogp_report_tha_spr",
+    "file": "data/raw/schedules/v4_motogp_report_tha_spr__96b2ea20acc1.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_tha_rac",
+    "file": "data/raw/schedules/v4_motogp_report_tha_rac__176f86a02a77.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_bra_spr",
+    "file": "data/raw/schedules/v4_motogp_report_bra_spr__2d2e1d7bae8b.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_bra_rac",
+    "file": "data/raw/schedules/v4_motogp_report_bra_rac__3b4c96bd0952.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_usa_spr",
+    "file": "data/raw/schedules/v4_motogp_report_usa_spr__229f39ee5004.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_usa_rac",
+    "file": "data/raw/schedules/v4_motogp_report_usa_rac__e01df47731ce.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_spa_spr",
+    "file": "data/raw/schedules/v4_motogp_report_spa_spr__146563391f97.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_spa_rac",
+    "file": "data/raw/schedules/v4_motogp_report_spa_rac__a6f5afc56d90.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_fra_spr",
+    "file": "data/raw/schedules/v4_motogp_report_fra_spr__ebeee418b676.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_fra_rac",
+    "file": "data/raw/schedules/v4_motogp_report_fra_rac__e3c209caad48.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_cat_spr",
+    "file": "data/raw/schedules/v4_motogp_report_cat_spr__86308f9901b3.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_cat_rac",
+    "file": "data/raw/schedules/v4_motogp_report_cat_rac__fe322782d42f.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_cat_rac2",
+    "file": "data/raw/schedules/v4_motogp_report_cat_rac2__252a9fac6950.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ita_spr",
+    "file": "data/raw/schedules/v4_motogp_report_ita_spr__cbd056437b86.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ita_rac",
+    "file": "data/raw/schedules/v4_motogp_report_ita_rac__a9f275ab8129.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_hun_spr",
+    "file": "data/raw/schedules/v4_motogp_report_hun_spr__a2f3e83db769.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_hun_rac",
+    "file": "data/raw/schedules/v4_motogp_report_hun_rac__7fc9edfc0742.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_cze_spr",
+    "file": "data/raw/schedules/v4_motogp_report_cze_spr__b5ec397fe622.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_cze_rac",
+    "file": "data/raw/schedules/v4_motogp_report_cze_rac__2286cc1d758b.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ned_spr",
+    "file": "data/raw/schedules/v4_motogp_report_ned_spr__e339da153eaf.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ned_rac",
+    "file": "data/raw/schedules/v4_motogp_report_ned_rac__6472f0704f2d.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ger_spr",
+    "file": "data/raw/schedules/v4_motogp_report_ger_spr__426a5c15ba22.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ger_rac",
+    "file": "data/raw/schedules/v4_motogp_report_ger_rac__e234ac4028e4.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_gbr_spr",
+    "file": "data/raw/schedules/v4_motogp_report_gbr_spr__715cc5588670.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_gbr_rac",
+    "file": "data/raw/schedules/v4_motogp_report_gbr_rac__a7e51b0fda51.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ara_spr",
+    "file": "data/raw/schedules/v4_motogp_report_ara_spr__49c1ed3f5c0b.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_ara_rac",
+    "file": "data/raw/schedules/v4_motogp_report_ara_rac__a4a0987c0592.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_rsm_spr",
+    "file": "data/raw/schedules/v4_motogp_report_rsm_spr__fe632c3e319d.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_motogp_report_rsm_rac",
+    "file": "data/raw/schedules/v4_motogp_report_rsm_rac__747efa6fe189.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Official combined session PDF. Race-start logs found in first three pages. Reported local clock, may repeat earlier segments and restarts. Date and circuit timezone must be retained. No permission to redistribute established."
+  },
+  {
+    "source_id": "v4_trends_2025_pair",
+    "file": "data/raw/search_interest/v4_trends_2025_pair__3fd20eb74693.txt",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Successful primary Google Trends explore response for India tennis/FanCode, Jan1-Dec31 2025. Widget request metadata, not itself time series."
+  },
+  {
+    "source_id": "v4_trends_football_pair",
+    "file": "data/raw/_failed_requests/search_interest/v4_trends_football_pair__a17819545ad0.txt",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP 429. Error response preserved. Smaller two-term football/FanCode 2026 request still HTTP429. No football series recovered."
+  },
+  {
+    "source_id": "v4_trends_2025_timeline",
+    "file": "data/raw/search_interest/v4_trends_2025_timeline__644bd0d07201.txt",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Primary 53-row weekly two-term Google Trends response. First bin begins Dec29 2024, last ends Jan3 2026. Relative within-request scaling. Do not compare absolute levels with separate 2026 four-term daily request."
+  },
+  {
+    "source_id": "v5_gst_council_rates",
+    "file": "data/raw/pricing/v5_gst_council_rates__f1d4414623a4.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "GST Council PDF, page 33 visually checked: heading 9984(ii) shows 9 + 9 / 18 for telecom, broadcasting and information supply excluding e-books. URL dated 2024-02. Supports 18% model scenario, not a FanCode tax invoice or proof of tax inclusion. Not a complete 2026 amendment audit."
+  },
+  {
+    "source_id": "v5_wearisma_wimbledon",
+    "file": "data/raw/engagement/v5_wearisma_wimbledon__8d74838636b1.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Vendor report identifies Star Sports India and JioHotstar Wimbledon creator campaign, including Vijay Kumar and Faisal Shaikh. Prior art only. Vendor Media Value and engagement ratios are not fees, paid conversions, audience deduplication or revenue."
+  },
+  {
+    "source_id": "v5_atp_media_index",
+    "file": "data/raw/_failed_requests/company/v5_atp_media_index__c1b0ebfa4c32.html",
+    "status": "retrieval_failed",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "403. Recovered full guide through LTA publisher search and PDF, source v5_atp_media_guide_lta."
+  },
+  {
+    "source_id": "v5_lta_media_index",
+    "file": "data/raw/company/v5_lta_media_index__352eef5894ea.html",
+    "status": "retrieved_excluded",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Live search pagination changed from indexed snapshot. Does not itself contain the wanted media-guide link. Superseded by targeted publisher search."
+  },
+  {
+    "source_id": "v5_lta_media_search",
+    "file": "data/raw/company/v5_lta_media_search__4d434e7d8475.html",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "Publisher search result provides direct link to 2026 ATP media guide hosted by LTA. Discovery provenance, not independent audience evidence."
+  },
+  {
+    "source_id": "v5_atp_social_feed",
+    "file": "data/raw/audience_reports/v5_atp_social_feed__f8cd21d3a01d.xml",
+    "status": "retrieved_excluded",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "HTTP200 returned HTML, not requested RSS XML. No matching ATP social-growth item recovered. Exclude from numerical evidence."
+  },
+  {
+    "source_id": "v5_atp_media_guide_lta",
+    "file": "data/raw/company/v5_atp_media_guide_lta__9e42011f5ec7.pdf",
+    "status": "retrieved_with_scope_limitations",
+    "reviewed_at_local": "2026-09-14",
+    "scope_note": "160-page ATP 2026 guide hosted by LTA. Welcome on PDF page3, contents5, calendar15-16, tournament directory17 onwards. Annual edition, not live schedule. Some fonts produce extraction warnings. Player records are publication-time facts, not September rankings. Global attendance is not Indian TV audience."
+  }
+]

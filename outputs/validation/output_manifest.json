@@ -1,0 +1,1106 @@
+[
+  {
+    "file": "notebooks/source/00_evidence_and_case.ipynb",
+    "bytes": 8786,
+    "sha256": "08798082fd880ff623ea791e3d928f78bf9cdc5acf2f2f83335ae75f5ca8cbbc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/01_viewing_calendar.ipynb",
+    "bytes": 12123,
+    "sha256": "f5de2284fcd72550516d6a8fd44805b61d247fdeab904d22f9956c91b4264f59",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/02_portfolio_clashes.ipynb",
+    "bytes": 12786,
+    "sha256": "8ba7aaaf21cd33aa44d09b72cc1a33abb881b9543ad1957b0d2f599e4658a000",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/03_offers_and_baskets.ipynb",
+    "bytes": 14041,
+    "sha256": "16948bd04808cc5e3c4ecdb6caeecba9d18ed2fdd4d0a746d980b2de85714c63",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/04_review_friction.ipynb",
+    "bytes": 11822,
+    "sha256": "ea6431b31471484a980e12ccaa7511b993cc39f61eeabf747faca94ae10b5667",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/05_search_attention.ipynb",
+    "bytes": 7741,
+    "sha256": "ee96eb27222fd9d1ea845e3b2b2785c63c34e1bdb09fd8a9fb72aa1a2cedd30a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/06_player_and_video_risk.ipynb",
+    "bytes": 9425,
+    "sha256": "6a259c2fc7d74d2b2e2875609c5f96175ae033d33027e89426b38a681346988f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/07_contribution_and_pricing.ipynb",
+    "bytes": 14386,
+    "sha256": "5a9b3ccfe0531c99c1f17e6c1e70e4e797ae7375ae6e5a6b7822d79bf5d8b575",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/08_channel_economics.ipynb",
+    "bytes": 13258,
+    "sha256": "e12e0769ddda00725b289bc72ac055b93062e93c014adcca2031b597ea6d8759",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/09_retention_and_experiments.ipynb",
+    "bytes": 11094,
+    "sha256": "f37fc76ab642d9ca1efbde7059106ae256322f5ae77aafc766152eb9c9bf9cb4",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/source/10_strategy_and_claims.ipynb",
+    "bytes": 12856,
+    "sha256": "ed2f3325c2482ac7422d1591d0afdca17fce8db3e610274b34ea9c1b65c1922b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/00_evidence_and_case.ipynb",
+    "bytes": 42912,
+    "sha256": "a9f71a1d811970776c11da0e4cfdb3e02e248c40671d22903b43005dbba0060c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/01_viewing_calendar.ipynb",
+    "bytes": 51057,
+    "sha256": "6d876fba47af7a1831c6f54ddad13179bfa57c05f762a4e3120b0b3b2afeac20",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/02_portfolio_clashes.ipynb",
+    "bytes": 38521,
+    "sha256": "abf0f5badf66ea5fd621cc01801edcd5ae2cf5cc60e53cdb94ac71d94b9fb9e2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/03_offers_and_baskets.ipynb",
+    "bytes": 49447,
+    "sha256": "917ac1f5948d8ca4c2f1e9dbcf5df7d0e3afe6f291e5e9c16e93384c443e4c45",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/04_review_friction.ipynb",
+    "bytes": 40410,
+    "sha256": "d4d09c2518795afb1207e40ad933a5829daea6ddd35b79cff14e54bcb0fad5d3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/05_search_attention.ipynb",
+    "bytes": 28424,
+    "sha256": "44e8e7a9cc47ada7f16e37ce4a370bf667995bee91315c711d27e922efab42dc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/06_player_and_video_risk.ipynb",
+    "bytes": 44284,
+    "sha256": "9e11e9b9259be0a8579a8eba33ec78e4a2a3589127415466019130dfd916d385",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/07_contribution_and_pricing.ipynb",
+    "bytes": 86094,
+    "sha256": "a42e13408d60a81a1023d9862d5912ea3f956a329f27213f783ecbaff2813614",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/08_channel_economics.ipynb",
+    "bytes": 70872,
+    "sha256": "b2c7fbda78cbe29d72afad9a5e8dc5b31113f50cafd2457c5d20323b988456a1",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/09_retention_and_experiments.ipynb",
+    "bytes": 55140,
+    "sha256": "fa33e9b46950b150a138e68aff870c54f599e6fa0600f38e75127010daf40154",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "notebooks/executed/10_strategy_and_claims.ipynb",
+    "bytes": 54509,
+    "sha256": "0fad05c261c2f3da348a80767155c4bfdf9eddba76ed6c427c60bf16508107ee",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/atp_event_starts.csv",
+    "bytes": 9568,
+    "sha256": "93585340823066fe0f6510240c9669b453b1e84b82e19215ef8888fe6c765964",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/atp_future_windows.csv",
+    "bytes": 1621,
+    "sha256": "106fed2677bae3c2c32c64e7524927bf5deb86b92047161087cf5a902c78c4e7",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/atp_slots.csv",
+    "bytes": 6470,
+    "sha256": "13a3ef2ea0ec7ca16b1149958839d73d7b9befb7bc3809743fb2494ec064229e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/basket_results.csv",
+    "bytes": 10128,
+    "sha256": "cff39c60ce007a5d0789a1d09086debaca5f661f9bbcf833e7a1fc6f787a8b46",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/case_inputs.csv",
+    "bytes": 1898,
+    "sha256": "c8cce6a2597d5523619dc4584a7c9b8706b1864b813faa9c422347a87d245cc8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/channel_scenarios.csv",
+    "bytes": 1435,
+    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/contribution_grid.csv",
+    "bytes": 32556,
+    "sha256": "d7db65596073afb24e8a096da18141948362463d18f91f6f29966da1ff32ff1f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/f1_races.csv",
+    "bytes": 2352,
+    "sha256": "c1e1c10fed4686a2b2e82c85e4ebaff5d0d54458f1aad2a6db2161601edb64e1",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/football_fixtures.csv",
+    "bytes": 28072,
+    "sha256": "a61a123ab88e8255b728fe124f9237f93b7ac98786fc6b3974289deac6d2f1ad",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/motogp_sessions_quarantined.csv",
+    "bytes": 23509,
+    "sha256": "0ff6cff652efcf4e574cc8c0bfb2662d445c557b033c0e57b29a56661767c400",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/offers.csv",
+    "bytes": 2077,
+    "sha256": "a4dec4ed5c91291cc99bd9cffde1ff53f05978c42b8554b8db190c67cfbd69a3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/player_event_2025.csv",
+    "bytes": 104581,
+    "sha256": "cc361599d602b1a5554aabd14c793b10f89e30f147d25c5cd52b3e991d9a2990",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/results_2025_regular.csv",
+    "bytes": 609985,
+    "sha256": "f3e0a16bdaecb60c537e78c7589a5cdecd1671f207637c72f923d7b6775fc372",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/review_features_local_only.csv",
+    "bytes": 4152774,
+    "sha256": "fcaba6a0f111ccf90a56de233151f7bf7ce59c0d17b375ad834e7d956f14dbbc",
+    "redistribution": "Local-only review text"
+  },
+  {
+    "file": "data/processed/trends_2025_weekly.csv",
+    "bytes": 3121,
+    "sha256": "7e4a52fd4dd90c3c5b4bbd4f8d9237039923f3fa80faf139ef9c8abb3d2d6bc0",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/trends_daily_four_terms.csv",
+    "bytes": 5182,
+    "sha256": "34dc870cfc7d8f3a4d54dc61da175b449c8ca7e47fdabfb777d45a26aaaced04",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/trends_football_pair.csv",
+    "bytes": 3929,
+    "sha256": "91086594979060ba351d1e9d4348f70908ed041f629e43fd93a7d95029e49e62",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "data/processed/video_metadata.csv",
+    "bytes": 8893,
+    "sha256": "3f2a603766a7057b7d1e37a76852b4e13b4cb392f80d0212907576edd0bb8ed2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_case_dictionary.csv",
+    "bytes": 1898,
+    "sha256": "c8cce6a2597d5523619dc4584a7c9b8706b1864b813faa9c422347a87d245cc8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_case_operating_facts.csv",
+    "bytes": 1256,
+    "sha256": "66c481e93a81254fb88017a211ce533af86d8709ce2e5ba56153d10e6b0d125b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_external_evidence_register.csv",
+    "bytes": 13606,
+    "sha256": "040bb1bfbb2f4efeea01d23e043021d9e3aa84b2cb169c86ac0224664d887bee",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_raw_coverage.csv",
+    "bytes": 180,
+    "sha256": "09bbffef8e2286c92c8c72cb1b73e6e02ed38f8ab7d4b988f01b548897ae591d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_requirement_map.csv",
+    "bytes": 379,
+    "sha256": "1cb8455af8434bc1c51e1ea47525327a19b536dc1436da62145abbef7ec47f38",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/00_spike_definition_audit.csv",
+    "bytes": 105,
+    "sha256": "46db9af7156862d9595ef4ccccb319d8452c2357905223df326a169de707641a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/01_calendar_tiers.csv",
+    "bytes": 108,
+    "sha256": "cc71196e849f830cea3eecaf7bd3cdec05a6416e67d937320c32e54779088435",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/01_source_references.csv",
+    "bytes": 3395,
+    "sha256": "eba9735e53d750ccb05e806fa10b7da16fb1ae6fd5a478a5d387d16bb5b2d91d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/01_timing_robustness.csv",
+    "bytes": 287,
+    "sha256": "cb63288b22009d787a950f68d2577c1d45cb5f3681d3ab159d8db7264c01dcbb",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/01_verified_slot_ledger.csv",
+    "bytes": 2179,
+    "sha256": "c6f8bd823b5f8c1307861cf0841556a879d0a3660869ca94722d55925a003c21",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/01_window_delay_sensitivity.csv",
+    "bytes": 5259,
+    "sha256": "1c671792dc8de0cf4b8da4e5fbfa00760084dce466999905391bd778cb58cffb",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_assen_timezone_audit.csv",
+    "bytes": 125,
+    "sha256": "e4b006d69a92cb02c0bb27b28491143ad5816446d168f9c6082b00b2aa7224df",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_clash_bounds.csv",
+    "bytes": 1911,
+    "sha256": "ad24b0edbee965217a5434df685ad094f0d22127ad0dab18107f58a6e5b7e401",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_clash_scenarios.csv",
+    "bytes": 22281,
+    "sha256": "0c8714bd91c26a3790b88847f4a70f88f97897810d2c438a3213235a4dcbc01b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_motogp_actual_clock_evidence.csv",
+    "bytes": 2896,
+    "sha256": "e17d0efd5db698b1cb46a27538b28abfa8f2a50bb38f8f4ad196e94d5aea9c36",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_motogp_coverage.csv",
+    "bytes": 219,
+    "sha256": "0fd9378a19c6a46d5003fb2a31218a6ccf8c11df2a60685b3a657a75a2f8fc53",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_motogp_weekend_cooccurrence.csv",
+    "bytes": 455,
+    "sha256": "deb8c0b44312ba6a14ef057e8b5601df4fcee6cc4a3c1ac5b995367daf7f7311",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/02_source_references.csv",
+    "bytes": 12872,
+    "sha256": "d97b258d32575f4afe5b8b2542de4521236557be6f88aa274aaf8909078f1c25",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_basket_definitions.csv",
+    "bytes": 3019,
+    "sha256": "37224a6eea61e882e4cb7840dff3648d8ee044432abef5e9faf82704ee1773fb",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_format_decisions.csv",
+    "bytes": 1153,
+    "sha256": "4e8efaad827c89448d3a3c0072f6b208a0c8b76396610b46ec8b050e99285e28",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_minimum_cost_baskets.csv",
+    "bytes": 10128,
+    "sha256": "cff39c60ce007a5d0789a1d09086debaca5f661f9bbcf833e7a1fc6f787a8b46",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_offer_audit.csv",
+    "bytes": 2077,
+    "sha256": "a4dec4ed5c91291cc99bd9cffde1ff53f05978c42b8554b8db190c67cfbd69a3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_remaining_inventory_price.csv",
+    "bytes": 4760,
+    "sha256": "e40ae074d540250d0616469716b780136633fc3f7e2144092947164a49748ddc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/03_source_references.csv",
+    "bytes": 1263,
+    "sha256": "d7a75dd297fc35ef4c1ab8341bb8798854e1aaacdbb9d8fc354f3f7a23f54682",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_exploratory_themes.csv",
+    "bytes": 952,
+    "sha256": "2965b769236a0cc4b21ad5cd564bd304c5e89bc291795268707ebc15c84fc0f8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_issue_mentions.csv",
+    "bytes": 3963,
+    "sha256": "d7bd642301bfd57dae6c76ea494bf9c50182a62cce5dc3816aa7a975bca02546",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_matched_month_comparison.csv",
+    "bytes": 152,
+    "sha256": "f2ce669122faa1e517500173c7f40b3b897322b1e169564504bd10ad833c45fa",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_monthly_review_diagnostics.csv",
+    "bytes": 2853,
+    "sha256": "b42baef57ebeba48f2598dea8c9c604e97fccde044c951d58da5dcfb82e173e0",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_source_references.csv",
+    "bytes": 2166,
+    "sha256": "77e12d6de1e18a5b15752a33650e23edfdea50481fb492e1c715fbc1bb87caac",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_sport_mention_counts.csv",
+    "bytes": 103,
+    "sha256": "cce83f8697757f8f41c7591d19bfd3cc170ff70d72e1af5437d6a9d7abc9c5da",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/04_store_coverage.csv",
+    "bytes": 351,
+    "sha256": "dee59551227a39b41ca185578b8a25323bfbdd61c82ad02c69298a2c2cbddc98",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/05_peak_date_context.csv",
+    "bytes": 484,
+    "sha256": "4daeead6c0b127873514b6791708c000831a5ffff11b648c55c89270f9c12ca8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/05_rounding_diagnostic.csv",
+    "bytes": 82,
+    "sha256": "e41a341563e4dcee9597486d05e73ce46627bfd90b5449d51fdd7e9fbf35d157",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/05_search_associations.csv",
+    "bytes": 393,
+    "sha256": "f3e44c2bfb29a404e750e7b6ca6f20dc6712fae7d418c75ad1817bf4940f98dc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/05_source_references.csv",
+    "bytes": 1689,
+    "sha256": "118f307a9fb0c180b74125d0f70928416c0ad9e78a4bdf7b6932ba2a4aed0cde",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_player_bundle_coverage.csv",
+    "bytes": 377,
+    "sha256": "653cbe65c00d8e1b3ef6852191caffdd645bb7924268978c27874e47ac3d6613",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_player_progression.csv",
+    "bytes": 475,
+    "sha256": "c9f8628bb78a3ad939048d738a7d7e808325717a5d844ecd44658f641364ccaa",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_results_source_audit.csv",
+    "bytes": 1796,
+    "sha256": "8be60d98e413eac585f02be1cbbdc00de7eb31b795e7bfbf43017505612c7600",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_source_references.csv",
+    "bytes": 615,
+    "sha256": "30b2161323a4731954d5d274f086055b2d41413ad6a3e67d1fd1a311c0167307",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_top_displayed_videos.csv",
+    "bytes": 2640,
+    "sha256": "34826c4f79beedae1aca6885ec18a0cbf4e57ff3eb382ad5f2f9659d57b55c2f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/06_video_star_diagnostic.csv",
+    "bytes": 88,
+    "sha256": "96ae51fa5836e90e05cffdb7cee5447e914b7130814e0ce725d9f846df9d6522",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_contribution_grid.csv",
+    "bytes": 32556,
+    "sha256": "d7db65596073afb24e8a096da18141948362463d18f91f6f29966da1ff32ff1f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_credit_break_even.csv",
+    "bytes": 1808,
+    "sha256": "081065278905e17325419eb311d41e086cec2c1b04cddbf0e08c833d454a4f67",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_discount_hurdles.csv",
+    "bytes": 1256,
+    "sha256": "c57f55f6dbd510f9237c215f78a0cc2ef7448b58a662cd25777a3c1c80f23398",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_fixed_cost_coverage.csv",
+    "bytes": 595,
+    "sha256": "435f12878e092a8b5e0164a9e36b85f913f1a766e076b2058e9432dd7f75f907",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_incrementality_cac.csv",
+    "bytes": 2347,
+    "sha256": "8a5d066cd5d83a55ec48b5cc5ae05c5f0c20ece39a6d690e6f6425351e9372cf",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_referral_reward_stress.csv",
+    "bytes": 1149,
+    "sha256": "23a586c31100bd97c345846225f07444a9340ad3bf4645a17c9e0cdf8fa248d4",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_repeat_horizons.csv",
+    "bytes": 1973,
+    "sha256": "1cf0469443c28df90effaceeb825d956039795e7475e5dd696bc39ab4cf36f27",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_rights_horizon_ltv.csv",
+    "bytes": 1465,
+    "sha256": "90d9b8d3c3f40b06aa3897512bbf16a7b641308002e3303e3d233e396067e938",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_source_references.csv",
+    "bytes": 820,
+    "sha256": "c129a636c1f96f48537c7a6c1700ba69977b0dfede327b2f7facecc7ad1097b6",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_tax_exclusive_alternative.csv",
+    "bytes": 123,
+    "sha256": "1a5d4be0c728d773fccffdd657b699570eb07112285c799f6e6dd102d9c4f81d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/07_usage_cost_stress.csv",
+    "bytes": 2209,
+    "sha256": "2df94a6b3da3ac52c1a984e73ea20f8dbccb15cbb5d91271489c24f75811c197",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_blended_programme_cac.csv",
+    "bytes": 263,
+    "sha256": "7cb217d50983a0866da420870166442becca236d024009e1681c9cc9ff069e82",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_budget_allocation.csv",
+    "bytes": 165,
+    "sha256": "87072371dfbed90262f4aa7ba3aa6082714a86436759240110f000397fe0ef5a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_case_contest_cpc_ceiling.csv",
+    "bytes": 97,
+    "sha256": "1e8959d41b79b79548641db033004ee2e4796a0750dbca42676fac1aa4758a8c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_conditional_channel_cac.csv",
+    "bytes": 1435,
+    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_contest_takeover_procurement_gates.csv",
+    "bytes": 1367,
+    "sha256": "c7016593393f1b4959e865367959ec0c98784ad91c9c73a10bec761f47fb0eee",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_cost_build.csv",
+    "bytes": 785,
+    "sha256": "0ec6f41bb610af35788fd92edb5beb33069d168c8b95eef03f5ee950951f07aa",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_creator_fee_hurdles.csv",
+    "bytes": 355,
+    "sha256": "69064b1a632319eb6959e9adce2491e7943976c7afe15f8b5069765981473c64",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_current_spend_baseline.csv",
+    "bytes": 117,
+    "sha256": "2a64ea6cdbebeb592c955cdbdbd38de178bdecf5464c6c4afded16113b5c9a15",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_measurement_reserve_sensitivity.csv",
+    "bytes": 234,
+    "sha256": "6cef51dd5adffa2c8fef6010cc276dc87b5535701f8e002f646cbaf501f57d42",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_owned_capacity_gate.csv",
+    "bytes": 206,
+    "sha256": "4c13211f112cd8a3c5e793e2efc4f6593a8ef661fd97209090b819b32c250b1c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_purchase_and_incremental_cac.csv",
+    "bytes": 2337,
+    "sha256": "90709ebe91e378ddc15be1e1883f8ed2d4a39e70214a0433bb610b1a4e13988b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_response_assumptions.csv",
+    "bytes": 191,
+    "sha256": "d68b000574db2ae6e2b31f4c0d1f2db019009cb656813c5dbbc595a80acdc7ea",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_source_references.csv",
+    "bytes": 637,
+    "sha256": "50c9436b913b53a7f4886a5d38f944b8b745d72020bd6946aa7bc14a41da8c3d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_binary_power_grid.csv",
+    "bytes": 910,
+    "sha256": "748d9c563144136fe6bdf82fe7085c9bb5bc50e87d068f66a05d5e450ff9cc02",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_cluster_design_effect.csv",
+    "bytes": 184,
+    "sha256": "983434dd4a7976cdb5340d16a6ad63e616ab1b191abd80105a1b63a8ad4bff24",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_contribution_power.csv",
+    "bytes": 244,
+    "sha256": "cdb420050ba73f1b513db00454d501bc84fc74ed9a26f71541325c9d8f8a0d8c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_followup_maturity_example.csv",
+    "bytes": 530,
+    "sha256": "5e429138f0b21bcec7bcb04444404973217b12a19dd9b4c9ccf9588eb3b9a66b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_kpi_dictionary.csv",
+    "bytes": 1302,
+    "sha256": "5cf7eb50bfe963f5cb2f40cc78bab046d3addf3a9a11dae9f1d4180f345dfd2a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_lifecycle_treatments.csv",
+    "bytes": 689,
+    "sha256": "cf39b73cba9104b1b6738ea6a2c0552e76f6d009ab33bfe519ec442ca4fbfaf1",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_next_event_journeys.csv",
+    "bytes": 2462,
+    "sha256": "f6e06a70bb665265cc9f18435883f69b7db621a9fd29d02c4ad8f7bf3193b7a9",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_pilot_design.csv",
+    "bytes": 882,
+    "sha256": "57bd1820a28050f5c43c8d10796507f7f13b9d14e906af99e6cb65d42758549a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/09_source_references.csv",
+    "bytes": 214,
+    "sha256": "cb8e0258002cf50e63aa89695a212502b779c966124b95548ffd2b216e11109d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/10_claim_register.csv",
+    "bytes": 1567,
+    "sha256": "55af88ff20dc86731b97d21b5ac64a16c415822aa22129eee7064b5d19b5f52b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/10_deliverable_coverage.csv",
+    "bytes": 675,
+    "sha256": "c8a6b990a6a919262e5b50afcd634c86c3d9ffd820272305a5eaf9e31c852dc3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/10_recommendation_rules.csv",
+    "bytes": 1120,
+    "sha256": "68dc39aa36e6147d518483b19ef9e941ec1d6991a925db573aab4a7d730fa28a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/10_segmentation_matrix.csv",
+    "bytes": 5039,
+    "sha256": "cc741720b580e6cd5ce926671179d653bf30e18d5c31024e74e3158c20106319",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/10_storyboard_evidence.csv",
+    "bytes": 1812,
+    "sha256": "407c47d8daa1ad15b1e72fb5aaea04fa0ab68c2a1e69bde4c0ebcb499351070e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/.DS_Store",
+    "bytes": 6148,
+    "sha256": "39d88ca6c47ee7571ce93c073be6eb6ade9aa43a56fa50635efb1943d9158abc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/00_evidence_coverage.png",
+    "bytes": 57293,
+    "sha256": "6de70901480f005059fa3564ee181f891109087c45a292a3827127aa0042de94",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/01_event_calendar.png",
+    "bytes": 62352,
+    "sha256": "03fb0a2e86486492cdabe495b1e261a159b274c0c545b2c51284805e00b9285c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/01_final_start_times.png",
+    "bytes": 94490,
+    "sha256": "7014bdd3d1eaa3e6d543cf5bf17441b87814a8580854b76689cc3257c55c1b7c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/01_sampled_week_hour.png",
+    "bytes": 75461,
+    "sha256": "1593fa228f9e999aa52f083fedc4e86271f05d0687733896b5d399a5a4dd6d07",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/01_window_sensitivity.png",
+    "bytes": 70565,
+    "sha256": "b4ba3e60a61fbac9752e8ea124099f963213bb74f699f6a8538c4f8352841d3c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/02_selected_clashes.png",
+    "bytes": 125800,
+    "sha256": "479c031edf24955426bc3e2d1e176039994cd3463db4e4196bf29332a73a1d7a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/03_basket_switch_map.png",
+    "bytes": 93539,
+    "sha256": "060bd28fb75e64322664384618a7d475940316385d5d07de49d84c458a7ce152",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/03_remaining_season_rule.png",
+    "bytes": 69007,
+    "sha256": "a17ef3fd68763bdc77bf595fe2d655287347b29d7c4cfcd6e3adaf0d24d67d74",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/04_friction_mentions.png",
+    "bytes": 69609,
+    "sha256": "8ca757e447d8f8185b338dc44f7bd46e4643b24d22929fc40c493934e75d125e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/04_review_time_series.png",
+    "bytes": 200651,
+    "sha256": "9e9a302320c178bd6e44324d180583d62cfd128c65ed7cb8e1fde4597ebca7ce",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/05_search_associations.png",
+    "bytes": 64288,
+    "sha256": "0758a147a15c28a5cb7ea386de02fb4ec15beda920702b46c2c21c26f6328574",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/05_search_series.png",
+    "bytes": 216475,
+    "sha256": "95c56251501c54cae9580c0c383d86490fe87ad75d313e180b36511192d1c549",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/06_player_appearance_risk.png",
+    "bytes": 91304,
+    "sha256": "d2176426248d1c13a2a74915469a89a3ef1b5b692c8602868815eda9c7414566",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/06_video_views.png",
+    "bytes": 86757,
+    "sha256": "a9f4ecc63d0bf8f257497ec978d287d94e566e00482dd6a6575bd4b70c06edb6",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/07_contribution_bridge.png",
+    "bytes": 80237,
+    "sha256": "c06c5dc9e617ec5f352968834d13b92d6f73bf9571d1aef60d4e17810674e727",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/07_discount_hurdles.png",
+    "bytes": 70261,
+    "sha256": "7b0dad07d236b642e658a5cf8ba4cd840a9d8ac9f77e01036f880397aef1b515",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/07_incrementality_frontier.png",
+    "bytes": 128997,
+    "sha256": "5e00e9734ade0f5b893fa3984c53f7011951c8ad51d3f8b2701d8039408909c8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/07_repeat_sensitivity.png",
+    "bytes": 92247,
+    "sha256": "6d78631fdd34d1ad74ef9b8410c9522f944bfe0c31bf536af1e75bd91fec26e2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/07_usage_cost_stress.png",
+    "bytes": 106887,
+    "sha256": "b0e2595a21d4a7a1e7bd3eb50ff5a339bd9486281be6b2525919917a29bd30ea",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/08_channel_cac.png",
+    "bytes": 78523,
+    "sha256": "96d67a51b774f1a91db5a6fd4c73f90c145a2bf86036fe0330a59100a32f515f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/09_power_requirements.png",
+    "bytes": 135093,
+    "sha256": "ac2d7bf0c095e329ec977e519463f793b6dd87880324eefb44b86b06dbc0368e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/00_evidence_coverage.svg",
+    "bytes": 10045,
+    "sha256": "a0eebaeeb8f428ab276cdd44c0d584cf8f2d3ec0efb3f677f02a235adeae8d9c",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/01_event_calendar.svg",
+    "bytes": 27555,
+    "sha256": "64bae004b39d9291ba724894cec733e9f2672a36d707efb95cf73defda18e4a3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/01_final_start_times.svg",
+    "bytes": 16336,
+    "sha256": "fae0193186833b319822a65ebc2ba29627e6795d30048449a5792d2bd2264898",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/01_sampled_week_hour.svg",
+    "bytes": 19721,
+    "sha256": "6aad2124a0b344ab2fd91500998445e891ccac24abf1ebebf239bf1044806207",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/01_window_sensitivity.svg",
+    "bytes": 19550,
+    "sha256": "909b80dea9e817f5402acd8b23fe899031d5a96c65da73ecddbeb0e4dde4203b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/02_selected_clashes.svg",
+    "bytes": 12467,
+    "sha256": "a58d626a96f6d12c7eaaf0b6dc5438467d6a85cc305076b4d9d674c89e51e009",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/03_basket_switch_map.svg",
+    "bytes": 13194,
+    "sha256": "3d0caaeba27b8af26d03baf4b71d72b552dc3304666e91b533b4ce30b0bb3bb2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/03_remaining_season_rule.svg",
+    "bytes": 13613,
+    "sha256": "812a3cc636e61ac097153adb332d624f7c3d5bb9b7bee00819719aacaf272be7",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/04_friction_mentions.svg",
+    "bytes": 12186,
+    "sha256": "dc2a2b6d2fa206064c33a742a197fa4a2aecf095b1a7da08204f4fcf6f195ba3",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/04_review_time_series.svg",
+    "bytes": 27753,
+    "sha256": "9432f44098e0f7b4469bcc2afe9d93fbe359fb12f293d8e92a6d1a28ffc083f7",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/05_search_associations.svg",
+    "bytes": 9348,
+    "sha256": "b77584fb4e220c1ce3d43419f80440c1bbb9d869f88137dc355f1b3e4100fc0f",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/05_search_series.svg",
+    "bytes": 47243,
+    "sha256": "ec69fbda8c5ad1540de24017ec24c3578808c60ea4202479fbfe60298a205b82",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/06_player_appearance_risk.svg",
+    "bytes": 11940,
+    "sha256": "1ce45b03f2575ca63e765a33071f8928e8963af56c363555059c3eb18ac900b2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/06_video_views.svg",
+    "bytes": 14947,
+    "sha256": "e17c66c6c3327e09f83c2842cde9d23c6c12bdd6de74667134234f692272d0f6",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/07_contribution_bridge.svg",
+    "bytes": 13873,
+    "sha256": "34f1572ad2e5d49d51a723ba9a77227d8bfe3d3037003619c30742d6da8bc288",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/07_discount_hurdles.svg",
+    "bytes": 16381,
+    "sha256": "4232da68b225f566e540bfee27f7ca8c587c43876c986806f4ed2624f53529d6",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/07_incrementality_frontier.svg",
+    "bytes": 11534,
+    "sha256": "2e2add322b98fd00d6cf34a9975b5f7f531af2f1225a5123ef3d49d66fd5ea6b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/07_repeat_sensitivity.svg",
+    "bytes": 13010,
+    "sha256": "e6c2a95eaa5b070e204532658235408633a9773a0d68f4e8d3e296e1508c5508",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/07_usage_cost_stress.svg",
+    "bytes": 14302,
+    "sha256": "78d9e1f196721e1019f540f8fab5be444659e813ae986c64daa8a83a5f938e29",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/08_channel_cac.svg",
+    "bytes": 15555,
+    "sha256": "3c5a8231eedf7f7471aa31ddd27d53a2a64527b067c2227ae664f18fd3bce0c5",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/09_power_requirements.svg",
+    "bytes": 19717,
+    "sha256": "b17dd4fa5887b26ed3db911cbbdbcb91ff42c4d84ef1127c95250dd89657bfed",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/00_evidence_and_case.html",
+    "bytes": 321487,
+    "sha256": "7899aedaa708395b4524beed95f695f0e78911f859ec75988fa03b85f59e5007",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/01_calendar_findings.md",
+    "bytes": 413,
+    "sha256": "757524229874d86a540a27b2459fd3348bd8c19b42152209d6a48571261a5160",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/01_viewing_calendar.html",
+    "bytes": 347505,
+    "sha256": "f8ea265fa873c92e54ddb6c7cda3d78e52ab768df4b3b149849e3f73847257ec",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/02_portfolio_clashes.html",
+    "bytes": 339930,
+    "sha256": "6fc3ad7cb06e07b351c2173b9a5f3677f91ea4f7a38d18fcf5551c2b4a6888c1",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/03_offer_findings.md",
+    "bytes": 427,
+    "sha256": "160d44f54f9ca755f73d2b456760dec3e69b36a5dfc14b2f4239ec56c2a75029",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/03_offers_and_baskets.html",
+    "bytes": 345921,
+    "sha256": "00fe19a3164bb585d14175efd276b6c19e1263ed85357b01d3520710918263bc",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/04_review_findings.md",
+    "bytes": 443,
+    "sha256": "128ef23445dea8a523e220257d3ecd423fdeccac220b3fcfb03478c54cb0db9d",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/04_review_friction.html",
+    "bytes": 344487,
+    "sha256": "1b188f4ce3664702fff9377119e7ed8f40f598fa3fe2cacad7d61fcaa70d6707",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/05_search_attention.html",
+    "bytes": 320589,
+    "sha256": "5a9c7fc3a46016bf2135489fa9204fb1de15a7a0211fe006a9374681ec229353",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/05_search_findings.md",
+    "bytes": 437,
+    "sha256": "e843cab7d383fa1ee1be4466dafa4327784f56460c34348f90508ee4c3f8acb4",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/06_player_and_video_risk.html",
+    "bytes": 330057,
+    "sha256": "e0339dc330b9a95a9a5f226f7fe1e1a104c9e3aa71fd2ebefcbe72380211fe23",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/06_player_video_findings.md",
+    "bytes": 425,
+    "sha256": "fbc7312fdade9fff6d9865e53b2c69dfb04e8f80b2b3a4b896a06f95ff4d59d5",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/07_contribution_and_pricing.html",
+    "bytes": 364421,
+    "sha256": "c621f42fb9d6c6df791a5af8a5359b9822d746012a7548a2932aa92c1cd4081a",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/07_economics_findings.md",
+    "bytes": 386,
+    "sha256": "7b06a001da984904031f8e1d1965fdcbe77e97815b0c47aa68e4aa7f954e1481",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/08_channel_economics.html",
+    "bytes": 349442,
+    "sha256": "79537dd811767b999e451ce933d37a6e3d586bcf568f4e024ecd3cb2b94c3b31",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/08_channel_findings.md",
+    "bytes": 551,
+    "sha256": "331222e83f38e43925e563f0ed9212d2c51ed7ca993eb71162fb5c6fbd93823b",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/09_retention_and_experiments.html",
+    "bytes": 332520,
+    "sha256": "1c5d9038a606e111498beaa163b72153d1ab181cb4edcd6f887f33159f5bc823",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/09_retention_findings.md",
+    "bytes": 445,
+    "sha256": "db6939e1875b317abb27b344ba072db2cd663cdc547f9cec1095da68516a8ef2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/10_decision_summary.md",
+    "bytes": 594,
+    "sha256": "00fbb137a37115dc287f1c6b1cbabbd2465114ff4eaea90e20b52fbd92d378f9",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/10_strategy_and_claims.html",
+    "bytes": 333690,
+    "sha256": "76a3aa96568347c573f9069c35dd8e0af8b8bee9196769ad8e14e8b3c5f14cd8",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/claim_register.json",
+    "bytes": 2792,
+    "sha256": "1057e1f505c469b9ad178c7c3effb1afa310a0b7d60814b3827bbdfed7fbfa82",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/reports/index.html",
+    "bytes": 6014,
+    "sha256": "72298cf246ba17b070f9c460f9b8d580e9253bf0e964cc18308378ffec75a04f",
+    "redistribution": "Review source rights before publication"
+  }
+]

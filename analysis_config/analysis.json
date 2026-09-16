@@ -1,0 +1,101 @@
+{
+  "author": "Chanakya",
+  "raw_release": "raw-v5-2026-09-14",
+  "cutoff": "2026-09-12",
+  "analysis_date": "2026-09-15",
+  "seed": 20260915,
+  "viewing_windows": [
+    [
+      18,
+      23
+    ],
+    [
+      19,
+      24
+    ],
+    [
+      17,
+      24
+    ]
+  ],
+  "scheduled_delay_minutes": [
+    0,
+    30,
+    60,
+    120
+  ],
+  "atp_duration_scenarios_minutes": [
+    90,
+    150,
+    210
+  ],
+  "f1_duration_scenarios_minutes": [
+    90,
+    120,
+    150
+  ],
+  "motogp_duration_scenarios_minutes": [
+    40,
+    60
+  ],
+  "football_duration_scenarios_minutes": [
+    105,
+    120
+  ],
+  "gst_scenarios": [
+    0,
+    0.18
+  ],
+  "variable_cost_scenarios": [
+    10,
+    30,
+    60
+  ],
+  "acquisition_cost_scenarios": [
+    0,
+    150,
+    175,
+    200
+  ],
+  "repurchase_scenarios": [
+    0.6,
+    0.65
+  ],
+  "renewal_scenarios": [
+    0.7,
+    0.8,
+    0.9
+  ],
+  "rights_years": [
+    2026,
+    2027,
+    2028
+  ],
+  "discount_rate_scenarios": [
+    0,
+    0.1,
+    0.2
+  ],
+  "monthly_atp_inclusion": [
+    false,
+    true
+  ],
+  "pilot_budget": 100000,
+  "allocation": {
+    "Paid occasions": 0.4,
+    "Owned lifecycle": 0.2,
+    "Communities and contests": 0.2,
+    "Native creators": 0.1,
+    "Measurement": 0.1
+  },
+  "pricing_tests": {
+    "250": 79,
+    "500": 89,
+    "Masters": 99,
+    "replay": 39,
+    "offhour_discount": 0.1,
+    "credit_rate": 0.5,
+    "credit_cap": 50
+  },
+  "note": "All driver grids and pilot allocations are design assumptions unless separately linked to a case input or observed source. No distributions represent estimated probabilities."
+}

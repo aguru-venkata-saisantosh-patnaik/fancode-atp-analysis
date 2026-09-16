@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "checks": {
+    "locked_raw_pass": true,
+    "all_source_ids_reviewed": true,
+    "case_inputs_unique": true
+  }
+}

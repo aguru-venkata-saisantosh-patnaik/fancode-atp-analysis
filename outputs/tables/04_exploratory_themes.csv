@@ -1,0 +1,7 @@
+component,top_terms,train_documents,holdout_documents,mean_train_weight,mean_holdout_weight
+0,"app, worst, worst app, sports, best, best app, download, cricket, great, good app",2902,1271,0.020626964276204387,0.02192286032616073
+1,"good, good app, sports, quality, app good, watching, good experience, good quality, aap, cricket",2902,1271,0.017819780348904267,0.017648262115172883
+2,"match, pass, watch, subscription, free, money, ads, watch match, payment, pay",2902,1271,0.02856136534819787,0.029178377693304353
+3,"live, streaming, live streaming, matches, live match, live matches, video, watch live, working, app live",2902,1271,0.020635983388194785,0.019449992617786304
+4,"nice, nice app, fancode, app, happy, app nice, sports, day, app fancode, hai",2902,1271,0.01139807691837549,0.009958583007033943
+5,"bad, bad app, money, experience, bad experience, quality, poor, service, fancode, app bad",2902,1271,0.0151392644314038,0.015117209548136251

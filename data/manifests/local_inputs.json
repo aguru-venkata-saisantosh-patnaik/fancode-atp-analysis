@@ -1,0 +1,79 @@
+[
+  {
+    "id": "supplied_BGCC_FANCODE_R3",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/BGCC_FANCODE_R3.pdf",
+    "file": "data/raw/case_inputs/case_brief/BGCC_FANCODE_R3.pdf",
+    "bytes": 3994426,
+    "sha256": "463add7e5a275baa9351936cbc774a83093ae7a07815d05fe3433b551edbaa1d",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.159053+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Competition requirements"
+  },
+  {
+    "id": "supplied_Blinkit_Case_Study",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/Blinkit_Case_Study.pdf",
+    "file": "data/raw/case_inputs/reference_cases/Blinkit_Case_Study.pdf",
+    "bytes": 663448,
+    "sha256": "3d4d1a59d2852c0135bea1f799033f356b0ff822bc1fc5d07f55b785a4398c0e",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.162344+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  },
+  {
+    "id": "supplied_meesho_case_study_final",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/meesho_case_study_final.pdf",
+    "file": "data/raw/case_inputs/reference_cases/meesho_case_study_final.pdf",
+    "bytes": 1215523,
+    "sha256": "dedfd7dfbf1e3e3b554aae16f10a46352ddffba09878e0d6d6a24e6936310e4c",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.167771+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  },
+  {
+    "id": "supplied_Flipkart Wired 8.0",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/Flipkart Wired 8.0.pdf",
+    "file": "data/raw/case_inputs/reference_cases/Flipkart Wired 8.0.pdf",
+    "bytes": 2693937,
+    "sha256": "c9b99885bdb84bb204650ce2b82461c4ce8959074928812d7dcd4343cecceb9d",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.179141+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  },
+  {
+    "id": "supplied_CaseConsilium_Chanakya",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/CaseConsilium_Chanakya.pdf",
+    "file": "data/raw/case_inputs/reference_cases/CaseConsilium_Chanakya.pdf",
+    "bytes": 2154543,
+    "sha256": "16451b390a3c7798f959dc7ffdabf6f4b5be7ee9ce0cae9242a952d2eb39c152",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.186788+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  },
+  {
+    "id": "supplied_Reckitt",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/Reckitt.pdf",
+    "file": "data/raw/case_inputs/reference_cases/Reckitt.pdf",
+    "bytes": 1087253,
+    "sha256": "d59e3d032548f5654cc7cde9ff7d07eaf84edb316274ebaed1ff6a6042f0d75f",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.191978+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  },
+  {
+    "id": "supplied_DRL Destination 2024",
+    "source_path": "/Users/avssp/Desktop/BITS_CASE/Good/DRL Destination 2024.pdf",
+    "file": "data/raw/case_inputs/reference_cases/DRL Destination 2024.pdf",
+    "bytes": 1631018,
+    "sha256": "608ee572e9cf0c6897fea0283189adca57c333ea58c51a09fce33c86f8b2f9a2",
+    "collection_method": "Byte-identical copy of user-supplied PDF",
+    "copied_at_utc": "2026-09-13T19:41:43.199277+00:00",
+    "redistribution": "User supplied. No public redistribution authorized.",
+    "purpose": "Method and design reference, not FanCode operating evidence"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "checks": {
+    "allocation_totals_100_percent": true,
+    "budget_reconciles": true,
+    "component_channel_totals_match": true,
+    "harmonic_blend_not_mean": true,
+    "reserve_gate_180": true,
+    "contest_cpc_gate": true
+  }
+}

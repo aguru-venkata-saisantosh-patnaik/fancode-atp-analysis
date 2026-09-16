@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "football_rows": 255,
+  "football_fnv1a": "6705d050",
+  "failed_sources_dispositioned": 32,
+  "atp_guide_pages": 160,
+  "gst_rate_table_pdf_page": 33,
+  "limitations": "Checks prove preserved table continuity, provenance coverage and selected document identity. They do not prove causal validity, complete season coverage or entitlement."
+}
