@@ -32,7 +32,7 @@
     "data/manifests/collection_log.jsonl": "71d52270ea5dbd989dadac9999f49fd0724907e740b74ec5e9913a77e89b424a",
     "data/manifests/external_evidence_qa.json": "6d9b1c1e1473201bf71ee32520d8dbc60e988e71d22a0a4711e1747f4364a4df",
     "data/manifests/failure_disposition.json": "a30894a9e93637cfd0eef0b0b337677162da81c36c620b3b27f1b39c79663f40",
-    "data/manifests/local_inputs.json": "ec79d0bab16cedb5abebca244467d591f418798d4b1cf27fbfa94774367b1586",
+    "data/manifests/local_inputs.json": "c6774b4660aa7286e28dd7638bbec66429d3e0fcbc7dac197507fc742dce30f9",
     "data/manifests/manual_captures.json": "2d4c216c787b7f2ecdfe89a6b85c6d8249a497c5083156796b56cdb7944f206f",
     "data/manifests/recovery_v4_qa.json": "fb9423c2b960e2956ae68385e9b6b59289de2e8ce41f78bd743809d01777ff13",
     "data/manifests/recovery_v5_qa.json": "2ab949ba14f0fabf62729180e44acbb54cda0c11c91414fee1ce4336f380f12f",
