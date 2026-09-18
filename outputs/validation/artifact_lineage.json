@@ -2422,7 +2422,7 @@
     "notebook": "08_economics_model",
     "source_ids": [],
     "note": "",
-    "sha256": "31891eeb60d1ccb60dc07c6f796e84244c8af91bc677a51ddcdfb23de5426dda"
+    "sha256": "c246531aab0fedaf6daf703cb07424efbdf6740cdc42e154cbdacefaf5bf8c04"
   },
   {
     "artifact": "outputs/tables/08_unit_economics.csv",
@@ -2470,7 +2470,7 @@
     "notebook": "08_economics_model",
     "source_ids": [],
     "note": "Contribution per acquired payer over 24 months = 1.625 purchases x INR 43.32 x (1 + 40% year-two return) = INR 98.56. Scenario, not observed.",
-    "sha256": "13f6d466d5d2901649a5ef6843e3d28e87ab9c9aceefb3bff5d757cc64ea27fd"
+    "sha256": "b16ab4bceeec84744f92301843d8e4e38de095d87dbabe055e277938fb3f9e1f"
   },
   {
     "artifact": "outputs/tables/08_persona_payers.csv",
@@ -2526,7 +2526,7 @@
     "notebook": "08_economics_model",
     "source_ids": [],
     "note": "Reference scenario only. It clears 24-month break-even but not the 15-month payback gate. Rights fee excluded.",
-    "sha256": "36f628bf500c40e353aa19567111838c054be8164c4c550e583b84a387ea164c"
+    "sha256": "b14fdc5c47f5d3793e1a9bd5dbd6b3722d8cffbca53a4fe0aa090aa9bffa2a5c"
   },
   {
     "artifact": "outputs/tables/08_break_even_rates.csv",
@@ -2566,7 +2566,7 @@
     "notebook": "08_economics_model",
     "source_ids": [],
     "note": "Base assumptions: 20% of reached core are active pass buyers, 85% renewal, INR 36.66 credit cost on every treated upgrader. Performance reserve unspent.",
-    "sha256": "0da16c5d64f810c59fd2687b74ddee6b92b8262b97eac6782070043d28e0a343"
+    "sha256": "33ebdd19483f3ff69f57812381c8a628442715a322f46383422fb7d7a2c30dbe"
   },
   {
     "artifact": "outputs/tables/08_gate1_owned_pilot.csv",

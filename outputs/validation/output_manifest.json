@@ -116,7 +116,7 @@
   {
     "file": "notebooks/executed/08_economics_model.ipynb",
     "bytes": 91118,
-    "sha256": "2da63c4b51bfe044839e54d656a43f11f68145c4b1a0c4d8f1becec96ce6d821",
+    "sha256": "65aa838116aef3acba473789e072c8b66a8a2ef9dee606b18e1a23ba5b25cc85",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -595,8 +595,8 @@
   },
   {
     "file": "outputs/tables/08_model_inputs.csv",
-    "bytes": 5690,
-    "sha256": "31891eeb60d1ccb60dc07c6f796e84244c8af91bc677a51ddcdfb23de5426dda",
+    "bytes": 5768,
+    "sha256": "c246531aab0fedaf6daf703cb07424efbdf6740cdc42e154cbdacefaf5bf8c04",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -980,19 +980,19 @@
   {
     "file": "outputs/figures/svg/08_break_even_curve.svg",
     "bytes": 15611,
-    "sha256": "0da16c5d64f810c59fd2687b74ddee6b92b8262b97eac6782070043d28e0a343",
+    "sha256": "33ebdd19483f3ff69f57812381c8a628442715a322f46383422fb7d7a2c30dbe",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/figures/svg/08_channel_net_per_payer.svg",
     "bytes": 10692,
-    "sha256": "13f6d466d5d2901649a5ef6843e3d28e87ab9c9aceefb3bff5d757cc64ea27fd",
+    "sha256": "b16ab4bceeec84744f92301843d8e4e38de095d87dbabe055e277938fb3f9e1f",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/figures/svg/08_reference_waterfall.svg",
     "bytes": 10633,
-    "sha256": "36f628bf500c40e353aa19567111838c054be8164c4c550e583b84a387ea164c",
+    "sha256": "b14fdc5c47f5d3793e1a9bd5dbd6b3722d8cffbca53a4fe0aa090aa9bffa2a5c",
     "redistribution": "Review source rights before publication"
   },
   {

@@ -15,7 +15,7 @@ acquisition_budget_inr,owned_lifecycle,9200000,A,,
 acquisition_budget_inr,native_personalities,4300000,A,,
 acquisition_budget_inr,contests,2500000,A,,
 acquisition_budget_inr,publisher_takeovers,1200000,A,,
-acquisition_budget_inr,paid_media_test,2500000,A,,"Capped external-audience test, run in the Rotterdam and Dallas equivalent weeks inside Gate 2"
+acquisition_budget_inr,paid_media_test,2500000,A,,"Capped external-audience test inside Gate 2, run in the post-Australian Open European weeks (Montpellier and Rotterdam in 2026, both campaign-ready windows in notebook 10)"
 acquisition_budget_inr,brand_and_measurement,3000000,A,,"Slam-week awareness, persistent holdouts, analysis. Buys no attributed payers"
 channel_cac_build,whatsapp_rate_inr,0.8631,O,v3_meta_inr_ratecard_jan2026,
 channel_cac_build,owned_conversion,0.01,A,,"Purchases per delivered owned message, for users with a tennis or portfolio signal"
