@@ -54,6 +54,17 @@
   }
  },
  "summary": {
+  "events_by_region": {
+   "Americas": 14,
+   "Asia and Oceania": 10,
+   "Europe, Gulf and Morocco": 31
+  },
+  "masters_by_region": {
+   "Americas": 4,
+   "Asia and Oceania": 1,
+   "Europe, Gulf and Morocco": 4
+  },
+  "f1_race_days_during_a_fancode_atp_event": "15 of 23",
   "events": 55,
   "windows": 165,
   "campaign_ready_live": 19,

@@ -191,9 +191,22 @@ def build():
     return df, events
 
 
+def region(tz):
+    if tz.startswith(('Europe', 'Asia/Dubai', 'Asia/Qatar', 'Africa')):
+        return 'Europe, Gulf and Morocco'
+    return 'Asia and Oceania' if tz.startswith(('Asia', 'Australia', 'Pacific')) else 'Americas'
+
+
 def summarise(df, events):
     live = df[df.status == 'Campaign-ready: sell live']
+    ev = events.assign(region=[region(TZ[k]) for k in events.key])
+    f1 = pd.read_csv(P / 'f1_races.csv')
+    race_day = pd.to_datetime(f1.start_utc.str[:10])  # local race day
+    during = [((events.start <= d) & (events.final_date >= d)).any() for d in race_day]
     return {
+        'events_by_region': ev.groupby('region').size().to_dict(),
+        'masters_by_region': ev[ev.tier == 'ATP MASTERS 1000'].groupby('region').size().to_dict(),
+        'f1_race_days_during_a_fancode_atp_event': f'{sum(during)} of {len(f1)}',
         'events': int(len(events)), 'windows': int(len(df)),
         'campaign_ready_live': int(len(live)),
         'early_evening_live': int((df.status == 'Early evening: live with start reminder').sum()),

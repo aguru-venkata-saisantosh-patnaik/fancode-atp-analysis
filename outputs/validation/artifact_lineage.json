@@ -2622,7 +2622,7 @@
     "notebook": "10_campaign_ready_windows",
     "source_ids": [],
     "note": "Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.",
-    "sha256": "a14193a4496d6aa0e843a2575be78f0694f99085281cb6ea419f7cfc8296dfb3"
+    "sha256": "bd41f687e3f6151a0f816b9e6fc0dca3c147afeab1b2ed2ac6229112317ca343"
   },
   {
     "artifact": "outputs/tables/10_campaign_ready_list.csv",

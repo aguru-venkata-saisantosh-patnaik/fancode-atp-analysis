@@ -81,10 +81,10 @@
   },
   "10_campaign_ready_windows": {
     "status": "PASS",
-    "seconds": 2.63,
+    "seconds": 2.68,
     "code_cells": 6,
     "executed_cells": 6,
     "source_sha256": "63641b53709d8528a8f0739672d7f5511f33f6cb7074d922f72c92ac09497aa3",
-    "executed_sha256": "8076bb96a2c39b2622f5864f71a549696ee999bdde3f6db5133d5b7a386ac20a"
+    "executed_sha256": "c3a8bb58f2fa6cb6ffc62a3b98430d0ca31e64fb19ec27ca824b81c04f99e3e1"
   }
 }

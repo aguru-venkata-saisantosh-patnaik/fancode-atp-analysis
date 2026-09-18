@@ -128,7 +128,7 @@
   {
     "file": "notebooks/executed/10_campaign_ready_windows.ipynb",
     "bytes": 67903,
-    "sha256": "8076bb96a2c39b2622f5864f71a549696ee999bdde3f6db5133d5b7a386ac20a",
+    "sha256": "c3a8bb58f2fa6cb6ffc62a3b98430d0ca31e64fb19ec27ca824b81c04f99e3e1",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "file": "outputs/figures/svg/10_campaign_windows_calendar.svg",
     "bytes": 132918,
-    "sha256": "a14193a4496d6aa0e843a2575be78f0694f99085281cb6ea419f7cfc8296dfb3",
+    "sha256": "bd41f687e3f6151a0f816b9e6fc0dca3c147afeab1b2ed2ac6229112317ca343",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1129,8 +1129,8 @@
   },
   {
     "file": "outputs/reports/10_campaign_windows_summary.json",
-    "bytes": 2878,
-    "sha256": "63b970db5492b9f5a5933d7b9cb91b2bfefaa4daf5b058203a6dcf7a8c9be731",
+    "bytes": 3151,
+    "sha256": "86974e6bff850080e83a1a056abadea6ae4300565aaa56e7a7506a3426746cf7",
     "redistribution": "Review source rights before publication"
   },
   {
