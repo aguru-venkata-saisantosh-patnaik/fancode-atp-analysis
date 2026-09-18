@@ -61,8 +61,8 @@
   },
   {
     "file": "notebooks/source/10_campaign_ready_windows.ipynb",
-    "bytes": 7939,
-    "sha256": "514b9dd6fbdca76c5e272e8d0f7d9927a1b4f6f0a9567ecb9f5d968cf66064da",
+    "bytes": 7990,
+    "sha256": "63641b53709d8528a8f0739672d7f5511f33f6cb7074d922f72c92ac09497aa3",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "file": "notebooks/executed/10_campaign_ready_windows.ipynb",
-    "bytes": 68204,
-    "sha256": "ea3b15644969892cac228f6fbf682196a8e00318566eb5f31379cec5694e754b",
+    "bytes": 67903,
+    "sha256": "8076bb96a2c39b2622f5864f71a549696ee999bdde3f6db5133d5b7a386ac20a",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -691,20 +691,20 @@
   },
   {
     "file": "outputs/tables/10_campaign_ready_list.csv",
-    "bytes": 3548,
-    "sha256": "1168109e95b5cbd9a61bf4f8e6af9a96a282adf539e8da86342cba5d76575931",
+    "bytes": 3545,
+    "sha256": "c4223755f83dbfec88d93dcac34440a927e4593843cdc54fc2372e1e714206e4",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/tables/10_campaign_ready_upcoming.csv",
-    "bytes": 1660,
-    "sha256": "9d6233891a66521215d5772d4f8f4cdcce5fc1cb8a9ddd11d851b35175b8efc8",
+    "bytes": 1659,
+    "sha256": "84e03368ce679da61ff76d7f2c17adbb53165a9a2f3a07b0c028881b8f70748c",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/tables/10_campaign_ready_windows.csv",
     "bytes": 58326,
-    "sha256": "5d02ff89c708048541cc91822961b75836cdbef0257c9a1d3b0ca833460dea47",
+    "sha256": "73c2008738c0a81bb14352d5edb8580e55574b1dacbd49103b02416a2721d005",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "file": "outputs/figures/svg/10_campaign_windows_calendar.svg",
     "bytes": 132918,
-    "sha256": "ed791804737fc387549a21837035c71f2f1009b2399a5bafd25ab606b1c37d65",
+    "sha256": "a14193a4496d6aa0e843a2575be78f0694f99085281cb6ea419f7cfc8296dfb3",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1117,8 +1117,8 @@
   },
   {
     "file": "outputs/reports/10_campaign_ready_windows.html",
-    "bytes": 333075,
-    "sha256": "b3ebfd03c9c2ec882b7cdb1e81dcd68c76cf478c8eb3c1db5bc3572e3141e430",
+    "bytes": 333100,
+    "sha256": "f36dea34a269ef1afd4ece7bfc3716955d1dce6e9e2262bbc076a61fac8a6bcf",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1129,8 +1129,8 @@
   },
   {
     "file": "outputs/reports/10_campaign_windows_summary.json",
-    "bytes": 2879,
-    "sha256": "4cb64b598ad37702cef2a308d9522f66861050b9ecee75fe61a49670587e3f78",
+    "bytes": 2878,
+    "sha256": "63b970db5492b9f5a5933d7b9cb91b2bfefaa4daf5b058203a6dcf7a8c9be731",
     "redistribution": "Review source rights before publication"
   },
   {

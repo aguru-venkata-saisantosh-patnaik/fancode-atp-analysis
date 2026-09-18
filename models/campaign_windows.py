@@ -183,7 +183,10 @@ def build():
                          'timing_cells_passed': f'{passes}/{total}', 'status': st, 'clash_check': clash_text,
                          'continuity_trigger': continuity, 'offer': offer, 'rights': 'Covered: ATP Tour package (C)',
                          'timing_confidence': time_conf, 'upcoming': final_date >= ANALYSIS_DATE, 'score': round(score, 1)})
-    df = pd.DataFrame(rows).sort_values(['score', 'window_date'], ascending=[False, True]).reset_index(drop=True)
+    order = {'Campaign-ready: sell live': 0, 'Early evening: live with start reminder': 1, 'Late: remind + replay': 2, 'Overnight: replay only': 3, 'Daytime: highlights': 4}
+    df = pd.DataFrame(rows)
+    df['_o'] = df.status.map(order)
+    df = df.sort_values(['_o', 'score', 'window_date'], ascending=[True, False, True]).drop(columns='_o').reset_index(drop=True)  # status first, then score
     df.insert(0, 'rank', range(1, len(df) + 1))
     return df, events
 

@@ -624,7 +624,7 @@ ax.axhspan(18,23,color=COLORS[1],alpha=.08);ax.set_ylim(0,24);ax.set_yticks(rang
 ax.axvline(pd.Timestamp('2026-09-18'),color='black',ls=':');ax.text(pd.Timestamp('2026-09-20'),1,'today',fontsize=8)
 ax.set_title('The Europe and Gulf swing lands in Indian prime time; the Americas and Asia do not')
 fig('10_campaign_windows_calendar','Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.')'''),
-('md','## 2. The list: campaign-ready windows, ranked\nScore out of 100 = 40% timing robustness + 30% tier + 15% player-story continuity (post-Slam follow-through, race to Turin, season finale) + 15% clash-free. Weights are settings, not estimates. A clash does not disqualify a window: it changes who receives the send.'),
+('md','## 2. The list: campaign-ready windows, ranked\nWindows are ranked by status first, then by score. Score out of 100 = 40% timing robustness + 30% tier + 15% player-story continuity (post-Slam follow-through, race to Turin, season finale) + 15% clash-free. Weights are settings, not estimates. A clash does not disqualify a window: it changes who receives the send.'),
 ('code', '''ready=windows[windows.status=='Campaign-ready: sell live'][['rank','event','tier','session','window_date','ist_start','clash_check','continuity_trigger','offer','timing_confidence','upcoming','score']]
 display(table(ready,'10_campaign_ready_list'))
 ahead=ready[ready.upcoming];display(table(ahead,'10_campaign_ready_upcoming'))'''),

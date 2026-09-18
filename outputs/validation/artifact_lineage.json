@@ -2590,7 +2590,7 @@
     "notebook": "10_campaign_ready_windows",
     "source_ids": [],
     "note": "",
-    "sha256": "5d02ff89c708048541cc91822961b75836cdbef0257c9a1d3b0ca833460dea47"
+    "sha256": "73c2008738c0a81bb14352d5edb8580e55574b1dacbd49103b02416a2721d005"
   },
   {
     "artifact": "outputs/tables/10_window_scoring_settings.csv",
@@ -2622,7 +2622,7 @@
     "notebook": "10_campaign_ready_windows",
     "source_ids": [],
     "note": "Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.",
-    "sha256": "ed791804737fc387549a21837035c71f2f1009b2399a5bafd25ab606b1c37d65"
+    "sha256": "a14193a4496d6aa0e843a2575be78f0694f99085281cb6ea419f7cfc8296dfb3"
   },
   {
     "artifact": "outputs/tables/10_campaign_ready_list.csv",
@@ -2630,7 +2630,7 @@
     "notebook": "10_campaign_ready_windows",
     "source_ids": [],
     "note": "",
-    "sha256": "1168109e95b5cbd9a61bf4f8e6af9a96a282adf539e8da86342cba5d76575931"
+    "sha256": "c4223755f83dbfec88d93dcac34440a927e4593843cdc54fc2372e1e714206e4"
   },
   {
     "artifact": "outputs/tables/10_campaign_ready_upcoming.csv",
@@ -2638,6 +2638,6 @@
     "notebook": "10_campaign_ready_windows",
     "source_ids": [],
     "note": "",
-    "sha256": "9d6233891a66521215d5772d4f8f4cdcce5fc1cb8a9ddd11d851b35175b8efc8"
+    "sha256": "84e03368ce679da61ff76d7f2c17adbb53165a9a2f3a07b0c028881b8f70748c"
   }
 ]

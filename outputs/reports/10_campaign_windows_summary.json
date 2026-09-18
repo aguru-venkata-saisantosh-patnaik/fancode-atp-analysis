@@ -94,7 +94,7 @@
     "score": 92.5
    },
    {
-    "rank": 9,
+    "rank": 6,
     "event": "Basel",
     "session": "Final",
     "window_date": "2026-11-01",
@@ -102,7 +102,7 @@
     "score": 80.5
    },
    {
-    "rank": 10,
+    "rank": 7,
     "event": "Vienna",
     "session": "Final",
     "window_date": "2026-11-01",
@@ -110,7 +110,7 @@
     "score": 80.5
    },
    {
-    "rank": 21,
+    "rank": 11,
     "event": "Almaty",
     "session": "Night session",
     "window_date": "2026-10-19",
@@ -118,7 +118,7 @@
     "score": 71.5
    },
    {
-    "rank": 22,
+    "rank": 12,
     "event": "Brussels",
     "session": "Final",
     "window_date": "2026-10-25",
@@ -126,7 +126,7 @@
     "score": 71.5
    },
    {
-    "rank": 23,
+    "rank": 13,
     "event": "Lyon",
     "session": "Final",
     "window_date": "2026-10-25",
@@ -134,7 +134,7 @@
     "score": 71.5
    },
    {
-    "rank": 24,
+    "rank": 14,
     "event": "Stockholm",
     "session": "Final",
     "window_date": "2026-11-14",

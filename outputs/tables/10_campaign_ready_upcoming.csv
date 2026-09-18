@@ -1,9 +1,9 @@
 rank,event,tier,session,window_date,ist_start,clash_check,continuity_trigger,offer,timing_confidence,upcoming,score
 1,Paris,Masters 1000,Final,2026-11-08,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 99 tournament pass at list,"Medium: published date, modelled time (A)",True,92.5
 2,Turin,Finals,Final,2026-11-22,19:30,Football not checked (no 2026-27 fixture data captured),Season finale,INR 99 tournament pass at list,"Medium: published date, modelled time (A)",True,92.5
-9,Basel,500,Final,2026-11-01,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 89 tournament pass at list,"Medium: published date, modelled time (A)",True,80.5
-10,Vienna,500,Final,2026-11-01,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 89 tournament pass at list,"Low: inherited date, modelled time (A)",True,80.5
-21,Almaty,250,Night session,2026-10-19,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Medium: published date, modelled time (A)",True,71.5
-22,Brussels,250,Final,2026-10-25,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Low: inherited date, modelled time (A)",True,71.5
-23,Lyon,250,Final,2026-10-25,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Low: inherited date, modelled time (A)",True,71.5
-24,Stockholm,250,Final,2026-11-14,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Medium: published date, modelled time (A)",True,71.5
+6,Basel,500,Final,2026-11-01,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 89 tournament pass at list,"Medium: published date, modelled time (A)",True,80.5
+7,Vienna,500,Final,2026-11-01,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 89 tournament pass at list,"Low: inherited date, modelled time (A)",True,80.5
+11,Almaty,250,Night session,2026-10-19,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Medium: published date, modelled time (A)",True,71.5
+12,Brussels,250,Final,2026-10-25,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Low: inherited date, modelled time (A)",True,71.5
+13,Lyon,250,Final,2026-10-25,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Low: inherited date, modelled time (A)",True,71.5
+14,Stockholm,250,Final,2026-11-14,19:30,Football not checked (no 2026-27 fixture data captured),Race to Turin,INR 79 tournament pass at list,"Medium: published date, modelled time (A)",True,71.5
