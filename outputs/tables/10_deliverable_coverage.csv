@@ -1,5 +1,0 @@
-question,requirement,primary_notebooks,supporting_notebooks,planned_slides,analysis_status,deck_status
-Q1,"Portfolio segmentation: F1, football, MotoGP",10,"02,03,04,05,06",2,Implemented with stated public-data limits,Not built in this phase
-Q2,"Passes, player/event bundles, rental, dynamic pricing, competitors","03,07","01,06","4,5",Implemented with stated public-data limits,Not built in this phase
-Q3,Retention and sustained-growth KPIs,"09,10","01,02,04","6,8",Implemented with stated public-data limits,Not built in this phase
-Q4,Marketing percentages and estimated channel costs/CAC,08,"07,09","7,8",Implemented with stated public-data limits,Not built in this phase

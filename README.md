@@ -1,22 +1,73 @@
 # FanCode ATP Analysis
 
-Analysis behind a growth strategy for **ATP Tennis on FanCode in India**: who can be converted into paying viewers, on which viewing occasions, at what price, whether that price repays the cost of acquisition, and the order in which budget should be released.
+The analysis behind a growth strategy for **ATP Tennis on FanCode in India**. It covers who can be converted into paying viewers, on which viewing occasions, at what price, whether that price repays acquisition, and the order in which budget should be released.
 
-Every figure used in the final recommendation is reproducible from this repository. Each claim is tagged with the kind of evidence behind it, and each source is logged with its URL, fetch time and checksum.
+Every economic figure in the recommendation comes from one model, `models/atp_economics.py`, whose inputs sit in one tagged file, `models/model_inputs.json`. Every claim carries an evidence tag. Every public source is logged with its URL, fetch time and checksum.
 
 ---
 
-## The problem
+## The recommendation this supports
 
-ATP Tennis is a portfolio sport with no home crowd and no fixed season. Its calendar runs most of the year, across time zones India does not control, and its biggest moments belong to other broadcasters. Three findings shaped the answer.
+**Turn one match into a season.** Launch an owned-led season-conversion engine now, and release acquisition scale capital only when a holdout proves it pays.
 
-| Finding | Figure | Where it comes from |
+| Finding | Figure | Where |
 | --- | --- | --- |
-| India's attention peaks on tournaments FanCode does not hold | Search runs at **1.74x** an ordinary week during the Grand Slams, against **1.01x** during the Masters events FanCode does hold | `05_search_attention` |
-| Most of the tour is watchable in India, but not all of it | **31 of 55** events land in an Indian evening. Of twelve verified finals, **six** hold prime time under every delay test | `01_viewing_calendar` |
-| A single cheap pass cannot repay acquisition | An ₹89 pass keeps **₹43.32** after tax, fees and delivery, against a ₹150 to 200 target cost per subscriber | `07_contribution_and_pricing` |
+| India's attention peaks on tournaments FanCode does not hold | Search runs at **1.74x** an ordinary week in Slam fortnights, against **1.01x** in the Masters weeks FanCode holds | `05_search_attention` |
+| Only part of the tour lands in Indian prime time | Of **165** event windows across **55** events, **19** hold 18:00–23:00 IST under every timing test. **8** of those are still ahead this season | `10_campaign_ready_windows` |
+| No acquisition channel repays its cost on pass purchases alone | An acquired payer contributes **₹98.56** over 24 months. Owned messaging (₹99 CAC) comes closest. Paid media (₹333) loses **₹235** per payer | `08_economics_model` |
+| The return depends on converting existing pass buyers to a season | With a 10% control upgrade rate, 24-month break-even needs a **13.9–15.7%** treatment upgrade rate, and 15-month payback needs **16.9–19.0%** | `08_economics_model` |
 
-The conclusion the analysis supports: grow through users FanCode already reaches who show tennis interest, sell the cheapest access that covers the occasion they came for, and treat outside acquisition as something to be earned by measurement rather than assumed.
+The upgrade lift is the central hypothesis, not an established result. The plan funds a ₹1 lakh first gate. Scale money moves only if the holdouts prove incremental acquisition and incremental season conversion.
+
+---
+
+## The economics model
+
+`models/atp_economics.py` holds two mutually exclusive cohorts, each measured against its own holdout.
+
+**1. Acquisition: new ATP pass buyers.**
+- **Channels that stay funded.** Owned, native, contests and publisher clear the brief's ₹150–200 target on attributed CAC and keep their envelope.
+- **Paid media.** At ₹333 it is capped to a ₹25 lakh test for audiences not already on FanCode.
+- **Performance reserve (₹0.77 Cr).** The freed money is not moved into owned messaging, because owned reach is finite. It is released only to a channel whose measured marginal incremental CAC is at or below ₹200.
+- **Result.** The committed ₹2.27 Cr, including brand and measurement, buys **151.2k** attributed payers at **₹150** blended attributed CAC. That meets ₹200 incremental CAC only if at least **75%** of those payers are genuinely incremental.
+
+**2. Upgrade: existing ATP pass buyers moved to a season pass.**
+- **Eligible cohort: 864k.** That is 24M ordinary-week viewers × 90% core (case, illustrative) × 20% reached (assumption) × 20% active pass buyers (assumption).
+- **Counting.** Only upgrades above the 10% control rate are credited. Each is worth the season contribution less the passes that buyer would have bought anyway.
+- **Credit cost.** The ₹44.50 credit costs ₹36.66 of contribution and is charged to every treated upgrader, including those who would have upgraded anyway.
+- **New payers.** Later upgrades by newly acquired payers are not counted. They are upside.
+
+| Scenario | Treatment upgrade rate | Acquired payers incremental | Net at 24 months | Payback |
+| --- | --- | --- | --- | --- |
+| No upgrade campaign | n/a | 100% / 87.5% / 60% | −₹0.99 / −₹1.18 / −₹1.59 Cr | Not inside 24 months |
+| Low | 12% | 60% | −₹1.24 Cr | Not inside 24 months |
+| Reference | 16% | 87.5% | +₹0.50 Cr | 17.1 months, fails the 15-month gate |
+| High | 20% | 100% | +₹2.02 Cr | 12.3 months |
+
+**Sensitivity to the active pass-buyer share.** At a 10% share instead of 20%, break-even rises to **16.9–20.5%**. Gate 1 therefore has to count the real share before any upgrade assumption is used.
+
+**Gate sizing.** Each gate is sized to prove the economics, not merely to detect an effect.
+- **Gate 1.** 46,928 users. It proves the owned lift's 95% lower bound clears the 0.496pp at which incremental CAC equals ₹200.
+- **Gate 2.** Between 316 and 101,227 eligible pass buyers per arm, depending on how far the true rate sits above the threshold. It proves the upgrade rate's lower bound clears the break-even or payback threshold.
+- **If the true rate sits close to a threshold, it cannot be proved at a sensible cost.** The decision is then continue or reallocate, never scale.
+
+Campaign economics exclude the undisclosed rights fee. This is an incremental campaign P&L, not a claim about total rights ROI.
+
+---
+
+## Campaign-ready windows
+
+`models/campaign_windows.py` scores every 2026 ATP event in FanCode's package as India viewing windows: day session, night session and final.
+
+- **The timing test.** A window is **campaign-ready** only if its start sits inside all three viewing windows (18–23, 19–24 and 17–24 IST) under every start delay from 0 to 120 minutes. That is 12 of 12 tests.
+- **What each window carries:**
+  - its sport-clash check (F1 races, La Liga fixtures)
+  - its player-story trigger (post-Slam follow-through, race to Turin, season finale)
+  - the offer to sell
+  - a timing-confidence label
+- **Ranking.** Windows are ranked by a 100-point score: 40% timing robustness, 30% tier, 15% continuity and 15% clash-free. The weights are settings, not estimates.
+
+The full list is `outputs/tables/10_campaign_ready_windows.csv`. The windows still ahead this season are in `10_campaign_ready_upcoming.csv`.
 
 ---
 
@@ -24,17 +75,17 @@ The conclusion the analysis supports: grow through users FanCode already reaches
 
 | Path | Contents |
 | --- | --- |
-| `notebooks/source/` | 11 analysis notebooks, unexecuted, one per question |
+| `models/` | `atp_economics.py` and `campaign_windows.py`, the tagged `model_inputs.json`, and `atp_economics.json` output |
+| `notebooks/source/` | 11 analysis notebooks, unexecuted |
 | `notebooks/executed/` | The same notebooks with all outputs, exactly as run |
-| `models/` | `year1_model` and `audit_v2`, the corrected model that supersedes it |
-| `data/processed/` | Cleaned inputs the notebooks read |
+| `data/processed/` | Cleaned inputs the notebooks and models read |
 | `data/manifests/` | Collection logs, source inventory, checksums, validation records |
-| `outputs/tables/` | 79 result tables |
-| `outputs/figures/` | 42 figures in PNG and SVG |
-| `outputs/reports/` | Rendered notebook reports and per-question findings |
+| `outputs/tables/` | Result tables, prefixed by notebook number |
+| `outputs/figures/` | Figures in PNG and SVG |
+| `outputs/reports/` | Rendered notebooks, per-notebook findings and `index.html` |
 | `outputs/validation/` | Checks run against the results |
-| `config/` | Source registry, external evidence registry, collection protocol, environment lock |
-| `scripts/` | Collection, validation and release tooling |
+| `config/`, `analysis_config/` | Source registry, evidence registry, collection protocol, analysis settings |
+| `scripts/` | Collection, validation, notebook build and packaging tooling |
 | `src/` | Shared helpers used across notebooks |
 | `docs/` | Data availability, source catalogues, recovery notes |
 
@@ -44,48 +95,30 @@ The conclusion the analysis supports: grow through users FanCode already reaches
 
 | Notebook | What it establishes |
 | --- | --- |
-| `00_evidence_and_case` | Case facts, operating assumptions, and the claim register every later notebook writes into |
-| `01_viewing_calendar` | Real start times for all 55 regular 2026 events, converted to IST, with twelve finals verified against official orders of play |
-| `02_portfolio_clashes` | Overlap in minutes between ATP finals and F1, football and MotoGP, so tennis is never sold into a fan's own match |
-| `03_offers_and_baskets` | Live FanCode pricing, pass formats and basket comparisons against the monthly and annual plans |
-| `04_review_friction` | 15,229 app reviews, of which 4,903 are low rated, classified for payment and access complaints |
+| `00_evidence_and_case` | Case facts, operating assumptions and requirement coverage |
+| `01_viewing_calendar` | Start times for the 2026 calendar in IST, with twelve finals verified against official orders of play |
+| `02_portfolio_clashes` | Overlap between ATP finals and F1, football and MotoGP, so tennis is never sold into a fan's own match |
+| `03_offers_and_baskets` | FanCode pricing, pass formats and basket comparisons against monthly and annual plans |
+| `04_review_friction` | 15,229 app reviews, 4,903 low rated, classified for payment and access complaints |
 | `05_search_attention` | 53 weeks of India search interest for tennis, each week tagged by what was on court |
 | `06_player_and_video_risk` | Player availability and the risk of building a pass around individual names |
-| `07_contribution_and_pricing` | Unit contribution per pass and per season after GST, gateway fees and delivery cost |
-| `08_channel_economics` | Cost per acquired payer by channel, and the allocation that follows from it |
-| `09_retention_and_experiments` | Retention behaviour, KPI definitions with fixed denominators, and experiment design |
-| `10_strategy_and_claims` | Final claims, each tied back to the notebook and source that produced it |
-
----
-
-## The models
-
-Two models sit in `models/`, and the difference between them matters.
-
-**`year1_model`** was the first pass: persona targets, channel budget and a year-one P&L.
-
-**`audit_v2`** is the corrected model and the one the final recommendation uses. It fixes five errors found when the first pass was audited:
-
-1. **No subtraction across different population bases.** The earlier version subtracted a weekly viewing estimate from a survey-derived follower estimate. Populations are now anchored on one reported company figure, 21M engaged F1 fans, with survey shares used only as relative weights between sports.
-2. **Repeat purchase read correctly.** The case states that match-pass buyers return at 60 to 65%. Read as "ever repurchases", a buyer makes about **1.6** purchases, not the four implied by treating that rate as a per-event hazard.
-3. **Audience pools demoted to a capacity check.** The pools test whether the year-one target is a reachable share of the audience, **0.47% to 1.5%**, rather than forecasting demand.
-4. **Seasonality-aware payback, across three scenarios.** Year-two contribution is earned over the eight busy months of the tour, not spread evenly. Payback lands at **12.0, 13.4 and 20.9 months** in the high, base and low cases. The low case does not repay inside two years.
-5. **Purchase CAC and incremental CAC kept apart.** A blended **₹175** purchase CAC is **₹291** if only 60% of payers are genuinely new. The pilot is therefore sized on the lift that pays for itself, a **0.496pp** break-even, and not on the smallest detectable lift.
-
-Both are kept so the correction is auditable rather than quietly overwritten.
+| `07_contribution_and_pricing` | Unit contribution per pass and per season, credit and discount hurdles, usage-cost stress |
+| `08_economics_model` | The two-cohort model: channel CAC and net per payer, allocation by gate, P&L scenarios, break-even and payback upgrade rates, gate sizing |
+| `09_retention_and_experiments` | Retention journeys, KPI definitions with fixed denominators, general power grids |
+| `10_campaign_ready_windows` | The scored 2026 window list and the windows still ahead this season |
 
 ---
 
 ## Evidence convention
 
-Every claim in the analysis carries one of four tags, used consistently across notebooks, tables and the claim register in `outputs/reports/claim_register.json`.
-
 | Tag | Meaning |
 | --- | --- |
 | **C** | Case input, taken from the brief as given |
 | **O** | Observed, collected from a named public source and recorded in the manifests |
-| **D** | Derived, computed in these notebooks from C or O inputs |
+| **D** | Derived, computed here from C or O inputs |
 | **A** | Assumption, chosen by us and stated as such |
+
+Every model input carries one of these tags in `models/model_inputs.json`, and `outputs/tables/08_model_inputs.csv` lists them.
 
 ---
 
@@ -93,55 +126,54 @@ Every claim in the analysis carries one of four tags, used consistently across n
 
 | Source | What it contributed |
 | --- | --- |
-| Case brief | Every **C** figure: illustrative audience scale, the ₹79 to 99 pass range, the ₹399 season, the 60 to 65% repeat rate, 90% season renewal, the ₹150 to 200 CAC target |
-| [Google Trends India](https://trends.google.com) | Weekly interest for tennis and comparison sports across 2025 and 2026, tagged by what was on court, producing 1.74x against 1.01x |
+| Case brief | Every **C** figure: illustrative audience scale, the ₹79–99 pass range, the ₹399 season, the 60–65% repeat rate, 90% season renewal, the 7.8% contest conversion, the ₹150–200 CAC target |
+| [Google Trends India](https://trends.google.com) | Weekly interest for tennis and comparison sports across 2025 and 2026 |
 | IBM Sports Fan Survey 2025 | n = 2,209. Used only as a relative weight between sports, never as a population count |
-| [Play Store](https://play.google.com) and [App Store](https://apps.apple.com) | 15,229 FanCode reviews collected, 4,903 of them low rated, classified for payment and access friction |
-| [FanCode](https://www.fancode.com) | Offer, plan and checkout pages captured 13 September 2026 for live pricing |
-| [ATP](https://www.atptour.com) | Tour calendar and official orders of play for start-time verification |
-| [Formula 1](https://www.formula1.com), [La Liga](https://www.laliga.com), [MotoGP](https://www.motogp.com) | Competing fixture calendars, converted to IST for clash analysis |
-| [Razorpay](https://razorpay.com), [Cloudflare Stream](https://www.cloudflare.com), GST schedule | Gateway fees, delivery cost and tax treatment behind unit contribution |
+| [Play Store](https://play.google.com) and [App Store](https://apps.apple.com) | 15,229 FanCode reviews, classified for payment and access friction |
+| [FanCode](https://www.fancode.com) | Offer, plan and checkout pages captured 13 September 2026 |
+| [ATP](https://www.atptour.com) | Tour calendar and official orders of play |
+| [Formula 1](https://www.formula1.com), [La Liga](https://www.laliga.com), [MotoGP](https://www.motogp.com) | Competing fixture calendars, converted to IST |
+| [Razorpay](https://razorpay.com), [Cloudflare Stream](https://www.cloudflare.com), GST schedule | Gateway fees, delivery cost and tax behind unit contribution |
 | Meta rate card, Nurdd CPC benchmarks, Kofluence creator report | Message and media costs behind channel CAC |
-| [Tennis TV](https://www.tennistv.com), SonyLIV, JioHotstar | Competitor pricing for the per-event comparison |
-| Public reporting on FanCode's F1 engagement | The 21M engaged F1 fans figure that anchors every audience pool |
-
-Every capture is logged in `data/manifests/` with its URL, timestamp, validation result and SHA-256 checksum.
+| [Tennis TV](https://www.tennistv.com), SonyLIV, JioHotstar | Competitor pricing |
+| Public reporting on FanCode's F1 engagement | The 21M engaged F1 fans that anchor the sport pools |
 
 ---
 
 ## Reproducing the analysis
 
+The two models and notebooks 08 and 10 run from committed files only:
+
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
-pip install jupyter pandas numpy matplotlib
-jupyter lab
+pip install jupyter pandas numpy matplotlib scipy statsmodels pypdf beautifulsoup4 pillow
+python models/atp_economics.py      # writes models/atp_economics.json
+python models/campaign_windows.py   # writes outputs/tables/10_campaign_ready_windows.csv
 ```
 
-Run `notebooks/source/` in order, 00 through 10. Each reads from `data/processed/` and writes to `outputs/`. The models run standalone:
+To change an assumption, edit `models/model_inputs.json` and rerun. `scripts/analysis/build_notebooks.py` regenerates the notebook sources. `scripts/analysis/run_notebooks.py` executes them. `scripts/analysis/package_analysis.py` validates the package and rebuilds `outputs/reports/index.html`.
 
-```bash
-python models/audit_v2.py      # writes audit_v2.json
-python models/year1_model.py   # writes year1_model.json
-```
-
-`config/collection_environment.lock.txt` records the environment the collection scripts ran in.
+Notebooks 00–07 and 09 read the raw captures, which are not committed. Their executed versions, tables and figures are committed as run.
 
 ---
 
 ## On the raw captures
 
-The raw HTML captures are not committed. They are saved copies of third-party pages, and republishing them is not ours to do.
+The raw HTML and PDF captures are saved copies of third-party pages, and republishing them is not ours to do.
 
-What is committed is the full provenance trail. `config/sources.json` and `data/manifests/` record every source URL, when it was fetched, whether validation passed, and the checksum of what was retrieved, so any figure can be traced to its origin and re-collected with the scripts in `scripts/`.
+What is committed is the full provenance trail. `config/sources.json` and `data/manifests/` record every source URL, when it was fetched, whether validation passed, and the checksum of what was retrieved.
 
 ---
 
 ## Limits
 
-- **The audience pools are not counts of buyers.** The 7.8M, 14.0M and 1.6M sport pools are anchored on one reported company figure and weighted by a survey ratio. They rank the segments and test that the target is reachable. They are not FanCode subscriber numbers.
-- **Some case figures are illustrative.** The 36M, 21.6M and 14.4M audience figures are the brief's own and are labelled illustrative there. They are used as scale only, and no revenue is built on them.
-- **App review counts say nothing about awareness.** Review mentions measure what people write about, not what they know. They are used only to size payment and access friction.
-- **The low case loses money.** If owned prompts convert at half the estimate, blended purchase CAC rises to about ₹228 and payback passes 20 months. That case is kept visible in the model rather than excluded.
+- **The upgrade lift is a hypothesis.** The 20% active pass-buyer share, the 10% control rate and the treatment rate are assumptions to be tested in Gates 1 and 2, not measured FanCode behaviour.
+- **The core audience is the brief's illustration.** 21.6M = 24M ordinary-week viewers × 90%, both labelled illustrative in the brief. The upgrade cohort is built on it and says so.
+- **Audience pools are not counts of buyers.** The F1, football and MotoGP pools are anchored on one reported company figure and weighted by a survey ratio. They split in-app payers between personas and test reachability. They are not subscriber numbers.
+- **Test-ceiling CACs are purchasing rules.** Native personalities (₹150) and publisher takeovers (₹180) have no public cost basis. They are ceilings a purchase must meet, not estimates.
+- **Session times are modelled** except for the twelve verified finals. Each week's order of play must be confirmed before a send.
+- **Football clashes after 8 September 2026 are not checked**, because 2026-27 fixtures were not captured. MotoGP session clocks are quarantined in `02_portfolio_clashes`.
+- **App review counts measure visibility, not awareness.**
 
 ---
 

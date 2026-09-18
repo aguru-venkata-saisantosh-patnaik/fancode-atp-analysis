@@ -462,56 +462,6 @@ for k,g in v.groupby('star_mention'):plt.scatter(np.repeat(int(k),len(g))+rng.no
 plt.xticks([0,1],['Other title','Selected star mentioned']);plt.ylabel('log10(displayed views + 1)');plt.title('Content popularity is highly dispersed');fig('06_video_views','Keyword-selected metadata, cumulative views, mixed ages and competitions. Title association is not player causal effect.')
 check('06_player_video',{'video_ids_unique':v.video_id.is_unique,'video_count_53':len(v)==53,'only_2025_season_ids':bool(regular.tourney_id.str.startswith('2025-').all()),'player_event_unique':not pe.duplicated(['player','tourney_id']).any(),'progression_bounded':bool(players.SF_share_of_played_events.between(0,1).all())})
 report('06_player_video_findings','Prefer event or flexible access over an unconditional player-final promise. Historical played-event progression shows appearance risk and does not count pre-event withdrawals. Videos provide a creative prioritization proxy, not willingness to pay or a price premium. Replays, alternative-player options and clear refunds should be evaluated before testing a player-specific SKU.')''')])
-notebook('08_channel_economics','08 | Marketing allocation and channel feasibility','Meet the brief with reconciled percentages, explicit cost builds and conditional CACs. The case supplies target CAC and current spending shares. Proposed envelopes and incremental-response scenarios are separate from those supplied facts.',[
-('md','## 0. Supplied baseline and CAC definitions\nThe brief gives the INR150–200 target per paying subscriber, current performance spend of 65–70%, a recurring 7.8% contest click-to-purchase rate, and an engagement peak around D-2. ESPN.in takeovers and native personalities are existing levers. Native personalities have effectively zero incremental media-rights cost. Production and distribution costs remain separate. The absolute marketing budget and achieved channel CAC are not supplied. The case does not define its target as causal incremental CAC. Purchase CAC and incremental CAC must therefore be reported separately. Applying INR150–200 to incremental CAC is an additional proposed hurdle, not a reinterpretation of the supplied target. INR175 is a scenario within the target range, not reported performance.'),
-('code', '''baseline=pd.DataFrame([('Performance marketing',.65,.70),('Brand and other acquisition',.30,.35)],columns=['case_bucket','current_share_low','current_share_high']);display(table(baseline,'08_current_spend_baseline'))
-cpc_gate=pd.DataFrame([dict(target_cac=t,contest_click_to_purchase=.078,maximum_cpc_before_other_cost=t*.078) for t in [150,200]]);display(table(cpc_gate,'08_case_contest_cpc_ceiling'))
-print('At supplied 7.8% conversion, media-only purchase CAC = CPC / 0.078. Target INR150–200 permits INR11.70–15.60 CPC before partner, prize, creative and other acquisition costs.')
-print('The proposed 40/20/20/10/10 groups are all-in operating envelopes. They are not directly comparable with the current performance-versus-brand accounting split. Reclassify all paid distribution consistently before claiming a change in performance share.')'''),
-('md','## 1. Normalize the budget and expose each cost component\nUse INR100,000 as a planning scale. Fixed production, staff and prize budgets are management assumptions. CPC and messaging rates are external proxies. The stress model counts incremental new FanCode payers. A separate table reports purchase CAC where the scenario provides that denominator. Cross-channel overlap must be prevented by disjoint cells or measured with a combined holdout.'),
-('code', '''allocation=pd.DataFrame([dict(channel=k,share=v,budget=CFG['pilot_budget']*v) for k,v in CFG['allocation'].items()]);display(table(allocation,'08_budget_allocation'))
-components=pd.DataFrame([
-('Paid occasions','Creative and operations',6000,'Planning assumption',''),('Paid occasions','Media envelope',34000,'Budget remainder','v3_nurdd_india'),
-('Owned lifecycle','Creative, tooling and operations',12000,'Planning assumption',''),('Owned lifecycle','Messaging envelope',8000,'Budget remainder','v3_meta_inr_ratecard_jan2026'),
-('Communities and contests','Partner, prizes and operations',12000,'Planning assumption, no partner quote',''),('Communities and contests','Click acquisition envelope',8000,'Budget remainder','v3_nurdd_india'),
-('Native creators','Four nano reels at INR1500',6000,'Chosen fee within broad external range','kofluence_2025_report'),('Native creators','Usage, editing and distribution',4000,'Planning assumption',''),('Measurement','Experiment setup and analysis',10000,'Planning assumption','')],columns=['channel','component','cost','status','source_id'])
-display(table(components,'08_cost_build'))
-print('WhatsApp external rate:',METRICS['whatsapp_marketing']['value'],'INR/message. BSP markup, current contract and tax treatment are not verified.')
-print('Paid CPC proxy:',METRICS['meta_cpc_d2c']['value'],'INR/click, unrelated D2C categories. No FanCode audience quote.')'''),
-('md','## 2. Conditional outcomes and costs for each acquisition method\nUse three stress-test cells, not probability-weighted forecasts. Paid conversion is assumed, contest conversion is the supplied 7.8% with uncertain transferability, owned response is direct incremental percentage-point lift, and creator attributed clicks are assumed capacity. The optimistic cell combines favourable inputs and is not a confidence limit.'),
-('code', '''scenarios=[dict(scenario='Adverse',cpc=18,paid_cvr=.005,incremental_share=.3,owned_lift=.002,creator_clicks=100,creator_cvr=.01),dict(scenario='Working test',cpc=10,paid_cvr=.015,incremental_share=.6,owned_lift=.01,creator_clicks=500,creator_cvr=.02),dict(scenario='Favourable',cpc=5,paid_cvr=.03,incremental_share=.9,owned_lift=.03,creator_clicks=1500,creator_cvr=.05)]
-rows=[];rate=float(METRICS['whatsapp_marketing']['value'])
-for s in scenarios:
- outcome={
- 'Paid occasions':(34000/s['cpc'],34000/s['cpc']*s['paid_cvr']*s['incremental_share'],'paid clicks'),
- 'Owned lifecycle':(8000/rate,8000/rate*s['owned_lift'],'one delivered message per eligible prospect'),
- 'Communities and contests':(8000/s['cpc'],8000/s['cpc']*.078*s['incremental_share'],'contest clicks'),
- 'Native creators':(s['creator_clicks'],s['creator_clicks']*s['creator_cvr']*s['incremental_share'],'creator attributed clicks')}
- for channel,(quantity,payers,unit) in outcome.items():
-  cost=float(allocation.set_index('channel').loc[channel,'budget']);rows.append(dict(scenario=s['scenario'],channel=channel,quantity=quantity,unit=unit,cost=cost,incremental_payers=payers,icac=cost/payers,required_channel_ceiling=180,meets_180=cost/payers<=180))
-channels=pd.DataFrame(rows)
-comparisons=[]
-for row in channels.itertuples():
- q=next(x['incremental_share'] for x in scenarios if x['scenario']==row.scenario)
- gross=row.incremental_payers/q if row.channel!='Owned lifecycle' else np.nan
- comparisons.append(dict(scenario=row.scenario,channel=row.channel,cost=row.cost,attributed_pass_purchases=gross,purchase_cac=row.cost/gross if pd.notna(gross) else np.nan,incremental_payers=row.incremental_payers,incremental_cac=row.icac,denominator_note='Purchases must be deduplicated and confirmed as acquired paying subscribers for direct target comparison' if pd.notna(gross) else 'Owned scenario specifies uplift only, total purchase conversion is not supplied'))
-display(table(pd.DataFrame(comparisons),'08_purchase_and_incremental_cac'))
-table(pd.DataFrame(scenarios),'08_response_assumptions');display(table(channels,'08_conditional_channel_cac'));table(channels,'channel_scenarios',True)
-blend=channels.groupby('scenario').agg(acquisition_cost=('cost','sum'),incremental_payers=('incremental_payers','sum')).reset_index();blend['measurement_cost']=10000;blend['fully_loaded_icac']=(blend.acquisition_cost+blend.measurement_cost)/blend.incremental_payers;display(table(blend,'08_blended_programme_cac'))
-plt.figure(figsize=(10,4));pivot=channels.pivot(index='channel',columns='scenario',values='icac');pivot.plot.barh(ax=plt.gca(),logx=True);plt.axvline(180,color='black',ls='--');plt.xlabel('Conditional incremental CAC (INR, logarithmic axis)');plt.title('The initial allocation is a learning budget, not proven efficiency');plt.legend(fontsize=8);fig('08_channel_cac','External unit-cost proxies plus explicit response assumptions. INR180 channel gate allows a 10% measurement reserve.')'''),
-('md','## 3. Solve for feasible procurement and response\nA rate is useful only with a denominator. Under the stated budget, owned messaging also has a reach ceiling. Publisher takeovers lack a quote, so show allowable fixed fees under explicit click scenarios. The takeover is an alternative use of the community allocation, never an extra unbudgeted channel.'),
-('code', '''gates=[]
-for target in [150,200]:
- cell=target*.9
- for q in [.3,.6,.9,1]:
-  for clicks in [500,1000,2000]:
-   gross=clicks*.078*q;gates.append(dict(programme_target=target,channel_ceiling=cell,incremental_share=q,clicks=clicks,maximum_all_in_contest_or_takeover_fee=gross*cell,maximum_media_cpc_before_fixed=cell*.078*q,required_clicks_for_20000=20000/(cell*.078*q)))
-display(table(pd.DataFrame(gates),'08_contest_takeover_procurement_gates'))
-creators=pd.DataFrame([dict(reel_fee=fee,required_incremental_payers_fee_only=np.ceil(fee/180),source_id='kofluence_2025_report',limitation='Broad nano-creator range, excludes usage/editing/amplification') for fee in [500,1500,5000]]);display(table(creators,'08_creator_fee_hurdles'))
-owned=pd.DataFrame([dict(target=target,incremental_payers_required=20000/(target*.9),messages_at_quoted_rate=8000/rate,minimum_incremental_conversion_lift=(20000/(target*.9))/(8000/rate)) for target in [150,200]]);display(table(owned,'08_owned_capacity_gate'))
-reserve=pd.DataFrame([dict(reserve_share=r,target=t,acquisition_cell_ceiling=t*(1-r),programme_payers_required=np.ceil(100000/t)) for r in [0,.05,.1,.2] for t in [150,200]]);table(reserve,'08_measurement_reserve_sensitivity')
-check('08_channels',{'allocation_totals_100_percent':abs(allocation.share.sum()-1)<1e-12,'budget_reconciles':components.cost.sum()==100000,'component_channel_totals_match':components.groupby('channel').cost.sum().sort_index().equals(allocation.set_index('channel').budget.sort_index().astype(int)),'harmonic_blend_not_mean':all(abs(r.fully_loaded_icac-100000/r.incremental_payers)<1e-8 for r in blend.itertuples()),'reserve_gate_180':200*.9==180,'contest_cpc_gate':abs(180*.078*.6-8.424)<1e-9})
-report('08_channel_findings','Maintain the 40/20/20/10/10 split as a staged learning allocation, with stop/reallocation gates. Print numerical conditional CACs and their component assumptions together. Do not claim the working response cell is achievable. Owned reach is finite and non-zero-cost. A publisher takeover requires a quote below the conditional fee ceiling and attributable traffic verification, then a holdout for incremental payers. The normalized budget is not necessarily sufficient to power all experiments simultaneously.')''')])
 notebook('09_retention_and_experiments','09 | Retention, opportunity gaps and causal tests','Design a measurement system rather than inventing cohort outcomes. No survey, experiment or internal event stream exists in this package. Numerical power results are planning calculations.',[
 ('md','## 1. Opportunity-adjusted journeys\nUse the next dated regular-tour window as an example of a return opportunity. A source-dated tournament window is not a confirmed player appearance or usable hour. Keep first-ever, reactivated, new-entitlement and already-covered users separate.'),
 ('code', '''future=read('atp_future_windows');future=future[future.regular_atp.astype(str).str.lower()=='true'].copy();future['start_date']=pd.to_datetime(future.start_date);future['end_date']=pd.to_datetime(future.end_date)
@@ -565,49 +515,129 @@ pilot=pd.DataFrame([
 ('4','Expansion','Increase only where measured marginal contribution and reachable capacity support it','Pause at nonpositive marginal contribution or worsening playback/refund guardrails')],columns=['stage','test','design','stop_or_scale_rule']);display(table(pilot,'09_pilot_design'))
 check('09_experiments',{'positive_sample_sizes':bool((power.users_per_arm>0).all()),'larger_lift_requires_fewer_users':all(g.sort_values('relative_lift').users_per_arm.is_monotonic_decreasing for _,g in power.groupby('baseline')),'cluster_design_effect_at_least_one':bool((clusters.design_effect>=1).all()),'mature_90_subset_30':bool((~maturity.eligible_90d|maturity.eligible_30d).all())})
 report('09_retention_findings','Sequence the pilot instead of splitting a small budget across many underpowered tests. Fix and instrument pay-to-play first. Primary business outcome is total portfolio contribution per randomized eligible user. Define mature repeat and genuine renewal separately. Opportunity-adjusted return complements calendar-day return, but cannot hide unavailable events or selectively exclude disengaged users.')''')])
-notebook('10_strategy_and_claims','10 | Decision synthesis and presentation evidence','Connect the analyses into the four requested decisions. Recommendations are starting treatments with explicit reversal conditions. This notebook does not claim a completed slide deck or a measured optimal strategy.',[
-('md','## 1. Sport × entitlement segmentation\nSport interests overlap. Ownership states determine whether the action is acquisition, upgrade or retention. No row has an invented audience size. Require a tennis-interest signal and a usable occasion before cross-sport promotion.'),
-('code', '''sports={'F1':'Rivalry and championship story, outside selected race coverage','Football':'Specific club or competition break, concise tennis matchup introduction','MotoGP':'Player rivalry and season progression, outside selected race coverage','Tennis-first comparator':'Confirmed player/event intent and clear timing'}
-states={'Never paid / lapsed, ATP uncovered':'Separate first-ever and reactivated users. Cheapest covering entry offer, no automatic annual push.','Active payer, ATP uncovered':'Incremental coverage for chosen basket. Compare tournament, season and portfolio options.','ATP already covered':'Suppress redundant sale. Surface included live/replay occasion, evaluate renewal contribution.'}
-segments=[]
-for sport,bridge in sports.items():
- for ownership,action in states.items():segments.append(dict(sport=sport,ownership=ownership,observable_eligibility='Verified entitlement + explicit or observed tennis interest + usable time',message_hypothesis=bridge,lead_action=action,success='Incremental new payer' if ownership.startswith('Never') else ('Portfolio contribution from additional coverage' if ownership.startswith('Active') else 'Incremental renewal contribution'),kill_rule='No positive incremental portfolio contribution, insufficient relevant reach, or playback/refund harm'))
-segments=pd.DataFrame(segments);display(table(segments,'10_segmentation_matrix'))
-# Structured decision rules make conditions visible instead of an opaque score.
-rules=pd.DataFrame([
-('Already covered','Included next occasion','Incremental renewal contribution > message and service cost','Do not sell redundant access'),
-('One intended tennis event','Tournament access','Positive incremental cohort contribution','Stop paid media above allowable acquisition cost'),
-('Repeated tennis, enough remaining events','Minimum-cost season or monthly coverage','Basket price advantage and scope verified','Switch if monthly covers the basket more cheaply'),
-('Multiple sports across dates','Exact minimum-cost portfolio coverage','Fits dates and devices, increment over existing ownership known','Do not assume annual is best'),
-('No usable live time','Existing replay or feasibility-tested rental','Incremental contribution exceeds displaced live purchases','Reject rental if cannibalization dominates'),
-('Player-led intent','Confirmed event / flexible player bundle','Participation and refund terms clear','No unconditional promise of a semifinal/final'),
-('Low intent / no usable occasion','Suppress or very small exploration cell','Demonstrable persuasion and reachable scale','Do not spend against registration count')],columns=['customer_state','lead_recommendation','economic_gate','reversal']);display(table(rules,'10_recommendation_rules'))'''),
-('md','## 2. Export computed claims, including their limits\nEach claim links to a table, notebook and intended slide. A scenario output remains a scenario in the slide headline. Do not copy an external audience estimate into the conversion denominator.'),
-('code', '''timing=pd.read_csv(ROOT/'outputs/tables/01_timing_robustness.csv');econ=pd.read_csv(ROOT/'outputs/tables/07_contribution_grid.csv');search=pd.read_csv(ROOT/'outputs/tables/05_search_associations.csv');reviews=pd.read_csv(ROOT/'outputs/tables/04_store_coverage.csv');blended=pd.read_csv(ROOT/'outputs/tables/08_blended_programme_cac.csv');power=pd.read_csv(ROOT/'outputs/tables/09_binary_power_grid.csv')
-season=econ[(econ.price==399)&(econ.tax==.18)&(econ.other_variable_cost==30)&(econ.cac==175)].iloc[0]
-claims=[
-('C01','Robust final-start fit across all chosen timing cells',int((timing.fraction_of_design_cells==1).sum()),'of 12 purposively selected finals','01_timing_robustness.csv','01','3','Design grid, not probability or full-season share'),
-('C02','Explicit tennis mentions in collected mobile and iOS reviews',int(reviews.tennis_mentions.sum()),'mentions','04_store_coverage.csv','04','1','Sparse keyword signal, not a tennis customer survey'),
-('C03','F1/FanCode rank correlation in common request',float(search[search.sport=='Formula 1'].level_rho.iloc[0]),'Spearman rho','05_search_associations.csv','05','1','Search association, not paid acquisition attribution'),
-('C04','Season contribution before marketing under selected cost case',float(season.pre_marketing_contribution),'INR','07_contribution_grid.csv','07','5','18% inclusive tax, 2% fee plus fee tax, INR30 additional cost'),
-('C05','Season contribution after INR175 acquisition in same case',float(season.after_acquisition),'INR','07_contribution_grid.csv','07','5','Rights excluded, not observed company margin'),
-('C06','Incrementality needed at attributed INR175 for INR200 iCAC',.875,'fraction','07_incrementality_cac.csv','07','5','Algebraic target requirement, not measured fraction'),
-('C07','Acquisition-cell ceiling after 10% reserve at INR200 target',180,'INR','08_measurement_reserve_sensitivity.csv','08','7','Reserve funds no separately credited payers'),
-('C08','Working-test programme CAC',float(blended[blended.scenario=='Working test'].fully_loaded_icac.iloc[0]),'INR','08_blended_programme_cac.csv','08','7','Conditional on unmeasured response assumptions, not forecast'),
-('C09','Users for 1% baseline and 20% relative lift',int(power[np.isclose(power.baseline,.01)&np.isclose(power.relative_lift,.2)].total_users.iloc[0]),'total randomized users','09_binary_power_grid.csv','09','8','Two-sided 5% alpha, 80% power, independent equally sized arms')]
-claims=pd.DataFrame(claims,columns=['claim_id','claim','value','unit','table','notebook','planned_slide','qualification']);table(claims,'10_claim_register');(ROOT/'outputs/reports/claim_register.json').write_text(claims.to_json(orient='records',indent=2));display(claims)
-report('10_decision_summary',f"The strongest case is profitable viewing occasions plus the next relevant reason to return. In the declared sensitivity grid, {int((timing.fraction_of_design_cells==1).sum())} of 12 selected final starts fit every window/delay cell. This is not a population result. Only {int(reviews.tennis_mentions.sum())} explicit tennis-related review mentions were found. Selected season contribution is INR{season.pre_marketing_contribution:.2f} before acquisition and INR{season.after_acquisition:.2f} after INR175, under stated costs. The working channel scenario implies INR{float(blended[blended.scenario=='Working test'].fully_loaded_icac.iloc[0]):.2f} fully loaded iCAC, so the chosen allocation must earn expansion through tests rather than be sold as already feasible.")'''),
-('md','## 3. A connected eight-slide argument\nThe executive summary is a separate mandatory page, written from the verified claims. Source and scenario notes remain on the main slides where they affect decisions. Core answers are not hidden in an appendix.'),
-('code', '''story=[
-(1,'Diagnose profitable ATP growth','Case denominator audit + search/review limits','Separate interest, access and incremental payment','00,04,05','00_evidence_coverage','Which customers require which intervention?'),
-(2,'Target audience states, not undeduplicated sport totals','F1/football/MotoGP × entitlement matrix','Select messages and outcomes per state','10','10_segmentation_matrix.csv','Their usable occasions define the inventory that matters.'),
-(3,'Match the offer to a usable occasion','Balanced final-start sample + fixture clashes','Prefer verified local timing and conflict suppression','01,02','01_final_start_times','Those occasions define an explicit coverage basket.'),
-(4,'Offer the cheapest suitable coverage','Pass comparison, dynamic rules, rental/player safeguards','Conditional switch map with monthly scope fork','03,06','03_basket_switch_map','Coverage choices determine cashflows and leakage.'),
-(5,'Set contribution limits before buying growth','Tax/fee bridge, finite repeat and credit hurdles','Allowable CAC and discount rejection frontier','07','07_contribution_bridge','Required future value defines the retention task.'),
-(6,'Earn the next relevant paid relationship','Dated event journeys and pay-to-play instrumentation','Separate engagement, payment and genuine renewal','04,09','09_next_event_journeys.csv','Treatments need capacity and funded channels.'),
-(7,'Fund a measured learning allocation','40/20/20/10/10 with cost builds and conditional CAC','Reconcile total spend and reserve-adjusted ceilings','08','08_channel_cac','Response uncertainty defines a staged pilot.'),
-(8,'Pilot, stop or scale','Power and contribution measurement','Owners, maturity and nonpositive-value kill rules','09,10','09_power_requirements','Return to the objective: profitable incremental relationships.')]
-story=pd.DataFrame(story,columns=['slide','question','evidence','decision','notebooks','primary_artifact','bridge_to_next']);display(table(story,'10_storyboard_evidence'))
-coverage=pd.read_csv(ROOT/'outputs/tables/00_requirement_map.csv');coverage['analysis_status']='Implemented with stated public-data limits';coverage['deck_status']='Not built in this phase';display(table(coverage,'10_deliverable_coverage'))
-check('10_synthesis',{'named_sports_visible':{'F1','Football','MotoGP'}<=set(segments.sport),'mutually_exclusive_ownership_columns':segments.ownership.nunique()==3,'eight_substantive_slides':len(story)==8,'four_deliverables':coverage.question.nunique()==4,'claim_tables_exist':all((ROOT/'outputs/tables'/f).exists() for f in claims.table),'no_invented_segment_sizes':'segment_size' not in segments.columns})'''),
-('md','## What remains outside these analyses\nCurrent ATP checkout and monthly inclusion, internal rights and enterprise delivery costs, actual payer cohorts, sport overlap, WTP and causal conversion remain unknown. No synthetic respondents or claimed experiment results are supplied. The public-data package supports a differentiated, testable strategy and explicit economic gates. It does not establish a profit forecast or a winning outcome.')])
+notebook('08_economics_model','08 | The economics model: two cohorts, channel CAC, break-even and gates','The single source of truth for every economic figure in the recommendation. Two mutually exclusive cohorts are each measured against their own holdout. **Acquisition** buys new ATP pass buyers and is counted on an incremental basis. **Upgrade** moves existing ATP pass buyers to a season pass, and only upgrades above the control rate are credited, with the credit charged to every treated upgrader. The model lives in `models/atp_economics.py`; every input, with its evidence tag, is in `models/model_inputs.json`. Rights fees are excluded: this is an incremental campaign P&L, not a claim about total rights ROI.',[
+('code', '''sys.path.insert(0, str(ROOT/'models'))
+import atp_economics as m
+res = m.run()
+rows=[]
+for section,items in m.INPUTS.items():
+ if section.startswith('_'):continue
+ for key,x in items.items():
+  if key.startswith('_'):continue
+  rows.append(dict(section=section,input=key,value=json.dumps(x['value']) if isinstance(x['value'],(list,dict)) else x['value'],tag=x.get('tag',''),source=x.get('source',''),note=x.get('note','')))
+inputs=pd.DataFrame(rows);display(table(inputs,'08_model_inputs'))
+print('Evidence tags:',inputs.tag.value_counts().to_dict())'''),
+('md','## 1. Unit economics\nContribution = price / 1.18 GST, less a 2% gateway fee plus GST on the fee, less INR 30 variable cost. The upgrade credit costs less than its INR 44.50 face value because GST and the gateway fee fall with the price.'),
+('code', '''u=pd.DataFrame([dict(item=k,value=v) for k,v in res['unit_economics'].items()]);display(table(u,'08_unit_economics'))'''),
+('md','## 2. Channel economics and the INR 3.04 Cr conditional envelope\nChannels that clear the brief’s INR 150–200 target on attributed CAC keep their envelope. Paid media, at INR 333, is capped to a INR 25 lakh external-audience test. The freed money is not moved into owned messaging, because owned reach is finite and its incremental CAC rises with depth. It becomes a **performance reserve**, released only to a channel whose measured marginal incremental CAC is at or below INR 200. Test-ceiling channels have no public cost basis; their CAC is a purchasing rule, not an estimate.'),
+('code', '''ch=pd.DataFrame(res['channels']);display(table(ch,'08_channel_cac_and_net'))
+env=pd.DataFrame([dict(item=k,value=v) for k,v in res['envelope'].items() if not isinstance(v,dict)]);display(table(env,'08_envelope_summary'))
+gates=pd.DataFrame(res['gate_allocation']);display(table(gates,'08_gate_allocation'))
+fig_,ax=plt.subplots(figsize=(10,4.2))
+order=ch.sort_values('net_per_payer_24m_at_100')
+ax.barh(order.label,order.net_per_payer_24m_at_100,color=[COLORS[3] if x< -1 else COLORS[1] for x in order.net_per_payer_24m_at_100],label='All attributed payers incremental')
+ax.scatter(order.net_per_payer_24m_at_87_5,order.label,color='black',zorder=3,label='87.5% incremental')
+ax.axvline(0,color='black',lw=.8);ax.set_xlabel('24-month contribution minus attributed CAC, INR per payer, before any upgrade')
+ax.set_title('No acquisition channel pays back on pass purchases alone. Owned comes closest');ax.legend(loc='lower right',fontsize=8)
+fig('08_channel_net_per_payer','Contribution per acquired payer over 24 months = 1.625 purchases x INR 43.32 x (1 + 40% year-two return) = INR 98.56. Scenario, not observed.')'''),
+('md','## 3. Personas and capacity\nIn-app channels (owned, native) reach portfolio fans already on FanCode and are split in proportion to the base sport pools. External channels (contests, publisher, paid) reach the Slam Tourist. Pools can overlap and are a capacity check, not a forecast.'),
+('code', '''pp=pd.DataFrame([dict(persona=k,attributed_payers=v,share=res['personas']['payer_share'][k]) for k,v in res['personas']['payers'].items()]);display(table(pp,'08_persona_payers'))
+pools=pd.DataFrame([dict(scenario=k,**{s+'_m':x for s,x in d.items()}) for k,d in res['personas']['pools_m'].items()]);pools['payer_target_share_of_pools']=[res['personas']['capacity_share_of_pools'][k] for k in pools.scenario];display(table(pools,'08_sport_pools_capacity'))'''),
+('md','## 4. The upgrade cohort and the 24-month P&L\nEligible pass buyers = 24M ordinary-week viewers x 90% core (C, illustrative) x 20% reached (A) x 20% active ATP pass buyers (A) = 864k. The control upgrade rate is 10% (A). An incremental upgrade is worth the season contribution less the passes that buyer would have bought anyway, in year one and again at 85% renewal in year two. The credit is paid to every treated upgrader, including the 10% who would have upgraded anyway.'),
+('code', '''uc=pd.DataFrame([dict(item=k,value=v) for k,v in res['upgrade_cohort'].items()]);display(table(uc,'08_upgrade_cohort'))
+grid=pd.DataFrame(res['pnl_grid']);display(table(grid,'08_pnl_grid'))
+scen=pd.DataFrame([dict(scenario=k,**v) for k,v in res['scenarios'].items()]);display(table(scen,'08_pnl_scenarios'))
+ref=res['reference_case']
+steps=[('Acquired payers\\nyear 1',ref['acquisition_y1']),('Upgrades, net\\nof credit, year 1',ref['upgrade_y1']),('Committed spend\\nincl. retention',-ref['spend']),('Year-one\\nnet',None),('Year-two\\ncontribution',ref['y2']),('Net at\\n24 months',None)]
+fig_,ax=plt.subplots(figsize=(10,4.6));run=0;tops=[0]
+for i,(label,val) in enumerate(steps):
+ if val is None:
+  ax.bar(i,run/1e7,color='#193047',width=.6);ax.annotate(f'{run/1e7:+.2f}',(i,run/1e7),xytext=(0,4 if run>=0 else -12),textcoords='offset points',ha='center',fontsize=9);tops.append(run);continue
+ ax.bar(i,val/1e7,bottom=run/1e7,color=COLORS[1] if val>=0 else COLORS[3],width=.6);end=run+val
+ ax.annotate(f'{val/1e7:+.2f}',(i,max(run,end)/1e7),xytext=(0,4),textcoords='offset points',ha='center',fontsize=9);tops+= [run,end];run=end
+ax.set_ylim(min(tops)/1e7-.35,max(tops)/1e7+.35)
+ax.axhline(0,color='black',lw=.8);ax.set_xticks(range(len(steps)));ax.set_xticklabels([s[0] for s in steps],fontsize=8.5);ax.set_ylabel('INR crore')
+ax.set_title(f"Reference case: 16% upgrade rate, 87.5% incrementality. Payback {ref['payback_months']:.1f} months",fontsize=12)
+fig('08_reference_waterfall','Reference scenario only. It clears 24-month break-even but not the 15-month payback gate. Rights fee excluded.')'''),
+('md','## 5. What the upgrade rate has to be\nTwo thresholds matter. **24-month break-even** is where the campaign repays its committed spend. **15-month payback** is the Gate 3 rule. Both are treatment upgrade rates against a 10% control.'),
+('code', '''be=[]
+for q in m.v('acquired_payers','incrementality_scenarios'):
+ be.append(dict(incrementality=q,net_without_upgrades=res['without_upgrades'][str(q)],break_even_rate=res['break_even_treatment'][str(q)],rate_for_15m_payback=res['treatment_for_15m_payback'][str(q)],break_even_if_reserve_deployed=res['break_even_treatment_reserve_deployed'][str(q)]))
+be=pd.DataFrame(be);display(table(be,'08_break_even_rates'))
+sens=pd.DataFrame([dict(active_pass_buyer_share=float(s),incrementality=float(q),break_even_rate=r) for s,d in res['break_even_treatment_by_pass_buyer_share'].items() for q,r in d.items()]);display(table(sens,'08_break_even_by_pass_buyer_share'))
+ren=pd.DataFrame([dict(season_renewal=float(k),break_even_rate_at_87_5=v) for k,v in res['break_even_treatment_by_renewal'].items()]);display(table(ren,'08_break_even_by_renewal'))
+fig_,ax=plt.subplots(figsize=(10,4.2));rates=np.linspace(.10,.24,57)
+for q,c in zip([1.0,.875,.6],[COLORS[1],COLORS[0],COLORS[3]]):ax.plot(rates*100,[m.pnl(t,q)['net_24m']/1e7 for t in rates],color=c,label=f'{q:.1%} of acquired payers incremental')
+ax.axhline(0,color='black',lw=.8);ax.axvline(10,color='grey',ls=':');ax.text(10.2,ax.get_ylim()[1]*.85,'control 10%',fontsize=8,color='grey')
+ax.set_xlabel('Treatment upgrade rate among eligible pass buyers (%)');ax.set_ylabel('Net at 24 months, INR crore');ax.legend(fontsize=8)
+b_,p_=res['break_even_treatment'],res['treatment_for_15m_payback']
+ax.set_title(f"Break-even at {b_['1.0']:.1%}-{b_['0.6']:.1%}; 15-month payback only at {p_['1.0']:.1%}-{p_['0.6']:.1%}")
+fig('08_break_even_curve','Base assumptions: 20% of reached core are active pass buyers, 85% renewal, INR 36.66 credit cost on every treated upgrader. Performance reserve unspent.')'''),
+('md','## 6. Sizing the gates to the economic test, not to mere detection\nGate 1 proves owned acquisition is incremental: the 95% lower bound on the lift must clear the lift at which incremental CAC equals INR 200. Gate 2 proves the upgrade engine: the 95% lower bound of (treatment − control) must clear the threshold minus the control rate. Both use 80% power. A true rate close to the threshold cannot be proved at any sensible cost; then the decision is continue or reallocate, never scale.'),
+('code', '''g1=pd.DataFrame([res['gate1_owned_pilot']]);display(table(g1,'08_gate1_owned_pilot'))
+g2=pd.DataFrame(res['gate2_upgrade_test']);display(table(g2,'08_gate2_upgrade_test'))'''),
+('md','## 7. Independent checks\nKey outputs are recomputed with Decimal arithmetic outside the model code.'),
+('code', '''from decimal import Decimal as D
+pass_c=D(89)/D('1.18')-D(89)*D('0.02')*D('1.18')-D(30)
+season_c=D(399)/D('1.18')-D(399)*D('0.02')*D('1.18')-D(30)
+credit=season_c-(D('354.5')/D('1.18')-D('354.5')*D('0.02')*D('1.18')-D(30))
+owned=D('0.8631')/D('0.01')*D('1.15')
+payers=D(9200000)/owned+D(4300000)/D(150)+D(2500000)/((D(50000)+D(12000))/D(390))+D(1200000)/D(180)+D(2500000)/(D(10)/D('0.03'))
+spend=D(19700000)+D(3000000)+D(4320000)*D('0.8631')*D('0.5')*D('1.15')
+acq24=payers*D('0.875')*D('1.625')*pass_c*D('1.4')
+inc=D('0.06')*D(864000);upg=inc*(season_c-D('1.625')*pass_c)*(1+D('0.85'))-D('0.16')*D(864000)*credit
+ref_net=acq24+upg-spend
+checks={'pass_contribution':abs(float(pass_c)-res['unit_economics']['pass_contribution'])<1e-9,
+ 'season_contribution':abs(float(season_c)-res['unit_economics']['season_contribution'])<1e-9,
+ 'credit_cost':abs(float(credit)-res['unit_economics']['credit_cost_per_upgrade'])<1e-9,
+ 'attributed_payers':abs(float(payers)-res['envelope']['attributed_payers'])<1e-6,
+ 'reference_net_24m':abs(float(ref_net)-res['reference_case']['net_24m'])<1e-3,
+ 'break_even_is_zero':abs(m.pnl(res['break_even_treatment']['0.875'],0.875)['net_24m'])<1e-3,
+ 'payback_threshold_is_15':abs(m.pnl(res['treatment_for_15m_payback']['0.875'],0.875)['payback_months']-15)<1e-6,
+ 'envelope_reconciles':abs(sum(g['total'] for g in res['gate_allocation'])-30400000)<1e-6,
+ 'gates_reconcile':abs(gates.gate1.sum()-1e5)<1e-6 and abs(gates.gate2.sum()-75e5)<1e-6 and abs(gates.gate3.sum()-228e5)<1e-6,
+ 'only_owned_native_contests_clear_200_at_87_5':set(ch[ch.clears_200_at_87_5].channel)=={'owned_lifecycle','native_personalities','contests'},
+ 'upgrades_exclude_control':res['reference_case']['incremental_upgrades']==0.06*864000}
+check('08_economics_model',checks)
+r=res;ref=r['reference_case']
+report('08_economics_findings',f"Committed acquisition of INR {r['envelope']['committed_acquisition']/1e7:.2f} Cr buys {r['envelope']['attributed_payers']/1e3:.1f}k attributed payers at INR {r['envelope']['attributed_blended_cac_incl_brand']:.0f} blended attributed CAC including brand and measurement, which meets INR 200 incremental CAC only at {r['envelope']['incrementality_needed_for_200']:.0%} incrementality or better. Each acquired payer contributes INR {r['unit_economics']['contribution_per_acquired_payer_24m']:.2f} over 24 months, so no channel repays its CAC on pass purchases alone; owned is closest. Without upgrades the campaign loses INR {-r['without_upgrades']['1.0']/1e7:.2f} to {-r['without_upgrades']['0.6']/1e7:.2f} Cr over 24 months. Against a 10% control upgrade rate among 864k eligible pass buyers, 24-month break-even needs a treatment upgrade rate of {r['break_even_treatment']['1.0']:.1%} to {r['break_even_treatment']['0.6']:.1%}, and 15-month payback needs {r['treatment_for_15m_payback']['1.0']:.1%} to {r['treatment_for_15m_payback']['0.6']:.1%}. The reference case (16%, 87.5%) nets INR {ref['net_24m']/1e7:.2f} Cr at 24 months with {ref['payback_months']:.1f}-month payback, so it would not pass Gate 3. Scale therefore waits for Gate 2 evidence. The performance reserve of INR {r['envelope']['performance_reserve']/1e7:.2f} Cr is released only on measured marginal incremental CAC at or below INR 200.")'''),
+])
+
+notebook('10_campaign_ready_windows','10 | Campaign-ready windows: the 2026 ATP calendar scored for India','Every 2026 ATP tour event in FanCode’s package, split into three viewing windows (day session, night session, final) and scored for an Indian audience. A window is **campaign-ready** only if its start sits inside every one of the three viewing windows under every start delay from 0 to 120 minutes (12 of 12 tests), the same standard applied to the verified finals in notebook 01. Each window carries its clash check, player-story trigger, offer and timing confidence. The logic lives in `models/campaign_windows.py`. Player draws are not scored: they are unknown until the week of the event.',[
+('code', '''sys.path.insert(0, str(ROOT/'models'))
+import campaign_windows as cw
+windows, events = cw.build()
+summary = cw.summarise(windows, events)
+display(table(windows,'10_campaign_ready_windows'))
+(ROOT/'outputs/reports/10_campaign_windows_summary.json').write_text(json.dumps({'settings':cw.SETTINGS,'summary':summary},indent=1,default=str)+'\\n')
+settings=pd.DataFrame([dict(setting=k,value=json.dumps(v) if not isinstance(v,str) else v) for k,v in cw.SETTINGS.items()]);display(table(settings,'10_window_scoring_settings'))'''),
+('md','## 1. How the season divides'),
+('code', '''counts=windows.groupby(['session','status']).size().unstack(fill_value=0);display(counts)
+st=windows.status.value_counts().rename_axis('status').reset_index(name='windows');display(table(st,'10_window_status_counts'))
+print(f"{summary['campaign_ready_live']} of {summary['windows']} windows across {summary['events']} events are campaign-ready; {summary['upcoming_live_windows']} are still ahead after 18 September 2026.")'''),
+('code', '''colors={'Campaign-ready: sell live':COLORS[1],'Early evening: live with start reminder':COLORS[0],'Late: remind + replay':COLORS[2],'Overnight: replay only':COLORS[3],'Daytime: highlights':COLORS[5]}
+size={'Finals':140,'Masters 1000':110,'500':70,'250':40}
+fig_,ax=plt.subplots(figsize=(12,4.8))
+w=windows.copy();w['d']=pd.to_datetime(w.window_date);w['h']=[int(x[:2])+int(x[3:])/60 for x in w.ist_start]
+for s_,g in w.groupby('status'):ax.scatter(g.d,g.h,s=[size[t] for t in g.tier],color=colors[s_],alpha=.8,label=s_,edgecolor='white',linewidth=.5)
+ax.axhspan(18,23,color=COLORS[1],alpha=.08);ax.set_ylim(0,24);ax.set_yticks(range(0,25,3));ax.set_ylabel('Start, IST hour');ax.legend(fontsize=8,loc='upper center',bbox_to_anchor=(.5,-.08),ncol=5,frameon=False)
+ax.axvline(pd.Timestamp('2026-09-18'),color='black',ls=':');ax.text(pd.Timestamp('2026-09-20'),1,'today',fontsize=8)
+ax.set_title('The Europe and Gulf swing lands in Indian prime time; the Americas and Asia do not')
+fig('10_campaign_windows_calendar','Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.')'''),
+('md','## 2. The list: campaign-ready windows, ranked\nScore out of 100 = 40% timing robustness + 30% tier + 15% player-story continuity (post-Slam follow-through, race to Turin, season finale) + 15% clash-free. Weights are settings, not estimates. A clash does not disqualify a window: it changes who receives the send.'),
+('code', '''ready=windows[windows.status=='Campaign-ready: sell live'][['rank','event','tier','session','window_date','ist_start','clash_check','continuity_trigger','offer','timing_confidence','upcoming','score']]
+display(table(ready,'10_campaign_ready_list'))
+ahead=ready[ready.upcoming];display(table(ahead,'10_campaign_ready_upcoming'))'''),
+('md','## 3. Checks'),
+('code', '''checks={'fifty_five_dated_events':summary['events']==55,
+ 'three_windows_per_event':len(windows)==3*summary['events'],
+ 'status_counts_reconcile':sum(v for k,v in summary.items() if k in ['campaign_ready_live','early_evening_live','late_remind_replay','daytime_highlights','overnight_replay'])==len(windows),
+ 'verified_finals_used':summary['high_confidence_windows']==12,
+ 'rotterdam_final_2000_ist':windows[(windows.event=='Rotterdam')&(windows.session=='Final')].ist_start.iloc[0]=='20:00',
+ 'indian_wells_final_overnight':windows[(windows.event=='Indian Wells')&(windows.session=='Final')].status.iloc[0]=='Overnight: replay only',
+ 'six_verified_finals_robust':int(((windows.session=='Final')&windows.timing_confidence.str.startswith('High')&(windows.status=='Campaign-ready: sell live')).sum())==6,
+ 'unique_ranks':windows['rank'].is_unique}
+check('10_campaign_windows',checks)
+top=', '.join(f"{r.event} {r.session.lower()} {r.window_date} {r.ist_start} IST" for r in ahead.head(8).itertuples())
+report('10_campaign_windows_findings',f"Of {summary['windows']} windows across {summary['events']} 2026 ATP events in FanCode's package, {summary['campaign_ready_live']} are campaign-ready: their start holds inside Indian prime time under every timing test. {summary['early_evening_live']} more start in the early evening and can be sold live with a start reminder; {summary['late_remind_replay']} are late and get reminders plus the INR 39 replay; {summary['overnight_replay']} are overnight and {summary['daytime_highlights']} daytime. {summary['upcoming_live_windows']} campaign-ready windows are still ahead this season: {top}. Timing confidence is high only for the 12 finals verified from official orders of play; the rest use modelled local session times and must be confirmed from each week's order of play before a send. Football clashes after 8 September 2026 are not yet checked because 2026-27 fixtures were not captured.")'''),
+])

@@ -1,0 +1,5 @@
+# 10 campaign windows findings
+
+Author: Chanakya
+
+Of 165 windows across 55 2026 ATP events in FanCode's package, 19 are campaign-ready: their start holds inside Indian prime time under every timing test. 51 more start in the early evening and can be sold live with a start reminder; 43 are late and get reminders plus the INR 39 replay; 29 are overnight and 23 daytime. 8 campaign-ready windows are still ahead this season: Paris final 2026-11-08 19:30 IST, Turin final 2026-11-22 19:30 IST, Basel final 2026-11-01 19:30 IST, Vienna final 2026-11-01 19:30 IST, Almaty night session 2026-10-19 19:30 IST, Brussels final 2026-10-25 19:30 IST, Lyon final 2026-10-25 19:30 IST, Stockholm final 2026-11-14 19:30 IST. Timing confidence is high only for the 12 finals verified from official orders of play; the rest use modelled local session times and must be confirmed from each week's order of play before a send. Football clashes after 8 September 2026 are not yet checked because 2026-27 fixtures were not captured.

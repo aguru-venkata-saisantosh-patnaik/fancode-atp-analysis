@@ -1,0 +1,14 @@
+item,value
+total,30400000.0
+committed_acquisition,19700000.0
+brand_and_measurement,3000000.0
+performance_reserve,7700000.0
+reserve_share,0.2532894736842105
+attributed_payers,151248.28356898052
+attributed_blended_cac_incl_brand,150.0843478309432
+attributed_blended_cac_media_only,130.24941199425464
+incrementality_needed_for_200,0.7504217391547159
+owned_half_response_cac,198.51299999999998
+owned_half_response_incrementality_needed,0.9925649999999999
+owned_sends_funded,9268914.37840343
+owned_sends_share_of_base_pools,0.39701945921125814

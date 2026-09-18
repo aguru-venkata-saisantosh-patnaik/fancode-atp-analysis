@@ -1,0 +1,12 @@
+setting,value
+_about,"Scoring settings. Weights are choices, not estimates (A). Session start times are modelled local conventions (A) unless an official order of play is available (O)."
+session_local_start,"{""Day session"": ""14:00"", ""Night session"": ""19:00"", ""Final"": ""15:00""}"
+viewing_windows_ist,"[[18, 23], [19, 24], [17, 24]]"
+delays_minutes,"[0, 30, 60, 120]"
+weights,"{""timing"": 0.4, ""tier"": 0.3, ""continuity"": 0.15, ""clash_free"": 0.15}"
+tier_value,"{""ATP FINALS"": 1.0, ""ATP MASTERS 1000"": 1.0, ""ATP 500"": 0.6, ""ATP 250"": 0.3}"
+list_price,"{""ATP FINALS"": 99, ""ATP MASTERS 1000"": 99, ""ATP 500"": 89, ""ATP 250"": 79}"
+replay_price,39
+post_slam_days,10
+race_to_turin_days,42
+clash_window_hours,"{""before"": 2, ""after"": 2.5, ""_note"": ""A rival event overlaps if it starts up to 2h before the tennis (typical F1 race or football match length) or within 2.5h after it (median ATP duration scenario, 150 min)""}"

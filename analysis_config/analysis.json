@@ -80,14 +80,6 @@
     false,
     true
   ],
-  "pilot_budget": 100000,
-  "allocation": {
-    "Paid occasions": 0.4,
-    "Owned lifecycle": 0.2,
-    "Communities and contests": 0.2,
-    "Native creators": 0.1,
-    "Measurement": 0.1
-  },
   "pricing_tests": {
     "250": 79,
     "500": 89,

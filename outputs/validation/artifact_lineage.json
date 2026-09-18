@@ -2299,162 +2299,6 @@
     "sha256": "c129a636c1f96f48537c7a6c1700ba69977b0dfede327b2f7facecc7ad1097b6"
   },
   {
-    "artifact": "outputs/tables/08_budget_allocation.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "87072371dfbed90262f4aa7ba3aa6082714a86436759240110f000397fe0ef5a"
-  },
-  {
-    "artifact": "outputs/tables/08_cost_build.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "0ec6f41bb610af35788fd92edb5beb33069d168c8b95eef03f5ee950951f07aa"
-  },
-  {
-    "artifact": "outputs/tables/08_response_assumptions.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "d68b000574db2ae6e2b31f4c0d1f2db019009cb656813c5dbbc595a80acdc7ea"
-  },
-  {
-    "artifact": "outputs/tables/08_conditional_channel_cac.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd"
-  },
-  {
-    "artifact": "data/processed/channel_scenarios.csv",
-    "kind": "processed table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd"
-  },
-  {
-    "artifact": "outputs/tables/08_blended_programme_cac.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "7cb217d50983a0866da420870166442becca236d024009e1681c9cc9ff069e82"
-  },
-  {
-    "artifact": "outputs/figures/png/08_channel_cac.png",
-    "kind": "figure",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "External unit-cost proxies plus explicit response assumptions. INR180 channel gate allows a 10% measurement reserve.",
-    "sha256": "96d67a51b774f1a91db5a6fd4c73f90c145a2bf86036fe0330a59100a32f515f"
-  },
-  {
-    "artifact": "outputs/figures/svg/08_channel_cac.svg",
-    "kind": "figure",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "External unit-cost proxies plus explicit response assumptions. INR180 channel gate allows a 10% measurement reserve.",
-    "sha256": "3c5a8231eedf7f7471aa31ddd27d53a2a64527b067c2227ae664f18fd3bce0c5"
-  },
-  {
-    "artifact": "outputs/tables/08_contest_takeover_procurement_gates.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "c7016593393f1b4959e865367959ec0c98784ad91c9c73a10bec761f47fb0eee"
-  },
-  {
-    "artifact": "outputs/tables/08_creator_fee_hurdles.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "69064b1a632319eb6959e9adce2491e7943976c7afe15f8b5069765981473c64"
-  },
-  {
-    "artifact": "outputs/tables/08_owned_capacity_gate.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "4c13211f112cd8a3c5e793e2efc4f6593a8ef661fd97209090b819b32c250b1c"
-  },
-  {
-    "artifact": "outputs/tables/08_measurement_reserve_sensitivity.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "6cef51dd5adffa2c8fef6010cc276dc87b5535701f8e002f646cbaf501f57d42"
-  },
-  {
-    "artifact": "outputs/tables/08_source_references.csv",
-    "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
-    "note": "",
-    "sha256": "50c9436b913b53a7f4886a5d38f944b8b745d72020bd6946aa7bc14a41da8c3d"
-  },
-  {
     "artifact": "outputs/tables/09_next_event_journeys.csv",
     "kind": "output table",
     "notebook": "09_retention_and_experiments",
@@ -2565,46 +2409,6 @@
     "sha256": "cb8e0258002cf50e63aa89695a212502b779c966124b95548ffd2b216e11109d"
   },
   {
-    "artifact": "outputs/tables/10_segmentation_matrix.csv",
-    "kind": "output table",
-    "notebook": "10_strategy_and_claims",
-    "source_ids": [],
-    "note": "",
-    "sha256": "cc741720b580e6cd5ce926671179d653bf30e18d5c31024e74e3158c20106319"
-  },
-  {
-    "artifact": "outputs/tables/10_recommendation_rules.csv",
-    "kind": "output table",
-    "notebook": "10_strategy_and_claims",
-    "source_ids": [],
-    "note": "",
-    "sha256": "68dc39aa36e6147d518483b19ef9e941ec1d6991a925db573aab4a7d730fa28a"
-  },
-  {
-    "artifact": "outputs/tables/10_claim_register.csv",
-    "kind": "output table",
-    "notebook": "10_strategy_and_claims",
-    "source_ids": [],
-    "note": "",
-    "sha256": "55af88ff20dc86731b97d21b5ac64a16c415822aa22129eee7064b5d19b5f52b"
-  },
-  {
-    "artifact": "outputs/tables/10_storyboard_evidence.csv",
-    "kind": "output table",
-    "notebook": "10_strategy_and_claims",
-    "source_ids": [],
-    "note": "",
-    "sha256": "407c47d8daa1ad15b1e72fb5aaea04fa0ab68c2a1e69bde4c0ebcb499351070e"
-  },
-  {
-    "artifact": "outputs/tables/10_deliverable_coverage.csv",
-    "kind": "output table",
-    "notebook": "10_strategy_and_claims",
-    "source_ids": [],
-    "note": "",
-    "sha256": "c8a6b990a6a919262e5b50afcd634c86c3d9ffd820272305a5eaf9e31c852dc3"
-  },
-  {
     "artifact": "outputs/tables/00_case_operating_facts.csv",
     "kind": "output table",
     "notebook": "00_evidence_and_case",
@@ -2613,39 +2417,227 @@
     "sha256": "66c481e93a81254fb88017a211ce533af86d8709ce2e5ba56153d10e6b0d125b"
   },
   {
-    "artifact": "outputs/tables/08_current_spend_baseline.csv",
+    "artifact": "outputs/tables/08_model_inputs.csv",
     "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
+    "notebook": "08_economics_model",
+    "source_ids": [],
     "note": "",
-    "sha256": "2a64ea6cdbebeb592c955cdbdbd38de178bdecf5464c6c4afded16113b5c9a15"
+    "sha256": "31891eeb60d1ccb60dc07c6f796e84244c8af91bc677a51ddcdfb23de5426dda"
   },
   {
-    "artifact": "outputs/tables/08_case_contest_cpc_ceiling.csv",
+    "artifact": "outputs/tables/08_unit_economics.csv",
     "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
+    "notebook": "08_economics_model",
+    "source_ids": [],
     "note": "",
-    "sha256": "1e8959d41b79b79548641db033004ee2e4796a0750dbca42676fac1aa4758a8c"
+    "sha256": "9c12416863eef1d245fbef856ee207b792a114fdd289e444792b33732595eaf5"
   },
   {
-    "artifact": "outputs/tables/08_purchase_and_incremental_cac.csv",
+    "artifact": "outputs/tables/08_channel_cac_and_net.csv",
     "kind": "output table",
-    "notebook": "08_channel_economics",
-    "source_ids": [
-      "kofluence_2025_report",
-      "v3_meta_inr_ratecard_jan2026",
-      "v3_nurdd_india"
-    ],
+    "notebook": "08_economics_model",
+    "source_ids": [],
     "note": "",
-    "sha256": "90709ebe91e378ddc15be1e1883f8ed2d4a39e70214a0433bb610b1a4e13988b"
+    "sha256": "149eb410c71c2f32c0ee5f9099aa81d697a7e53e73126ce65e926b671f55f05e"
+  },
+  {
+    "artifact": "outputs/tables/08_envelope_summary.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "d8d0b087fc78790db98cbdea1aee55e89eaad4ee0c8178e4c50b9aab89d9a12f"
+  },
+  {
+    "artifact": "outputs/tables/08_gate_allocation.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "508b21d18e26dd8ca4ed83a4bbd795b1f532ace04310b6a93ea6e3109f3867c8"
+  },
+  {
+    "artifact": "outputs/figures/png/08_channel_net_per_payer.png",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Contribution per acquired payer over 24 months = 1.625 purchases x INR 43.32 x (1 + 40% year-two return) = INR 98.56. Scenario, not observed.",
+    "sha256": "80fc744b6eb2b763ce340a99b93c8c3d42cd97d492694848fda26e18fcb228a4"
+  },
+  {
+    "artifact": "outputs/figures/svg/08_channel_net_per_payer.svg",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Contribution per acquired payer over 24 months = 1.625 purchases x INR 43.32 x (1 + 40% year-two return) = INR 98.56. Scenario, not observed.",
+    "sha256": "13f6d466d5d2901649a5ef6843e3d28e87ab9c9aceefb3bff5d757cc64ea27fd"
+  },
+  {
+    "artifact": "outputs/tables/08_persona_payers.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "6b2cb5e330a593d02a56bf78b7a80af98f609de67d61fc34c330a46103624b6e"
+  },
+  {
+    "artifact": "outputs/tables/08_sport_pools_capacity.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "036a3500f3ddf2cf9d628c51cc04ccddad1ec4acfdecba584c9067b763fe92a2"
+  },
+  {
+    "artifact": "outputs/tables/08_upgrade_cohort.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "2f02df096106be128044c4ba0b8f6f8dbc5a4b00448b8e476c1b4e0907c63e0f"
+  },
+  {
+    "artifact": "outputs/tables/08_pnl_grid.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "5ed2c387fd0c2647f268949ce6f0d333a6372cdeede96f1b21d509b822ea7120"
+  },
+  {
+    "artifact": "outputs/tables/08_pnl_scenarios.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "905f2fa114236dbfa826d625151e762bf0ca0dfd06a55bede51b3ffda9ac78e4"
+  },
+  {
+    "artifact": "outputs/figures/png/08_reference_waterfall.png",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Reference scenario only. It clears 24-month break-even but not the 15-month payback gate. Rights fee excluded.",
+    "sha256": "f647ebb98904ad2212341b8f428e02fabe3b78613f4d703ced157852ef301e2e"
+  },
+  {
+    "artifact": "outputs/figures/svg/08_reference_waterfall.svg",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Reference scenario only. It clears 24-month break-even but not the 15-month payback gate. Rights fee excluded.",
+    "sha256": "36f628bf500c40e353aa19567111838c054be8164c4c550e583b84a387ea164c"
+  },
+  {
+    "artifact": "outputs/tables/08_break_even_rates.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "3cb4730f5c9e1d88a09b30083b6f638f5509da0a17e2f43c81670471452227b6"
+  },
+  {
+    "artifact": "outputs/tables/08_break_even_by_pass_buyer_share.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "4a377df0ffbde98e5f61e7241e9184c672faed375ef87b7696c0dea39a480f70"
+  },
+  {
+    "artifact": "outputs/tables/08_break_even_by_renewal.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "1d7a759dceb6a026ad47167e1e0e46f12edc1de88caf900b255665ed5adc7965"
+  },
+  {
+    "artifact": "outputs/figures/png/08_break_even_curve.png",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Base assumptions: 20% of reached core are active pass buyers, 85% renewal, INR 36.66 credit cost on every treated upgrader. Performance reserve unspent.",
+    "sha256": "e2e5684c2fdad59baf1c68bf39edd90a148e5ea48944178a892c0580bfbdca1e"
+  },
+  {
+    "artifact": "outputs/figures/svg/08_break_even_curve.svg",
+    "kind": "figure",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "Base assumptions: 20% of reached core are active pass buyers, 85% renewal, INR 36.66 credit cost on every treated upgrader. Performance reserve unspent.",
+    "sha256": "0da16c5d64f810c59fd2687b74ddee6b92b8262b97eac6782070043d28e0a343"
+  },
+  {
+    "artifact": "outputs/tables/08_gate1_owned_pilot.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "e51f61f057e62110156c30aa26a117ced57f96857617c8d96f2822b4c4f9afb8"
+  },
+  {
+    "artifact": "outputs/tables/08_gate2_upgrade_test.csv",
+    "kind": "output table",
+    "notebook": "08_economics_model",
+    "source_ids": [],
+    "note": "",
+    "sha256": "224ca5d884c6022af77e5c047a422d058633b43b5b7d692103a7a8378d94c0b6"
+  },
+  {
+    "artifact": "outputs/tables/10_campaign_ready_windows.csv",
+    "kind": "output table",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "",
+    "sha256": "5d02ff89c708048541cc91822961b75836cdbef0257c9a1d3b0ca833460dea47"
+  },
+  {
+    "artifact": "outputs/tables/10_window_scoring_settings.csv",
+    "kind": "output table",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "",
+    "sha256": "2470e5782e03edc9910c68d1c1fcd3db6cee7900e353e524e06170371ca5bd30"
+  },
+  {
+    "artifact": "outputs/tables/10_window_status_counts.csv",
+    "kind": "output table",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "",
+    "sha256": "7823c980dc2b6f2d342f7db1ad7bae099d41d977f9573204f4f75366e035d116"
+  },
+  {
+    "artifact": "outputs/figures/png/10_campaign_windows_calendar.png",
+    "kind": "figure",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.",
+    "sha256": "99a63cd2f509415fd02d7e973940a0f6d876db1cead7d785a1391cea2d356a4d"
+  },
+  {
+    "artifact": "outputs/figures/svg/10_campaign_windows_calendar.svg",
+    "kind": "figure",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "Marker size = tier. Shaded band = 18:00-23:00 IST. Session times are modelled local conventions except the 12 finals verified from official orders of play.",
+    "sha256": "ed791804737fc387549a21837035c71f2f1009b2399a5bafd25ab606b1c37d65"
+  },
+  {
+    "artifact": "outputs/tables/10_campaign_ready_list.csv",
+    "kind": "output table",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "",
+    "sha256": "1168109e95b5cbd9a61bf4f8e6af9a96a282adf539e8da86342cba5d76575931"
+  },
+  {
+    "artifact": "outputs/tables/10_campaign_ready_upcoming.csv",
+    "kind": "output table",
+    "notebook": "10_campaign_ready_windows",
+    "source_ids": [],
+    "note": "",
+    "sha256": "9d6233891a66521215d5772d4f8f4cdcce5fc1cb8a9ddd11d851b35175b8efc8"
   }
 ]

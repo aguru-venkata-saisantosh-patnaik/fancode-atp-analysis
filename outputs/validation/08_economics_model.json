@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "checks": {
+    "pass_contribution": true,
+    "season_contribution": true,
+    "credit_cost": true,
+    "attributed_payers": true,
+    "reference_net_24m": true,
+    "break_even_is_zero": true,
+    "payback_threshold_is_15": true,
+    "envelope_reconciles": true,
+    "gates_reconcile": true,
+    "only_owned_native_contests_clear_200_at_87_5": true,
+    "upgrades_exclude_control": true
+  }
+}

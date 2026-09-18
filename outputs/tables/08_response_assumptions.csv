@@ -1,4 +1,0 @@
-scenario,cpc,paid_cvr,incremental_share,owned_lift,creator_clicks,creator_cvr
-Adverse,18,0.005,0.3,0.002,100,0.01
-Working test,10,0.015,0.6,0.01,500,0.02
-Favourable,5,0.03,0.9,0.03,1500,0.05

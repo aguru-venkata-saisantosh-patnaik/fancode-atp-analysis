@@ -1,0 +1,146 @@
+{
+ "settings": {
+  "_about": "Scoring settings. Weights are choices, not estimates (A). Session start times are modelled local conventions (A) unless an official order of play is available (O).",
+  "session_local_start": {
+   "Day session": "14:00",
+   "Night session": "19:00",
+   "Final": "15:00"
+  },
+  "viewing_windows_ist": [
+   [
+    18,
+    23
+   ],
+   [
+    19,
+    24
+   ],
+   [
+    17,
+    24
+   ]
+  ],
+  "delays_minutes": [
+   0,
+   30,
+   60,
+   120
+  ],
+  "weights": {
+   "timing": 0.4,
+   "tier": 0.3,
+   "continuity": 0.15,
+   "clash_free": 0.15
+  },
+  "tier_value": {
+   "ATP FINALS": 1.0,
+   "ATP MASTERS 1000": 1.0,
+   "ATP 500": 0.6,
+   "ATP 250": 0.3
+  },
+  "list_price": {
+   "ATP FINALS": 99,
+   "ATP MASTERS 1000": 99,
+   "ATP 500": 89,
+   "ATP 250": 79
+  },
+  "replay_price": 39,
+  "post_slam_days": 10,
+  "race_to_turin_days": 42,
+  "clash_window_hours": {
+   "before": 2,
+   "after": 2.5,
+   "_note": "A rival event overlaps if it starts up to 2h before the tennis (typical F1 race or football match length) or within 2.5h after it (median ATP duration scenario, 150 min)"
+  }
+ },
+ "summary": {
+  "events": 55,
+  "windows": 165,
+  "campaign_ready_live": 19,
+  "early_evening_live": 51,
+  "late_remind_replay": 43,
+  "daytime_highlights": 23,
+  "overnight_replay": 29,
+  "events_with_a_live_window": 18,
+  "live_windows_by_tier": {
+   "250": 8,
+   "500": 7,
+   "Masters 1000": 3,
+   "Finals": 1
+  },
+  "live_windows_by_session": {
+   "Final": 17,
+   "Night session": 2
+  },
+  "live_windows_with_f1_clash": 1,
+  "live_windows_with_football_clash": 7,
+  "upcoming_live_windows": 8,
+  "high_confidence_windows": 12,
+  "top_upcoming": [
+   {
+    "rank": 1,
+    "event": "Paris",
+    "session": "Final",
+    "window_date": "2026-11-08",
+    "ist_start": "19:30",
+    "score": 92.5
+   },
+   {
+    "rank": 2,
+    "event": "Turin",
+    "session": "Final",
+    "window_date": "2026-11-22",
+    "ist_start": "19:30",
+    "score": 92.5
+   },
+   {
+    "rank": 9,
+    "event": "Basel",
+    "session": "Final",
+    "window_date": "2026-11-01",
+    "ist_start": "19:30",
+    "score": 80.5
+   },
+   {
+    "rank": 10,
+    "event": "Vienna",
+    "session": "Final",
+    "window_date": "2026-11-01",
+    "ist_start": "19:30",
+    "score": 80.5
+   },
+   {
+    "rank": 21,
+    "event": "Almaty",
+    "session": "Night session",
+    "window_date": "2026-10-19",
+    "ist_start": "19:30",
+    "score": 71.5
+   },
+   {
+    "rank": 22,
+    "event": "Brussels",
+    "session": "Final",
+    "window_date": "2026-10-25",
+    "ist_start": "19:30",
+    "score": 71.5
+   },
+   {
+    "rank": 23,
+    "event": "Lyon",
+    "session": "Final",
+    "window_date": "2026-10-25",
+    "ist_start": "19:30",
+    "score": 71.5
+   },
+   {
+    "rank": 24,
+    "event": "Stockholm",
+    "session": "Final",
+    "window_date": "2026-11-14",
+    "ist_start": "19:30",
+    "score": 71.5
+   }
+  ]
+ }
+}

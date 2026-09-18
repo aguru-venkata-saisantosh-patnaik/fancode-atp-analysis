@@ -63,14 +63,6 @@
     "source_sha256": "5a9b3ccfe0531c99c1f17e6c1e70e4e797ae7375ae6e5a6b7822d79bf5d8b575",
     "executed_sha256": "a42e13408d60a81a1023d9862d5912ea3f956a329f27213f783ecbaff2813614"
   },
-  "08_channel_economics": {
-    "status": "PASS",
-    "seconds": 1.83,
-    "code_cells": 6,
-    "executed_cells": 6,
-    "source_sha256": "e12e0769ddda00725b289bc72ac055b93062e93c014adcca2031b597ea6d8759",
-    "executed_sha256": "b2c7fbda78cbe29d72afad9a5e8dc5b31113f50cafd2457c5d20323b988456a1"
-  },
   "09_retention_and_experiments": {
     "status": "PASS",
     "seconds": 2.19,
@@ -79,12 +71,20 @@
     "source_sha256": "f37fc76ab642d9ca1efbde7059106ae256322f5ae77aafc766152eb9c9bf9cb4",
     "executed_sha256": "fa33e9b46950b150a138e68aff870c54f599e6fa0600f38e75127010daf40154"
   },
-  "10_strategy_and_claims": {
+  "08_economics_model": {
     "status": "PASS",
-    "seconds": 1.43,
-    "code_cells": 4,
-    "executed_cells": 4,
-    "source_sha256": "ed2f3325c2482ac7422d1591d0afdca17fce8db3e610274b34ea9c1b65c1922b",
-    "executed_sha256": "0fad05c261c2f3da348a80767155c4bfdf9eddba76ed6c427c60bf16508107ee"
+    "seconds": 2.74,
+    "code_cells": 9,
+    "executed_cells": 9,
+    "source_sha256": "fcaad483ab2200ae402c095ce47ce50ea9547dad6d3bcd03635b01c46cfd3531",
+    "executed_sha256": "2da63c4b51bfe044839e54d656a43f11f68145c4b1a0c4d8f1becec96ce6d821"
+  },
+  "10_campaign_ready_windows": {
+    "status": "PASS",
+    "seconds": 2.01,
+    "code_cells": 6,
+    "executed_cells": 6,
+    "source_sha256": "514b9dd6fbdca76c5e272e8d0f7d9927a1b4f6f0a9567ecb9f5d968cf66064da",
+    "executed_sha256": "ea3b15644969892cac228f6fbf682196a8e00318566eb5f31379cec5694e754b"
   }
 }

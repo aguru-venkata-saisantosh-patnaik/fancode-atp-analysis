@@ -35,8 +35,8 @@ b=pd.read_csv(O/'tables/03_minimum_cost_baskets.csv')
 for row in b[b.basket=='Two tennis events within 30d'].itertuples():
  expected=min(2*row.tournament_price,399,row.monthly_price if row.monthly_atp else float('inf'),row.yearly_price)
  if row.total_cost!=expected:errors.append('Independent two-event coverage check')
-allocation=pd.read_csv(O/'tables/08_budget_allocation.csv')
-if abs(allocation.share.sum()-1)>1e-10 or allocation.budget.sum()!=100000:errors.append('Allocation does not reconcile')
+gates=pd.read_csv(O/'tables/08_gate_allocation.csv')
+if abs(gates.total.sum()-30400000)>1e-6 or abs(gates.gate1.sum()-100000)>1e-6 or abs(gates.gate2.sum()-7500000)>1e-6 or abs(gates.gate3.sum()-22800000)>1e-6:errors.append('Envelope or gates do not reconcile')
 # Aggregate traces are lineage summaries, not every field's source. Row tables retain detailed locators.
 trace={}
 for line in (V/'artifact_trace.jsonl').read_text().splitlines():
@@ -56,22 +56,21 @@ modules={
 '05':'Search interest, rounding, correlation and temporal diagnostics',
 '06':'Historical player progression, bundle risk and video metadata',
 '07':'Contribution, tax, repeat, credit, usage costs and rights horizon',
-'08':'Allocation, unit-cost builds, conditional CAC and capacity gates',
+'08':'The economics model: two cohorts, channel CAC, break-even upgrade rate and gate sizing',
 '09':'Retention journeys, KPI denominators, experiments and power',
-'10':'Segmentation, recommendation rules, claim register and slide flow'}
+'10':'Campaign-ready windows: the 2026 ATP calendar scored for India'}
 rows=[]
 for p in sources:
  n=p.stem;prefix=n[:2];count=sum(x['notebook']==n and x['kind']=='figure' and x['artifact'].endswith('.png') for x in trace.values())
  rows.append(f'<tr><td><a href="{n}.html">{html.escape(n.replace("_"," "))}</a></td><td>{modules[prefix]}</td><td>{logs[n]["executed_cells"]}</td><td>{count}</td><td><a href="../../notebooks/executed/{p.name}">Executed notebook</a></td></tr>')
-claims=pd.read_csv(O/'tables/10_claim_register.csv')
 body=f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>FanCode ATP analysis | Chanakya</title>
 <style>body{{font:15px/1.55 system-ui,sans-serif;color:#193047;background:#f3f7fc;margin:0}}main{{max-width:1200px;margin:auto;padding:36px}}h1{{font-size:34px;margin:0}}h2{{margin-top:32px}}.eyebrow{{color:#087b80;font-weight:700}}.cards{{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:24px 0}}.card{{background:white;border-top:4px solid #00a398;padding:16px}}.big{{display:block;font-size:28px;font-weight:750}}table{{border-collapse:collapse;width:100%;background:white}}td,th{{text-align:left;border-bottom:1px solid #dce5ef;padding:12px;vertical-align:top}}th{{background:#e1edf9}}a{{color:#125ca8}}.note{{padding:18px;background:#fff3dc;border-left:4px solid #eea127}}img{{max-width:100%;background:white}}small{{color:#526170}}@media(max-width:750px){{.cards{{grid-template-columns:repeat(2,1fr)}}main{{padding:18px}}table{{font-size:12px}}}}</style>
-<main><div class="eyebrow">COMPETITION TEAM · OFFLINE RESEARCH PACKAGE</div><h1>FanCode ATP: from viewing occasions to profitable relationships</h1><p>Executed analyses using locked raw-v5 inputs. Read in numerical order, or start with notebook 10 for the decision synthesis. HTML versions include the code, tables and charts.</p>
+<main><div class="eyebrow">COMPETITION TEAM · OFFLINE RESEARCH PACKAGE</div><h1>FanCode ATP: from viewing occasions to profitable relationships</h1><p>Executed analyses using locked raw-v5 inputs. Read in numerical order. Notebook 08 holds every economic figure; notebook 10 is the campaign-ready windows list. HTML versions include the code, tables and charts.</p>
 <div class="cards"><div class="card"><span class="big">{len(sources)}</span>executed notebooks</div><div class="card"><span class="big">{summary['output_tables']}</span>output tables</div><div class="card"><span class="big">{summary['png_figures']}</span>charts, PNG + SVG</div><div class="card"><span class="big">PASS</span>execution and package checks</div></div>
 <div class="note"><b>Evidence boundaries.</b> No survey respondents, internal company cohorts or causal experiment results are invented. Current monthly ATP inclusion remains a branch in the model. Unit costs, observed prices, case assumptions and response scenarios are labelled separately. Row-level review text remains local-only.</div>
 <h2>Notebook library</h2><table><thead><tr><th>Read HTML</th><th>Analytical purpose</th><th>Code cells</th><th>Charts</th><th>Download</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
-<h2>Decision evidence</h2><p><a href="10_decision_summary.md">Decision summary</a> · <a href="../tables/10_claim_register.csv">Computed claim register</a> · <a href="../tables/10_storyboard_evidence.csv">Eight-slide evidence flow</a> · <a href="../validation/analysis_validation.json">Validation report</a> · <a href="../../ANALYSIS_README.md">Reproduction guide</a></p>
-<h2>Representative outputs</h2><img src="../figures/png/01_final_start_times.png" alt="Selected final starts in India time"><img src="../figures/png/03_basket_switch_map.png" alt="Minimum cost under alternative entitlement assumptions"><img src="../figures/png/07_contribution_bridge.png" alt="Contribution and acquisition-cost scenarios"><p><small>Collection snapshots: 13–14 September 2026. Review cutoff: 12 September 2026. Analysis: 15 September 2026. Presentation construction and publication are separate steps.</small></p></main></html>'''
+<h2>Decision evidence</h2><p><a href="08_economics_findings.md">Economics findings</a> · <a href="../tables/08_break_even_rates.csv">Break-even upgrade rates</a> · <a href="../tables/08_gate_allocation.csv">Allocation by gate</a> · <a href="10_campaign_windows_findings.md">Campaign windows findings</a> · <a href="../tables/10_campaign_ready_windows.csv">Campaign-ready windows list</a> · <a href="../validation/analysis_validation.json">Validation report</a> · <a href="../../README.md">Reproduction guide</a></p>
+<h2>Representative outputs</h2><img src="../figures/png/01_final_start_times.png" alt="Selected final starts in India time"><img src="../figures/png/03_basket_switch_map.png" alt="Minimum cost under alternative entitlement assumptions"><img src="../figures/png/08_break_even_curve.png" alt="Net at 24 months against the treatment upgrade rate"><img src="../figures/png/10_campaign_windows_calendar.png" alt="2026 ATP windows by India start time"><p><small>Collection snapshots: 13–14 September 2026. Review cutoff: 12 September 2026. Analysis: 15 September 2026. Presentation construction and publication are separate steps.</small></p></main></html>'''
 (O/'reports/index.html').write_text(body)
 runtime={'python':platform.python_version(),'platform_family':sys.platform,'kernel':'Python ipykernel, independent kernel per notebook','dependencies':'requirements-analysis.lock.txt','seed':20260915,'execution_order':[p.stem for p in sources]}
 (V/'analysis_runtime.json').write_text(json.dumps(runtime,indent=2)+'\n')

@@ -1,0 +1,330 @@
+{
+  "_about": "Every input to models/atp_economics.py. tag: C = case brief, O = observed public source, D = derived from C/O, A = our planning assumption. Change a value here and rerun; nothing is hard-coded in the model.",
+  "unit_economics": {
+    "gst_rate": {
+      "value": 0.18,
+      "tag": "A",
+      "note": "GST treated as inside the listed price"
+    },
+    "gateway_fee": {
+      "value": 0.02,
+      "tag": "O",
+      "source": "v3_razorpay_pricing",
+      "note": "2% of transaction, plus 18% GST on the fee"
+    },
+    "gateway_fee_tax": {
+      "value": 0.18,
+      "tag": "O",
+      "source": "v3_razorpay_pricing"
+    },
+    "variable_cost_per_purchase": {
+      "value": 30,
+      "tag": "A",
+      "note": "Delivery and other variable cost per purchase, INR"
+    },
+    "tournament_pass_price": {
+      "value": 89,
+      "tag": "C",
+      "note": "Midpoint of the brief's INR 79-99 tournament pass"
+    },
+    "season_pass_price": {
+      "value": 399,
+      "tag": "C"
+    },
+    "upgrade_credit": {
+      "value": 44.5,
+      "tag": "A",
+      "note": "Half of an INR 89 pass, capped at INR 50, credited toward a season within 14 days"
+    }
+  },
+  "acquired_payers": {
+    "purchases_per_buyer": {
+      "value": 1.625,
+      "tag": "D",
+      "note": "Brief: 60-65% of match-pass buyers buy again (C). Read as one repeat for 62.5% of buyers"
+    },
+    "year2_return_rate": {
+      "value": 0.4,
+      "tag": "A",
+      "note": "Share of year-one acquired payers who buy again in year two, same purchase pattern"
+    },
+    "incrementality_scenarios": {
+      "value": [
+        1.0,
+        0.875,
+        0.6
+      ],
+      "tag": "A",
+      "note": "Share of attributed payers who are genuinely incremental. 1.0 = attribution taken at face value"
+    },
+    "reference_incrementality": {
+      "value": 0.875,
+      "tag": "A"
+    }
+  },
+  "acquisition_budget_inr": {
+    "_note": "The INR 3.04 Cr conditional envelope. Channels that clear the brief's INR 150-200 CAC target are funded at their prior envelope; paid media (INR 333) is capped to a test; the rest is a performance reserve released only on measured marginal incremental contribution.",
+    "envelope_total": {
+      "value": 30400000,
+      "tag": "A"
+    },
+    "owned_lifecycle": {
+      "value": 9200000,
+      "tag": "A"
+    },
+    "native_personalities": {
+      "value": 4300000,
+      "tag": "A"
+    },
+    "contests": {
+      "value": 2500000,
+      "tag": "A"
+    },
+    "publisher_takeovers": {
+      "value": 1200000,
+      "tag": "A"
+    },
+    "paid_media_test": {
+      "value": 2500000,
+      "tag": "A",
+      "note": "Capped external-audience test, run in the Rotterdam and Dallas equivalent weeks inside Gate 2"
+    },
+    "brand_and_measurement": {
+      "value": 3000000,
+      "tag": "A",
+      "note": "Slam-week awareness, persistent holdouts, analysis. Buys no attributed payers"
+    }
+  },
+  "channel_cac_build": {
+    "whatsapp_rate_inr": {
+      "value": 0.8631,
+      "tag": "O",
+      "source": "v3_meta_inr_ratecard_jan2026"
+    },
+    "owned_conversion": {
+      "value": 0.01,
+      "tag": "A",
+      "note": "Purchases per delivered owned message, for users with a tennis or portfolio signal"
+    },
+    "owned_operations_uplift": {
+      "value": 0.15,
+      "tag": "A"
+    },
+    "owned_capacity_note": {
+      "value": "The 1% response is assumed to hold only for the funded send volume (about 9.3M sends, ~40% of the summed sport pools). Deeper sends are assumed at half response, INR 199 per payer, which clears INR 200 incremental CAC only above 99% incrementality, so they are not funded in the base plan.",
+      "tag": "A"
+    },
+    "paid_cpc_inr": {
+      "value": 10,
+      "tag": "O",
+      "source": "v3_nurdd_india",
+      "note": "Inside the observed INR 5-18 Meta CPC range"
+    },
+    "paid_click_conversion": {
+      "value": 0.03,
+      "tag": "A"
+    },
+    "contest_clicks": {
+      "value": 5000,
+      "tag": "A"
+    },
+    "contest_cpc_inr": {
+      "value": 10,
+      "tag": "O",
+      "source": "v3_nurdd_india"
+    },
+    "contest_fees_and_prizes_inr": {
+      "value": 12000,
+      "tag": "A"
+    },
+    "contest_conversion": {
+      "value": 0.078,
+      "tag": "C",
+      "note": "Brief: 7.8% contest link-click to pass purchase"
+    },
+    "native_cac_test_ceiling": {
+      "value": 150,
+      "tag": "A",
+      "note": "No public cost basis for FanCode's on-platform personalities (zero incremental rights cost per the brief, C). Treated as a ceiling on attributed CAC: fund only while attributed CAC stays at or below INR 150 and the holdout keeps incremental CAC at or below INR 200"
+    },
+    "publisher_cac_test_ceiling": {
+      "value": 180,
+      "tag": "A",
+      "note": "No ESPN.in quote exists. Treated as a ceiling on attributed CAC: buy a takeover only if quoted fee <= INR 180 x expected attributed payers and the holdout keeps incremental CAC at or below INR 200 (needs 90%+ incrementality)"
+    }
+  },
+  "cac_target": {
+    "brief_target_low": {
+      "value": 150,
+      "tag": "C"
+    },
+    "brief_target_high": {
+      "value": 200,
+      "tag": "C"
+    },
+    "incremental_cac_ceiling": {
+      "value": 200,
+      "tag": "A",
+      "note": "Our stricter rule: the brief's upper target applied to incremental, not attributed, payers"
+    }
+  },
+  "audience": {
+    "fancode_f1_engaged": {
+      "value": 21000000,
+      "tag": "O",
+      "source": "v3_mint_fancode_f1"
+    },
+    "tennis_follow_rate": {
+      "value": [
+        0.25,
+        0.37,
+        0.45
+      ],
+      "tag": "O/A",
+      "source": "v3_ibm_sports_survey_2025",
+      "note": "37% observed, widened to 25-45%"
+    },
+    "football_to_f1_multiplier": {
+      "value": [
+        1.0,
+        1.8,
+        2.7
+      ],
+      "tag": "A",
+      "note": "2.7 = survey ratio 60/22 as a ceiling"
+    },
+    "motogp_to_f1_ratio": {
+      "value": 0.204665,
+      "tag": "D",
+      "note": "2026 India search ratio 1.478431 / 7.223529"
+    },
+    "ordinary_week_viewers": {
+      "value": 24000000,
+      "tag": "C",
+      "note": "Brief's illustrative ordinary ATP week"
+    },
+    "core_share_of_ordinary_week": {
+      "value": 0.9,
+      "tag": "C"
+    }
+  },
+  "upgrade_cohort": {
+    "_note": "Upgraders are EXISTING ATP pass buyers inside the reached core audience, reached by retention messaging. They are a separate cohort from newly acquired payers, whose own later upgrades are not counted (upside, not modelled).",
+    "core_reached_share": {
+      "value": 0.2,
+      "tag": "A"
+    },
+    "active_pass_buyer_share": {
+      "value": 0.2,
+      "tag": "A",
+      "note": "Share of the reached core who are active ATP pass buyers. Not in the brief; Gate 1 must count it"
+    },
+    "active_pass_buyer_share_sensitivity": {
+      "value": [
+        0.1,
+        0.2,
+        0.3
+      ],
+      "tag": "A"
+    },
+    "control_upgrade_rate": {
+      "value": 0.1,
+      "tag": "A",
+      "note": "Pass-to-season upgrade rate without the campaign. Only upgrades above it are credited"
+    },
+    "treatment_upgrade_scenarios": {
+      "value": [
+        0.12,
+        0.16,
+        0.2
+      ],
+      "tag": "A",
+      "note": "The central hypothesis Gate 2 tests"
+    },
+    "reference_treatment_rate": {
+      "value": 0.16,
+      "tag": "A"
+    },
+    "season_renewal_new_upgrader": {
+      "value": 0.85,
+      "tag": "A",
+      "note": "Below the brief's 90% for established season holders (C), which is the sensitivity"
+    },
+    "season_renewal_sensitivity": {
+      "value": [
+        0.75,
+        0.85,
+        0.9
+      ],
+      "tag": "A/C"
+    },
+    "retention_messaging_share_whatsapp": {
+      "value": 0.5,
+      "tag": "A",
+      "note": "Half of the reached core messaged on WhatsApp, the rest by free push"
+    }
+  },
+  "payback": {
+    "year2_earning_months": {
+      "value": 8,
+      "tag": "A",
+      "note": "Year-two receipts earned over the eight busiest tour months"
+    }
+  },
+  "gates_inr": {
+    "gate1": {
+      "value": 100000,
+      "tag": "A"
+    },
+    "gate2": {
+      "value": 7500000,
+      "tag": "A"
+    },
+    "gate3": {
+      "value": 22800000,
+      "tag": "A"
+    },
+    "payback_ceiling_months": {
+      "value": 15,
+      "tag": "A"
+    },
+    "gate2_split": {
+      "value": {
+        "paid_media_test": 2500000,
+        "owned_lifecycle": 2500000,
+        "native_personalities": 1000000,
+        "contests": 600000,
+        "publisher_takeovers": 300000,
+        "brand_and_measurement": 600000
+      },
+      "tag": "A",
+      "note": "Gate 2 funds the paid-media test, the upgrade-credit test (inside brand and measurement) and first tranches of the channels that clear the CAC target. Gate 1 is the owned pilot plus access, ledger and pass-buyer checks. Gate 3 is the remainder, including the performance reserve."
+    }
+  },
+  "experiments": {
+    "alpha_two_sided": {
+      "value": 0.05,
+      "tag": "A"
+    },
+    "power": {
+      "value": 0.8,
+      "tag": "A"
+    },
+    "owned_pilot_baseline_conversion": {
+      "value": 0.01,
+      "tag": "A"
+    },
+    "owned_pilot_true_lift_pp": {
+      "value": 0.008,
+      "tag": "A"
+    },
+    "upgrade_true_rates": {
+      "value": [
+        0.18,
+        0.2,
+        0.22
+      ],
+      "tag": "A"
+    }
+  }
+}

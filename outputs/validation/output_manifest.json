@@ -48,9 +48,9 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "notebooks/source/08_channel_economics.ipynb",
-    "bytes": 13258,
-    "sha256": "e12e0769ddda00725b289bc72ac055b93062e93c014adcca2031b597ea6d8759",
+    "file": "notebooks/source/08_economics_model.ipynb",
+    "bytes": 15926,
+    "sha256": "fcaad483ab2200ae402c095ce47ce50ea9547dad6d3bcd03635b01c46cfd3531",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -60,9 +60,9 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "notebooks/source/10_strategy_and_claims.ipynb",
-    "bytes": 12856,
-    "sha256": "ed2f3325c2482ac7422d1591d0afdca17fce8db3e610274b34ea9c1b65c1922b",
+    "file": "notebooks/source/10_campaign_ready_windows.ipynb",
+    "bytes": 7939,
+    "sha256": "514b9dd6fbdca76c5e272e8d0f7d9927a1b4f6f0a9567ecb9f5d968cf66064da",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -114,9 +114,9 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "notebooks/executed/08_channel_economics.ipynb",
-    "bytes": 70872,
-    "sha256": "b2c7fbda78cbe29d72afad9a5e8dc5b31113f50cafd2457c5d20323b988456a1",
+    "file": "notebooks/executed/08_economics_model.ipynb",
+    "bytes": 91118,
+    "sha256": "2da63c4b51bfe044839e54d656a43f11f68145c4b1a0c4d8f1becec96ce6d821",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -126,9 +126,9 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "notebooks/executed/10_strategy_and_claims.ipynb",
-    "bytes": 54509,
-    "sha256": "0fad05c261c2f3da348a80767155c4bfdf9eddba76ed6c427c60bf16508107ee",
+    "file": "notebooks/executed/10_campaign_ready_windows.ipynb",
+    "bytes": 68204,
+    "sha256": "ea3b15644969892cac228f6fbf682196a8e00318566eb5f31379cec5694e754b",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -159,12 +159,6 @@
     "file": "data/processed/case_inputs.csv",
     "bytes": 1898,
     "sha256": "c8cce6a2597d5523619dc4584a7c9b8706b1864b813faa9c422347a87d245cc8",
-    "redistribution": "Review source rights before publication"
-  },
-  {
-    "file": "data/processed/channel_scenarios.csv",
-    "bytes": 1435,
-    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -552,81 +546,93 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_blended_programme_cac.csv",
-    "bytes": 263,
-    "sha256": "7cb217d50983a0866da420870166442becca236d024009e1681c9cc9ff069e82",
+    "file": "outputs/tables/08_break_even_by_pass_buyer_share.csv",
+    "bytes": 310,
+    "sha256": "4a377df0ffbde98e5f61e7241e9184c672faed375ef87b7696c0dea39a480f70",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_budget_allocation.csv",
-    "bytes": 165,
-    "sha256": "87072371dfbed90262f4aa7ba3aa6082714a86436759240110f000397fe0ef5a",
+    "file": "outputs/tables/08_break_even_by_renewal.csv",
+    "bytes": 111,
+    "sha256": "1d7a759dceb6a026ad47167e1e0e46f12edc1de88caf900b255665ed5adc7965",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_case_contest_cpc_ceiling.csv",
-    "bytes": 97,
-    "sha256": "1e8959d41b79b79548641db033004ee2e4796a0750dbca42676fac1aa4758a8c",
+    "file": "outputs/tables/08_break_even_rates.csv",
+    "bytes": 354,
+    "sha256": "3cb4730f5c9e1d88a09b30083b6f638f5509da0a17e2f43c81670471452227b6",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_conditional_channel_cac.csv",
-    "bytes": 1435,
-    "sha256": "2ae0521c624452ab516158f2712e35ca7a0d2b94d66831e82009a0b8b5108fdd",
+    "file": "outputs/tables/08_channel_cac_and_net.csv",
+    "bytes": 1791,
+    "sha256": "149eb410c71c2f32c0ee5f9099aa81d697a7e53e73126ce65e926b671f55f05e",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_contest_takeover_procurement_gates.csv",
-    "bytes": 1367,
-    "sha256": "c7016593393f1b4959e865367959ec0c98784ad91c9c73a10bec761f47fb0eee",
+    "file": "outputs/tables/08_envelope_summary.csv",
+    "bytes": 539,
+    "sha256": "d8d0b087fc78790db98cbdea1aee55e89eaad4ee0c8178e4c50b9aab89d9a12f",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_cost_build.csv",
-    "bytes": 785,
-    "sha256": "0ec6f41bb610af35788fd92edb5beb33069d168c8b95eef03f5ee950951f07aa",
+    "file": "outputs/tables/08_gate1_owned_pilot.csv",
+    "bytes": 228,
+    "sha256": "e51f61f057e62110156c30aa26a117ced57f96857617c8d96f2822b4c4f9afb8",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_creator_fee_hurdles.csv",
-    "bytes": 355,
-    "sha256": "69064b1a632319eb6959e9adce2491e7943976c7afe15f8b5069765981473c64",
+    "file": "outputs/tables/08_gate2_upgrade_test.csv",
+    "bytes": 1636,
+    "sha256": "224ca5d884c6022af77e5c047a422d058633b43b5b7d692103a7a8378d94c0b6",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_current_spend_baseline.csv",
-    "bytes": 117,
-    "sha256": "2a64ea6cdbebeb592c955cdbdbd38de178bdecf5464c6c4afded16113b5c9a15",
+    "file": "outputs/tables/08_gate_allocation.csv",
+    "bytes": 553,
+    "sha256": "508b21d18e26dd8ca4ed83a4bbd795b1f532ace04310b6a93ea6e3109f3867c8",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_measurement_reserve_sensitivity.csv",
-    "bytes": 234,
-    "sha256": "6cef51dd5adffa2c8fef6010cc276dc87b5535701f8e002f646cbaf501f57d42",
+    "file": "outputs/tables/08_model_inputs.csv",
+    "bytes": 5690,
+    "sha256": "31891eeb60d1ccb60dc07c6f796e84244c8af91bc677a51ddcdfb23de5426dda",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_owned_capacity_gate.csv",
-    "bytes": 206,
-    "sha256": "4c13211f112cd8a3c5e793e2efc4f6593a8ef661fd97209090b819b32c250b1c",
+    "file": "outputs/tables/08_persona_payers.csv",
+    "bytes": 281,
+    "sha256": "6b2cb5e330a593d02a56bf78b7a80af98f609de67d61fc34c330a46103624b6e",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_purchase_and_incremental_cac.csv",
-    "bytes": 2337,
-    "sha256": "90709ebe91e378ddc15be1e1883f8ed2d4a39e70214a0433bb610b1a4e13988b",
+    "file": "outputs/tables/08_pnl_grid.csv",
+    "bytes": 1997,
+    "sha256": "5ed2c387fd0c2647f268949ce6f0d333a6372cdeede96f1b21d509b822ea7120",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_response_assumptions.csv",
-    "bytes": 191,
-    "sha256": "d68b000574db2ae6e2b31f4c0d1f2db019009cb656813c5dbbc595a80acdc7ea",
+    "file": "outputs/tables/08_pnl_scenarios.csv",
+    "bytes": 811,
+    "sha256": "905f2fa114236dbfa826d625151e762bf0ca0dfd06a55bede51b3ffda9ac78e4",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/08_source_references.csv",
-    "bytes": 637,
-    "sha256": "50c9436b913b53a7f4886a5d38f944b8b745d72020bd6946aa7bc14a41da8c3d",
+    "file": "outputs/tables/08_sport_pools_capacity.csv",
+    "bytes": 218,
+    "sha256": "036a3500f3ddf2cf9d628c51cc04ccddad1ec4acfdecba584c9067b763fe92a2",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_unit_economics.csv",
+    "bytes": 436,
+    "sha256": "9c12416863eef1d245fbef856ee207b792a114fdd289e444792b33732595eaf5",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/tables/08_upgrade_cohort.csv",
+    "bytes": 255,
+    "sha256": "2f02df096106be128044c4ba0b8f6f8dbc5a4b00448b8e476c1b4e0907c63e0f",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -684,39 +690,33 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/10_claim_register.csv",
-    "bytes": 1567,
-    "sha256": "55af88ff20dc86731b97d21b5ac64a16c415822aa22129eee7064b5d19b5f52b",
+    "file": "outputs/tables/10_campaign_ready_list.csv",
+    "bytes": 3548,
+    "sha256": "1168109e95b5cbd9a61bf4f8e6af9a96a282adf539e8da86342cba5d76575931",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/10_deliverable_coverage.csv",
-    "bytes": 675,
-    "sha256": "c8a6b990a6a919262e5b50afcd634c86c3d9ffd820272305a5eaf9e31c852dc3",
+    "file": "outputs/tables/10_campaign_ready_upcoming.csv",
+    "bytes": 1660,
+    "sha256": "9d6233891a66521215d5772d4f8f4cdcce5fc1cb8a9ddd11d851b35175b8efc8",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/10_recommendation_rules.csv",
-    "bytes": 1120,
-    "sha256": "68dc39aa36e6147d518483b19ef9e941ec1d6991a925db573aab4a7d730fa28a",
+    "file": "outputs/tables/10_campaign_ready_windows.csv",
+    "bytes": 58326,
+    "sha256": "5d02ff89c708048541cc91822961b75836cdbef0257c9a1d3b0ca833460dea47",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/10_segmentation_matrix.csv",
-    "bytes": 5039,
-    "sha256": "cc741720b580e6cd5ce926671179d653bf30e18d5c31024e74e3158c20106319",
+    "file": "outputs/tables/10_window_scoring_settings.csv",
+    "bytes": 951,
+    "sha256": "2470e5782e03edc9910c68d1c1fcd3db6cee7900e353e524e06170371ca5bd30",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/tables/10_storyboard_evidence.csv",
-    "bytes": 1812,
-    "sha256": "407c47d8daa1ad15b1e72fb5aaea04fa0ab68c2a1e69bde4c0ebcb499351070e",
-    "redistribution": "Review source rights before publication"
-  },
-  {
-    "file": "outputs/figures/.DS_Store",
-    "bytes": 6148,
-    "sha256": "39d88ca6c47ee7571ce93c073be6eb6ade9aa43a56fa50635efb1943d9158abc",
+    "file": "outputs/tables/10_window_status_counts.csv",
+    "bytes": 161,
+    "sha256": "7823c980dc2b6f2d342f7db1ad7bae099d41d977f9573204f4f75366e035d116",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -834,15 +834,33 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/figures/png/08_channel_cac.png",
-    "bytes": 78523,
-    "sha256": "96d67a51b774f1a91db5a6fd4c73f90c145a2bf86036fe0330a59100a32f515f",
+    "file": "outputs/figures/png/08_break_even_curve.png",
+    "bytes": 146932,
+    "sha256": "e2e5684c2fdad59baf1c68bf39edd90a148e5ea48944178a892c0580bfbdca1e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/08_channel_net_per_payer.png",
+    "bytes": 98042,
+    "sha256": "80fc744b6eb2b763ce340a99b93c8c3d42cd97d492694848fda26e18fcb228a4",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/08_reference_waterfall.png",
+    "bytes": 77793,
+    "sha256": "f647ebb98904ad2212341b8f428e02fabe3b78613f4d703ced157852ef301e2e",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/figures/png/09_power_requirements.png",
     "bytes": 135093,
     "sha256": "ac2d7bf0c095e329ec977e519463f793b6dd87880324eefb44b86b06dbc0368e",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/png/10_campaign_windows_calendar.png",
+    "bytes": 167782,
+    "sha256": "99a63cd2f509415fd02d7e973940a0f6d876db1cead7d785a1391cea2d356a4d",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -960,15 +978,33 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/figures/svg/08_channel_cac.svg",
-    "bytes": 15555,
-    "sha256": "3c5a8231eedf7f7471aa31ddd27d53a2a64527b067c2227ae664f18fd3bce0c5",
+    "file": "outputs/figures/svg/08_break_even_curve.svg",
+    "bytes": 15611,
+    "sha256": "0da16c5d64f810c59fd2687b74ddee6b92b8262b97eac6782070043d28e0a343",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/08_channel_net_per_payer.svg",
+    "bytes": 10692,
+    "sha256": "13f6d466d5d2901649a5ef6843e3d28e87ab9c9aceefb3bff5d757cc64ea27fd",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/08_reference_waterfall.svg",
+    "bytes": 10633,
+    "sha256": "36f628bf500c40e353aa19567111838c054be8164c4c550e583b84a387ea164c",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/figures/svg/09_power_requirements.svg",
     "bytes": 19717,
     "sha256": "b17dd4fa5887b26ed3db911cbbdbcb91ff42c4d84ef1127c95250dd89657bfed",
+    "redistribution": "Review source rights before publication"
+  },
+  {
+    "file": "outputs/figures/svg/10_campaign_windows_calendar.svg",
+    "bytes": 132918,
+    "sha256": "ed791804737fc387549a21837035c71f2f1009b2399a5bafd25ab606b1c37d65",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1056,15 +1092,15 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/reports/08_channel_economics.html",
-    "bytes": 349442,
-    "sha256": "79537dd811767b999e451ce933d37a6e3d586bcf568f4e024ecd3cb2b94c3b31",
+    "file": "outputs/reports/08_economics_findings.md",
+    "bytes": 907,
+    "sha256": "cb998fc7eb613063117fe18e05c89e90efa9e9d95a2a72195549a4b3f9226db6",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/reports/08_channel_findings.md",
-    "bytes": 551,
-    "sha256": "331222e83f38e43925e563f0ed9212d2c51ed7ca993eb71162fb5c6fbd93823b",
+    "file": "outputs/reports/08_economics_model.html",
+    "bytes": 381000,
+    "sha256": "676aade54a9832344dca17d3239ae7cf827ff7c925aa3d8e59e4ea78e1dc6397",
     "redistribution": "Review source rights before publication"
   },
   {
@@ -1080,27 +1116,27 @@
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/reports/10_decision_summary.md",
-    "bytes": 594,
-    "sha256": "00fbb137a37115dc287f1c6b1cbabbd2465114ff4eaea90e20b52fbd92d378f9",
+    "file": "outputs/reports/10_campaign_ready_windows.html",
+    "bytes": 333075,
+    "sha256": "b3ebfd03c9c2ec882b7cdb1e81dcd68c76cf478c8eb3c1db5bc3572e3141e430",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/reports/10_strategy_and_claims.html",
-    "bytes": 333690,
-    "sha256": "76a3aa96568347c573f9069c35dd8e0af8b8bee9196769ad8e14e8b3c5f14cd8",
+    "file": "outputs/reports/10_campaign_windows_findings.md",
+    "bytes": 1014,
+    "sha256": "921fcf52aaf6d9c9fc195962d0bfd0ff52cdb8168617116c5812919ae2b61131",
     "redistribution": "Review source rights before publication"
   },
   {
-    "file": "outputs/reports/claim_register.json",
-    "bytes": 2792,
-    "sha256": "1057e1f505c469b9ad178c7c3effb1afa310a0b7d60814b3827bbdfed7fbfa82",
+    "file": "outputs/reports/10_campaign_windows_summary.json",
+    "bytes": 2879,
+    "sha256": "4cb64b598ad37702cef2a308d9522f66861050b9ecee75fe61a49670587e3f78",
     "redistribution": "Review source rights before publication"
   },
   {
     "file": "outputs/reports/index.html",
-    "bytes": 6014,
-    "sha256": "72298cf246ba17b070f9c460f9b8d580e9253bf0e964cc18308378ffec75a04f",
+    "bytes": 6325,
+    "sha256": "020637b35a9f46a58364e359e1d2bbb1c50a8e0e4fa6d1f9828b4fa16035d0ad",
     "redistribution": "Review source rights before publication"
   }
 ]

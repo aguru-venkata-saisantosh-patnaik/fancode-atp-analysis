@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "checks": {
+    "fifty_five_dated_events": true,
+    "three_windows_per_event": true,
+    "status_counts_reconcile": true,
+    "verified_finals_used": true,
+    "rotterdam_final_2000_ist": true,
+    "indian_wells_final_overnight": true,
+    "six_verified_finals_robust": true,
+    "unique_ranks": true
+  }
+}

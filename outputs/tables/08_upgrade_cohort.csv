@@ -1,0 +1,9 @@
+item,value
+core,21600000.0
+reached,4320000.0
+eligible_pass_buyers,864000.0
+control_rate,0.1
+control_upgrades,86400.0
+value_per_incremental_upgrade_y1,228.31878389830507
+value_per_incremental_upgrade_y2,194.0709663135593
+retention_messaging_cost,2143940.4
